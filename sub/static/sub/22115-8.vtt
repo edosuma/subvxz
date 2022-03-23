@@ -1,0 +1,3821 @@
+WEBVTT
+
+00:02.303 --> 00:04.038
+Hi, I'm Jeffrey Tanner.
+
+00:04.072 --> 00:05.539
+Welcome to Sophe.
+
+00:05.573 --> 00:08.209
+We all know the Internet
+changed the world.
+
+00:08.242 --> 00:10.444
+The only question is:
+into what?
+
+00:10.478 --> 00:11.545
+It can be a platform
+to bring us together
+
+00:11.579 --> 00:13.381
+or to tear us apart.
+
+00:13.414 --> 00:14.648
+I know, because I spent my life
+
+00:14.682 --> 00:16.550
+trying to turn it
+into something
+
+00:16.584 --> 00:19.053
+that would connect us all.
+Then...
+
+00:19.087 --> 00:21.055
+I love you, Dad.
+...my daughter was murdered.
+
+00:21.089 --> 00:22.623
+Nothing else mattered anymore.
+
+00:22.656 --> 00:24.658
+Everyone was sure
+they knew who did it--
+
+00:24.692 --> 00:25.959
+the police, my ex-wife--
+
+00:25.993 --> 00:28.362
+but I was convinced the
+wrong man had been convicted
+
+00:28.396 --> 00:30.264
+and the real killer
+was still out there.
+
+00:30.298 --> 00:32.200
+So together with my team,
+I built Sophe,
+
+00:32.233 --> 00:34.668
+a crowdsource
+crime solving platform
+
+00:34.702 --> 00:37.471
+powered by the smartest,
+most diverse,
+
+00:37.505 --> 00:40.408
+independent collection of
+detectives on the planet:
+
+00:40.441 --> 00:43.077
+you.
+
+00:43.111 --> 00:44.044
+Let's get to work.
+
+00:47.281 --> 00:48.616
+Ron.
+
+00:48.649 --> 00:53.087
+Brought you a present,
+you sick degenerate.
+
+00:53.121 --> 00:56.290
+Dude, that party last night
+was epic.
+
+00:56.324 --> 00:57.558
+To $25 million.
+
+00:57.591 --> 00:59.693
+To half a billion.
+
+00:59.727 --> 01:02.596
+That's the VCs' valuation
+after this round.
+
+01:02.630 --> 01:04.232
+We built that.
+Yeah.
+
+01:04.265 --> 01:05.666
+You helped a little bit.
+(laughs): Shut up.
+
+01:05.699 --> 01:07.501
+Oh, here. Oh.
+
+01:07.535 --> 01:09.470
+What I'm talking about.
+
+01:09.503 --> 01:10.604
+All right.
+
+01:12.206 --> 01:13.574
+Here's to...
+
+01:13.607 --> 01:15.243
+caffeine addiction.
+
+01:15.276 --> 01:17.611
+Ah.
+
+01:17.645 --> 01:18.679
+Oops.
+
+01:20.214 --> 01:22.416
+Hey, sorry about your rug.
+
+01:22.450 --> 01:25.419
+But, man, what about
+Mason and Faith, huh?
+
+01:25.453 --> 01:27.255
+("Fight For Your Right"
+by The Beastie Boys playing)
+
+01:27.288 --> 01:28.422
+(both laughing)
+
+01:28.456 --> 01:29.257
+Get a room!
+
+01:32.226 --> 01:34.228
+(laughs)
+
+01:34.262 --> 01:36.197
+The first thing I'm doing
+
+01:36.230 --> 01:37.498
+after the IPO:
+
+01:37.531 --> 01:39.233
+buying a jet.
+Dude, you hate to fly.
+
+01:39.267 --> 01:40.701
+You don't even like
+to leave the house.
+
+01:40.734 --> 01:43.137
+Why don't you just burn the
+IPO money. It'll be prettier.
+
+01:43.171 --> 01:44.638
+Ow.
+
+01:44.672 --> 01:47.241
+(laughs)
+
+01:49.943 --> 01:52.546
+* You got to fight...
+
+01:52.580 --> 01:55.216
+All you lushes
+can get out of my house.
+
+01:55.249 --> 01:57.351
+* To party...
+
+01:57.385 --> 01:58.352
+I need my beauty sleep.
+
+02:00.354 --> 02:03.257
+BEN: Ron, where the hell
+is your lazy ass? Wake up.
+
+02:04.592 --> 02:06.194
+(woman screams)
+
+02:10.298 --> 02:12.533
+BEN:
+We should have stayed
+
+02:12.566 --> 02:14.435
+to keep an eye on him.
+
+02:14.468 --> 02:17.371
+Ron was wasted out of his mind.
+
+02:17.405 --> 02:21.242
+He was so happy,
+you know? Like...
+
+02:21.275 --> 02:23.677
+like everything we've done
+was worth it.
+
+02:23.711 --> 02:26.214
+This IPO was gonna
+change our lives.
+
+02:26.247 --> 02:27.515
+And then this happens?
+
+02:27.548 --> 02:30.251
+Falling down the stairs
+of your own house?
+
+02:30.284 --> 02:32.586
+Like, what kind
+of cosmic joke is that?
+
+02:32.620 --> 02:36.357
+If I had just stayed...
+
+02:36.390 --> 02:38.359
+This didn't have to happen.
+
+02:38.392 --> 02:41.195
+I'm so sorry.
+
+02:41.229 --> 02:43.197
+Thanks.
+
+02:43.231 --> 02:45.199
+(sighs)
+
+02:45.233 --> 02:48.736
+Listen... I-I dig Sophe
+
+02:48.769 --> 02:51.205
+and how you're putting
+your crowdsourcing work
+
+02:51.239 --> 02:52.640
+to use and everything,
+
+02:52.673 --> 02:54.342
+but why are you here?
+
+02:54.375 --> 02:56.477
+I mean, no offense.
+
+02:56.510 --> 02:58.612
+SARA: Uh, Sophe consults
+with the SFPD.
+
+02:58.646 --> 03:01.715
+And since this case
+is tech-related,
+
+03:01.749 --> 03:03.551
+they asked for our help.
+
+03:03.584 --> 03:05.253
+Wait, what case?
+
+03:05.286 --> 03:06.620
+Ron fell. It was an accident.
+
+03:06.654 --> 03:08.489
+CAVANAUGH:
+Not quite.
+
+03:08.522 --> 03:09.823
+For the moment, at least,
+
+03:09.857 --> 03:12.660
+our M.E. has labeled this
+a homicide.
+
+03:12.693 --> 03:15.496
+According to the doc,
+
+03:15.529 --> 03:16.730
+Ron was murdered.
+
+03:16.764 --> 03:19.567
+What?
+
+03:19.600 --> 03:21.369
+Everybody loved Ron.
+
+03:21.402 --> 03:23.671
+Someone didn't.
+
+03:23.704 --> 03:25.839
+And the exterior
+surveillance cameras
+
+03:25.873 --> 03:27.608
+show that no one
+snuck into the house.
+
+03:27.641 --> 03:31.345
+The M.E. puts the time
+of death at 2:30 a.m.
+
+03:31.379 --> 03:33.781
+when only three people
+were left at the party,
+
+03:33.814 --> 03:36.384
+you being one of them.
+
+03:36.417 --> 03:39.287
+I-I've known Ron
+since we were interns at Google.
+
+03:39.320 --> 03:41.522
+We-we came up together.
+We built JavaWell
+
+03:41.555 --> 03:43.457
+from nothing
+
+03:43.491 --> 03:45.359
+into a powerhouse together.
+I did not kill him.
+
+03:48.596 --> 03:50.531
+No, Captain Picard
+was a diplomat.
+
+03:50.564 --> 03:52.433
+He was a philosopher.
+
+03:52.466 --> 03:54.368
+But if you push too far,
+he could still kick your ass.
+
+03:54.402 --> 03:56.537
+Two words: tactical ability.
+
+03:56.570 --> 03:58.606
+And we wouldn't even
+be having this debate
+
+03:58.639 --> 03:59.807
+if it wasn't for Kirk.
+He set the standard,
+
+03:59.840 --> 04:01.375
+and you can't argue with that.
+
+04:02.510 --> 04:03.377
+I can argue with that.
+This is me, arguing with that.
+
+04:03.911 --> 04:04.545
+Dude, what is Prudence doing?
+
+04:05.846 --> 04:07.515
+JOSH:
+I forgot
+
+04:07.548 --> 04:08.616
+to lock my terminal.
+
+04:08.649 --> 04:09.850
+Should I say something?
+
+04:09.883 --> 04:11.619
+I can't say something.
+We're in that weird
+
+04:11.652 --> 04:12.720
+"kind of dating" place
+
+04:12.753 --> 04:13.821
+where we're not talking
+about it.
+
+04:13.854 --> 04:15.356
+I don't want to mess that up.
+
+04:15.389 --> 04:17.358
+Yeah. Good luck with that.
+
+04:17.391 --> 04:19.493
+Hey. What are you doing?
+
+04:19.527 --> 04:20.894
+I-I thought you were in the
+bathroom or something.
+
+04:20.928 --> 04:22.463
+Yeah, I was.
+
+04:22.496 --> 04:23.764
+But that's
+when I got to thinking
+
+04:23.797 --> 04:25.599
+about how you clearly
+don't appreciate
+
+04:25.633 --> 04:28.569
+the sociocultural critique
+that death metal represents.
+
+04:28.602 --> 04:29.803
+But why are you, uh...
+
+04:31.339 --> 04:32.773
+I swear you're trolling me
+
+04:32.806 --> 04:34.642
+with the whole
+death metal thing.
+
+04:34.675 --> 04:37.478
+I mean, you don't really listen
+to that stuff, do you?
+(chuckles)
+
+04:37.511 --> 04:38.679
+Best day off ever.
+
+04:38.712 --> 04:39.647
+TANNER:
+Hey.
+
+04:39.680 --> 04:40.681
+What do we got?
+
+04:40.714 --> 04:42.316
+On JavaWell?
+
+04:42.350 --> 04:43.684
+The sweater
+from Mia's apartment.
+
+04:43.717 --> 04:45.653
+Our best lead yet on the killer?
+
+04:45.686 --> 04:46.687
+Right. Course. Um...
+
+04:46.720 --> 04:48.356
+users have submitted
+a whole bunch of pictures
+
+04:48.389 --> 04:49.857
+of different men wearing it,
+
+04:49.890 --> 04:51.559
+and Sophe's using
+the measurement diagram
+
+04:51.592 --> 04:54.695
+to compare sizes,
+but no extra-larges yet.
+
+04:54.728 --> 04:57.598
+That's it? That's all you have?
+
+04:57.631 --> 04:58.899
+With under a thousand of
+those sweaters sold,
+
+04:58.932 --> 05:01.402
+that's pretty good.
+No, no.
+
+05:01.435 --> 05:03.537
+Until we find something,
+it's not.
+
+05:03.571 --> 05:05.539
+(ringing)
+That's Sara.
+
+05:05.573 --> 05:06.540
+Uh, put her up.
+
+05:06.574 --> 05:08.376
+Yeah.
+
+05:08.409 --> 05:09.543
+Did you get the data I just sent
+
+05:09.577 --> 05:10.544
+from Ben Oberly's interview?
+
+05:10.578 --> 05:11.945
+Uber for coffee.
+
+05:11.979 --> 05:13.781
+Even for a tech start-up,
+that's elitist.
+
+05:13.814 --> 05:15.516
+Well, you can hate all you want,
+
+05:15.549 --> 05:17.351
+but these guys paid their dues,
+
+05:17.385 --> 05:19.487
+and their financials are real.
+
+05:19.520 --> 05:21.555
+This IPO isn't happening
+by accident.
+
+05:21.589 --> 05:23.657
+And Howland didn't die
+by accident, either.
+
+05:23.691 --> 05:25.526
+The M.E. said he fell,
+
+05:25.559 --> 05:27.528
+but it's the blow on the
+head that killed him.
+
+05:27.561 --> 05:28.729
+We found the murder weapon
+on top of the stairs,
+
+05:28.762 --> 05:30.731
+wiped clean. Here.
+
+05:31.965 --> 05:33.801
+TARIQ:
+Death by hackathon trophy.
+
+05:33.834 --> 05:35.436
+What a way to go.
+
+05:35.469 --> 05:36.970
+Keep that under wraps for now.
+
+05:37.004 --> 05:38.706
+We have three suspects
+and no physical evidence
+
+05:38.739 --> 05:40.808
+that points to anyone.
+
+05:40.841 --> 05:42.610
+The less they think we know,
+better chance they slip up
+
+05:42.643 --> 05:43.977
+on their own.
+
+05:44.011 --> 05:44.845
+We have the other
+two interviews
+
+05:45.679 --> 05:47.415
+coming in soon--
+the head of product
+
+05:47.448 --> 05:49.550
+and a woman who works
+for U.X. or something.
+
+05:49.583 --> 05:51.585
+User experience.
+
+05:51.619 --> 05:53.587
+Great. She knows.
+
+05:53.621 --> 05:55.423
+Anyway, I'm going after
+all of them,
+
+05:55.456 --> 05:57.958
+so any ammunition you have,
+now's the time.
+
+05:57.991 --> 05:59.993
+Well, you got
+to ask nicely, Detective.
+
+06:00.027 --> 06:02.496
+Or I could just arrest you
+for obstructing justice.
+
+06:02.530 --> 06:03.864
+Tariq.
+
+06:03.897 --> 06:06.667
+Fine. I found something weird
+on the victim's computer.
+
+06:06.700 --> 06:08.469
+It's a memo he was writing
+
+06:08.502 --> 06:09.603
+criticizing diversity
+initiatives
+
+06:09.637 --> 06:11.505
+in the tech world.
+
+06:11.539 --> 06:13.474
+It looks like he was gonna send
+it out to the entire company.
+
+06:13.507 --> 06:14.842
+Like that asinine Google post
+
+06:14.875 --> 06:16.477
+that said women were inferior.
+
+06:16.510 --> 06:18.412
+I think that's
+what he was responding to.
+
+06:18.446 --> 06:20.781
+"Diversity has become
+the tech world's third rail.
+
+06:20.814 --> 06:21.815
+"We're not allowed
+to question it,
+
+06:21.849 --> 06:23.617
+"but, as engineers,
+it's our duty
+
+06:23.651 --> 06:24.985
+"to question everything.
+
+06:25.018 --> 06:27.020
+"And hiring more women
+and minorities
+
+06:27.054 --> 06:28.889
+"isn't actually making
+us more successful,
+
+06:28.922 --> 06:30.958
+just more politically correct."
+
+06:30.991 --> 06:31.992
+Lovely.
+
+06:32.025 --> 06:34.762
+And it's your ammunition.
+
+06:34.795 --> 06:37.798
+Uber took a big hit
+from that sexism scandal.
+
+06:37.831 --> 06:40.634
+It lost market shares,
+publicity and goodwill.
+
+06:40.668 --> 06:42.035
+A start-up like JavaWell
+
+06:42.069 --> 06:44.605
+could lose everything
+if that memo got out.
+
+06:44.638 --> 06:46.006
+Could be a motive for murder.
+
+06:46.039 --> 06:47.541
+JOSH:
+Hey, look at this.
+
+06:48.642 --> 06:50.478
+Users keep focusing on
+JavaWell's proprietary app.
+
+06:50.511 --> 06:51.679
+They're saying it could
+help crack the case.
+
+06:51.712 --> 06:53.714
+Why? How would their app help?
+
+06:53.747 --> 06:55.583
+I'm asking the crowd right now.
+
+06:55.616 --> 06:56.717
+(alarm blaring)
+
+06:57.885 --> 06:59.520
+Yeah, what's that?
+
+06:59.553 --> 07:01.054
+That's the server
+overload warning.
+
+07:01.088 --> 07:02.523
+Talk to me. What's happening?
+
+07:03.524 --> 07:04.024
+Traffic's spiking. It's
+overloading the system.
+
+07:05.258 --> 07:05.926
+TARIQ: We're being slammed with
+too many requests to handle.
+
+07:06.594 --> 07:07.561
+Try to black hole the traffic.
+
+07:08.395 --> 07:08.929
+W-We can't.
+It's too distributed.
+
+07:09.597 --> 07:10.798
+It's coming from everywhere.
+
+07:10.831 --> 07:13.033
+It's a DDoS.
+
+07:13.066 --> 07:14.067
+CAVANAUGH:
+Okay, what is that?
+
+07:14.101 --> 07:15.569
+It's a denial-of-service attack.
+
+07:15.603 --> 07:16.704
+Cybercriminals use it
+
+07:16.737 --> 07:18.472
+to knock websites off-line.
+
+07:18.506 --> 07:19.940
+They send so much traffic
+to the site that the servers
+
+07:19.973 --> 07:21.942
+just get overwhelmed.
+
+07:21.975 --> 07:23.677
+It's like directing a fire hose
+through your pipes--
+
+07:23.711 --> 07:25.746
+nothing else
+can make it through.
+
+07:25.779 --> 07:26.880
+Can't you just stop it, or...
+
+07:29.082 --> 07:30.851
+What?
+
+07:33.687 --> 07:34.655
+JOSH:
+What the hell just happened?
+
+07:39.927 --> 07:43.096
+Sophe's off-line.
+
+07:43.130 --> 07:44.865
+*
+
+07:55.308 --> 07:57.678
+If you can get
+enough servers online...
+
+07:57.711 --> 07:59.212
+The basement.
+The guys in the server room
+
+07:59.246 --> 08:00.981
+could use your help.
+
+08:01.014 --> 08:01.849
+All hands on deck.
+
+08:03.183 --> 08:05.218
+Anything?
+
+08:05.252 --> 08:06.219
+Working on it.
+
+08:06.253 --> 08:06.887
+SARA:
+Jeffrey,
+
+08:06.920 --> 08:09.222
+we can't access Sophe at all.
+
+08:09.256 --> 08:11.559
+The DDoS took us down.
+
+08:11.592 --> 08:14.094
+Without Sophe,
+we'll never solve Mia's case,
+
+08:14.127 --> 08:16.597
+which is exactly why
+we need to fix this.
+
+08:16.630 --> 08:17.965
+JOSH: We're doing
+everything we can,
+
+08:17.998 --> 08:19.299
+but we're getting slammed
+
+08:19.332 --> 08:21.034
+with over 600 gigabits
+per second.
+
+08:21.068 --> 08:22.703
+The only thing that could
+generate this much traffic
+
+08:22.736 --> 08:25.939
+is a massive botnet like Mirai.
+TARIQ: Baby monitors.
+
+08:25.973 --> 08:27.274
+We're being taken down by
+unsecured baby monitors,
+
+08:27.307 --> 08:29.109
+home routers, freaking DVRs.
+
+08:29.142 --> 08:31.011
+S-Sara, what are they
+babbling about?
+
+08:31.044 --> 08:34.047
+Botnets take over devices
+
+08:34.081 --> 08:35.716
+connected to the Internet.
+
+08:35.749 --> 08:37.250
+Things like home appliances.
+
+08:37.284 --> 08:40.187
+They use them to direct traffic
+to websites.
+
+08:40.220 --> 08:42.590
+Huge ones like Mirai
+have control of so many devices,
+
+08:42.623 --> 08:44.592
+the sites can't handle
+
+08:44.625 --> 08:46.293
+the traffic, so they just crash.
+
+08:46.326 --> 08:47.260
+TANNER: Well,
+someone has to be controlling
+
+08:47.294 --> 08:50.097
+these baby monitors.
+
+08:50.130 --> 08:53.133
+You were just making progress
+at the JavaWell case, right?
+
+08:53.166 --> 08:54.735
+CAVANAUGH:
+You think someone at JavaWell
+
+08:54.768 --> 08:56.737
+took Sophe down
+so we wouldn't solve the murder?
+
+08:56.770 --> 08:58.672
+TANNER: They're a tech company.
+Their people have skills.
+
+08:58.706 --> 08:59.907
+Right? Plus,
+you can rent time
+
+09:00.841 --> 09:02.075
+on the botnet
+on the dark web for what--
+
+09:02.109 --> 09:03.744
+$20,000 in bitcoin?
+
+09:03.777 --> 09:05.312
+I wouldn't know anything
+about that.
+
+09:05.345 --> 09:06.279
+SARA: Well, actually,
+when we interviewed
+
+09:06.313 --> 09:08.015
+Ben Oberly,
+
+09:08.048 --> 09:09.249
+he knew about Sophe.
+
+09:09.282 --> 09:11.051
+He was asking us
+why we were involved.
+
+09:11.084 --> 09:11.985
+TANNER:
+And there it is.
+
+09:12.019 --> 09:13.320
+Sara, stay right there.
+
+09:13.353 --> 09:15.956
+Figure out who at JavaWell
+is behind this.
+
+09:15.989 --> 09:19.126
+The faster we solve this murder,
+the faster we get Sophe back.
+
+09:19.159 --> 09:20.761
+(sighs) But no pressure.
+
+09:20.794 --> 09:22.295
+Looks like
+our next interview's here.
+
+09:22.329 --> 09:24.197
+Faith Laferty.
+
+09:24.231 --> 09:26.299
+("Fight For Your Right"
+by Zen Boy & Karma Girl playing)
+
+09:26.333 --> 09:28.669
+Faith, lighten up.
+No, I'm good.
+
+09:28.702 --> 09:31.304
+After 12 failed start-ups,
+I deserve this.
+
+09:31.338 --> 09:33.974
+(distorted):
+Lucky number 13.
+
+09:34.007 --> 09:35.776
+RON:
+Get a room, Mason.
+
+09:35.809 --> 09:36.677
+Hey, get off me.
+
+09:40.180 --> 09:41.782
+(distorted):
+Faith.
+
+09:41.815 --> 09:43.283
+All right, when we IPO,
+
+09:43.316 --> 09:45.318
+I'm buying Jet Skis.
+
+09:45.352 --> 09:47.087
+And a yacht to pull them.
+
+09:47.120 --> 09:50.090
+(laughs) You hate water.
+
+09:50.123 --> 09:52.660
+Well, with this much money,
+I'll learn to like it.
+
+09:52.693 --> 09:55.228
+* Man, living at home
+is such a drag *
+
+09:57.665 --> 09:59.700
+Faith.
+
+09:59.733 --> 10:03.036
+(distorted):
+Faith.
+
+10:03.070 --> 10:05.673
+* Busted
+
+10:05.706 --> 10:07.274
+* You got to fight
+
+10:07.307 --> 10:10.043
+Faith.
+
+10:10.077 --> 10:12.079
+* To party...
+
+10:12.112 --> 10:15.182
+CAVANAUGH: Do you remember
+anything else about that night?
+
+10:15.215 --> 10:18.686
+Honestly, I was pretty trashed.
+
+10:18.719 --> 10:20.220
+My LSD microdose
+turned out to be
+
+10:20.253 --> 10:22.222
+a lot less micro than I thought.
+
+10:22.255 --> 10:22.923
+SARA: Some people
+in the tech industry
+
+10:22.956 --> 10:25.759
+think it helps you stay focused.
+
+10:25.793 --> 10:27.094
+Uh-huh.
+
+10:27.127 --> 10:30.063
+FAITH: I needed to
+be somewhere quiet,
+
+10:30.097 --> 10:31.665
+so I stayed in the bathroom.
+
+10:31.699 --> 10:34.101
+But I left
+when Ron kicked everyone out.
+
+10:34.134 --> 10:37.104
+RON: All you lushes can
+get out of my house.
+
+10:37.137 --> 10:40.240
+* Party...
+
+10:40.273 --> 10:43.711
+And now he's just... gone.
+
+10:43.744 --> 10:45.813
+You said Mason hassled you.
+
+10:45.846 --> 10:47.180
+What about Ron?
+
+10:47.214 --> 10:49.082
+Ron never
+gave me any trouble.
+
+10:49.116 --> 10:51.251
+He even helped me
+when I wanted to move teams
+
+10:51.284 --> 10:53.253
+to get more
+technical experience.
+
+10:53.286 --> 10:55.188
+He was a good boss.
+
+10:55.222 --> 10:57.190
+SARA: When I was
+at university,
+
+10:57.224 --> 10:59.827
+I had this computer science T.A.
+
+10:59.860 --> 11:02.295
+who used to call me
+Mary Poppins.
+
+11:02.329 --> 11:04.832
+Kept asking
+for a spoonful of sugar.
+
+11:04.865 --> 11:08.068
+Yeah. At my first internship,
+my supervisor would say,
+
+11:08.101 --> 11:09.737
+"You should just sit there
+
+11:09.770 --> 11:11.872
+and look pretty."
+(scoffs)
+
+11:11.905 --> 11:15.442
+Funny how my ideas
+always ended up being his ideas.
+
+11:15.475 --> 11:18.111
+Well, that's all just...
+
+11:18.145 --> 11:20.447
+boys being boys, right?
+
+11:20.480 --> 11:23.383
+Look, whatever happened,
+you can tell us.
+
+11:23.416 --> 11:25.753
+It will stay in this room.
+
+11:25.786 --> 11:27.254
+This is not me being loyal.
+
+11:27.287 --> 11:29.389
+Ron was awkward--
+
+11:29.422 --> 11:33.093
+so are a lot of programmers--
+but he never hassled me.
+
+11:33.126 --> 11:35.395
+Not like the others.
+
+11:35.428 --> 11:36.897
+SARA: Did you know
+that he was writing
+
+11:36.930 --> 11:38.732
+a memo questioning
+
+11:38.766 --> 11:42.169
+the value of women
+and minorities in the workplace?
+
+11:42.202 --> 11:44.738
+No.
+
+11:44.772 --> 11:47.875
+But, then, I guess you never
+really know anyone, do you?
+
+11:47.908 --> 11:50.343
+Now that Ron's dead,
+
+11:50.377 --> 11:53.313
+what happens to his ownership
+stake in the company?
+
+11:53.346 --> 11:56.449
+It'll get redistributed...
+between the current employees.
+
+11:56.483 --> 11:58.451
+The guys set it up
+that way.
+
+11:58.485 --> 12:00.821
+Yes, my stake
+will be worth more.
+
+12:00.854 --> 12:03.190
+No, I wouldn't kill for it.
+
+12:03.223 --> 12:04.457
+SARA:
+This, um, microdose
+
+12:04.491 --> 12:06.193
+that you took,
+
+12:06.226 --> 12:08.195
+I'm assuming you
+bought it online?
+
+12:08.228 --> 12:10.230
+CAVANAUGH:
+Girl, please,
+
+12:10.263 --> 12:14.467
+I'm here to solve a murder,
+not bust you for being stupid.
+
+12:14.501 --> 12:18.471
+There's a guy
+in our tech support division.
+
+12:18.505 --> 12:21.809
+He supplies it.
+
+12:21.842 --> 12:23.510
+So you didn't pay for it
+with bitcoin?
+
+12:23.543 --> 12:25.412
+Please. Crypto-currency?
+
+12:25.445 --> 12:27.948
+That's a bubble about to pop.
+I never touch it.
+
+12:27.981 --> 12:30.317
+Talk to Mason.
+
+12:30.350 --> 12:33.153
+He loves that stuff.
+
+12:33.186 --> 12:35.255
+MASON:
+Come on, Faith, cut it out.
+
+12:35.288 --> 12:36.523
+Hey, people are watching.
+
+12:36.556 --> 12:38.191
+You bet they are.
+
+12:38.225 --> 12:39.860
+(laughs)
+
+12:39.893 --> 12:41.361
+You know, if this
+is what a VC round does to you,
+
+12:41.394 --> 12:43.363
+I can't wait for the IPO.
+(giggles)
+
+12:43.396 --> 12:44.798
+Mason, this is not your bedroom.
+
+12:44.832 --> 12:46.199
+Shh, shh, shh, shh.
+
+12:47.267 --> 12:48.268
+(glass shatters)
+
+12:48.301 --> 12:49.436
+(groans)
+
+12:49.469 --> 12:51.238
+I think I'm gonna be sick.
+
+12:51.271 --> 12:54.374
+First IPO present to myself:
+brand-new skis.
+
+12:54.407 --> 12:56.910
+(laughs):
+Dude, you hate the snow.
+
+12:56.944 --> 12:59.880
+Well, let's just say
+I'm warming up to it.
+
+12:59.913 --> 13:01.882
+*
+
+13:07.855 --> 13:10.423
+("Fight For Your Right to Party"
+by The Dagmars playing)
+
+13:14.962 --> 13:18.431
+* I'll kick you out of my home
+if you don't cut that hair *
+
+13:19.900 --> 13:21.902
+* Aw, your mama busted in...
+
+13:21.935 --> 13:24.371
+All you lushes
+can get out of my house.
+
+13:26.206 --> 13:28.541
+I need my beauty sleep.
+
+13:30.310 --> 13:31.912
+* 'Cause you gotta fight
+
+13:31.945 --> 13:33.881
+* For your right...
+
+13:33.914 --> 13:35.849
+CAVANAUGH: And you didn't see
+where Ron went?
+
+13:35.883 --> 13:37.317
+Nah.
+
+13:37.350 --> 13:40.320
+Last I saw, he was wasted
+but still on his feet.
+
+13:40.353 --> 13:41.521
+Alive.
+
+13:43.924 --> 13:46.326
+None of this makes sense.
+
+13:46.359 --> 13:48.561
+We were going to Vegas
+for Thanksgiving--
+
+13:48.595 --> 13:50.030
+the high-roller suite
+and everything.
+
+13:50.063 --> 13:51.531
+He was so stoked.
+
+13:51.564 --> 13:54.301
+And... now...
+
+13:54.334 --> 13:56.469
+What about Faith?
+
+13:56.503 --> 13:58.972
+She was wasted, too?
+
+13:59.006 --> 14:00.941
+(sighs):
+I guess.
+
+14:00.974 --> 14:03.543
+Girls and liquor, man.
+(chuckles)
+
+14:03.576 --> 14:06.880
+Just another reason why women
+don't belong in tech, right?
+
+14:06.914 --> 14:08.581
+No need to be defensive.
+
+14:08.615 --> 14:10.550
+Okay? I love women in tech.
+
+14:10.583 --> 14:14.321
+Ron said the same thing
+in a memo about how...
+
+14:14.354 --> 14:16.056
+female programmers
+aren't as qualified
+
+14:16.089 --> 14:18.058
+as the men around them.
+
+14:18.091 --> 14:19.659
+No way.
+I talked him out of that.
+
+14:19.692 --> 14:21.461
+So you knew
+about the memo.
+
+14:21.494 --> 14:23.263
+Ron thought he was
+some kind of intellectual
+
+14:23.296 --> 14:24.664
+out to change
+the industry.
+
+14:24.697 --> 14:27.000
+But I'm the one that convinced
+him not to be an idiot.
+
+14:27.034 --> 14:28.601
+I mean, look, you can think
+
+14:28.635 --> 14:30.470
+whatever you want,
+you just can't say it.
+
+14:30.503 --> 14:32.072
+You don't want
+to scare the investors.
+
+14:32.105 --> 14:35.675
+But you love
+women in tech, right?
+
+14:35.708 --> 14:38.078
+(sighs) Shouldn't you
+be off fixing Sophe?
+
+14:38.111 --> 14:39.947
+Heard it crashed.
+
+14:39.980 --> 14:41.681
+Bummer.
+
+14:41.714 --> 14:44.952
+Tell me, who takes over
+Ron's duties now?
+
+14:44.985 --> 14:46.086
+I don't know.
+
+14:46.119 --> 14:48.321
+Me, probably. Of course.
+
+14:48.355 --> 14:49.422
+And you'll get a bigger stake
+
+14:49.456 --> 14:51.358
+in the company, too,
+as well, right?
+
+14:51.391 --> 14:53.293
+We all will.
+
+14:53.326 --> 14:55.328
+Look, I know
+what you're thinking.
+
+14:55.362 --> 14:57.430
+I didn't kill Ron.
+
+14:57.464 --> 15:00.367
+When my last job completely
+overreacted to this...
+
+15:00.400 --> 15:02.602
+joking text I sent,
+Ron was the only one
+
+15:02.635 --> 15:04.938
+that had my back--
+he was my friend.
+
+15:09.409 --> 15:13.380
+He was my friend,
+and I never would have hurt him.
+
+15:13.413 --> 15:15.348
+So, with the IPO on the horizon,
+
+15:15.382 --> 15:17.985
+they all stood to benefit
+from his death.
+Mm-hmm.
+
+15:18.018 --> 15:20.687
+As much as I hate to admit it,
+Faith could have found out
+
+15:20.720 --> 15:23.390
+about the memo and saw
+it as an opportunity
+
+15:23.423 --> 15:26.059
+to get rich and get
+rid of a techbro.
+
+15:26.093 --> 15:28.728
+Two birds with one stone.
+
+15:28.761 --> 15:31.598
+Yeah.
+
+15:31.631 --> 15:34.034
+Tell me something.
+
+15:34.067 --> 15:35.568
+Did you notice
+anything off
+
+15:35.602 --> 15:38.138
+about their accounts
+of that night?
+
+15:38.171 --> 15:40.440
+They were all different.
+
+15:40.473 --> 15:42.509
+Except the end.
+
+15:42.542 --> 15:44.677
+They all said they were drunk
+or high or both,
+
+15:44.711 --> 15:47.014
+and then every other detail
+was different...
+
+15:47.047 --> 15:49.149
+But Ron's last words
+were exactly the same.
+
+15:49.182 --> 15:53.053
+All you lushes
+can get out of my house.
+
+15:53.086 --> 15:54.721
+I need my beauty sleep.
+
+15:54.754 --> 15:56.356
+So you're saying
+they huddled together
+
+15:56.389 --> 15:57.724
+and got their stories straight.
+
+15:57.757 --> 15:59.526
+Even if they're covering
+for each other,
+
+15:59.559 --> 16:02.029
+only one of them
+hit Ron over the head.
+
+16:02.062 --> 16:04.631
+Question is, which one?
+
+16:04.664 --> 16:06.433
+PRUDENCE: The thing that people
+don't get about death metal
+
+16:06.466 --> 16:08.101
+is that it's a response
+to the superficiality
+
+16:08.135 --> 16:09.502
+of consumerist culture.
+
+16:09.536 --> 16:11.038
+It's people screaming.
+
+16:11.071 --> 16:13.173
+It's an expression
+of the chaos of being.
+
+16:13.206 --> 16:15.175
+It speaks to those
+who won't conform.
+
+16:15.208 --> 16:16.509
+By screaming.
+
+16:16.543 --> 16:17.577
+You two are perfect
+for each other.
+
+16:17.610 --> 16:20.080
+Okay, this is no use.
+The techs keep bringing on
+
+16:20.113 --> 16:21.748
+more servers, but
+they keep crashing.
+
+16:21.781 --> 16:23.483
+And the techs keep crying.
+
+16:23.516 --> 16:25.018
+The traffic's coming in
+from everywhere.
+
+16:25.052 --> 16:27.154
+Who knew baby monitors
+could do this much damage?
+
+16:27.187 --> 16:29.389
+I hope Tanner's
+got an idea,
+
+16:29.422 --> 16:31.358
+'cause we're tapped out.
+
+16:34.761 --> 16:36.796
+(phone beeps)
+
+16:36.829 --> 16:37.997
+(phone beeps)
+
+16:39.632 --> 16:41.768
+What do you want, Jeffrey?
+
+16:41.801 --> 16:44.404
+I need your help, all right?
+Sophe's down.
+
+16:44.437 --> 16:45.705
+We're under attack by a botnet.
+
+16:45.738 --> 16:46.806
+The only way
+
+16:46.839 --> 16:48.641
+for us to get back online
+
+16:48.675 --> 16:51.078
+is to host the site
+on a network so big,
+
+16:51.111 --> 16:53.080
+no amount of traffic
+can take it down.
+
+16:53.113 --> 16:54.714
+A site like Ratchet.
+
+16:54.747 --> 16:56.749
+Millions of people
+search Ratchet simultaneously
+
+16:56.783 --> 16:59.619
+all over the world--
+it could easily handle
+
+16:59.652 --> 17:01.654
+the kind of traffic that
+is keeping Sophe off-line.
+
+17:01.688 --> 17:03.723
+Jeffrey, even if I wanted
+to help you,
+
+17:03.756 --> 17:05.525
+Vikram won't help you.
+
+17:05.558 --> 17:06.526
+He hates you.
+
+17:06.559 --> 17:08.428
+But he adores you.
+
+17:08.461 --> 17:11.098
+If you called him as a friend
+and appealed to him...
+
+17:11.131 --> 17:13.466
+You are literally
+so unbelievable.
+
+17:13.500 --> 17:15.768
+I have been begging you
+to stop this whole thing,
+
+17:15.802 --> 17:17.470
+and now you're
+asking for my help
+
+17:17.504 --> 17:19.206
+to get it back online. Really?
+
+17:19.239 --> 17:20.840
+I know it's a lot to ask,
+
+17:20.873 --> 17:23.676
+but this isn't
+just about Mia anymore.
+
+17:27.280 --> 17:29.216
+We're helping people.
+
+17:31.451 --> 17:33.853
+We're giving parents
+the kind of closure
+
+17:33.886 --> 17:36.556
+that we wish we had.
+
+17:36.589 --> 17:38.858
+But we can't do it
+without Sophe.
+
+17:38.891 --> 17:41.594
+We can't.
+
+17:41.628 --> 17:43.430
+Please, Alex.
+
+17:46.833 --> 17:48.835
+Okay, I'll call Vikram.
+
+17:48.868 --> 17:51.504
+But no guarantees.
+
+17:51.538 --> 17:52.872
+Thank you.
+
+17:52.905 --> 17:54.274
+You know,
+
+17:54.307 --> 17:55.842
+I really appreciate this, and...
+
+17:55.875 --> 17:57.877
+(phone beeps)
+
+17:57.910 --> 18:00.213
+(door closes)
+
+18:04.184 --> 18:07.820
+WOMAN: FBI! Everyone step away
+from your computers.
+
+18:07.854 --> 18:09.822
+Away. Everyone.
+
+18:11.258 --> 18:14.161
+Mr. Tanner,
+I presume?
+
+18:14.194 --> 18:15.562
+Special Agent Driscoll.
+
+18:15.595 --> 18:18.298
+This is our tech expert,
+Isaac Wallace.
+
+18:18.331 --> 18:20.200
+And this is a
+federal warrant
+
+18:20.233 --> 18:22.502
+giving us access
+to Sophe.
+
+18:22.535 --> 18:24.637
+Your network,
+your personnel, everything.
+
+18:24.671 --> 18:26.273
+What-what the hell is going on?
+
+18:26.306 --> 18:27.874
+You're under attack
+by a botnet.
+
+18:27.907 --> 18:30.210
+Yeah, no kidding.
+We believe it's one
+
+18:30.243 --> 18:31.678
+the FBI has been tracking,
+
+18:31.711 --> 18:34.281
+run by a foreign
+criminal organization.
+
+18:34.314 --> 18:35.648
+Our intel suggests
+it may be planning
+
+18:35.682 --> 18:37.850
+a strike
+on U.S. infrastructure soon.
+
+18:37.884 --> 18:39.552
+We don't have any time
+for this, okay?
+
+18:39.586 --> 18:40.820
+We're pretty sure
+that JavaWell
+
+18:40.853 --> 18:42.622
+is behind all this--
+it's a company
+
+18:42.655 --> 18:43.823
+that we're
+investigating...
+
+18:43.856 --> 18:45.692
+Well, anything is possible.
+
+18:45.725 --> 18:47.894
+But JavaWell could very well
+be renting the botnet
+
+18:47.927 --> 18:49.896
+in order to launch its attack.
+
+18:49.929 --> 18:53.233
+Either way, in the interests
+of national security,
+
+18:53.266 --> 18:56.603
+the FBI will need access to
+Sophe's servers to investigate.
+
+18:56.636 --> 18:58.771
+We'll also need to
+question everyone here.
+
+19:05.612 --> 19:07.580
+You want a suspect?
+You got one: JavaWell.
+
+19:07.614 --> 19:09.182
+And we're looking into that,
+but we need to consider
+
+19:09.216 --> 19:10.583
+all angles, Mr. Tanner.
+
+19:10.617 --> 19:12.719
+For example, could
+someone out there
+
+19:12.752 --> 19:14.687
+think Sophe knows
+something it shouldn't?
+
+19:14.721 --> 19:15.922
+Yeah.
+
+19:15.955 --> 19:17.590
+JavaWell.
+
+19:17.624 --> 19:19.526
+Or, is this more about you,
+
+19:19.559 --> 19:21.594
+and Sophe's
+just collateral damage?
+
+19:21.628 --> 19:24.331
+You've certainly
+made enemies.
+
+19:24.364 --> 19:25.965
+Vikram Singh, for example.
+
+19:25.998 --> 19:29.302
+VIKRAM (on video): Jeffrey
+and I had different visions
+
+19:29.336 --> 19:30.803
+for AllSourcer.
+
+19:30.837 --> 19:32.672
+And when it became clear
+they were incompatible,
+
+19:32.705 --> 19:34.974
+I chose to leave
+and focus on Ratchet instead.
+
+19:35.007 --> 19:36.876
+Now, Ratchet's market cap
+
+19:36.909 --> 19:39.212
+surpassed AllSourcer's
+three years ago.
+
+19:39.246 --> 19:41.314
+I'd say I made a wise move.
+
+19:41.348 --> 19:44.317
+Ratchet's stock is inflated.
+
+19:44.351 --> 19:46.719
+And ousted CEOs
+don't let things go.
+
+19:46.753 --> 19:49.622
+Sounds like
+motive to me.
+
+19:49.656 --> 19:51.791
+There's 116 bad things
+I could say about Vikram,
+
+19:51.824 --> 19:56.296
+but he wouldn't waste
+his time on this.
+
+19:56.329 --> 19:58.331
+Then maybe it's closer to home.
+
+19:58.365 --> 20:01.568
+How much do you know
+about Tariq Bakari?
+
+20:01.601 --> 20:03.303
+(chuckles):
+Oh, come on.
+
+20:03.336 --> 20:06.373
+Tariq has nothing
+to do with this.
+
+20:06.406 --> 20:09.376
+He's a known gray-hat hacker.
+He's made enemies, too.
+
+20:09.409 --> 20:11.911
+Can you tell us how it is
+that you hired Mr. Bakari?
+
+20:11.944 --> 20:14.714
+Tariq demonstrated skills
+that we needed.
+
+20:14.747 --> 20:16.349
+He hacked you.
+
+20:16.383 --> 20:18.718
+It was a bold move.
+
+20:18.751 --> 20:20.853
+DRISCOLL: The way I
+see it, Mr. Tanner,
+
+20:20.887 --> 20:22.989
+while you may be focused
+on JavaWell,
+
+20:23.022 --> 20:25.925
+there are multiple people who
+might want to take Sophe out.
+
+20:25.958 --> 20:28.995
+Maybe you
+should widen your view.
+
+20:29.028 --> 20:30.963
+Well, maybe you shouldn't ignore
+
+20:30.997 --> 20:33.300
+what's right in front
+of your face.
+
+20:33.333 --> 20:34.601
+JavaWell.
+
+20:38.405 --> 20:40.840
+What's happening?
+
+20:40.873 --> 20:42.675
+Congratulations.
+
+20:42.709 --> 20:45.278
+You've been raided by
+the federal government.
+
+20:45.312 --> 20:47.880
+Check that off the bucket list.
+
+20:47.914 --> 20:49.649
+JOSH: Sara, this is Prudence--
+she's just visiting
+
+20:49.682 --> 20:52.752
+on her day off.
+Oh. Right. The girlfriend, yes.
+
+20:52.785 --> 20:55.855
+What? No, she's not-- I...
+Can we move on, please?
+
+20:55.888 --> 20:57.023
+TARIQ:
+The FBI are investigating
+
+20:57.056 --> 20:58.691
+the denial-of-
+service attack,
+
+20:58.725 --> 21:01.060
+and they want to talk
+to all of us.
+
+21:01.093 --> 21:02.895
+Yay.
+
+21:02.929 --> 21:04.364
+DRISCOLL:
+Sara Morton.
+
+21:04.397 --> 21:05.598
+Please come with me.
+
+21:13.005 --> 21:16.743
+Is someone out there punishing
+Sophe for your sins, Ms. Morton?
+
+21:16.776 --> 21:18.878
+You think this is my fault?
+
+21:18.911 --> 21:20.780
+How is this my fault?
+
+21:20.813 --> 21:23.783
+Of course it's
+the brown guy's fault.
+
+21:23.816 --> 21:26.419
+AllSourcer has
+a temporary restraining order
+
+21:26.453 --> 21:27.920
+barring you
+from working at Sophe,
+
+21:27.954 --> 21:30.423
+and yet... here you are.
+
+21:30.457 --> 21:32.659
+On the advice
+of our C.O.O., Mike Leigh,
+
+21:32.692 --> 21:34.727
+I'm staying pending a hearing.
+
+21:34.761 --> 21:36.829
+So maybe this attack
+is a power play.
+
+21:36.863 --> 21:38.931
+Could it be AllSourcer's attempt
+to try and stop you
+
+21:38.965 --> 21:41.000
+from using technology
+that it says it owns?
+
+21:41.033 --> 21:42.802
+AllSourcer wouldn't do that.
+
+21:42.835 --> 21:45.037
+I mean, I hope
+they wouldn't.
+
+21:45.071 --> 21:46.773
+I used to work there--
+they're not that evil.
+
+21:46.806 --> 21:48.475
+Are they?
+
+21:48.508 --> 21:50.076
+It's JavaWell, right?
+
+21:50.109 --> 21:52.345
+I-I mean, they're about to IPO.
+It makes sense.
+
+21:52.379 --> 21:53.713
+Why are you so nervous, Josh?
+
+21:56.883 --> 21:59.886
+I've been doing this
+a long time.
+
+21:59.919 --> 22:02.389
+If there's one thing
+I know how to spot,
+
+22:02.422 --> 22:03.856
+it's a guilty conscience.
+
+22:03.890 --> 22:06.759
+Trust me,
+
+22:06.793 --> 22:09.462
+you'll feel better
+once you get it off your chest.
+
+22:11.398 --> 22:13.366
+In grad school, I hacked into
+
+22:13.400 --> 22:14.867
+MIT's server to
+delete an e-mail
+
+22:14.901 --> 22:16.703
+I sent to a girl.
+But I was, like, really wasted.
+
+22:16.736 --> 22:19.806
+I-I can't be held responsible
+for that, right?
+
+22:19.839 --> 22:21.908
+Oh, God, I'm going to prison.
+WALLACE: Do you make it a habit
+
+22:21.941 --> 22:23.976
+of taking liberties
+with other people's networks?
+
+22:24.010 --> 22:25.912
+I'm a curious guy.
+
+22:25.945 --> 22:27.747
+But whatever I did,
+it's to expose
+
+22:27.780 --> 22:29.416
+fat cats who take advantage
+of people
+
+22:29.449 --> 22:30.883
+who don't know
+any better.
+
+22:30.917 --> 22:35.154
+If that makes them mad, good.
+
+22:35.187 --> 22:38.391
+So maybe this botnet attack
+is payback for your misdeeds.
+
+22:38.425 --> 22:40.793
+Who, Tariq?
+Yes.
+
+22:40.827 --> 22:42.795
+Have you noticed any...
+
+22:42.829 --> 22:44.731
+suspicious behavior from him?
+
+22:44.764 --> 22:45.998
+What, because Tariq's Muslim,
+
+22:46.032 --> 22:48.000
+he must be a criminal?
+
+22:48.034 --> 22:50.803
+What's next? Are you gonna
+call him a terrorist?
+
+22:50.837 --> 22:53.906
+Disappear him off somewhere?
+Think about it.
+
+22:53.940 --> 22:56.543
+What do you really know
+about Tariq?
+
+22:56.576 --> 22:59.446
+He's my punishment,
+put on Earth to torture me.
+
+22:59.479 --> 23:01.414
+Wait, why are you asking
+about him?
+
+23:01.448 --> 23:02.849
+WALLACE:
+Did you know that Tariq
+
+23:02.882 --> 23:06.753
+has made a lot of money
+from bug bounty programs?
+
+23:06.786 --> 23:10.823
+So what? Companies ask hackers
+to find flaws in their networks.
+
+23:10.857 --> 23:13.059
+If I happen to be
+awesome at what I do,
+
+23:13.092 --> 23:14.927
+that's hardly a crime.
+
+23:14.961 --> 23:17.096
+But where does
+all that money go?
+
+23:17.129 --> 23:18.931
+Back to your friends
+and family in India?
+
+23:18.965 --> 23:20.867
+(scoffs)
+Maybe Pakistan?
+
+23:20.900 --> 23:24.003
+Dude, try "I help my parents
+pay for their house."
+
+23:24.036 --> 23:26.939
+You know how expensive it is
+to live in San Francisco?
+WALLACE: Fine.
+
+23:26.973 --> 23:29.442
+So if this botnet attack
+isn't because of you,
+
+23:29.476 --> 23:30.977
+is it because
+of other Sophe users?
+
+23:31.010 --> 23:33.179
+Are there any other hackers
+among them?
+
+23:33.212 --> 23:35.982
+Any... government employees?
+You have
+
+23:36.015 --> 23:40.520
+no idea what's going on, do you?
+
+23:40.553 --> 23:42.922
+You're just fishing.
+
+23:42.955 --> 23:45.492
+And you're wasting
+everybody's time.
+
+23:45.525 --> 23:46.993
+We done here?
+
+24:05.578 --> 24:07.980
+(computers whirring)
+
+24:09.849 --> 24:12.619
+(applause)
+
+24:12.652 --> 24:14.787
+(cheering)
+
+24:16.989 --> 24:19.125
+You don't deserve me, you know.
+
+24:19.158 --> 24:20.927
+I never did.
+
+24:20.960 --> 24:22.862
+Sophe's back on.
+
+24:22.895 --> 24:24.163
+Thank you.
+
+24:24.196 --> 24:25.598
+You're welcome.
+
+24:25.632 --> 24:28.034
+It was great
+to connect with Vikram.
+
+24:28.067 --> 24:29.602
+It gave me an excuse
+to reminisce
+
+24:29.636 --> 24:31.170
+about the good old days,
+you know.
+
+24:31.203 --> 24:33.139
+The three of us and some ramen.
+
+24:33.172 --> 24:35.908
+I miss the good old days.
+
+24:35.942 --> 24:37.243
+Even the ramen.
+
+24:37.276 --> 24:39.045
+Um, I'm gonna go ahead
+and forward you
+
+24:39.078 --> 24:41.914
+all of the technical stuff
+so you can have a look at this.
+
+24:41.948 --> 24:44.617
+I don't understand it,
+and I don't want to pretend to.
+
+24:44.651 --> 24:45.852
+Well, I appreciate it.
+
+24:46.819 --> 24:47.920
+Now if I can just get the FBI
+off my back,
+
+24:47.954 --> 24:49.155
+I'll be all right.
+
+24:49.188 --> 24:52.959
+Wait, Jeffrey,
+what about the FBI?
+
+24:52.992 --> 24:55.161
+They're getting in the way here.
+I actually have to go.
+
+24:55.194 --> 24:58.598
+Seriously, Alex, thank you.
+
+25:01.634 --> 25:03.936
+David?
+
+25:03.970 --> 25:05.071
+What did you do?
+
+25:05.104 --> 25:06.205
+This wasn't us.
+
+25:06.238 --> 25:08.541
+No, it was me.
+
+25:08.575 --> 25:10.076
+Sophe is being hosted
+
+25:10.109 --> 25:12.545
+on Ratchet's network.
+For the time being, anyway.
+
+25:12.579 --> 25:13.980
+I have an investigation to run,
+Mr. Tanner.
+
+25:14.013 --> 25:15.948
+So do we.
+You'll have access to Sophe.
+
+25:15.982 --> 25:17.550
+Interview anyone you want.
+
+25:17.584 --> 25:20.086
+Just try to stay
+out of our way.
+
+25:20.119 --> 25:21.954
+Just calm down, people.
+
+25:21.988 --> 25:25.558
+It's a Band-Aid. Ratchet's
+only hosting us for eight hours.
+
+25:25.592 --> 25:27.093
+And after that?
+There is no "after that."
+
+25:27.126 --> 25:29.228
+I created Sophe
+to find Mia's killer,
+
+25:29.261 --> 25:31.664
+and I refuse
+to let him just go free.
+
+25:31.698 --> 25:33.700
+So I don't care what you do
+or how you do it.
+
+25:33.733 --> 25:35.034
+We have to fix this, all right?
+Let's go.
+
+25:39.806 --> 25:40.907
+Users are realizing we're
+back up. Submissions aren't
+
+25:40.940 --> 25:41.908
+at their pre-outage levels,
+
+25:41.941 --> 25:43.075
+but they're growing.
+
+25:43.109 --> 25:45.044
+They like us.
+They really like us.
+
+25:45.077 --> 25:47.013
+What about Mia's investigation?
+Uh, we got
+
+25:47.046 --> 25:48.280
+a couple more photos of
+people wearing the sweater.
+
+25:48.314 --> 25:50.282
+Which won't matter
+if Sophe goes down again
+
+25:50.316 --> 25:52.318
+when we're kicked off
+Ratchet's servers.
+
+25:52.351 --> 25:55.888
+We have to find out who's behind
+the DDoS attack and stop it.
+
+25:55.922 --> 25:58.057
+That means the JavaWell case
+has to come first.
+
+25:58.090 --> 26:01.828
+Hey, uh, remember how users were
+obsessing about the JavaWell app
+
+26:01.861 --> 26:03.730
+before we went down?
+They're back at it.
+
+26:03.763 --> 26:05.798
+SARA: I still don't understand
+how that's important.
+
+26:05.832 --> 26:07.767
+Well, uh, CoffeeCrazy78
+
+26:07.800 --> 26:09.869
+says the app automatically
+connects phones that have it
+
+26:09.902 --> 26:11.804
+if they're within ten
+feet of each other.
+TANNER: That's like Airport.
+
+26:11.838 --> 26:14.340
+People don't notice phones
+are being synced anymore.
+
+26:14.373 --> 26:16.108
+Wait, got another message here.
+"Check the user logs
+
+26:16.142 --> 26:18.110
+from the suspects' phones."
+This one's from...
+
+26:18.144 --> 26:19.946
+DearPrudence95.
+
+26:19.979 --> 26:21.347
+TARIQ:
+We won't have to check anything.
+
+26:21.380 --> 26:24.984
+User CityGal154
+quit JavaWell last week,
+
+26:25.017 --> 26:26.352
+but they haven't revoked
+her admin access.
+
+26:26.385 --> 26:28.187
+She just submitted
+the data logs from that night.
+
+26:30.356 --> 26:35.261
+Ben, Mason, and Faith all
+told us that Ron was alive
+
+26:35.294 --> 26:36.963
+when they left.
+But-but these records,
+
+26:36.996 --> 26:38.831
+they prove that
+all three of them
+
+26:38.865 --> 26:42.334
+were within ten feet of
+Ron when he was killed.
+
+26:42.368 --> 26:44.036
+They've all been lying.
+
+26:44.070 --> 26:45.772
+And now we have
+the evidence.
+
+26:45.805 --> 26:46.973
+Go.
+
+26:47.006 --> 26:47.774
+Yeah.
+
+26:59.151 --> 27:00.386
+I messed up.
+
+27:00.419 --> 27:02.021
+What do you mean? What happened?
+
+27:02.054 --> 27:05.057
+This morning, I went
+to get something to eat.
+
+27:05.091 --> 27:07.159
+And when I came back,
+Prudence was at my computer.
+And she wouldn't tell me what
+
+27:07.193 --> 27:09.862
+she was doing on it, but...
+it was right before the attack.
+
+27:09.896 --> 27:12.198
+If I ask her about it, she'll
+think that I'm accusing her
+
+27:12.231 --> 27:14.233
+of something or that I
+don't trust her. Which I do!
+
+27:14.266 --> 27:17.236
+It's just a little suspicious,
+but it's not that suspicious.
+
+27:17.269 --> 27:19.939
+This is a really weird
+conversation to be having
+
+27:19.972 --> 27:21.107
+with my boss, isn't it?
+
+27:21.140 --> 27:24.944
+Yes, but I'm rolling with it.
+
+27:24.977 --> 27:28.047
+Things are kind of undefined
+and awkward
+
+27:28.080 --> 27:29.916
+and you don't want
+to mess it up.
+
+27:29.949 --> 27:30.917
+I get it.
+
+27:30.950 --> 27:32.284
+So, how about this?
+
+27:32.318 --> 27:34.020
+I will talk to Prudence
+when I get back
+
+27:34.053 --> 27:35.955
+and I will leave you out of it.
+
+27:35.988 --> 27:39.325
+Unless Prudence is some sort
+of stealth JavaWell plant,
+
+27:39.358 --> 27:41.027
+which I highly doubt,
+
+27:41.060 --> 27:42.328
+I think we're fine.
+
+27:42.361 --> 27:44.030
+From now on, just, uh,
+
+27:44.063 --> 27:45.932
+keep your terminal locked, yeah?
+
+27:45.965 --> 27:48.167
+Yeah.
+And maybe...
+
+27:48.200 --> 27:49.902
+define your relationships
+a little better?
+
+27:49.936 --> 27:51.070
+Yeah.
+
+27:51.103 --> 27:53.105
+Thank you.
+
+27:54.907 --> 27:56.175
+CAVANAUGH:
+These are data logs
+
+27:56.208 --> 27:58.110
+from the JavaWell app.
+
+27:58.144 --> 28:00.446
+They prove
+you were within ten feet
+
+28:00.479 --> 28:02.181
+of Ron Howland when he died.
+
+28:02.214 --> 28:03.850
+You all were.
+
+28:03.883 --> 28:05.384
+You've been lying to us.
+
+28:05.417 --> 28:06.919
+Okay, so we lied.
+
+28:06.953 --> 28:08.454
+Doesn't mean I killed him.
+
+28:08.487 --> 28:12.191
+No, but I showed these to Faith
+and Mason and, guess what,
+
+28:12.224 --> 28:13.860
+they gave you up.
+
+28:13.893 --> 28:15.327
+They said you got
+in a fight with Ron.
+
+28:15.361 --> 28:16.963
+It got physical.
+
+28:16.996 --> 28:18.364
+Then you murdered him.
+
+28:18.397 --> 28:20.867
+It's a fun story,
+
+28:20.900 --> 28:23.002
+but that's all it is.
+
+28:24.370 --> 28:26.873
+I'd like a lawyer now.
+
+28:26.906 --> 28:29.976
+No. No, there's no way Ben
+and Faith would turn on me.
+
+28:30.009 --> 28:31.110
+But they did.
+
+28:35.982 --> 28:39.151
+You know, I did this prisoner's
+dilemma experiment in college.
+
+28:39.185 --> 28:40.953
+And the thing
+I learned is,
+
+28:40.987 --> 28:42.488
+if you want to win,
+
+28:42.521 --> 28:44.991
+you stay silent.
+
+28:45.024 --> 28:47.193
+So I'll be exercising
+that right.
+
+28:49.495 --> 28:51.430
+Thanks.
+
+28:52.999 --> 28:55.201
+Of course they turned on me.
+
+28:55.234 --> 28:59.305
+Did you expect
+anything different?
+
+28:59.338 --> 29:03.109
+They were always gonna do
+what was best for them.
+
+29:03.142 --> 29:06.913
+(sniffles)
+It was an accident.
+
+29:06.946 --> 29:10.282
+Why don't you tell us
+what happened that night, Faith.
+
+29:10.316 --> 29:12.084
+(sniffles)
+
+29:12.118 --> 29:14.286
+We were all wasted.
+
+29:14.320 --> 29:17.023
+Are you out of your mind,
+writing a memo like that?
+
+29:17.056 --> 29:19.358
+There's a reason that
+Google fired that guy.
+
+29:19.391 --> 29:21.994
+The customers won't stand
+for it, especially
+
+29:22.028 --> 29:24.030
+not our wealthy,
+liberal ones!
+
+29:24.063 --> 29:26.532
+Calm down, all right?
+You're overreacting.
+
+29:26.565 --> 29:27.366
+FAITH: Oh, don't
+patronize me.
+
+29:27.399 --> 29:29.168
+You know what
+happened with Uber.
+
+29:29.201 --> 29:31.037
+Do you want to destroy
+this company?
+
+29:31.070 --> 29:33.005
+Wait. Wait, I'm-I'm sorry.
+
+29:33.039 --> 29:35.541
+You actually wrote...
+that stupid think piece?
+
+29:35.574 --> 29:37.143
+Are you joking?
+
+29:37.176 --> 29:38.444
+Oh, come on.
+
+29:38.477 --> 29:40.012
+It's no big deal.
+
+29:40.046 --> 29:41.013
+We've talked about this.
+
+29:41.047 --> 29:43.015
+What you do reflects on us.
+
+29:43.049 --> 29:45.952
+FAITH: This is the kind of thing
+that could kill the IPO.
+
+29:45.985 --> 29:48.087
+The entire company!
+Faith,
+
+29:48.120 --> 29:50.489
+chill. I know that
+your feelings are hurt.
+
+29:50.522 --> 29:53.492
+Maybe just take some time,
+think about what you're saying.
+
+29:53.525 --> 29:56.295
+No. We're going to talk
+about this.
+Wha... Hey, let go of me.
+
+29:56.328 --> 29:58.297
+We're gonna talk about...
+Let go, Faith. Do you know
+how much this shirt costs?!
+
+29:58.330 --> 29:59.966
+(both grunting)
+
+29:59.999 --> 30:01.167
+Oh, my God!
+BEN: Ron!
+
+30:05.471 --> 30:07.439
+What the hell, Faith?
+
+30:07.473 --> 30:09.308
+FAITH: You saw!
+I didn't mean it!
+
+30:09.341 --> 30:11.177
+BEN:
+Oh, my God.
+
+30:11.210 --> 30:13.312
+(sniffles)
+It was an accident.
+
+30:13.345 --> 30:16.482
+Ben thought if we got
+our stories straight,
+
+30:16.515 --> 30:18.484
+everyone would think
+that he just fell.
+
+30:18.517 --> 30:20.452
+The death of a founder
+was bad enough.
+
+30:20.486 --> 30:22.121
+This way, we could avoid
+
+30:22.154 --> 30:24.356
+the bad press
+about the memo.
+
+30:24.390 --> 30:28.427
+It would be a tragedy,
+not a scandal.
+
+30:28.460 --> 30:31.130
+I didn't mean
+to hurt him.
+
+30:31.163 --> 30:33.565
+(sniffles)
+I just lost it.
+
+30:33.599 --> 30:36.435
+Another guy I trusted
+
+30:36.468 --> 30:38.470
+who didn't even think that
+I deserved to be there.
+
+30:38.504 --> 30:41.007
+If that memo got out,
+people were gonna think
+
+30:41.040 --> 30:42.241
+he was talking about me.
+
+30:44.210 --> 30:46.012
+You're really trying to sell it
+as an accident?
+
+30:46.045 --> 30:47.146
+That he fell?
+
+30:48.247 --> 30:50.182
+That's what happened.
+
+30:50.216 --> 30:52.084
+Why are you still lying, Faith?
+
+30:52.118 --> 30:53.019
+I'm not.
+
+30:53.052 --> 30:54.220
+CAVANAUGH:
+You are.
+
+30:54.253 --> 30:56.122
+Ron didn't fall.
+
+30:56.155 --> 30:58.257
+He was bashed in the head
+with this.
+
+30:58.290 --> 31:00.526
+What the hell is that?
+That's what killed him.
+
+31:00.559 --> 31:01.593
+(scoffs, sniffles)
+
+31:01.627 --> 31:03.495
+You know what,
+
+31:03.529 --> 31:05.364
+you see this?
+
+31:05.397 --> 31:07.133
+What?
+
+31:07.166 --> 31:10.036
+You see here? Here's where
+the award cracked his skull.
+
+31:10.069 --> 31:12.638
+Here's the indentation
+that matches perfectly.
+
+31:12.671 --> 31:15.107
+No. What? No. No.
+
+31:15.141 --> 31:16.542
+I didn't hit him.
+
+31:16.575 --> 31:19.378
+I have no idea what
+you're talking about.
+
+31:19.411 --> 31:21.280
+Please, just take
+these away from me.
+
+31:22.548 --> 31:25.217
+(sniffles)
+Please!
+
+31:25.251 --> 31:28.387
+Either she's the best
+liar I ever saw
+
+31:28.420 --> 31:29.588
+or she's telling the truth.
+
+31:29.621 --> 31:32.291
+She believed that he fell.
+
+31:32.324 --> 31:36.295
+Which means when someone hit him
+over the head with that trophy,
+
+31:36.328 --> 31:38.497
+it had to be at the bottom
+of the stairs.
+
+31:40.432 --> 31:43.435
+Ron had those damn awards
+all over the house, right?
+
+31:43.469 --> 31:45.137
+We assumed that the murder
+weapon came from upstairs,
+
+31:45.171 --> 31:46.438
+'cause that's where we found it.
+
+31:46.472 --> 31:49.141
+But what if it didn't?
+
+31:49.175 --> 31:51.143
+(exhales)
+
+31:51.177 --> 31:53.079
+Look here.
+
+31:54.180 --> 31:56.182
+Here. Look at this.
+
+31:56.215 --> 31:58.517
+This is a picture
+of the awards upstairs.
+
+31:58.550 --> 32:02.121
+And this is a picture of
+the award table downstairs.
+
+32:04.190 --> 32:06.625
+Look, the dates don't line up.
+
+32:06.658 --> 32:10.196
+So Ron was killed
+with a 2016 award.
+
+32:10.229 --> 32:14.333
+All the awards upstairs were,
+what, from '07, '08, '09.
+
+32:14.366 --> 32:16.168
+All the ones downstairs
+were more recent.
+
+32:16.202 --> 32:18.170
+2014, 2015.
+
+32:18.204 --> 32:19.638
+They were all there,
+
+32:19.671 --> 32:22.474
+but Faith said Mason went
+to go check on him.
+
+32:22.508 --> 32:24.576
+SARA: She had no reason
+to lie about it.
+
+32:24.610 --> 32:27.213
+She thought she'd killed Ron.
+
+32:27.246 --> 32:29.481
+CAVANAUGH:
+So Mason found him still alive,
+
+32:29.515 --> 32:31.183
+grabbed an award, and bashed
+him over the head with it.
+
+32:31.217 --> 32:33.085
+And then tried to cover it up.
+
+32:34.220 --> 32:36.222
+My client is not
+saying a word.
+
+32:36.255 --> 32:39.458
+CAVANAUGH: That's okay.
+He can just listen.
+
+32:39.491 --> 32:41.727
+We know you killed Ron.
+
+32:41.760 --> 32:44.196
+I guess you guys were friends,
+but there's friendship
+
+32:44.230 --> 32:45.731
+and then there's business,
+right?
+
+32:45.764 --> 32:48.734
+The memo he wrote would have
+destroyed your company,
+
+32:48.767 --> 32:51.237
+right before the big IPO.
+
+32:51.270 --> 32:54.206
+So after he fell,
+you went to check on him.
+
+32:54.240 --> 32:57.376
+And when you realized
+he was still alive,
+
+32:57.409 --> 32:59.111
+you grabbed
+the first thing you saw...
+
+33:01.180 --> 33:03.215
+...one of his hackathon awards,
+
+33:03.249 --> 33:05.184
+then you finished him off
+with it.
+
+33:05.217 --> 33:07.319
+And then you used it
+to frame Faith.
+
+33:07.353 --> 33:10.656
+SARA: Typical
+overcompensating male.
+
+33:10.689 --> 33:12.624
+Too clever by a third.
+
+33:12.658 --> 33:14.560
+That's what you've got?
+
+33:14.593 --> 33:17.463
+Really? No evidence,
+no fingerprints.
+
+33:17.496 --> 33:19.665
+Your client might have been
+smart enough
+
+33:19.698 --> 33:23.635
+to wipe off his prints, but...
+DNA tends to stick around.
+
+33:23.669 --> 33:25.337
+You see these sharp edges?
+
+33:25.371 --> 33:28.207
+They dig in to your hands.
+
+33:28.240 --> 33:30.542
+You see any cuts?
+
+33:30.576 --> 33:33.245
+CAVANAUGH: You don't need to
+cut yourself to transfer DNA.
+
+33:33.279 --> 33:35.447
+All it takes is one
+or two skin cells
+
+33:35.481 --> 33:37.516
+left behind.
+
+33:37.549 --> 33:40.386
+Now how sure are you
+that when we test those cells,
+
+33:40.419 --> 33:41.520
+they won't match yours?
+
+33:51.763 --> 33:54.666
+Get the D.A. in here,
+
+33:54.700 --> 33:57.536
+and we can make a deal.
+
+33:57.569 --> 33:59.471
+Ron was your friend.
+
+33:59.505 --> 34:03.309
+And he told me he wouldn't
+write that damn memo.
+
+34:03.342 --> 34:04.676
+(scoffs)
+
+34:04.710 --> 34:06.545
+All he had to do was wait
+for the IPO.
+
+34:06.578 --> 34:08.547
+Yeah, it was all his fault.
+
+34:08.580 --> 34:11.483
+But since we know the truth,
+you can call off
+
+34:11.517 --> 34:13.785
+your denial-of-service attack
+on Sophe now.
+
+34:13.819 --> 34:16.288
+What are you talking about?
+SARA: You didn't want us
+
+34:16.322 --> 34:18.590
+solving the case,
+so you rented a botnet
+
+34:18.624 --> 34:21.260
+to crash Sophe,
+but it's over now.
+
+34:21.293 --> 34:23.829
+I don't know anything
+about that.
+
+34:23.862 --> 34:25.797
+(laughs softly)
+
+34:25.831 --> 34:28.334
+Typical hysterical female.
+
+34:28.367 --> 34:30.236
+(scoffs)
+
+34:33.472 --> 34:35.674
+Any change in the traffic?
+
+34:35.707 --> 34:37.276
+Yeah, it looks like
+Mason was telling the truth.
+
+34:37.309 --> 34:38.744
+JavaWell didn't launch
+the attack.
+
+34:38.777 --> 34:41.413
+We only have four hours left
+on Rachet's servers,
+
+34:41.447 --> 34:43.749
+and then Sophe goes down
+again. If the attack
+
+34:43.782 --> 34:46.518
+wasn't about the
+JavaWell case, then what?
+
+34:46.552 --> 34:49.555
+Who the hell is the
+ghost in the machine?
+
+34:50.756 --> 34:53.359
+Hey, boss?
+
+34:53.392 --> 34:56.362
+In the middle of blaming me,
+did the feds ask either of you
+
+34:56.395 --> 34:57.763
+about Sophe users
+in government?
+
+34:57.796 --> 34:59.465
+Yeah.
+
+34:59.498 --> 35:00.599
+Yeah.
+
+35:00.632 --> 35:01.667
+Where our users work ought
+
+35:01.700 --> 35:03.335
+to be irrelevant.
+
+35:03.369 --> 35:04.603
+Why would they care?
+
+35:11.443 --> 35:14.813
+Because they're not here
+investigating the attack.
+
+35:14.846 --> 35:17.883
+(phone ringing)
+
+35:17.916 --> 35:19.718
+Everything all right, Alex?
+
+35:19.751 --> 35:23.555
+We looked into the FBI's
+Sophe investigation.
+
+35:23.589 --> 35:25.357
+And?
+
+35:25.391 --> 35:27.693
+Well, there isn't one.
+
+35:27.726 --> 35:29.628
+Not officially, anyway.
+
+35:29.661 --> 35:33.699
+Alex, I got guys in suits
+at my terminals right now.
+
+35:33.732 --> 35:35.767
+Well, there is no
+FBI investigation,
+
+35:35.801 --> 35:38.537
+but the Bureau is sometimes used
+by another agency.
+
+35:38.570 --> 35:40.806
+Let me guess.
+
+35:40.839 --> 35:44.510
+Begins with an "N"
+and ends with an "A"?
+
+35:44.543 --> 35:47.346
+Is there any reason the NSA
+would be interested in you?
+
+35:47.379 --> 35:49.315
+Yeah, we had a case
+a couple weeks ago,
+
+35:49.348 --> 35:51.583
+and a source helped us out.
+
+35:51.617 --> 35:55.921
+Then Sophe gets attacked,
+the NSA comes in to investigate.
+
+35:55.954 --> 35:58.624
+That's a pretty big coincidence,
+Jeffrey.
+
+35:58.657 --> 36:00.926
+That was the plan.
+
+36:00.959 --> 36:04.363
+The NSA took Sophe down
+so that they can gain access.
+
+36:04.396 --> 36:05.864
+Well, here's what I know.
+
+36:05.897 --> 36:08.500
+If the NSA wants Sophe off-line,
+
+36:08.534 --> 36:10.502
+it's staying off-line.
+
+36:10.536 --> 36:11.737
+Uh-huh. We'll see about that.
+
+36:15.741 --> 36:18.710
+You needed me?
+Come here.
+
+36:18.744 --> 36:21.647
+Can you get remote access to
+Sophe and cover your tracks?
+
+36:21.680 --> 36:24.516
+What do you think?
+Good. I got
+a new job for you.
+
+36:24.550 --> 36:26.452
+For something
+with such grand artistic merit,
+
+36:26.485 --> 36:28.787
+death metal is sure
+widely hated.
+
+36:28.820 --> 36:30.589
+Because it's not controllable.
+Besides, being hated
+
+36:30.622 --> 36:32.658
+by the powers that be
+is a badge of honor.
+
+36:32.691 --> 36:34.526
+Anything new here?
+
+36:34.560 --> 36:35.861
+We're still getting
+sustained traffic
+
+36:35.894 --> 36:37.763
+of over 600
+gigabits per second.
+
+36:37.796 --> 36:39.798
+Ratchet's servers are
+handling it for now.
+
+36:39.831 --> 36:43.269
+(alarm blares)
+
+36:43.302 --> 36:44.736
+What the hell?
+
+36:44.770 --> 36:45.904
+Did the attack
+take down Ratchet?
+
+36:45.937 --> 36:48.707
+No, this is just Sophe.
+
+36:48.740 --> 36:50.809
+What's going on?
+
+36:50.842 --> 36:52.944
+I thought you had, uh, three
+more hours on Ratchet's server.
+
+36:52.978 --> 36:54.646
+When Driscoll got here,
+she showed us her badge,
+
+36:54.680 --> 36:55.714
+and you didn't.
+Why is that?
+
+36:56.982 --> 36:59.251
+Do you have a point,
+Mr. Tanner?
+
+36:59.285 --> 37:00.886
+No. I'm just making
+conversation.
+
+37:00.919 --> 37:02.888
+Hey,
+
+37:02.921 --> 37:05.257
+you guys hear
+about the NSA's website?
+
+37:05.291 --> 37:07.793
+I guess that we're not the
+only ones having a bad day.
+
+37:07.826 --> 37:10.962
+What the hell?
+
+37:10.996 --> 37:12.698
+TANNER:
+Kind of embarrassing, though.
+
+37:12.731 --> 37:16.302
+You know, when the country's
+top computer spies get owned.
+
+37:16.335 --> 37:18.837
+Let's play out
+a little hypothetical.
+
+37:18.870 --> 37:20.706
+Let's say that there
+was an agency
+
+37:20.739 --> 37:26.545
+who, uh, was paranoid
+about leakers. See,
+
+37:26.578 --> 37:28.314
+some of their own people
+had gone rogue.
+
+37:28.347 --> 37:29.748
+People with names like--
+I don't know--
+
+37:29.781 --> 37:31.583
+Snowden and Manning.
+
+37:31.617 --> 37:33.585
+Let's say that
+they thought
+
+37:33.619 --> 37:36.988
+that someone else
+had gone rogue, and contacted
+
+37:37.022 --> 37:40.859
+a site like Sophe, but
+they didn't know why.
+
+37:40.892 --> 37:43.028
+I bet they would do
+anything in their power
+
+37:43.061 --> 37:45.331
+to figure out
+who that leaker was,
+
+37:45.364 --> 37:48.334
+including setting up
+a denial-of-service attack
+
+37:48.367 --> 37:51.737
+so they could swoop in
+and... investigate.
+
+37:51.770 --> 37:54.973
+It's very creative,
+Mr. Tanner.
+
+37:55.006 --> 37:57.976
+You've got a career
+in airport novels.
+
+37:58.009 --> 37:59.845
+TANNER:
+Now, if all that were true,
+
+37:59.878 --> 38:02.013
+if the NSA directed
+all that traffic
+
+38:02.047 --> 38:04.750
+directly at Sophe
+to cripple it,
+
+38:04.783 --> 38:06.885
+then wouldn't it be smart
+if Sophe then
+
+38:06.918 --> 38:11.757
+directed all of its traffic
+at the NSA site?
+
+38:11.790 --> 38:13.925
+Give it a taste
+of its own medicine.
+
+38:17.062 --> 38:20.632
+Something like that would take
+the NSA site right down.
+
+38:20.666 --> 38:22.601
+But...
+
+38:22.634 --> 38:24.903
+if the NSA really was
+
+38:24.936 --> 38:27.606
+behind all of this,
+they could just
+
+38:27.639 --> 38:29.775
+stop the attack at any time.
+
+38:29.808 --> 38:32.077
+And I hear that you used to
+play ball with the government.
+
+38:33.745 --> 38:36.882
+I do a lot of things
+differently now.
+
+38:36.915 --> 38:39.618
+(phone chimes, vibrates)
+
+38:39.651 --> 38:42.654
+Look at that.
+
+38:42.688 --> 38:45.924
+The NSA site's back up
+and running.
+
+38:45.957 --> 38:48.760
+Looks like the attack
+has been shut down,
+
+38:48.794 --> 38:50.396
+which means
+we can probably
+
+38:50.429 --> 38:51.730
+get Sophe back
+online now, too.
+
+38:53.665 --> 38:56.768
+(scoffs) Pack it up.
+We're done here.
+
+38:59.805 --> 39:02.774
+The United States government
+thanks you for your cooperation.
+
+39:08.680 --> 39:10.382
+Pleasure doing business
+with you!
+
+39:10.416 --> 39:11.817
+SARA:
+So this whole thing
+
+39:11.850 --> 39:14.085
+was about the suicide game
+investigation?
+
+39:14.119 --> 39:17.823
+That user that gave us
+information on microdots?
+
+39:17.856 --> 39:19.157
+It seems like it,
+but if they really think
+
+39:19.190 --> 39:20.826
+that's the leaker,
+
+39:20.859 --> 39:22.661
+they're not gonna
+give up that easily.
+
+39:22.694 --> 39:24.696
+The NSA didn't get
+what they were looking for.
+
+39:24.730 --> 39:27.799
+They'll be looking for leverage
+so that we'll cooperate.
+
+39:27.833 --> 39:30.902
+It's not over.
+
+39:34.773 --> 39:36.742
+(sighs)
+
+39:36.775 --> 39:39.177
+This is probably not what
+you imagined from your day off.
+
+39:39.210 --> 39:43.114
+You mean it's not
+always like this? Bummer.
+
+39:45.684 --> 39:49.721
+I, um, wanted to talk
+to you about something.
+
+39:49.755 --> 39:53.191
+I heard that you were
+on Josh's computer this morning.
+
+39:53.224 --> 39:56.127
+(loud death metal blaring)
+
+39:56.161 --> 39:57.863
+It won't stop!
+What the hell?
+
+39:57.896 --> 39:59.130
+TARIQ:
+Aren't you supposed to be
+
+39:59.164 --> 40:00.966
+some kind of genius?
+(music stops)
+
+40:00.999 --> 40:02.901
+Don't fear chaos, Josh!
+
+40:02.934 --> 40:04.736
+(whoops)
+
+40:04.770 --> 40:06.004
+That's what you were
+doing on his computer?
+
+40:06.037 --> 40:07.873
+You were playing a prank?
+
+40:07.906 --> 40:10.842
+Yeah, I'm just trying
+to get Josh out of his shell.
+
+40:10.876 --> 40:12.878
+I thought you
+were a file clerk.
+
+40:12.911 --> 40:14.713
+For now.
+
+40:14.746 --> 40:17.449
+I mean, I tried working at
+a couple start-ups, but
+
+40:17.483 --> 40:20.018
+the dudebro contingent's
+really a drag, so...
+
+40:20.051 --> 40:22.854
+Well, you shouldn't give up
+on the tech world just yet.
+
+40:22.888 --> 40:23.989
+We're not all bad.
+
+40:24.022 --> 40:26.758
+Here's my number.
+
+40:26.792 --> 40:28.026
+If you ever want to talk.
+(phone chimes, vibrates)
+
+40:29.761 --> 40:32.063
+TARIQ:
+Ah, man, she totally got you.
+
+40:32.097 --> 40:34.933
+Whatever.
+You gonna go over there
+and talk to her or what?
+
+40:34.966 --> 40:36.868
+Sara talked to her.
+It's fine.
+
+40:36.902 --> 40:38.036
+Dear Prudence,
+Josh wants to talk to you.
+
+40:38.069 --> 40:39.738
+I got you. Don't worry.
+
+40:39.771 --> 40:41.039
+First Picard, and now this?
+
+40:41.072 --> 40:42.741
+Is there no end
+to your betrayal?
+
+40:42.774 --> 40:44.676
+I got more in store.
+
+40:46.111 --> 40:48.013
+What's the
+matter, Josh?
+
+40:48.046 --> 40:51.883
+You scared of me?
+No.
+
+40:51.917 --> 40:54.920
+Is this, um...
+
+40:54.953 --> 40:56.955
+about that "girlfriend"
+thing from earlier?
+
+40:56.988 --> 40:59.758
+Look, I-I just don't want
+things to get weird,
+
+40:59.791 --> 41:02.060
+or, like, pressurey or whatever.
+
+41:02.093 --> 41:04.062
+What, do you hate that term?
+
+41:04.095 --> 41:06.031
+'Cause I don't.
+
+41:07.799 --> 41:09.701
+I'm-I'm cool with it.
+
+41:12.303 --> 41:14.940
+TARIQ: Look alive, Hive.
+We're ready here!
+
+41:14.973 --> 41:18.209
+We're all set to port Sophe from
+Ratchet's servers to our own.
+
+41:18.243 --> 41:19.811
+Well done.
+I don't want to be dependent
+
+41:19.845 --> 41:21.813
+on Vikram for another second.
+
+41:21.847 --> 41:23.782
+(computers whooshing)
+
+41:23.815 --> 41:26.117
+(applause and cheering)
+
+41:27.986 --> 41:30.221
+And traffic is normal.
+
+41:30.255 --> 41:32.558
+The denial-of-service
+attack is over.
+
+41:32.591 --> 41:35.126
+We've lost some users, but if
+we don't have any more outages,
+
+41:35.160 --> 41:36.962
+our growth should resume apace.
+
+41:36.995 --> 41:38.797
+Well done, everyone. Now,
+
+41:38.830 --> 41:40.966
+back to work.
+(phone ringing)
+
+41:40.999 --> 41:44.235
+Mike, you surviving your time
+with the lawyers?
+
+41:44.269 --> 41:47.773
+Yeah, that sounds fascinating.
+My day?
+
+41:47.806 --> 41:49.941
+Well, you know what?
+It's been interesting.
+
+41:49.975 --> 41:52.043
+We'll have to get into it
+over a drink sometime.
+
+41:52.077 --> 41:53.945
+Okay, stay on it.
+
+41:53.979 --> 41:56.014
+If the leaker contacts
+Sophe again, we need to know.
+
+41:58.083 --> 42:01.920
+(goat bleating)
+
+42:06.024 --> 42:08.827
+(evidence alert blaring)
+
+42:08.860 --> 42:10.829
+What is it?
+
+42:10.862 --> 42:12.998
+It's about Mia.
+
+42:13.031 --> 42:15.266
+A user in San Francisco said
+he spotted a homeless man
+
+42:15.300 --> 42:17.035
+wearing a sweater
+like the one
+
+42:17.068 --> 42:18.604
+in Mia's video.
+A homeless man?
+
+42:18.637 --> 42:20.606
+Yeah, the user says
+he asked him where he got it,
+
+42:20.639 --> 42:22.340
+but the guy just said he found
+it in the trash somewhere.
+
+42:22.373 --> 42:24.910
+In the trash? Where?
+TARIQ: He doesn't know.
+
+42:24.943 --> 42:26.578
+He got spooked and left.
+
+42:26.612 --> 42:28.847
+Let's set up a meeting with this
+user, see what we can learn.
+
+42:28.880 --> 42:30.616
+What are you thinking?
+
+42:30.649 --> 42:32.350
+Well, why would anyone
+throw away an expensive sweater?
+
+42:32.383 --> 42:33.952
+SARA:
+You wouldn't,
+
+42:33.985 --> 42:35.921
+unless you thought
+it would implicate you.
+
+42:37.989 --> 42:40.125
+He knows we're looking for him.
+
+42:44.930 --> 42:47.365
+The killer's on Sophe.
+
+42:47.398 --> 42:49.167
+He's watching us.

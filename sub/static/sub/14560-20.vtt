@@ -1,0 +1,3144 @@
+WEBVTT
+
+00:14.448 --> 00:17.551
+How did Larry escape
+this moving day?
+
+00:17.585 --> 00:20.121
+He's at an astrophysics
+conference at Berkeley.
+
+00:20.154 --> 00:22.390
+Oh, why didn't
+I think of that.
+
+00:22.423 --> 00:24.558
+My first day
+at Cal Sci
+
+00:24.592 --> 00:26.127
+I stood in this office
+and Biederman
+
+00:26.160 --> 00:27.328
+sat right there
+and he gave me
+
+00:27.361 --> 00:29.463
+the once-over
+and he asked,
+
+00:29.497 --> 00:33.567
+"Are you the boy-genius
+that everyone says you are?"
+
+00:33.601 --> 00:36.137
+Well, now Biederman's retired,
+and you are the man.
+
+00:36.170 --> 00:38.406
+Oh, pardon me,
+I mean man-genius.
+
+00:38.439 --> 00:40.208
+You know, before Biederman,
+Newberry sat here.
+
+00:40.241 --> 00:41.575
+And before him
+it was Knox
+
+00:41.609 --> 00:43.777
+and Hightower.
+
+00:43.811 --> 00:44.978
+All those guys broke new ground
+in our field.
+
+00:45.012 --> 00:48.116
+It's like a torch being passed
+from all the great minds.
+
+00:48.149 --> 00:49.450
+Well, maybe
+those great minds
+
+00:49.483 --> 00:52.186
+will rub off on you
+just by, uh, sitting there.
+
+00:59.293 --> 01:00.228
+Hey, that-that's it.
+
+01:00.261 --> 01:02.363
+You know, I've been dancing
+around the idea
+
+01:02.396 --> 01:04.432
+of neural networks
+for quite some time,
+
+01:04.465 --> 01:06.134
+and maybe
+the whole time
+
+01:06.167 --> 01:07.368
+the answer I've been looking for
+
+01:07.401 --> 01:09.103
+has been right here
+in front of me--
+
+01:09.137 --> 01:11.105
+a historical neural network.
+
+01:11.139 --> 01:12.240
+Think about it.
+
+01:12.273 --> 01:14.208
+There's hundreds of brilliant
+people here at Cal Sci.
+
+01:14.242 --> 01:15.709
+What makes one academic,
+
+01:15.743 --> 01:17.545
+or one group of academics,
+
+01:17.578 --> 01:18.879
+generate revolutionary
+advancements
+
+01:18.912 --> 01:21.149
+while others just...
+just fizzle?
+
+01:21.182 --> 01:23.217
+I got to get this down.
+
+01:23.251 --> 01:24.218
+I'm sorry.
+
+01:24.252 --> 01:25.753
+Do you mind bringing in
+the rest of the stuff?
+
+01:25.786 --> 01:28.556
+I don't want
+to lose the flow.
+
+01:28.589 --> 01:30.524
+No, no, no,
+oh, sure, sure.
+
+01:30.558 --> 01:33.261
+ALAN (clears throat):
+He gets a breakthrough
+
+01:33.294 --> 01:35.296
+and we've got to bring in
+40 more boxes.
+
+01:35.329 --> 01:37.231
+Okay.
+
+02:05.693 --> 02:08.562
+*
+
+02:13.267 --> 02:14.402
+(knocking)
+
+02:14.435 --> 02:15.403
+ALAN:
+Charlie,
+
+02:15.436 --> 02:17.371
+you up all night?
+
+02:17.405 --> 02:19.640
+I, uh... lost track.
+
+02:19.673 --> 02:21.209
+I've been working.
+
+02:21.242 --> 02:23.177
+I'm actually on the verge
+of a breakthrough. Hi.
+
+02:23.211 --> 02:26.347
+NIKKI: Hey, yeah, Charlie,
+that's great,
+
+02:26.380 --> 02:27.815
+but we've been trying
+to reach you all morning.
+
+02:27.848 --> 02:28.816
+I turned my
+cell phone off.
+
+02:28.849 --> 02:30.218
+I'm sorry.
+I-I forgot.
+
+02:30.251 --> 02:31.385
+You also forgot
+the math
+
+02:31.419 --> 02:32.920
+you're supposed to
+be doing for Don?
+
+02:32.953 --> 02:35.456
+The home invasion case.
+
+02:35.489 --> 02:36.324
+Home invasions?
+
+02:36.357 --> 02:38.726
+LAPD brought us
+onto their task force.
+
+02:38.759 --> 02:40.361
+The same crew's
+hit seven houses
+
+02:40.394 --> 02:42.463
+in seven days.
+
+02:42.496 --> 02:44.498
+Right. They want me
+to generate a model.
+
+02:44.532 --> 02:46.300
+Profile some suspects--
+their MO's.
+
+02:46.334 --> 02:47.668
+Including their habit
+
+02:47.701 --> 02:49.670
+of making false 911 calls.
+
+02:49.703 --> 02:51.171
+So, what you got?
+
+02:52.606 --> 02:54.208
+Um...
+
+02:54.242 --> 02:55.376
+You haven't even started yet?
+
+02:55.409 --> 02:56.910
+Well, no... No.
+
+02:56.944 --> 02:59.847
+In terms of analyzing
+their MO's,
+
+02:59.880 --> 03:01.282
+I'll put together
+a payoff matrix
+
+03:01.315 --> 03:02.683
+and that should do the trick.
+
+03:02.716 --> 03:04.485
+And the 911 calls?
+
+03:04.518 --> 03:06.754
+I can use Voronoi tessellations
+to study the call patterns.
+
+03:06.787 --> 03:07.888
+And should be able
+
+03:07.921 --> 03:10.624
+to put together a program that
+will give us a hot zone.
+
+03:10.658 --> 03:12.826
+I can also run
+an analysis
+
+03:12.860 --> 03:14.061
+to profile the invaders,
+
+03:14.094 --> 03:16.497
+which will also tell us how many
+invaders we're looking for.
+
+03:16.530 --> 03:18.899
+All right.
+How soon can you be ready?
+
+03:18.932 --> 03:20.501
+I, uh...
+
+03:20.534 --> 03:22.736
+I guess I'll get to work on it
+right now.
+
+03:28.309 --> 03:29.443
+MAN (on phone):
+Three shots.
+
+03:29.477 --> 03:30.611
+You got to send someone please.
+
+03:30.644 --> 03:31.779
+WOMAN:
+What's the address?
+
+03:31.812 --> 03:33.947
+MAN:
+15462 Goldenrod Street.
+
+03:33.981 --> 03:35.383
+It's a white house.
+
+03:35.416 --> 03:37.285
+My neighbor's car
+is parked in the driveway.
+
+03:37.318 --> 03:38.886
+A green Camry.
+I know he's home.
+
+03:38.919 --> 03:40.288
+WOMAN:
+Did you see anyone?
+
+03:40.321 --> 03:41.389
+Hot zone's getting smaller.
+
+03:41.422 --> 03:43.657
+MAN: By the time I got to my
+window, they were gone.
+
+03:43.691 --> 03:45.593
+You got to hand it
+to your brother.
+
+03:45.626 --> 03:47.728
+He came up with this math
+pretty damn fast.
+
+03:47.761 --> 03:50.398
+Yeah, after screwing around
+for two days.
+
+03:50.431 --> 03:53.701
+His model says that
+we're looking for four guys.
+
+03:53.734 --> 03:56.704
+Smash and grab,
+says maybe kids.
+
+03:56.737 --> 03:59.640
+So we've got our math
+and we got our eyes in the area.
+
+03:59.673 --> 04:01.409
+Like my boy Tom Petty says,
+
+04:01.442 --> 04:03.311
+"The waiting is
+the hardest part."
+
+04:03.344 --> 04:05.313
+Hm, Petty, huh?
+
+04:05.346 --> 04:08.949
+Yeah, Petty and Neil Young,
+Springsteen.
+
+04:08.982 --> 04:12.453
+Oh, what, you pegged me
+for Beyonce and Jay-Z?
+
+04:12.486 --> 04:14.788
+I wouldn't even begin
+to try to peg you.
+
+04:16.457 --> 04:17.425
+David, this happens,
+
+04:17.458 --> 04:18.692
+you take point.
+
+04:18.726 --> 04:19.760
+Roger that.
+
+04:19.793 --> 04:23.397
+Wow, so the boss is giving
+his new relief commander
+
+04:23.431 --> 04:25.733
+a few hours in the
+pilot's seat, huh?
+
+04:25.766 --> 04:27.768
+You have flown before, right?
+
+04:27.801 --> 04:31.839
+Yes, with the same
+lousy navigator.
+
+04:31.872 --> 04:33.941
+Well, the motor pool's
+definitely not giving you
+
+04:33.974 --> 04:35.075
+any props for your bump.
+
+04:35.108 --> 04:36.944
+Got us in Grandma's
+Crown Vic.
+
+04:36.977 --> 04:39.680
+Thought they retired these
+things, like, a year ago.
+
+04:39.713 --> 04:41.014
+(groans)
+
+04:41.048 --> 04:44.352
+I don't want to when
+they retired this thing.
+
+04:45.453 --> 04:46.887
+(phone ringing)
+
+04:46.920 --> 04:48.422
+Yeah, Bentancourt.
+
+04:48.456 --> 04:51.692
+Yeah, you got
+a location?
+
+04:51.725 --> 04:52.993
+(keyboard clicking)
+
+04:54.728 --> 04:55.496
+All right, thanks.
+
+04:55.529 --> 04:57.498
+Aerial unit spotted
+a gray van.
+
+04:57.531 --> 04:59.032
+Four guys entering a house.
+
+04:59.066 --> 04:59.900
+Sounds right.
+
+04:59.933 --> 05:01.502
+Hey, Colby, I'm sending
+you an address.
+
+05:01.535 --> 05:03.437
+Copy that.
+
+05:05.539 --> 05:06.407
+All right, let's roll.
+
+05:07.475 --> 05:08.376
+(engine starts)
+
+05:16.450 --> 05:17.785
+All right,
+what do you say, boss?
+
+05:17.818 --> 05:19.887
+You guys cover the back.
+We'll take the front.
+
+05:34.835 --> 05:36.904
+(muffled scream):
+No! No!
+
+05:36.937 --> 05:37.938
+FBI, FBI. Relax.
+
+05:40.441 --> 05:42.610
+(rustling)
+
+05:42.643 --> 05:44.445
+- Hey, you okay?
+- (whimpers): Yes.
+
+05:44.478 --> 05:45.245
+Where are they?
+
+05:45.278 --> 05:47.415
+Out in the back--
+the guesthouse.
+
+05:47.448 --> 05:48.416
+They've got my husband.
+
+05:48.449 --> 05:50.551
+FBI. Put your hands up slowly.
+
+05:50.584 --> 05:52.420
+Turn around.
+
+05:52.453 --> 05:53.521
+Gun!
+
+05:54.788 --> 05:56.490
+All right, come
+here, come here.
+
+05:56.524 --> 05:57.925
+Stay in here.
+Lock the door.
+
+05:57.958 --> 05:58.959
+Don't let anyone in.
+
+06:00.528 --> 06:02.596
+(automatic weapon firing)
+
+06:27.488 --> 06:29.490
+DON:
+Whoa, whoa. Easy, easy.
+
+06:31.492 --> 06:32.793
+(tires squealing)
+
+06:34.628 --> 06:35.896
+David, Colby, coming your way!
+
+06:51.244 --> 06:52.179
+(tires screeching)
+
+06:55.716 --> 06:57.918
+(tires squealing)
+
+07:02.155 --> 07:03.491
+You all right?
+
+07:03.524 --> 07:04.492
+Yeah, yeah.
+
+07:04.525 --> 07:05.659
+This is Sinclair.
+
+07:05.693 --> 07:07.595
+We have a gray van heading north
+on Citrus.
+
+07:07.628 --> 07:08.996
+Need all available units.
+
+07:09.029 --> 07:12.533
+That's one way to retire a car.
+
+07:12.566 --> 07:13.767
+How is he?
+
+07:13.801 --> 07:14.635
+He's unconscious but alive.
+
+07:14.668 --> 07:16.837
+- I'll call it in.
+- Uzis, Kevlar...
+
+07:16.870 --> 07:18.972
+These guys weren't
+messing around.
+
+07:19.006 --> 07:21.475
+This is Eppes...
+
+07:21.509 --> 07:22.576
+(knife impacts, Don grunts)
+
+07:40.160 --> 07:41.261
+Hey, where is he?
+
+07:41.294 --> 07:42.262
+DAVID:
+He's in the O.R., okay?
+
+07:42.295 --> 07:43.997
+The doctors took him to surgery
+ten minutes ago.
+
+07:44.031 --> 07:44.865
+What happened?
+
+07:44.898 --> 07:46.867
+The bad guys had
+some serious firepower,
+
+07:46.900 --> 07:48.769
+and we were outgunned.
+
+07:48.802 --> 07:50.037
+What about Don?
+
+07:50.070 --> 07:51.705
+There's a fifth man.
+
+07:51.739 --> 07:53.240
+He was hiding
+in the guesthouse,
+
+07:53.273 --> 07:54.908
+and, uh, he surprised us.
+
+07:54.942 --> 07:56.944
+Hey. We just
+heard the news.
+
+07:56.977 --> 07:57.945
+Are you all right?
+
+07:57.978 --> 08:00.213
+Yeah. A few stitches.
+I still know my name.
+
+08:01.915 --> 08:04.184
+I was there-- I was supposed
+to have his back.
+
+08:04.217 --> 08:05.519
+No, no,
+
+08:05.553 --> 08:06.820
+I'm sure it wasn't your fault.
+
+08:06.854 --> 08:08.589
+He's right, it's not...
+it's not your fault.
+
+08:08.622 --> 08:09.990
+I predicted four invaders.
+(phone rings)
+
+08:10.023 --> 08:11.859
+I didn't account
+for a fifth man.
+
+08:11.892 --> 08:13.527
+Yeah. Sinclair.
+
+08:13.561 --> 08:16.930
+Fine. Get it to the lab, and
+we'll take it from there, okay?
+
+08:16.964 --> 08:18.866
+All right, SID pulled
+a partial print
+
+08:18.899 --> 08:20.701
+from a door handle
+at the scene,
+
+08:20.734 --> 08:21.669
+but it's smudged.
+
+08:21.702 --> 08:24.037
+Could take a couple of days
+to get results.
+
+08:24.071 --> 08:25.973
+Now, Charlie, I know you've
+helped us
+
+08:26.006 --> 08:27.207
+with this kind of thing before.
+
+08:27.240 --> 08:29.710
+Yeah, using
+a wavelet-based algorithm.
+
+08:29.743 --> 08:31.645
+Yeah, no, I want
+to help you guys,
+
+08:31.679 --> 08:33.781
+- but my place is here.
+- No, no, your place
+
+08:33.814 --> 08:35.282
+is where you're needed,
+all of you.
+
+08:35.315 --> 08:37.818
+Just find these guys--
+that's what Don would want.
+
+08:37.851 --> 08:38.986
+I'll call you when there's news.
+
+08:39.019 --> 08:41.689
+AMITA: Come on,
+Charlie, let's go.
+
+08:43.356 --> 08:45.959
+(siren wailing)
+
+08:45.993 --> 08:49.930
+I-I didn't see their faces;
+I didn't see much of anything.
+
+08:49.963 --> 08:52.032
+Okay, what about you,
+Mrs. Fisher?
+
+08:52.065 --> 08:53.667
+They were on us before
+we could even turn around.
+
+08:53.701 --> 08:55.803
+Well, did you hear anything?
+
+08:55.836 --> 08:58.038
+Maybe they called
+each other by name,
+
+08:58.071 --> 09:00.908
+or... one of them had an accent.
+
+09:00.941 --> 09:03.076
+- I don't remember.
+- Well, think harder--
+
+09:03.110 --> 09:05.913
+maybe you recognized a
+voice-- a delivery man,
+
+09:05.946 --> 09:07.781
+someone who's done work
+on your house.
+
+09:07.815 --> 09:08.882
+Um, I'm sorry.
+
+09:14.154 --> 09:18.091
+We'll have someone
+come and get your statements.
+
+09:22.863 --> 09:24.965
+AMITA: We need to adjust
+the parameters.
+
+09:24.998 --> 09:27.567
+At this rate, this
+is gonna take days.
+
+09:29.970 --> 09:33.040
+I don't understand where
+my predictive model went wrong.
+
+09:33.073 --> 09:34.808
+Th-This is where
+my head was,
+
+09:34.842 --> 09:37.110
+instead of where
+it was supposed to be.
+
+09:37.144 --> 09:40.013
+If I'd have committed more,
+if I had spent more time...
+
+09:40.047 --> 09:42.015
+Well, you had the data you had.
+
+09:42.049 --> 09:43.984
+Yeah, and I let it
+rule me.
+
+09:44.017 --> 09:45.085
+All I saw were
+a bunch of kids
+
+09:45.118 --> 09:46.119
+pulling smash and grabs.
+
+09:46.153 --> 09:47.387
+Because I crunch numbers
+
+09:47.420 --> 09:49.056
+instead of looking
+for the underlying truth.
+
+09:49.089 --> 09:50.991
+Look, Charlie...
+
+09:51.024 --> 09:54.127
+I can't begin
+to imagine
+
+09:54.161 --> 09:55.696
+what you're going
+through right now.
+
+09:55.729 --> 09:58.799
+But we need to focus
+on what we can do now.
+
+09:58.832 --> 10:01.669
+Okay? If we can reconstruct
+this print, then we can find
+
+10:01.702 --> 10:03.136
+the guy that attacked Don.
+
+10:03.170 --> 10:06.139
+Charlie, I can't
+do this alone.
+
+10:08.275 --> 10:10.177
+(siren wailing)
+
+10:18.919 --> 10:21.088
+- How is he?
+- He's, uh, he's in surgery.
+
+10:21.121 --> 10:23.657
+It's been, uh...
+
+10:23.691 --> 10:25.258
+five hours.
+
+10:25.292 --> 10:27.795
+I was in Portland.
+I was at a conference.
+
+10:27.828 --> 10:29.162
+I got here, I'm sorry,
+
+10:29.196 --> 10:31.098
+I got here as fast as...
+
+10:42.142 --> 10:44.111
+Recovered the
+getaway van.
+
+10:44.144 --> 10:46.279
+Stolen from a used car lot
+two days ago.
+
+10:46.313 --> 10:48.215
+Bad guys wiped it down
+and torched it.
+
+10:48.248 --> 10:49.817
+Man, this
+doesn't add up.
+
+10:49.850 --> 10:52.686
+I mean, these guys break
+into houses like pros,
+
+10:52.720 --> 10:54.654
+armed to the teeth,
+leaving no witnesses?
+
+10:59.727 --> 11:03.997
+All they take is cash
+and jewelry.
+
+11:04.031 --> 11:07.100
+Leave behind TVs, computers,
+high-end electronics.
+
+11:07.134 --> 11:08.736
+Hard to blame Charlie
+
+11:08.769 --> 11:10.037
+for coming up
+with the wrong profile.
+
+11:10.070 --> 11:11.972
+Well, there's plenty
+of blame to go around.
+
+11:19.212 --> 11:21.715
+Four years in the LAPD,
+
+11:21.749 --> 11:23.416
+you telling me you never
+got tagged before?
+
+11:23.450 --> 11:25.418
+Yeah, a few
+times, sure.
+
+11:25.452 --> 11:27.320
+But I never
+left my partner hanging.
+
+11:27.354 --> 11:30.323
+You go through enough doors,
+the odds catch up with you.
+
+11:32.793 --> 11:35.095
+Don taught me that.
+
+11:38.465 --> 11:41.735
+When Don and I were dating...
+
+11:41.769 --> 11:44.071
+I was always afraid
+he was gonna get hurt.
+
+11:44.104 --> 11:46.139
+He'd be too busy
+worrying about me
+
+11:46.173 --> 11:48.075
+instead of himself.
+
+11:51.912 --> 11:54.014
+Things never go the way
+we think they will,
+
+11:54.047 --> 11:55.949
+do they?
+
+12:06.259 --> 12:09.229
+CHARLIE:
+Hey.
+
+12:09.262 --> 12:10.030
+So the wavelet analysis
+came through.
+
+12:10.063 --> 12:12.165
+We reconstructed
+the partial print.
+
+12:12.199 --> 12:13.433
+DAVID:
+All right, did you run a search?
+
+12:13.466 --> 12:15.335
+The crime
+databases failed
+
+12:15.368 --> 12:18.772
+to produce a result, so-so
+we widened the scope.
+
+12:20.007 --> 12:22.275
+L.A. Unified School District.
+
+12:22.309 --> 12:23.476
+CHARLIE: Yeah, all teachers have
+to be fingerprinted.
+
+12:24.444 --> 12:26.246
+DAVID:
+Tom Kardum, 31.
+
+12:26.279 --> 12:28.248
+C... Chemistry teacher.
+
+12:28.281 --> 12:31.184
+2007 Teacher of the Year.
+
+12:31.218 --> 12:32.886
+Mayor's Heroes Award
+
+12:32.920 --> 12:34.788
+for his work with, uh,
+underprivileged children.
+
+12:34.822 --> 12:37.057
+I mean, this guy doesn't
+even have a parking ticket.
+
+12:37.090 --> 12:38.425
+Are you sure about the math,
+Charlie?
+
+12:38.458 --> 12:39.827
+Uh, yeah.
+
+12:39.860 --> 12:41.128
+Amita and I tweaked
+the parameters.
+
+12:41.161 --> 12:43.997
+I don't think we nudged it
+too hard.
+
+12:44.031 --> 12:45.532
+Then again,
+
+12:45.565 --> 12:47.134
+I'm not having
+the greatest week.
+
+12:47.167 --> 12:50.003
+Well, it can't hurt
+to talk to the guy, right?
+
+12:50.037 --> 12:51.271
+(cell phone ringing)
+
+12:51.304 --> 12:53.206
+Oh, this is my dad.
+
+12:54.307 --> 12:56.109
+Hey.
+
+12:56.143 --> 12:57.477
+Okay, I'll be
+right there.
+
+12:57.510 --> 13:01.148
+Um, Don's out of surgery.
+
+13:02.282 --> 13:04.284
+Look, you got
+the wrong guy.
+
+13:04.317 --> 13:06.086
+I don't break
+into houses.
+
+13:06.119 --> 13:08.221
+And the only gun I've ever
+handled was on my Wii.
+
+13:08.255 --> 13:10.023
+How do you explain
+the fingerprint?
+
+13:10.057 --> 13:11.258
+I can't.
+
+13:11.291 --> 13:13.226
+Though the work I do
+with at-risk kids
+
+13:13.260 --> 13:14.928
+has taught me a
+couple of things:
+
+13:14.962 --> 13:16.296
+cops, they
+make mistakes,
+
+13:16.329 --> 13:18.331
+and those crime labs
+aren't like the ones
+
+13:18.365 --> 13:19.532
+you see on those
+dopey TV shows.
+
+13:19.566 --> 13:21.034
+You have anybody
+that can
+
+13:21.068 --> 13:22.836
+vouch for your whereabouts
+last night?
+
+13:22.870 --> 13:25.472
+Yeah, I had a game in Westwood,
+finished up around 10:00.
+
+13:25.505 --> 13:26.874
+After that, I went to
+
+13:26.907 --> 13:28.208
+my girlfriend's house
+in Cheviot Hills.
+
+13:28.241 --> 13:29.877
+You know, um,
+
+13:29.910 --> 13:32.312
+here's her number.
+
+13:33.947 --> 13:35.482
+You can talk to her yourself.
+
+13:35.515 --> 13:37.217
+Hey, thanks for your time.
+
+13:37.250 --> 13:38.551
+No worries.
+
+13:38.585 --> 13:39.552
+Hey, Tom,
+
+13:39.586 --> 13:41.288
+you, uh, you take
+the freeway
+
+13:41.321 --> 13:42.189
+to see your girlfriend?
+
+13:42.222 --> 13:43.223
+Yeah.
+
+13:43.256 --> 13:45.058
+Cheviot Hills.
+
+13:45.092 --> 13:46.126
+That's the Robertson exit,
+right?
+
+13:47.294 --> 13:48.261
+Uh, no, National.
+
+13:48.295 --> 13:49.596
+(chuckles)
+
+13:49.629 --> 13:51.198
+You know, the freeway was closed
+
+13:51.231 --> 13:53.133
+at the National exit last night.
+
+13:54.567 --> 13:56.937
+Someone made a phony 911 call.
+
+14:24.697 --> 14:26.599
+*
+
+14:30.603 --> 14:33.306
+Your son's a lucky man,
+Mr. Eppes.
+
+14:33.340 --> 14:35.342
+The knife nicked
+the pulmonary artery
+
+14:35.375 --> 14:38.145
+and collapsed a lung, but we
+were able to get to him in time.
+
+14:38.178 --> 14:39.546
+How is he now?
+
+14:39.579 --> 14:41.514
+We repaired the arterial damage
+with a synthetic graft,
+
+14:41.548 --> 14:44.017
+and we re-expanded
+the lung.
+
+14:44.051 --> 14:45.919
+He's not out of the woods yet,
+but I'm encouraged.
+
+14:45.953 --> 14:49.056
+(alarm beeping)
+
+14:49.089 --> 14:50.623
+I'm sorry.
+You'll have to excuse me.
+
+14:50.657 --> 14:52.259
+- What's going on?
+- Call a code blue!
+
+14:52.292 --> 14:53.360
+Get the crash cart!
+
+14:53.393 --> 14:55.395
+ALAN:
+What's happening?
+
+14:55.428 --> 14:57.397
+DOCTOR:
+Prepare the paddles.
+
+14:57.430 --> 14:58.398
+- What's his rhythm?
+- V tach.
+
+14:58.431 --> 15:00.100
+Yeah, I'm paging him now.
+
+15:00.133 --> 15:01.301
+Start CPR.
+
+15:01.334 --> 15:02.269
+(alarm beeping)
+
+15:02.302 --> 15:03.570
+Charge to 360.
+
+15:03.603 --> 15:05.705
+- Charging to 360.
+- Clear!
+
+15:05.738 --> 15:07.440
+Clear.
+Clear.
+
+15:07.474 --> 15:09.376
+(alarm beeping)
+
+15:09.409 --> 15:10.643
+(flatline)
+
+15:10.677 --> 15:11.578
+Asystole.
+
+15:11.611 --> 15:13.313
+Open the line.
+
+15:13.346 --> 15:16.416
+Push an amp of epi
+and an amp of atropine.
+
+15:16.449 --> 15:18.185
+Line's open.
+
+15:18.218 --> 15:20.020
+Pushing atropine.
+
+15:29.329 --> 15:30.597
+Please, just tell me he's okay.
+
+15:30.630 --> 15:33.233
+DOCTOR:
+That knife did a lot of damage.
+
+15:33.266 --> 15:35.468
+Your son went into arrest
+due to trauma--
+
+15:35.502 --> 15:38.038
+not just from his wounds,
+but also the surgery.
+
+15:38.071 --> 15:40.340
+We were able
+to bring him back.
+
+15:40.373 --> 15:41.574
+We're putting him
+on anti-arrhythmia meds,
+
+15:41.608 --> 15:43.210
+but we'll need to keep
+a close eye on him.
+
+15:43.243 --> 15:45.212
+What aren't you telling us?
+
+15:45.245 --> 15:47.314
+I expect a full recovery,
+
+15:47.347 --> 15:50.450
+but I can't guarantee that there
+won't be another major event.
+
+15:50.483 --> 15:52.252
+The next 24 hours
+will be critical.
+
+16:12.572 --> 16:13.540
+Alan called.
+
+16:13.573 --> 16:16.076
+Don is okay.
+
+16:16.109 --> 16:17.710
+Uh, at least for now.
+
+16:17.744 --> 16:19.646
+I mean...
+
+16:21.748 --> 16:23.416
+What do we have on Kardum?
+
+16:23.450 --> 16:25.318
+Guy's got another reason to run.
+
+16:25.352 --> 16:28.155
+Two weeks ago, Missing Persons
+
+16:28.188 --> 16:29.556
+interviewed him
+about the disappearance
+
+16:29.589 --> 16:31.258
+of a Westside
+financial adviser.
+
+16:31.291 --> 16:32.225
+Dennis Alessi?
+
+16:32.259 --> 16:34.361
+A witness saw
+the two of them
+
+16:34.394 --> 16:36.129
+in a bar,
+they left together.
+
+16:36.163 --> 16:38.431
+An hour later,
+security cameras
+
+16:38.465 --> 16:41.534
+at Alessi's office building
+show them going in.
+
+16:41.568 --> 16:43.470
+All right.
+Kardum told police
+
+16:43.503 --> 16:47.274
+he was there to get
+an investment prospectus.
+
+16:47.307 --> 16:50.710
+Checked the victims' names
+against Alessi's client list,
+
+16:50.743 --> 16:52.645
+all eight of the names
+are on here.
+
+16:56.616 --> 16:58.551
+All right, so, uh,
+what are we thinking?
+
+16:58.585 --> 16:59.619
+Alessi is
+bragging about
+
+16:59.652 --> 17:01.554
+his rich clients over drinks
+
+17:01.588 --> 17:02.789
+and Kardum sees an opportunity?
+
+17:02.822 --> 17:04.224
+NIKKI:
+I still don't get how
+
+17:04.257 --> 17:05.692
+our teacher of the year
+suddenly turns into
+
+17:05.725 --> 17:06.626
+a ten most wanted poster.
+
+17:08.095 --> 17:10.263
+No? Well, greed works for me.
+
+17:17.404 --> 17:20.073
+COLBY:
+So, we searched your place.
+
+17:20.107 --> 17:21.808
+We found an automatic weapon.
+(handcuffs clicking)
+
+17:21.841 --> 17:24.244
+We found Kevlar.
+
+17:24.277 --> 17:25.478
+We found bloodstains
+
+17:25.512 --> 17:26.646
+on a pair of shoes.
+
+17:26.679 --> 17:29.182
+Now, the question is,
+
+17:29.216 --> 17:30.650
+is that gonna match
+
+17:30.683 --> 17:34.621
+Agent Eppes or
+Dennis Alessi?
+
+17:34.654 --> 17:36.123
+We know about Alessi.
+
+17:36.156 --> 17:38.591
+We know that you've been
+targeting his clients.
+
+17:40.693 --> 17:41.661
+Tough guy.
+
+17:41.694 --> 17:43.863
+Just wait until we ID
+the rest of your crew.
+
+17:43.896 --> 17:46.133
+This is your chance
+
+17:46.166 --> 17:49.636
+to give them up
+before they give you up.
+
+17:49.669 --> 17:52.239
+An FBI agent
+
+17:52.272 --> 17:54.141
+is in the hospital; he may die.
+
+17:54.174 --> 17:56.309
+I had nothing to do with that.
+
+17:56.343 --> 17:58.211
+Yeah, that's right.
+
+17:58.245 --> 17:59.812
+You were too busy playing
+with your Wii, weren't you?
+
+18:02.149 --> 18:05.185
+I want a lawyer.
+
+18:12.225 --> 18:13.526
+You actually might
+need a doctor.
+
+18:13.560 --> 18:15.728
+'Cause there's
+things that I can
+
+18:15.762 --> 18:17.797
+do to you,
+won't even leave a mark.
+
+18:17.830 --> 18:18.765
+Let him go.
+
+18:18.798 --> 18:20.133
+Yeah.
+
+18:20.167 --> 18:22.135
+You're gonna need
+meds just to get up
+
+18:22.169 --> 18:23.770
+and get out of bed in the
+morning, you got that?!
+
+18:23.803 --> 18:25.738
+I said let him go.
+
+18:27.240 --> 18:28.475
+Granger!
+
+18:28.508 --> 18:29.742
+Take a walk.
+
+18:51.731 --> 18:54.701
+You know, you might want
+to give me a heads up next time
+
+18:54.734 --> 18:57.770
+before you go
+changing the playbook.
+
+18:57.804 --> 19:00.207
+Don's in a hospital,
+breathing through a tube,
+
+19:00.240 --> 19:01.774
+because these guys
+put him there.
+
+19:01.808 --> 19:03.810
+And we are gonna get them.
+Not like this.
+
+19:03.843 --> 19:05.445
+We've done this before, David.
+
+19:05.478 --> 19:07.780
+I wasn't the boss before.
+
+19:07.814 --> 19:10.317
+Well, I can think of plenty of
+times where we ran hard at a guy
+
+19:10.350 --> 19:12.385
+and Don just
+looked the other way.
+
+19:15.888 --> 19:17.424
+I'm not Don.
+
+19:19.559 --> 19:20.727
+All right?
+
+19:20.760 --> 19:22.662
+I'm not him.
+
+19:34.341 --> 19:36.243
+(respirator pulsing
+rhythmically)
+
+19:38.778 --> 19:42.649
+You know, it's not like I
+didn't know this could happen.
+
+19:42.682 --> 19:46.286
+I just... didn't think
+it would happen to Don.
+
+19:49.556 --> 19:50.757
+You know, he was born
+in this hospital.
+
+19:52.792 --> 19:54.661
+Yeah, he was a handful
+even then.
+
+19:54.694 --> 19:55.895
+Long labor,
+
+19:55.928 --> 19:58.565
+difficult delivery.
+
+19:58.598 --> 20:00.300
+You think he's
+stubborn now?
+
+20:00.333 --> 20:01.801
+(laughs softly)
+
+20:01.834 --> 20:04.904
+I remember when my wife
+was in recovery.
+
+20:04.937 --> 20:07.840
+They gave me him to... to hold.
+
+20:07.874 --> 20:11.411
+And, um, I hadn't been
+around kids much,
+
+20:11.444 --> 20:12.912
+so I didn't know what to do.
+
+20:12.945 --> 20:14.881
+I... couldn't even
+remember any lullabies.
+
+20:14.914 --> 20:18.818
+So for hours,
+I sang Sgt. Pepper to him.
+
+20:20.820 --> 20:23.823
+The whole album,
+start to finish.
+
+20:23.856 --> 20:25.892
+Must have been
+half a dozen times.
+
+20:27.927 --> 20:30.997
+I guess what I'm trying
+to say is that, uh,
+
+20:31.030 --> 20:32.732
+there is no way to prepare.
+
+20:34.867 --> 20:38.405
+You just hope
+that when that call comes,
+
+20:38.438 --> 20:40.507
+you're strong enough to handle
+whatever comes next.
+
+20:47.480 --> 20:50.717
+I know Missing Persons already
+spoke to you about Mr. Alessi.
+
+20:50.750 --> 20:52.419
+I keep hoping
+this is a bad dream
+
+20:52.452 --> 20:53.920
+and Dennis will walk
+in that door tomorrow.
+
+20:53.953 --> 20:57.023
+Forensics on hair recovered
+from your boss's condo
+
+20:57.056 --> 21:00.493
+matched blood on a pair of
+shoes belonging to our suspect.
+
+21:00.527 --> 21:02.529
+So right now, it
+doesn't look good.
+
+21:02.562 --> 21:04.897
+Why would someone
+want to hurt Dennis?
+
+21:04.931 --> 21:07.667
+We think the person who did this
+accessed your boss's files.
+
+21:07.700 --> 21:09.869
+I don't see how anyone
+could gain access.
+
+21:09.902 --> 21:11.738
+The files are
+on a hard drive.
+
+21:11.771 --> 21:12.805
+Dennis kept it
+in his safe.
+
+21:16.008 --> 21:17.710
+(keypad beeping)
+
+21:22.349 --> 21:24.083
+This is the only one
+that exists.
+
+21:24.116 --> 21:26.986
+Are you sure there's
+nothing else missing in there?
+
+21:29.121 --> 21:31.924
+Dennis kept a key
+to a deposit box in here.
+
+21:34.026 --> 21:34.961
+It's gone.
+
+21:34.994 --> 21:36.996
+- Maybe he had it with him?
+- It's possible,
+
+21:37.029 --> 21:38.865
+but not likely;
+the key belonged to a client.
+
+21:38.898 --> 21:39.866
+Who?
+
+21:39.899 --> 21:41.501
+Dennis told me
+the man was
+
+21:41.534 --> 21:43.936
+a special client,
+not on the regular list.
+
+21:43.970 --> 21:45.572
+He said not to concern myself.
+
+21:48.908 --> 21:49.942
+Thanks.
+
+21:55.882 --> 21:57.850
+You figure out where
+you went wrong?
+
+22:00.119 --> 22:01.521
+Not yet.
+
+22:11.431 --> 22:13.065
+I guess we both got
+a little cocky, huh?
+
+22:13.099 --> 22:15.935
+You, with your
+math, and...
+
+22:18.004 --> 22:22.609
+Well, me, it's a constant state.
+
+22:22.642 --> 22:23.910
+It's usually Don who has
+to protect me from myself.
+
+22:23.943 --> 22:26.012
+He's been doing that for me
+my whole life.
+
+22:27.880 --> 22:29.682
+You were right
+about our teacher of the year.
+
+22:29.716 --> 22:32.118
+So, you want to
+go two for two?
+
+22:32.151 --> 22:35.488
+It's financial
+guy's client list.
+
+22:35.522 --> 22:36.756
+Our bad guys have been
+using it to pick targets.
+
+22:36.789 --> 22:39.091
+You're thinking I could use this
+
+22:39.125 --> 22:41.461
+to predict
+where the next victim will be.
+
+22:41.494 --> 22:42.462
+Can you?
+
+22:42.495 --> 22:44.397
+(sighs)
+
+22:44.431 --> 22:45.498
+I could, um...
+
+22:48.067 --> 22:51.604
+I could search for commonalities
+using a multi-attribute
+
+22:51.638 --> 22:53.573
+compositional model.
+
+22:53.606 --> 22:55.107
+Thanks.
+
+22:55.141 --> 22:56.776
+DAVID:
+But what do we have on Alessi?
+
+22:56.809 --> 23:00.012
+At least half of his clients
+run cash businesses.
+
+23:00.046 --> 23:02.682
+Most of them were in trouble
+before Alessi took them on.
+
+23:02.715 --> 23:05.518
+They went from near-bankrupt
+to flush within 18 months.
+
+23:05.552 --> 23:07.887
+Sign me up
+for his investment seminar.
+
+23:07.920 --> 23:09.121
+He had to have been
+
+23:09.155 --> 23:10.690
+laundering money
+through these businesses.
+
+23:10.723 --> 23:11.791
+No wonder none of our
+victims are talking.
+
+23:11.824 --> 23:13.493
+They all have
+something to hide.
+
+23:13.526 --> 23:16.496
+Nikki said Alessi's assistant
+mentioned he had a client,
+
+23:16.529 --> 23:18.565
+kept some kind of stash
+in a deposit box.
+
+23:18.598 --> 23:19.666
+Key's missing.
+
+23:19.699 --> 23:21.200
+We're checking digital files
+from the security camera
+
+23:21.233 --> 23:22.168
+in Alessi's building,
+
+23:22.201 --> 23:25.037
+seeing if we can ID the guy,
+and we've got
+
+23:25.071 --> 23:27.707
+Charlie working on
+Alessi's client list,
+
+23:27.740 --> 23:29.542
+trying to find our next target.
+
+23:29.576 --> 23:30.543
+He better get a move on.
+
+23:30.577 --> 23:33.145
+These guys are due to
+strike again tonight.
+
+23:38.250 --> 23:39.986
+When's the last time
+you slept?
+
+23:40.019 --> 23:42.021
+Sleep's not
+a priority.
+
+23:42.054 --> 23:44.457
+Did you run your analysis
+of Alessi's client list?
+
+23:44.491 --> 23:45.625
+Yeah.
+
+23:45.658 --> 23:49.462
+I got the list of houses.
+I set the target priorities.
+
+23:49.496 --> 23:51.197
+Who knows if it's right?
+
+23:53.866 --> 23:56.168
+I could use fresh eyes.
+
+23:59.138 --> 24:03.175
+You're using game theory,
+a payoff matrix?
+
+24:03.209 --> 24:05.077
+I've analyzed professionals,
+
+24:05.111 --> 24:08.247
+thrill criminals, crackhead
+smash and grabbers...
+
+24:08.280 --> 24:10.550
+None of our suspects
+fit those profiles.
+
+24:10.583 --> 24:11.918
+Maybe your assumptions
+are wrong.
+
+24:11.951 --> 24:13.520
+What do you mean?
+
+24:13.553 --> 24:14.854
+Maybe these are not robberies.
+
+24:14.887 --> 24:17.690
+Let's throw out
+our preconceptions
+
+24:17.724 --> 24:19.559
+and walk through
+the crimes again.
+
+24:19.592 --> 24:21.828
+Okay.
+
+24:21.861 --> 24:26.966
+So far, each break-in
+has started the same way.
+
+24:29.035 --> 24:32.071
+The invaders disable
+the alarm system
+
+24:32.104 --> 24:35.775
+at the master circuit box.
+
+24:35.808 --> 24:39.045
+They enter the house through
+multiple access points.
+
+24:42.715 --> 24:45.718
+Moving through the house...
+
+24:45.752 --> 24:47.019
+(water running)
+
+24:47.053 --> 24:50.557
+...they use a classic
+"seek and subdue" strategy,
+
+24:50.590 --> 24:52.592
+zeroing in on the occupants...
+
+24:54.260 --> 24:56.028
+(water running)
+
+24:57.697 --> 24:58.598
+...taking them by surprise.
+
+25:01.668 --> 25:03.603
+Hands.
+
+25:04.637 --> 25:05.605
+(grunting)
+
+25:06.906 --> 25:08.608
+(water running)
+
+25:08.641 --> 25:10.543
+(grunting)
+
+25:12.111 --> 25:15.582
+In every instance, they were
+cautious, made zero mistakes.
+
+25:15.615 --> 25:17.917
+There was one significant
+departure from their previous
+
+25:17.950 --> 25:19.552
+MO on the night
+Don got hurt.
+
+25:19.586 --> 25:21.654
+The fifth man
+in the guesthouse.
+
+25:21.688 --> 25:23.022
+What was he doing there?
+
+25:23.055 --> 25:24.557
+The police said
+there was nothing of value,
+
+25:24.591 --> 25:28.761
+just some cans of food,
+water, old clothes...
+
+25:28.795 --> 25:30.296
+A bed.
+
+25:30.329 --> 25:33.700
+A bed and a bathroom.
+
+25:33.733 --> 25:36.669
+A place to sleep.
+
+25:36.703 --> 25:38.605
+A place to wash up.
+
+25:45.111 --> 25:46.713
+- There it is.
+- What?
+
+25:46.746 --> 25:49.248
+18 months ago, that guesthouse
+underwent renovations.
+
+25:49.281 --> 25:52.985
+They retrofitted the walls
+with concrete, three feet thick.
+
+25:53.019 --> 25:56.355
+They installed steel doors,
+tempered glass windows.
+
+25:56.388 --> 25:59.892
+They turned that room
+into a fortress.
+
+25:59.926 --> 26:01.227
+Robbery wasn't
+their motive.
+
+26:01.260 --> 26:03.730
+CHARLIE:
+They were after something else.
+
+26:03.763 --> 26:04.764
+AMITA:
+The fifth man.
+
+26:04.797 --> 26:08.601
+CHARLIE:
+He wasn't part of their crew.
+
+26:08.635 --> 26:10.603
+He was their target.
+
+26:10.637 --> 26:12.338
+(car engines starting)
+
+26:22.414 --> 26:23.349
+(elevator bell dings)
+
+26:25.117 --> 26:26.218
+Hey.
+
+26:26.252 --> 26:28.120
+Got the ID on the three bad guys
+we picked up last night.
+
+26:29.321 --> 26:33.760
+Boris Ancic, Ivan Radman,
+Milan Jankovic.
+
+26:33.793 --> 26:36.195
+Ancic is an engineer,
+Radman a lab tech,
+
+26:36.228 --> 26:38.130
+and Jankovic a fireman.
+
+26:38.164 --> 26:40.132
+Just like our teacher,
+
+26:40.166 --> 26:41.133
+none of them have a record.
+
+26:41.167 --> 26:43.636
+They're all from the same small
+town in Croatia,
+
+26:43.670 --> 26:45.137
+a place called Brezko.
+
+26:45.171 --> 26:47.206
+They immigrated to the
+U.S. about 12 years ago.
+
+26:47.239 --> 26:49.676
+It doesn't explain why four guys
+with no criminal records
+
+26:49.709 --> 26:52.712
+wait 12 years and then turn into
+hardened crooks overnight.
+
+26:52.745 --> 26:55.081
+Yeah, well, I can fill in
+some of those blanks.
+
+26:59.686 --> 27:01.053
+We went back.
+
+27:01.087 --> 27:02.755
+We took a look at
+all the targeted homes.
+
+27:02.789 --> 27:05.057
+Each one of them underwent
+a renovation of some sort
+
+27:05.091 --> 27:07.059
+whether it be to the attic,
+
+27:07.093 --> 27:08.861
+or the basement,
+or the guesthouse.
+
+27:08.895 --> 27:12.899
+In each case, creating a panic
+room, a secure place to hide.
+
+27:12.932 --> 27:15.167
+Okay, I'm not sure I understand
+the significance, Charlie.
+
+27:15.201 --> 27:17.737
+All of the renovations
+in all of the homes
+
+27:17.770 --> 27:20.306
+occurred within
+the last 18 months.
+
+27:20.339 --> 27:22.041
+That's the same time frame
+
+27:22.074 --> 27:23.676
+Alessi started his most recent
+money-laundering venture.
+
+27:23.710 --> 27:25.878
+The panic room,
+the location of the houses
+
+27:25.912 --> 27:28.180
+on defensible terrain,
+the multiple egresses--
+
+27:28.214 --> 27:30.082
+all consistent with safe houses.
+
+27:30.116 --> 27:32.118
+The man you and Don
+ran into that night
+
+27:32.151 --> 27:33.385
+was not part of that crew.
+
+27:33.419 --> 27:35.722
+He was hiding out,
+trying to escape.
+
+27:35.755 --> 27:38.424
+Alessi handpicked his clients,
+
+27:38.457 --> 27:39.892
+and not just because
+they were willing
+
+27:39.926 --> 27:41.027
+to hide dirty money for him.
+
+27:41.060 --> 27:42.929
+But because they were willing
+to hide something else.
+
+27:42.962 --> 27:44.196
+Someone else.
+
+27:44.230 --> 27:45.331
+The fifth man.
+
+27:45.364 --> 27:48.134
+NIKKI: It's time to have another
+talk with our victims.
+
+27:48.167 --> 27:50.102
+COLBY: Maybe you want Nikki in
+on this one.
+
+27:50.136 --> 27:54.240
+Seems like you and I have been
+a little out of sync, you know?
+
+27:54.273 --> 27:55.274
+Look, man,
+we're partners.
+
+27:55.307 --> 27:58.811
+But right now... I'm your boss,
+
+27:58.845 --> 28:01.147
+and I need you
+to follow my lead.
+
+28:01.180 --> 28:02.481
+We have to play this one smart.
+
+28:02.514 --> 28:04.150
+Yeah, it's not easy
+when I think about Don.
+
+28:06.052 --> 28:08.120
+I know.
+
+28:08.154 --> 28:11.223
+Look, man, the things I said,
+uh, you know,
+
+28:11.257 --> 28:12.291
+about what Don would have
+done...
+
+28:12.324 --> 28:14.861
+Forget about it.
+
+28:14.894 --> 28:17.096
+He'll be back soon enough
+and you can give him crap.
+
+28:18.264 --> 28:19.899
+Come on.
+
+28:26.205 --> 28:27.907
+DAVID:
+I got to hand it to you guys.
+
+28:27.940 --> 28:31.110
+You sure know how to pick
+a financial adviser.
+
+28:31.143 --> 28:33.479
+Most people are losing money
+these days.
+
+28:33.512 --> 28:36.515
+You two--
+you're making it hand over fist.
+
+28:36.548 --> 28:38.317
+We've been
+very fortunate.
+
+28:38.350 --> 28:41.153
+Yeah, well,
+I think your luck just ran out.
+
+28:41.187 --> 28:42.254
+A year and a half ago,
+
+28:42.288 --> 28:44.857
+you were about to go belly-up
+and lose your house.
+
+28:44.891 --> 28:46.192
+In walks Dennis Alessi.
+
+28:46.225 --> 28:48.394
+Suddenly everything
+just turns around.
+
+28:48.427 --> 28:51.263
+The IRS is already
+taking a hard look.
+
+28:51.297 --> 28:55.501
+We make a few calls and
+things can go better for you.
+
+28:55.534 --> 28:56.969
+Or they could go worse.
+
+29:01.440 --> 29:04.076
+Okay, fine.
+Have it your way.
+
+29:06.478 --> 29:07.814
+We had no choice.
+
+29:07.847 --> 29:09.181
+- Sarah!
+- They know, Gil.
+
+29:09.215 --> 29:10.082
+It is over.
+
+29:14.220 --> 29:15.988
+Alessi said he had
+a client in Europe
+
+29:16.022 --> 29:16.823
+that needed
+to get money out.
+
+29:16.856 --> 29:18.290
+And we thought it would end
+there.
+
+29:18.324 --> 29:19.291
+DAVID: But it didn't.
+
+29:19.325 --> 29:20.292
+He said his client needed
+
+29:20.326 --> 29:22.428
+somewhere safe to stay,
+just for a little while.
+
+29:22.461 --> 29:24.530
+And then he retrofitted
+the guesthouse.
+
+29:24.563 --> 29:27.266
+He turned it into this bunker.
+
+29:27.299 --> 29:30.369
+We were already in so deep.
+
+29:30.402 --> 29:32.271
+Who is he?
+
+29:32.304 --> 29:33.439
+Who were you hiding?
+
+29:33.472 --> 29:34.807
+No. He'll kill us.
+
+29:34.841 --> 29:35.975
+We can protect you.
+
+29:36.008 --> 29:37.910
+(snorting)
+
+29:43.315 --> 29:46.986
+Look, this guy tried
+to murder an FBI agent.
+
+29:47.019 --> 29:49.188
+You harbor him now,
+you're an accessory.
+
+29:50.556 --> 29:53.025
+You just want to be free
+of this thing, don't you?
+
+29:54.193 --> 29:58.230
+All we want is a name.
+
+29:58.264 --> 30:01.400
+That's it.
+
+30:01.433 --> 30:03.335
+All right.
+
+30:05.371 --> 30:07.273
+All right.
+
+30:14.480 --> 30:17.349
+LIZ:
+Slobodan Radovic, 48.
+
+30:17.383 --> 30:19.251
+He led a Serbian
+paramilitary campaign
+
+30:19.285 --> 30:21.387
+of ethnic cleansing
+during the Balkan War.
+
+30:21.420 --> 30:24.490
+Looting cities and towns
+along the way, which is how
+
+30:24.523 --> 30:26.525
+- he met Alessi.
+- Alessi helped Radovic smuggle
+
+30:26.558 --> 30:28.227
+his war profits
+out of Serbia.
+
+30:28.260 --> 30:30.362
+A camera in Alessi's lobby
+
+30:30.396 --> 30:34.200
+recorded Radovic making his
+customary visit last month.
+
+30:34.233 --> 30:35.167
+Now we know who his
+special client is.
+
+30:35.201 --> 30:37.103
+The guy with the stash
+in the deposit box.
+
+30:37.136 --> 30:40.406
+Okay, how does all this tie in
+to Kardum and his crew?
+
+30:40.439 --> 30:42.441
+The Hague indicted Radovic two
+years ago for his war crimes.
+
+30:42.474 --> 30:44.276
+He fled Serbia
+before he could be arrested.
+
+30:44.310 --> 30:46.445
+Radovic was accused
+of atrocities,
+
+30:46.478 --> 30:50.016
+including ethnic cleansing
+of the village of Brezko.
+
+30:50.049 --> 30:51.017
+That's where Kardum is from.
+
+30:51.050 --> 30:52.018
+And the rest of his crew.
+
+30:52.051 --> 30:54.653
+So, they weren't out for money--
+
+30:54.686 --> 30:56.388
+they were out for revenge.
+
+30:58.624 --> 31:00.392
+I can't take it.
+
+31:00.426 --> 31:03.095
+I can't take seeing him
+like this.
+
+31:10.036 --> 31:12.939
+Hey, Charlie, what's going on?
+
+31:12.972 --> 31:15.107
+One more robbery case,
+one more white-collar fraud,
+
+31:15.141 --> 31:18.110
+one more string
+of home invasions
+
+31:18.144 --> 31:19.411
+by what seems like
+a bunch of kids.
+
+31:21.047 --> 31:22.514
+I whipped through the analysis
+for this case.
+
+31:22.548 --> 31:24.183
+Charlie, what the hell
+are you talking about?
+
+31:24.216 --> 31:27.086
+I'm saying this isn't about
+a breakthrough
+
+31:27.119 --> 31:28.287
+in cognitive emergence.
+
+31:28.320 --> 31:32.491
+I'm saying that this is about
+me venting my resentment.
+
+31:32.524 --> 31:35.661
+I'm saying
+that I'm afraid that...
+
+31:35.694 --> 31:37.663
+this wasn't just a mistake.
+
+31:37.696 --> 31:39.431
+Beating yourself up
+isn't going to help anybody.
+
+31:40.666 --> 31:42.701
+You have to decide
+where your priorities lie,
+
+31:42.734 --> 31:46.438
+because this is the cost
+of not deciding.
+
+31:58.317 --> 32:00.519
+The smash and grabs
+were a cover.
+
+32:00.552 --> 32:02.288
+You were after Radovic.
+
+32:02.321 --> 32:06.525
+NIKKI: Guy burns down your town,
+you want payback.
+
+32:06.558 --> 32:08.160
+Towns you can rebuild.
+
+32:08.194 --> 32:10.329
+Lives are lost forever.
+
+32:10.362 --> 32:14.400
+After the war, I came here
+to build new memories.
+
+32:14.433 --> 32:16.702
+And then one night in
+a bar, you see Alessi,
+
+32:16.735 --> 32:18.971
+Radovic's banker.
+
+32:19.005 --> 32:20.239
+I mean, I worked so hard
+to make a new life.
+
+32:20.272 --> 32:24.476
+In that moment,
+I could only think of one thing.
+
+32:24.510 --> 32:26.545
+Revenge.
+
+32:26.578 --> 32:27.779
+I bought him drink,
+
+32:27.813 --> 32:30.449
+told him that I was Serbian,
+that I'd served with Radovic.
+
+32:30.482 --> 32:31.617
+Where did you take him
+
+32:31.650 --> 32:33.352
+after the bar?
+
+32:33.385 --> 32:35.521
+Does it matter?
+
+32:35.554 --> 32:39.191
+Alessi gave you
+the list of safe houses,
+
+32:39.225 --> 32:41.293
+and then you killed him.
+
+32:41.327 --> 32:44.163
+Radovic murdered my family.
+
+32:44.196 --> 32:48.034
+Alessi saw to it that
+he escaped justice,
+
+32:48.067 --> 32:49.535
+protected him.
+
+32:49.568 --> 32:51.103
+(spits)
+
+32:53.505 --> 32:55.107
+I did what I had to do.
+
+32:55.141 --> 32:58.510
+You know about the deposit box?
+
+32:58.544 --> 33:02.381
+Alessi tried to trade his life
+for its contents,
+
+33:02.414 --> 33:04.650
+almost $2 million
+in diamonds.
+
+33:04.683 --> 33:06.518
+- Where is it?
+- A vault...
+
+33:06.552 --> 33:09.455
+some jewelry wholesaler.
+
+33:09.488 --> 33:11.123
+You have the deposit key,
+don't you?
+
+33:12.624 --> 33:15.361
+For years...
+
+33:15.394 --> 33:18.530
+after the massacre,
+
+33:18.564 --> 33:22.234
+I woke at night and I saw
+the faces of my family,
+
+33:22.268 --> 33:26.072
+and I wished that
+I hadn't run.
+
+33:26.105 --> 33:29.141
+And I wished...
+
+33:29.175 --> 33:31.410
+that I had died with them.
+
+33:35.481 --> 33:38.217
+I have friends,
+
+33:38.250 --> 33:41.587
+others who wish to see justice
+just like me.
+
+33:56.268 --> 33:57.403
+If Kardum's got
+that key,
+
+33:57.436 --> 33:58.504
+he's not giving it up.
+
+33:58.537 --> 33:59.505
+Yeah. Search
+his place again.
+
+33:59.538 --> 34:01.573
+Same for the
+rest of his crew.
+
+34:01.607 --> 34:03.275
+What?
+
+34:03.309 --> 34:06.312
+The only people who know
+that Alessi is dead
+
+34:06.345 --> 34:07.646
+are Kardum's crew and us.
+
+34:07.679 --> 34:09.248
+Now maybe Radovic
+
+34:09.281 --> 34:10.816
+thinks that Alessi
+is sending his guys after him.
+
+34:10.849 --> 34:13.085
+To kill him so he can steal
+his diamonds.
+
+34:13.119 --> 34:15.587
+And Radovic knows
+that Alessi kept that key
+
+34:15.621 --> 34:17.123
+to the deposit box
+in his safe.
+
+34:39.845 --> 34:41.713
+Kardum's right.
+
+34:41.747 --> 34:44.250
+Radovic needs
+those diamonds.
+
+34:44.283 --> 34:45.751
+She couldn't give him
+the answers he wanted.
+
+34:45.784 --> 34:49.255
+A guy who's gonna do this
+isn't gonna give up easy.
+
+34:49.288 --> 34:50.622
+That's what I'm counting on.
+
+34:58.464 --> 35:00.266
+We searched Kardum
+and his buddies' places
+
+35:00.299 --> 35:01.567
+for the deposit box key.
+
+35:01.600 --> 35:03.202
+No luck.
+
+35:03.235 --> 35:05.471
+If Radovic thinks Alessi
+is trying to steal his diamonds,
+
+35:05.504 --> 35:07.306
+he's gonna keep his eyes
+on the stash.
+
+35:07.339 --> 35:08.474
+Doesn't do us much good.
+We don't have a key
+
+35:08.507 --> 35:09.475
+or a location.
+
+35:09.508 --> 35:10.376
+You said you had digital video
+
+35:10.409 --> 35:11.777
+of Alessi handing
+the key to Radovic.
+
+35:11.810 --> 35:13.879
+Yeah, from the cameras
+in Alessi's lobby.
+
+35:13.912 --> 35:16.315
+Show me.
+
+35:19.418 --> 35:20.919
+(computer trilling)
+
+35:20.952 --> 35:22.788
+All right, stop it there
+
+35:22.821 --> 35:25.257
+and zoom in on the key.
+
+35:27.693 --> 35:29.761
+(keyboard clicking,
+computer trilling)
+
+35:30.862 --> 35:33.199
+What good is a picture of a key?
+
+35:33.232 --> 35:35.701
+With a little enhancement,
+it's worth a thousand bits.
+
+35:35.734 --> 35:39.405
+The bumps and valleys
+are a numeric bitting code
+
+35:39.438 --> 35:40.606
+that correspond to a lock,
+
+35:40.639 --> 35:42.474
+which can then be analyzed
+from a photo
+
+35:42.508 --> 35:44.576
+using a key-bitting program.
+
+35:44.610 --> 35:46.345
+Think about how
+scientists
+
+35:46.378 --> 35:47.446
+map the ocean floor.
+
+35:47.479 --> 35:51.183
+A ship on the surface uses sonar
+to ping the seabed,
+
+35:51.217 --> 35:53.852
+creating a map of all its peaks,
+valleys and contours.
+
+35:53.885 --> 35:56.288
+Now, a key-bitting program
+does the same thing.
+
+35:56.322 --> 35:59.258
+Each pixel in the photo
+represents a set distance
+
+35:59.291 --> 36:00.559
+from the camera
+which we can measure,
+
+36:00.592 --> 36:02.494
+allowing us to accurately gauge
+
+36:02.528 --> 36:03.929
+the height and depth
+of each key cut.
+
+36:03.962 --> 36:05.764
+Now string together
+those measurements,
+
+36:05.797 --> 36:07.466
+you have all you need
+to make a copy.
+
+36:07.499 --> 36:09.368
+That still doesn't tell us
+where the box is.
+
+36:09.401 --> 36:11.270
+Path minimization should
+help us there.
+
+36:11.303 --> 36:13.572
+Analyzing the most efficient
+routes from point A to point B.
+
+36:13.605 --> 36:15.607
+Hey, some of this stuff sticks.
+
+36:16.842 --> 36:19.311
+So, we know the deposit box
+is located
+
+36:19.345 --> 36:21.447
+within a one hour round-trip
+from Alessi's office.
+
+36:21.480 --> 36:24.883
+We also know the location
+of Radovic's safe houses.
+
+36:24.916 --> 36:26.418
+Right, if a guy cashes in
+a diamond for ten grand,
+
+36:26.452 --> 36:27.419
+puts the money in his pocket,
+
+36:27.453 --> 36:29.621
+he's gonna want to get
+home as quick as he can.
+
+36:29.655 --> 36:31.523
+That means we can narrow
+our search.
+
+36:31.557 --> 36:32.658
+Good. The longer
+Radovic is exposed,
+
+36:32.691 --> 36:34.426
+the more nervous
+he's gonna get.
+
+36:38.530 --> 36:40.899
+AMITA:
+Your key-bitting program worked.
+
+36:40.932 --> 36:42.601
+Galuski cut us a key
+
+36:42.634 --> 36:43.969
+on the engineering department's
+laser lathe.
+
+36:44.002 --> 36:46.738
+He even etched in
+the box number and
+
+36:46.772 --> 36:48.507
+the manufacturer's stamp
+to match the original.
+
+36:51.577 --> 36:54.012
+What's the problem?
+
+36:54.045 --> 36:56.582
+I'm using Dijkstra's algorithm
+and overlaying that
+
+36:56.615 --> 37:00.386
+with data from CalTrans
+on, uh, on traffic flow,
+
+37:00.419 --> 37:01.553
+and it's not working.
+
+37:01.587 --> 37:03.989
+You need to rest,
+Charlie.
+
+37:04.022 --> 37:07.626
+I need to catch
+this guy.
+
+37:07.659 --> 37:09.428
+For Don or for yourself?
+
+37:13.532 --> 37:16.535
+Even if I get an answer, how do
+I know if it's the right one?
+
+37:16.568 --> 37:18.504
+I don't want to send
+David and the guys
+
+37:18.537 --> 37:20.572
+on a wild-goose chase
+and waste more time.
+
+37:22.474 --> 37:25.677
+There's only one way to know
+if I'm right.
+
+37:28.714 --> 37:31.383
+Don't try and be a hero.
+
+37:34.920 --> 37:37.323
+I think we could both use
+some coffee.
+
+37:41.493 --> 37:44.396
+(monitor beeping rhythmically)
+
+38:01.813 --> 38:03.048
+Good book?
+
+38:03.081 --> 38:05.384
+No, I've read better.
+
+38:09.888 --> 38:11.523
+(computer trilling)
+
+38:16.094 --> 38:17.863
+(beeping)
+
+38:22.468 --> 38:24.970
+(keypad beeping)
+
+38:25.003 --> 38:26.405
+(touch-tones beeping)
+
+38:49.628 --> 38:51.630
+You give it back
+when you're done.
+
+38:51.663 --> 38:53.699
+Thanks.
+
+39:09.448 --> 39:11.550
+Hey, Mr. Alessi's man is here.
+
+39:11.583 --> 39:13.051
+He's opening the box now.
+
+39:42.714 --> 39:44.583
+*
+
+39:55.927 --> 39:57.696
+I want my diamonds.
+
+39:57.729 --> 40:00.566
+I-I don't know
+what you're talking about.
+
+40:02.834 --> 40:04.703
+I saw you leaving
+the wholesaler.
+
+40:04.736 --> 40:08.507
+I know you work
+for Alessi.
+
+40:08.540 --> 40:10.041
+You're just an errand boy.
+
+40:11.810 --> 40:13.479
+Is it worth your life?
+
+40:16.548 --> 40:18.016
+It's worth this moment
+
+40:18.049 --> 40:19.184
+right now.
+
+40:19.217 --> 40:22.954
+I wanted to see the face
+of the man
+
+40:22.988 --> 40:24.523
+who stabbed my brother.
+
+40:24.556 --> 40:25.491
+Your brother?
+
+40:26.725 --> 40:27.693
+The FBI agent?
+
+40:35.501 --> 40:39.237
+You got about a second
+to keep that knee.
+
+40:39.270 --> 40:41.773
+COLBY: Generally, she's a pretty
+good shot.
+
+40:41.807 --> 40:43.909
+Although, sometimes
+she'll miss a little high.
+
+40:56.054 --> 40:57.723
+(handcuffs clicking)
+
+41:03.228 --> 41:04.730
+Thanks for letting me
+play decoy.
+
+41:04.763 --> 41:06.765
+We wouldn't have a key
+
+41:06.798 --> 41:09.935
+or a location
+without you, Charlie.
+
+41:09.968 --> 41:11.670
+You earned it.
+
+41:11.703 --> 41:13.038
+Is that the only reason?
+
+41:13.071 --> 41:15.774
+No.
+
+41:17.843 --> 41:19.110
+Hey.
+
+41:21.780 --> 41:23.982
+Yeah.
+
+41:24.015 --> 41:26.552
+You-you gonna pick
+these things up?
+
+41:26.585 --> 41:27.886
+Yeah.
+
+41:27.919 --> 41:29.521
+(chuckles)
+(sighs)
+
+41:29.555 --> 41:31.256
+(gentle melody playing)
+
+41:31.289 --> 41:34.726
+* Love, love is a verb
+
+41:34.760 --> 41:36.928
+* Love is a doing word
+
+41:36.962 --> 41:38.196
+(laughs)
+
+41:38.229 --> 41:40.932
+Oh, no, another one.
+
+41:40.966 --> 41:42.133
+(laughing)
+
+41:44.002 --> 41:45.904
+It's not like there's
+a lot of choice
+
+41:45.937 --> 41:47.005
+in the gift shop.
+
+41:47.038 --> 41:49.541
+So, uh, what's the word?
+
+41:49.575 --> 41:50.542
+They say
+
+41:50.576 --> 41:51.743
+I'm on my feet in a couple days.
+
+41:51.777 --> 41:52.911
+Back on all your asses
+
+41:52.944 --> 41:54.913
+a week after that, so watch out.
+
+41:54.946 --> 41:55.847
+But limited duty.
+
+41:55.881 --> 41:57.315
+I have it
+in writing,
+
+41:57.348 --> 41:58.617
+notarized.
+
+41:58.650 --> 41:59.685
+As your relief
+supervisor,
+
+41:59.718 --> 42:01.820
+you know, I just, I can't wait
+
+42:01.853 --> 42:02.954
+to have you back
+on the job, so...
+
+42:02.988 --> 42:04.923
+It'll be good
+having you back, man.
+
+42:04.956 --> 42:05.857
+Oh, look at this.
+
+42:05.891 --> 42:08.293
+(all laugh)
+
+42:08.326 --> 42:10.962
+I don't know how that gift shop
+stays in business.
+
+42:10.996 --> 42:12.898
+(all laughing)
+
+42:12.931 --> 42:16.167
+Well, Charlie, I'm sure you have
+some catching up
+
+42:16.201 --> 42:17.769
+to do with Don,
+so, uh...
+
+42:17.803 --> 42:20.806
+Stale coffee in the cafe
+on me for everybody.
+
+42:20.839 --> 42:22.608
+Bye.
+
+42:22.641 --> 42:23.875
+ROBIN:
+I'll be back in a bit.
+
+42:25.343 --> 42:27.979
+Oh, hey, Donnie, um...
+
+42:28.013 --> 42:29.014
+a little
+illicit brisket.
+
+42:29.047 --> 42:30.682
+Put it under
+your pillow.
+
+42:30.716 --> 42:32.283
+I made it for you.
+
+42:32.317 --> 42:34.019
+I don't think
+I can go there.
+
+42:34.052 --> 42:35.787
+(chuckles)
+
+42:37.222 --> 42:39.591
+So you're playing decoy, huh?
+
+42:40.892 --> 42:42.260
+I can't say
+I want to do that again.
+
+42:44.029 --> 42:47.032
+When we were kids, man,
+you had my back.
+
+42:48.366 --> 42:50.936
+Protected me.
+
+42:53.004 --> 42:55.273
+Charlie, I didn't want
+this life for you.
+
+42:55.306 --> 42:57.709
+Makes two of us.
+
+42:59.878 --> 43:02.013
+All right, get your rest.
+
+43:02.047 --> 43:03.114
+You gonna eat this brisket?
+
+43:03.148 --> 43:05.150
+No. You take it.
+
+43:07.919 --> 43:09.788
+I'll see you at the office,
+buddy.
+
+43:09.821 --> 43:11.389
+Yeah.
+
+43:11.422 --> 43:12.891
+You will.
+
+43:12.924 --> 43:15.927
+* Feathers on my breath
+
+43:20.298 --> 43:24.803
+* You're stumbling into harm
+
+43:27.005 --> 43:31.877
+* You're stumbling into harm.
+
+43:34.379 --> 43:36.948
+(song ends)

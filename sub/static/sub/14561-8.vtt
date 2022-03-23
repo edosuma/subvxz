@@ -1,0 +1,3235 @@
+WEBVTT
+
+00:03.971 --> 00:07.141
+* Whoo-hoo-hoo, whoo-whoo
+
+00:07.175 --> 00:10.111
+* Whoo-hoo-hoo...
+
+00:10.144 --> 00:11.412
+CHARLIE:
+In pursuit-evasion,
+
+00:11.445 --> 00:14.448
+one group tries to track down
+members of another.
+
+00:14.482 --> 00:16.784
+DON:
+You just kicked in the door.
+
+00:16.817 --> 00:19.253
+You're looking
+for a third striker.
+
+00:19.287 --> 00:20.688
+Let's say you're the pursuer,
+
+00:20.721 --> 00:23.091
+and you occupy the same
+node as your evader.
+
+00:23.124 --> 00:25.293
+He's captured and removed.
+
+00:25.326 --> 00:28.262
+However, if your evader
+can find a way
+
+00:28.296 --> 00:31.465
+to outmaneuver you, he escapes.
+
+00:31.499 --> 00:33.701
+(dog barking)
+
+00:35.603 --> 00:37.571
+The goal here is to gain
+an advantage over your opponent
+
+00:37.605 --> 00:41.075
+by changing the movement rules
+using variants.
+
+00:41.109 --> 00:42.143
+DON:
+A K-9 team.
+
+00:42.176 --> 00:44.078
+(dog barks, students laugh)
+
+00:44.112 --> 00:46.614
+Or you could change
+the edge weight.
+
+00:46.647 --> 00:47.848
+Get air support.
+
+00:47.881 --> 00:50.084
+What if the K-9 team is busy,
+
+00:50.118 --> 00:52.386
+the chopper's down for repairs,
+and backup is 20 minutes out?
+
+00:52.420 --> 00:54.155
+What's pursuit-evasion say,
+then?
+
+00:54.188 --> 00:56.157
+Let's look at fish.
+
+00:56.190 --> 00:59.460
+When fish sense disturbances
+around them,
+
+00:59.493 --> 01:03.831
+they go into a defensive reflex
+called a C-start.
+
+01:03.864 --> 01:08.169
+* Whoo-hoo-hoo, whoo-whoo
+
+01:08.202 --> 01:09.437
+* Whoo-hoo-hoo...
+
+01:09.470 --> 01:12.140
+(panting)
+
+01:12.173 --> 01:13.874
+The snake has found a way
+
+01:13.907 --> 01:16.110
+to introduce a variant
+into the game.
+
+01:16.144 --> 01:18.379
+As the fish approaches,
+
+01:18.412 --> 01:20.214
+the snake ripples its body
+toward the fish,
+
+01:20.248 --> 01:24.118
+which sends the fish off
+in the opposite direction.
+
+01:24.152 --> 01:25.186
+(panting)
+
+01:25.219 --> 01:28.356
+You see, the snake anticipates
+and then executes
+
+01:28.389 --> 01:30.124
+a predictive strike
+
+01:30.158 --> 01:32.793
+aimed at where
+the fish will end up.
+
+01:32.826 --> 01:34.728
+(dog barking)
+
+01:34.762 --> 01:37.165
+* Unusual fools...
+
+01:39.533 --> 01:40.368
+Know your opponent.
+
+01:40.401 --> 01:42.370
+Is he a runner,
+has he got any priors,
+
+01:42.403 --> 01:44.205
+is he injured,
+is he gonna roll over,
+
+01:44.238 --> 01:45.573
+is he gonna try
+to shoot it out with us?
+
+01:45.606 --> 01:47.241
+It's a game.
+
+01:47.275 --> 01:48.342
+Control it.
+
+01:48.376 --> 01:50.211
+I swear I didn't know
+it was you.
+
+01:50.244 --> 01:51.545
+You don't want me.
+
+01:51.579 --> 01:53.214
+I'm not worth the trouble.
+
+01:53.247 --> 01:54.382
+Oh, no.
+
+01:54.415 --> 01:55.616
+It's not mine.
+
+01:55.649 --> 01:57.285
+Just carrying for a friend.
+
+01:57.318 --> 01:58.452
+Your friend Felipe Garcia?
+
+01:58.486 --> 02:00.254
+Who?
+
+02:00.288 --> 02:03.291
+Lie to your girlfriend when
+she asks if you love her,
+
+02:03.324 --> 02:04.892
+but don't lie to me. Here.
+
+02:06.427 --> 02:09.230
+Last I heard,
+Garcia was serving two years.
+
+02:09.263 --> 02:10.831
+Yeah? Last I heard, he escaped.
+
+02:10.864 --> 02:12.366
+You called him the day before.
+
+02:12.400 --> 02:15.169
+I rat him out,
+I'm in the obits tomorrow.
+
+02:15.203 --> 02:17.805
+(gasps)
+
+02:17.838 --> 02:19.940
+This is Whisky 33. I need a unit
+
+02:19.973 --> 02:21.309
+at Wilshire and Bixel.
+
+02:21.342 --> 02:22.576
+Just give me two hours.
+
+02:22.610 --> 02:24.178
+I'll see what I can find out.
+(chuckles)
+
+02:24.212 --> 02:26.447
+Do I look like I just got hit
+by the stupid stick?
+
+02:26.480 --> 02:28.816
+I screw with you,
+I know what happens--
+
+02:28.849 --> 02:30.718
+- I go to jail.
+- In an ambulance.
+
+02:34.722 --> 02:37.791
+Hour 59. Get going.
+
+02:39.960 --> 02:41.462
+Ticktock!
+
+02:41.495 --> 02:42.796
+NIKKI:
+So the snake just
+
+02:42.830 --> 02:44.332
+sits around all day
+and gets fat?
+
+02:44.365 --> 02:45.566
+Hardly.
+
+02:45.599 --> 02:46.900
+If the snake gets
+
+02:46.934 --> 02:49.703
+too preoccupied with
+chasing that fish...
+
+02:49.737 --> 02:53.474
+he could very easily become
+someone else's dinner.
+
+03:09.457 --> 03:10.624
+Rise and shine.
+
+03:12.826 --> 03:16.764
+* Refuse these cruel
+
+03:16.797 --> 03:21.001
+* Unusual fools
+
+03:21.034 --> 03:26.474
+* Leave them to rule
+in hollowpoint hell *
+
+03:26.507 --> 03:28.842
+(exhaling)
+* Help
+
+03:28.876 --> 03:30.444
+(exhaling)
+
+03:32.646 --> 03:35.749
+(siren wailing)
+
+03:35.783 --> 03:39.019
+(tires screech, siren stops)
+
+03:39.052 --> 03:40.020
+Hands in the air!
+
+03:40.053 --> 03:41.355
+All right, take it easy.
+
+03:41.389 --> 03:42.456
+Hands in the air!
+
+03:42.490 --> 03:45.025
+Lock your fingers
+behind your head.
+
+03:45.058 --> 03:50.298
+* Whoo-hoo-hoo,
+whoo-whoo-whoo... *
+
+03:50.331 --> 03:51.765
+Gun!
+
+03:51.799 --> 03:53.334
+Yeah, I'm an FBI agent.
+
+03:56.537 --> 03:57.605
+You are under arrest
+
+03:57.638 --> 03:58.972
+for the murder
+of Vincent Costello.
+
+03:59.006 --> 04:00.341
+Are you listening to me?
+
+04:00.374 --> 04:01.842
+The same guy signs
+both our checks.
+
+04:01.875 --> 04:03.010
+I'm Agent Ian Edgerton.
+
+04:03.043 --> 04:04.878
+You have the right
+to remain silent.
+
+04:04.912 --> 04:06.780
+Anything you say can
+and will be used
+
+04:06.814 --> 04:08.416
+against you in a court of law.
+
+04:08.449 --> 04:11.419
+All right, do me a favor:
+Call Don Eppes over at the FBI.
+
+04:11.452 --> 04:13.654
+* Whoo-hoo-hoo
+
+04:14.755 --> 04:19.059
+* Whoo-hoo-hoo, whoo-whoo
+
+04:19.092 --> 04:21.028
+* Whoo-hoo-hoo...
+
+04:26.434 --> 04:28.702
+Prison is where
+convicted felons go.
+
+04:28.736 --> 04:29.903
+Aren't we skipping a step?
+
+04:29.937 --> 04:31.772
+Detention centers
+are overcrowded.
+
+04:31.805 --> 04:32.906
+This will give you a chance
+to catch up
+
+04:32.940 --> 04:34.575
+with some of your old friends.
+
+04:34.608 --> 04:36.377
+You know,
+the guys you put away for life.
+
+04:36.410 --> 04:38.812
+DON:
+Ian, do you know this guy?
+
+04:41.549 --> 04:43.451
+Xavier Salazar,
+
+04:43.484 --> 04:46.887
+top-ten FBI most-wanted list,
+2000 to 2005.
+
+04:46.920 --> 04:49.022
+I arrested him
+in Bogota, Colombia.
+
+04:49.056 --> 04:50.991
+He's currently serving
+a life sentence right here.
+
+04:51.024 --> 04:53.093
+Salazar's been running a massive
+heroin ring from inside.
+
+04:53.126 --> 04:56.063
+Ooh! It's true what they say
+about a broken watch
+
+04:56.096 --> 04:57.698
+telling the right time
+twice a day.
+
+04:57.731 --> 04:59.066
+You've been helping him,
+
+04:59.099 --> 05:00.901
+letting key associates of his
+run free.
+
+05:00.934 --> 05:03.637
+Yeah, of course I have.
+
+05:03.671 --> 05:05.506
+Half a million dollars
+in an offshore account
+
+05:05.539 --> 05:06.774
+with your name on it.
+
+05:06.807 --> 05:08.008
+Transfers came from several
+
+05:08.041 --> 05:09.910
+of Salazar's holding companies.
+
+05:13.914 --> 05:15.383
+I'm being set up.
+
+05:16.484 --> 05:19.052
+Costello was gonna give you up,
+
+05:19.086 --> 05:20.488
+so you killed him.
+
+05:20.521 --> 05:22.089
+(chuckling):
+News flash--
+
+05:22.122 --> 05:24.091
+the Easter Bunny,
+he's not real either.
+
+05:24.124 --> 05:25.959
+They found this in a sewer
+about a block away
+
+05:25.993 --> 05:27.361
+from where Costello was killed.
+
+05:31.499 --> 05:32.866
+Someone must have stolen it
+from my apartment.
+
+05:32.900 --> 05:33.934
+We searched your place, Ian.
+There was no sign
+
+05:33.967 --> 05:35.803
+- of forced entry.
+- Well, then I must be guilty.
+
+05:35.836 --> 05:37.037
+DON:
+Why were you meeting him?
+
+05:37.070 --> 05:39.139
+We've been trying to
+shut down Salazar, too.
+
+05:39.172 --> 05:42.042
+The key is his bookkeeper,
+Felipe Garcia.
+
+05:42.075 --> 05:44.077
+Garcia escaped from here
+a month ago.
+
+05:44.111 --> 05:45.579
+Costello was ready to give me
+Garcia's location.
+
+05:45.613 --> 05:47.681
+Salazar must have found out
+and had him killed.
+
+05:47.715 --> 05:48.816
+Costello left me a clue:
+
+05:48.849 --> 05:51.519
+B-17; it's a location.
+
+05:51.552 --> 05:53.454
+B block, 17th cell.
+I don't think
+
+05:53.487 --> 05:55.055
+Garcia ever left here.
+
+05:55.088 --> 05:57.991
+It's impossible. Every prisoner
+in here gets an I.D. bracelet
+
+05:58.025 --> 06:00.961
+like that,
+just like at a hospital.
+
+06:00.994 --> 06:02.930
+Gets scanned once a day.
+
+06:02.963 --> 06:05.999
+If Garcia's here,
+he'd have shown up by now.
+
+06:09.437 --> 06:12.039
+Have you ever known
+my instincts to be wrong?
+
+06:22.916 --> 06:24.985
+I'm ready to go back to my cell.
+
+06:25.018 --> 06:26.420
+(handcuffs tightening)
+
+06:32.593 --> 06:34.061
+(metal door slamming)
+
+06:34.094 --> 06:36.730
+(inmate chattering indistinctly)
+
+06:40.233 --> 06:42.503
+I'm betting I can
+crack his windpipe
+
+06:42.536 --> 06:44.104
+before you hit that button.
+
+06:44.137 --> 06:45.873
+(strained):
+Listen to him.
+
+06:45.906 --> 06:48.141
+Give me the keys... now!
+
+06:50.944 --> 06:51.945
+Hey.
+
+06:51.979 --> 06:54.214
+Edgerton may be the
+FBI's top fugitive hunter,
+
+06:54.247 --> 06:56.083
+but a social butterfly
+the man is not.
+
+06:56.116 --> 06:57.851
+Last 12 hours,
+he's made no phone calls,
+
+06:57.885 --> 06:59.186
+went to the movies
+by himself.
+
+06:59.219 --> 07:00.688
+I mean, he's gonna kill a guy
+with his own knife
+
+07:00.721 --> 07:02.756
+and dumps it a block away?
+
+07:02.790 --> 07:03.624
+(alarm sounds)
+
+07:03.657 --> 07:04.324
+MAN (on P.A.):
+Attention all personnel.
+
+07:04.357 --> 07:06.527
+Prison is now in lockdown mode.
+
+07:06.560 --> 07:09.463
+Attention all personnel.
+Prison is now in lockdown mode.
+
+07:09.497 --> 07:11.465
+He took the 2,000 hallway
+to the south ramp.
+
+07:11.499 --> 07:13.801
+He's on the roof. Go! Go!
+
+07:13.834 --> 07:15.035
+Phillips! Get these off me.
+
+07:30.718 --> 07:32.119
+Nothing. David?
+
+07:36.524 --> 07:37.891
+Nothing!
+
+07:37.925 --> 07:39.059
+Colby?
+
+07:39.092 --> 07:41.128
+Nothing but daylight.
+
+07:41.161 --> 07:42.596
+Edgerton is good,
+but I don't think
+
+07:42.630 --> 07:43.764
+he can make himself invisible.
+
+07:43.797 --> 07:45.198
+All right. We need to get
+
+07:45.232 --> 07:46.867
+the security footage
+from Thompson.
+
+07:46.900 --> 07:48.135
+We need to look at all
+escape routes, right?
+
+07:48.168 --> 07:50.971
+And he said something
+about block B-17.
+
+07:51.004 --> 07:52.873
+So find out who's housed there.
+
+07:54.775 --> 07:56.810
+I know Edgerton's a risk taker,
+but escaping from here,
+
+07:56.844 --> 07:59.279
+that's a long shot,
+even for him.
+
+07:59.312 --> 08:02.683
+(indistinct chatter)
+
+08:07.254 --> 08:09.657
+Only place that ramp leads
+is the roof.
+
+08:09.690 --> 08:10.724
+Any cameras up there?
+
+08:10.758 --> 08:12.092
+Edgerton broke the cable.
+
+08:12.125 --> 08:14.161
+Your guy knows how
+to get himself lost in a hurry,
+
+08:14.194 --> 08:15.162
+I'll give him that.
+
+08:15.195 --> 08:16.229
+He's been hunting
+fugitives his whole life.
+
+08:16.263 --> 08:18.298
+If he wants to stay lost,
+guy's gonna stay lost.
+
+08:18.331 --> 08:20.300
+Hope you don't mind
+if I disagree
+
+08:20.333 --> 08:21.835
+with that last statement.
+
+08:21.869 --> 08:22.936
+Janet Galvin, team leader,
+
+08:22.970 --> 08:24.738
+Pacific Fugitive
+Apprehension Squad.
+
+08:24.772 --> 08:26.940
+You have Edgerton. I have her.
+
+08:26.974 --> 08:28.275
+Your boy's got all the classic
+
+08:28.308 --> 08:29.209
+pathological behavior
+of a felon.
+
+08:29.242 --> 08:31.178
+- Really?
+- Loner, not much supervision,
+
+08:31.211 --> 08:32.946
+never sleeps in the same spot
+two nights in a row.
+
+08:32.980 --> 08:35.015
+Doesn't take much
+for an individual like that
+
+08:35.048 --> 08:36.249
+to flip to the dark side.
+
+08:36.283 --> 08:37.985
+Dark side?
+
+08:38.018 --> 08:40.554
+I've seen it before.
+
+08:40.588 --> 08:43.290
+Spend your life watching
+bad guys wearing $2,000 suits,
+
+08:43.323 --> 08:45.258
+driving Ferraris, a
+beautiful woman on their arm.
+
+08:45.292 --> 08:47.294
+Only so many cheeseburgers
+a man can eat
+
+08:47.327 --> 08:48.796
+before he wants
+a piece of filet.
+
+08:48.829 --> 08:51.064
+Well, he's more
+of a venison man,
+
+08:51.098 --> 08:53.133
+and he likes to kill
+his own dinner.
+
+08:53.166 --> 08:55.603
+This is probably hard for you.
+
+08:55.636 --> 08:58.872
+The one's closest are usually
+the last to find out.
+
+08:58.906 --> 09:01.341
+Now if you'll excuse me,
+I have a fugitive to hunt.
+
+09:01.374 --> 09:04.044
+Marshals have jurisdiction
+
+09:04.077 --> 09:06.346
+inside a prison, which means
+this is my operation.
+
+09:06.379 --> 09:08.281
+Of course, we'll keep
+you apprised
+
+09:08.315 --> 09:10.117
+if we find anything out;
+I expect the same in return.
+
+09:10.150 --> 09:11.051
+Sure.
+
+09:14.054 --> 09:18.692
+So, Garcia was never inside
+cell block B-17.
+
+09:18.726 --> 09:22.162
+Making nice with the new kids
+on the playground?
+
+09:22.195 --> 09:25.232
+I'm trying, but I think they
+just took our football away.
+
+09:25.265 --> 09:28.101
+REPORTER: He is one of their
+own; Special Agent Ian Edgerton,
+
+09:28.135 --> 09:29.369
+who is believed to be
+the suspect
+
+09:29.402 --> 09:31.338
+in the murder
+of Vincent Costello.
+
+09:31.371 --> 09:32.706
+Costello was a career criminal
+
+09:32.740 --> 09:34.141
+who was stabbed to death
+last night.
+
+09:34.174 --> 09:35.909
+Now, what Edgerton's
+possible motive...
+
+09:35.943 --> 09:38.311
+Now I know what
+my brother means when he says,
+
+09:38.345 --> 09:40.380
+"The only easy day
+was yesterday."
+
+09:40.413 --> 09:43.617
+(Charlie sighs)
+
+09:43.651 --> 09:45.619
+Murder suspect,
+wanted fugitive.
+
+09:45.653 --> 09:47.921
+That's just not the Ian Edgerton
+I know.
+
+09:47.955 --> 09:50.290
+Tell me about it.
+
+09:50.323 --> 09:51.992
+Where I grew up, in East L.A.,
+
+09:52.025 --> 09:54.728
+dating bad guys meant
+dating bad guys.
+
+09:54.762 --> 09:56.664
+Hell, my prom date held up
+the flower shop
+
+09:56.697 --> 09:57.898
+he got my corsage from.
+
+09:57.931 --> 10:00.067
+- Wow.
+- Ian...
+
+10:00.100 --> 10:01.735
+is not those guys.
+
+10:01.769 --> 10:03.103
+You know what Einstein said?
+
+10:03.136 --> 10:04.204
+"A man should look
+
+10:04.237 --> 10:07.641
+for what is and not for
+what he thinks should be."
+
+10:07.675 --> 10:09.176
+I'm looking,
+but I'm still not believing
+
+10:09.209 --> 10:10.911
+what I'm seeing.
+
+10:10.944 --> 10:14.414
+What's your pursuit-evasion say
+about this?
+
+10:14.447 --> 10:16.349
+Oh, that all logic
+goes out the window.
+
+10:16.383 --> 10:18.852
+When a snake hunting
+another snake?
+
+10:18.886 --> 10:21.421
+Actually, no.
+Game theory tells us
+
+10:21.454 --> 10:23.390
+that if someone's feeling
+unfairly wronged,
+
+10:23.423 --> 10:26.393
+like Ian, their response
+is rarely logical.
+
+10:26.426 --> 10:28.328
+You know what? Here.
+
+10:28.361 --> 10:30.263
+Check it out.
+
+10:31.398 --> 10:33.934
+Here's a hundred dollars.
+
+10:33.967 --> 10:37.404
+So let's say a stranger tells
+you to divide that
+
+10:37.437 --> 10:39.339
+between the two of us
+however you want.
+
+10:44.377 --> 10:46.046
+(chuckles) $30?
+
+10:46.079 --> 10:47.247
+- Really?
+- No offense,
+
+10:47.280 --> 10:49.883
+but my 401(k) and the economy
+aren't seeing eye to eye.
+
+10:49.917 --> 10:52.686
+Okay, well, according
+to the ultimatum game,
+
+10:52.720 --> 10:54.354
+I can either accept
+or reject this offer.
+
+10:54.387 --> 10:56.323
+If I reject it,
+neither of us get anything.
+
+10:56.356 --> 10:57.858
+But I'm gonna reject it anyway,
+
+10:57.891 --> 10:59.326
+because if you're
+not gonna offer
+
+10:59.359 --> 11:01.361
+me 50-50,
+I'm not taking it.
+
+11:01.394 --> 11:03.363
+You're turning down free money
+because you want to punish me?
+
+11:03.396 --> 11:07.434
+People have a tremendous
+desire for revenge,
+
+11:07.467 --> 11:10.771
+even if it's at the risk
+of hurting themselves.
+
+11:12.072 --> 11:15.342
+So Ian's goal isn't to escape,
+
+11:15.375 --> 11:17.911
+it's to punish someone.
+
+11:24.251 --> 11:26.253
+It's a four-story drop--
+if Edgerton jumped,
+
+11:26.286 --> 11:28.155
+there'd be plenty of evidence
+for us to find.
+
+11:28.188 --> 11:30.858
+I don't get it, where
+the hell is the guy?
+
+11:30.891 --> 11:32.192
+My best guess:
+the elevator shaft.
+
+11:32.225 --> 11:34.394
+Might've rode down
+on the top of one of the cars
+
+11:34.427 --> 11:36.029
+and snuck out
+on a different level.
+
+11:36.063 --> 11:37.130
+GALVIN:
+My boys already cleared this.
+
+11:37.164 --> 11:39.332
+I guess you didn't see
+the yellow crime scene tape.
+
+11:39.366 --> 11:41.201
+I need to remind you
+who's running this operation?
+
+11:41.234 --> 11:42.870
+Well, I guess it would be you--
+
+11:42.903 --> 11:44.171
+you got the nice,
+laminated map here, right?
+
+11:44.204 --> 11:45.739
+Look at this, Colby.
+
+11:45.773 --> 11:47.507
+It's got all these colors;
+much nicer than ours.
+
+11:47.540 --> 11:48.876
+It's all yours.
+
+11:48.909 --> 11:50.210
+This actually is a lot
+better than ours.
+
+11:50.243 --> 11:52.245
+What's with all this
+extra detail?
+
+11:52.279 --> 11:54.782
+Prison underwent an earthquake
+retrofitting a few years back.
+
+11:54.815 --> 11:57.084
+This shows the before and after.
+
+11:57.117 --> 11:58.218
+Look at this right here.
+
+11:58.251 --> 12:00.520
+There's an access hatch
+in that vent.
+
+12:00.553 --> 12:02.756
+It was covered over, looks like,
+during the renovation.
+
+12:02.790 --> 12:05.292
+Well, I guess your boys
+missed this, huh?
+
+12:05.325 --> 12:07.427
+How would Edgerton
+even know about that?
+
+12:07.460 --> 12:11.298
+'Cause he's been bringing
+prisoners here for 20 years.
+
+12:11.331 --> 12:12.332
+(grunts)
+
+12:16.236 --> 12:18.071
+Well, take a look at this.
+
+12:21.842 --> 12:24.778
+Guess we don't need a DNA test
+to tell us whose this is.
+
+12:31.819 --> 12:33.220
+(sighs)
+
+12:33.253 --> 12:34.487
+He's not in here.
+
+12:34.521 --> 12:37.290
+DAVID:
+Section 5A is clear.
+
+12:37.324 --> 12:40.193
+How is this sitting with you?
+
+12:41.328 --> 12:43.864
+Ian and I went
+to a Dodgers game,
+
+12:43.897 --> 12:45.532
+not a chapel in Vegas.
+
+12:45.565 --> 12:47.200
+I can still do my job.
+
+12:47.234 --> 12:50.137
+I was asking for your
+insight as an FBI agent.
+
+12:52.272 --> 12:54.908
+Things aren't looking
+too good for him.
+
+12:54.942 --> 12:58.411
+Three of Ian's CIs
+were drug runners for Salazar.
+
+12:58.445 --> 13:01.014
+The most useful CIs
+are usually the dirtiest ones.
+
+13:01.048 --> 13:03.350
+That's why they have
+the good information.
+
+13:03.383 --> 13:05.318
+I was LAPD during Rampart.
+
+13:05.352 --> 13:07.554
+Some of the best cops
+I knew went down.
+
+13:09.356 --> 13:13.927
+So Ian is the last person I
+would expect to be on the take.
+
+13:19.366 --> 13:21.434
+Marshals said
+they covered about 60%
+
+13:21.468 --> 13:24.204
+of the rooms connected
+to the air vent.
+
+13:24.237 --> 13:25.805
+Here we go.
+
+13:27.274 --> 13:29.276
+(door opens)
+
+13:34.514 --> 13:36.049
+(brief clatter in distance)
+
+13:50.097 --> 13:52.465
+(low, mechanical humming)
+
+13:52.499 --> 13:54.267
+It's nothing.
+
+13:57.337 --> 14:00.307
+(grunting)
+
+14:00.340 --> 14:01.174
+(alarm ringing)
+
+14:01.208 --> 14:02.375
+All right, all right, take it
+easy!
+
+14:02.409 --> 14:03.310
+COLBY: Don, you need to take
+the shot, you just take it.
+
+14:03.343 --> 14:04.011
+Too late, you should've
+shot right away--
+
+14:04.044 --> 14:05.979
+now you're thinking too much.
+
+14:06.013 --> 14:06.779
+That's when you make mistakes.
+
+14:06.813 --> 14:07.981
+I thought
+you were innocent, Ian.
+
+14:08.015 --> 14:09.249
+- I am.
+- Yeah, I can see that.
+
+14:09.282 --> 14:11.952
+Don't let him get in your head,
+Don, you do what you need to do.
+
+14:11.985 --> 14:13.353
+- GALVIN: I've got him.
+- I've seen you shoot, Galvin--
+
+14:13.386 --> 14:14.454
+you're not that good.
+
+14:14.487 --> 14:16.123
+He's not gonna hurt Colby.
+
+14:16.156 --> 14:18.091
+He knows he'd be dead
+one second later.
+
+14:18.125 --> 14:19.292
+Yeah, then go ahead
+and pull the trigger, Sinclair--
+
+14:19.326 --> 14:21.028
+kill your own partner.
+
+14:22.129 --> 14:24.631
+Don't do anything stupid, okay?
+
+14:24.664 --> 14:26.333
+There's a way out of this.
+
+14:29.702 --> 14:31.438
+Looks like we've got ourselves
+an honest-to-God
+
+14:31.471 --> 14:33.140
+Mexican standoff--
+who's blinking first?
+
+14:33.173 --> 14:35.575
+You want to die, fine by me.
+
+14:35.608 --> 14:39.479
+It's your decision, Don--
+you know what I'm capable of.
+
+14:39.512 --> 14:41.648
+Eppes, don't back down.
+
+14:43.183 --> 14:45.452
+All right, David, get them out.
+
+14:45.485 --> 14:47.154
+Get out. Get out!
+
+14:47.187 --> 14:50.090
+- Come on, move. Up.
+- Let's go, move! Let's go.
+
+14:52.559 --> 14:54.361
+What the hell
+
+14:54.394 --> 14:56.529
+- do you think you're doing?
+- Trying to save a life.
+
+14:56.563 --> 14:58.932
+Look, we all want the same thing
+here, okay? So back off.
+
+14:58.966 --> 15:00.200
+THOMPSON:
+Set up a CP. Deploy SWAT.
+
+15:00.233 --> 15:01.601
+DAVID:
+Slow your roll, okay?
+
+15:01.634 --> 15:03.436
+Listen, there's an
+FBI agent inside there.
+
+15:03.470 --> 15:05.038
+We are taking tactical command.
+
+15:05.072 --> 15:07.707
+This is a United States
+penitentiary, my turf.
+
+15:07.740 --> 15:08.708
+DON:
+Hey.
+
+15:08.741 --> 15:09.977
+We're handling negotiations.
+
+15:11.111 --> 15:12.479
+Fine. It's your guy's neck
+
+15:12.512 --> 15:14.147
+on the line in there.
+
+15:14.181 --> 15:15.382
+You do the talking.
+
+15:15.415 --> 15:17.117
+For now.
+
+15:18.451 --> 15:19.519
+What happened in there?
+
+15:19.552 --> 15:21.688
+I had a shot,
+and I didn't take it.
+
+15:21.721 --> 15:23.623
+Don, come on, talk to me.
+
+15:23.656 --> 15:25.492
+Look, I need some time.
+
+15:25.525 --> 15:26.659
+Just... you're in charge.
+
+15:32.565 --> 15:35.035
+Let me be clear about something.
+
+15:35.068 --> 15:37.070
+(grunts)
+
+15:37.104 --> 15:39.006
+The FBI...
+
+15:39.039 --> 15:40.373
+the marshals...
+
+15:40.407 --> 15:42.375
+they put me in this situation.
+
+15:42.409 --> 15:43.576
+COLBY:
+Ian... (scoffs)
+
+15:43.610 --> 15:45.412
+I always knew
+you were a nine ball,
+
+15:45.445 --> 15:46.579
+but, you know, I considered
+your track record,
+
+15:46.613 --> 15:48.348
+I figured it was okay.
+
+15:50.517 --> 15:52.185
+Let me ask you something.
+
+15:52.219 --> 15:53.686
+How many HRTs you been on?
+
+15:56.323 --> 15:57.657
+Fifty-seven.
+
+15:57.690 --> 16:01.394
+And how many times did
+the perp wind up in jail?
+
+16:01.428 --> 16:03.030
+Forty-one.
+
+16:03.063 --> 16:06.733
+What happened the other
+16 times, Ian?
+
+16:06.766 --> 16:08.968
+(sighs)
+
+16:10.103 --> 16:13.106
+I had to clean my gun
+when I got home.
+
+16:17.244 --> 16:19.412
+There's two things you got to
+understand about me, Granger.
+
+16:19.446 --> 16:21.548
+Number one,
+I didn't kill Costello.
+
+16:21.581 --> 16:23.183
+And two?
+
+16:23.216 --> 16:24.517
+There's no way
+I'm going to jail.
+
+16:24.551 --> 16:27.120
+I hate to be the one
+to break this to you,
+
+16:27.154 --> 16:28.321
+but you're already here.
+
+16:35.562 --> 16:37.430
+You're hardwired in.
+
+16:41.601 --> 16:44.204
+- Here we go.
+- Hey, Ian...
+
+16:44.237 --> 16:46.139
+told me that he
+sometimes gets down
+
+16:46.173 --> 16:47.407
+when he's not out on a hunt.
+
+16:47.440 --> 16:49.476
+I didn't think much
+of it at the time,
+
+16:49.509 --> 16:51.578
+but... now I don't know.
+
+16:51.611 --> 16:53.713
+Maybe it means something.
+
+16:53.746 --> 16:55.482
+Okay.
+
+16:57.750 --> 17:00.420
+(phone line ringing)
+
+17:01.554 --> 17:04.591
+(phone ringing)
+
+17:08.861 --> 17:10.663
+I'll keep it simple.
+
+17:10.697 --> 17:14.667
+G5 fueled on the tarmac at LAX
+and a Beatles reunion.
+
+17:14.701 --> 17:16.803
+DAVID (on phone):
+I want to know what I have to do
+
+17:16.836 --> 17:18.538
+to get my partner
+out of there safely.
+
+17:18.571 --> 17:20.140
+There's only Paul and Ringo--
+shouldn't be too hard.
+
+17:20.173 --> 17:21.007
+Yeah, you want to play around?
+
+17:21.040 --> 17:23.476
+I got 20 marshals
+out here, itching
+
+17:23.510 --> 17:24.644
+to turn this into a bloodbath,
+
+17:24.677 --> 17:26.479
+- okay?
+- Get me Professor Eppes
+
+17:26.513 --> 17:28.481
+on a video feed
+in the next 20 minutes.
+
+17:28.515 --> 17:29.482
+I need to know that Colby
+
+17:29.516 --> 17:31.151
+- is all right.
+- He's fine.
+
+17:31.184 --> 17:32.652
+And as long as no one
+does anything stupid,
+
+17:32.685 --> 17:34.487
+like a crisis entry,
+which I'm sure
+
+17:34.521 --> 17:35.555
+the marshals are pushing for,
+
+17:35.588 --> 17:36.556
+he'll stay that way.
+
+17:38.825 --> 17:40.360
+Phone.
+
+17:40.393 --> 17:41.828
+Talk.
+
+17:41.861 --> 17:43.630
+Ian...
+
+17:43.663 --> 17:45.398
+(on phone):
+it's me.
+
+17:49.602 --> 17:51.638
+Betancourt, it's been a while
+since I've heard your voice.
+
+17:51.671 --> 17:52.705
+Yeah, well, you stopped calling.
+
+17:52.739 --> 17:54.607
+Yeah, uh...
+
+17:54.641 --> 17:56.509
+fugitive hunt
+in the Abajo Mountains.
+
+17:56.543 --> 17:58.145
+Cell phone service
+really sucked.
+
+18:03.283 --> 18:05.552
+Back out on the hunt.
+
+18:05.585 --> 18:07.520
+That must've made you happy.
+
+18:07.554 --> 18:09.556
+I'll tell you
+what will make me happy,
+
+18:09.589 --> 18:11.591
+is to have my friends trust me.
+
+18:11.624 --> 18:12.592
+NIKKI:
+Yeah, we do.
+
+18:12.625 --> 18:14.327
+I do.
+
+18:14.361 --> 18:16.696
+Really? That's why you
+keep me on the phone,
+
+18:16.729 --> 18:17.764
+so the marshals can find
+
+18:17.797 --> 18:18.765
+a way to take me out!
+
+18:18.798 --> 18:20.167
+Taking Colby hostage
+
+18:20.200 --> 18:21.534
+is not gonna help your case.
+
+18:21.568 --> 18:23.270
+If you're innocent,
+we'll prove it.
+
+18:23.303 --> 18:25.872
+I spent my career putting my ass
+on the line, thinking
+
+18:25.905 --> 18:28.208
+it'll make a difference, and
+how does the Bureau repay me?
+
+18:28.241 --> 18:29.242
+By putting me behind bars!
+
+18:29.276 --> 18:31.778
+By believing scum like Salazar!
+
+18:31.811 --> 18:33.313
+No one's convicted you
+of anything yet.
+
+18:33.346 --> 18:34.247
+Yeah, sure they haven't.
+
+18:35.482 --> 18:36.916
+If Charlie's not
+on my computer screen
+
+18:36.949 --> 18:39.652
+in the next 19 minutes, it's
+gonna get real messy in here.
+
+18:51.298 --> 18:53.633
+- Basic rules...
+- Prolong the situation,
+
+18:53.666 --> 18:55.235
+ensure the safety
+of the hostages,
+
+18:55.268 --> 18:56.336
+and, um, to...
+
+18:56.369 --> 18:57.904
+- Keep...
+- To keep things calm.
+
+18:57.937 --> 18:59.739
+DON:
+Right.
+
+19:01.541 --> 19:02.475
+I think I've got it down.
+
+19:02.509 --> 19:04.644
+Okay. I mean, he's going
+to try to test you,
+
+19:04.677 --> 19:05.645
+you know, with...
+with unreasonable demands.
+
+19:05.678 --> 19:07.847
+And I thought synthetic
+differential geometry
+
+19:07.880 --> 19:08.948
+was confusing.
+
+19:08.981 --> 19:10.183
+All right. This is Eppes.
+
+19:10.217 --> 19:11.351
+I got him. Patch us through.
+
+19:12.552 --> 19:14.254
+Hey, Ian?
+
+19:20.560 --> 19:22.329
+Sorry to drag you
+into this, Professor,
+
+19:22.362 --> 19:23.596
+but I need your skills.
+
+19:24.764 --> 19:25.865
+Uh...
+
+19:25.898 --> 19:28.235
+listen, I need to ask you
+about Colby.
+
+19:28.268 --> 19:29.736
+How is he doing?
+
+19:29.769 --> 19:30.570
+Here.
+
+19:31.871 --> 19:33.373
+Everything's going
+to be fine, Charlie.
+
+19:33.406 --> 19:35.542
+Just listen to what he has
+to say, all right?
+
+19:35.575 --> 19:36.709
+Satisfied?
+
+19:36.743 --> 19:38.611
+Uh, yeah, and, uh,
+
+19:38.645 --> 19:39.712
+how are...
+how are you doing, Ian?
+
+19:39.746 --> 19:41.348
+Oh, fine, except for the fact
+
+19:41.381 --> 19:42.749
+that I've been set up
+for a murder
+
+19:42.782 --> 19:44.251
+I didn't commit,
+and I'm looking at a trip
+
+19:44.284 --> 19:45.452
+to the death chamber.
+How about you?
+
+19:45.485 --> 19:47.587
+Surprisingly nervous.
+
+19:47.620 --> 19:49.356
+Find your Zen quickly.
+
+19:49.389 --> 19:51.591
+You're the only one
+who can help me out here.
+
+19:51.624 --> 19:52.559
+Salazar was afraid
+
+19:52.592 --> 19:54.761
+that Garcia was going to testify
+against him,
+
+19:54.794 --> 19:57.230
+so he ordered him to be whacked,
+but Garcia escaped
+
+19:57.264 --> 19:58.931
+- before the job got done.
+- Escaped felons--
+
+19:58.965 --> 20:00.567
+isn't that what
+they pay you to do?
+
+20:00.600 --> 20:02.302
+Ha!
+
+20:03.736 --> 20:04.937
+Outside, Garcia had nowhere
+
+20:04.971 --> 20:06.639
+to turn for money,
+but Salazar's people.
+
+20:06.673 --> 20:08.608
+He wouldn't have lasted
+ten minutes.
+
+20:08.641 --> 20:11.344
+But inside the jail--
+that would be the perfect place
+
+20:11.378 --> 20:13.746
+for him hide until he could
+talk to the cops
+
+20:13.780 --> 20:14.881
+and guarantee protection
+for himself.
+
+20:14.914 --> 20:16.849
+You think Garcia is hiding
+inside the prison system?
+
+20:16.883 --> 20:18.017
+Using someone else's identity.
+
+20:18.050 --> 20:19.852
+What I was trying
+to tell your brother.
+
+20:26.359 --> 20:28.561
+The prisoners all wear
+I.D. bracelets.
+
+20:29.929 --> 20:31.731
+Easy enough to get off.
+
+20:31.764 --> 20:33.533
+And once you do,
+you're lost in the system.
+
+20:33.566 --> 20:36.436
+- How many prisoners are there?
+- 6,000.
+
+20:36.469 --> 20:39.372
+Okay, now I understand
+why you called me.
+
+20:39.406 --> 20:42.809
+You're talking about a
+longitudinal socializing process
+
+20:42.842 --> 20:45.878
+as it applies
+to the prison population.
+
+20:45.912 --> 20:46.979
+Sounds complex.
+
+20:47.013 --> 20:48.014
+It's very.
+
+20:48.047 --> 20:49.749
+Well, hopefully not too complex,
+
+20:49.782 --> 20:52.952
+because Colby's really counting
+on you to get the right answer.
+
+21:04.464 --> 21:05.998
+Edgerton seems pretty confident
+
+21:06.032 --> 21:08.000
+that Garcia
+is still in the system.
+
+21:08.034 --> 21:09.536
+And what do we have
+on the escape?
+
+21:09.569 --> 21:11.371
+Well, marshals found this
+
+21:11.404 --> 21:13.005
+in the exercise yard.
+
+21:13.039 --> 21:15.007
+Did a cell check ten minutes
+later-- Garcia was gone.
+
+21:15.041 --> 21:17.076
+So, what actual proof
+do we have that he left?
+
+21:17.109 --> 21:19.379
+This...
+(tapping keys)
+
+21:19.412 --> 21:21.881
+is a video
+of visitors leaving the jail
+
+21:21.914 --> 21:23.516
+before it was locked down.
+
+21:23.550 --> 21:24.784
+Now, those two were cleared.
+
+21:24.817 --> 21:25.585
+(typing)
+
+21:25.618 --> 21:27.987
+Marshals think this...
+is Garcia.
+
+21:28.020 --> 21:30.022
+See, his pants are short.
+
+21:30.056 --> 21:31.324
+They figured he got clothes
+from the lawyer,
+
+21:31.358 --> 21:32.359
+but the size was off.
+
+21:32.392 --> 21:33.460
+Yeah, wait, wait.
+
+21:33.493 --> 21:35.728
+Look at this.
+Says he's a righty.
+
+21:35.762 --> 21:36.829
+This guy's opened the door
+with his left hand.
+
+21:36.863 --> 21:40.900
+Okay, Charlie, you're
+looking at 6,000 prisoners.
+
+21:42.034 --> 21:43.035
+Maybe not.
+
+21:43.069 --> 21:44.637
+Garcia lived in a specific cell,
+
+21:44.671 --> 21:46.706
+which means he was only exposed
+to a portion
+
+21:46.739 --> 21:48.107
+of the prison population
+each day.
+
+21:48.140 --> 21:50.076
+Still, it's got to be
+a thousand people.
+
+21:50.109 --> 21:51.478
+We don't have time
+to interview them all.
+
+21:51.511 --> 21:54.381
+Well, with longitudinal
+socializing process,
+
+21:54.414 --> 21:55.548
+we may not have to.
+
+21:55.582 --> 21:57.016
+Detention facilities
+are breeding ground
+
+21:57.049 --> 21:58.818
+for criminal enterprises,
+aren't they?
+
+21:58.851 --> 22:00.620
+And that's going to help us...?
+
+22:00.653 --> 22:02.389
+It's like the TV show Survivor,
+
+22:02.422 --> 22:04.924
+where every contestant
+is assigned to a tribe
+
+22:04.957 --> 22:07.093
+and each player competes
+in challenges.
+
+22:07.126 --> 22:09.462
+The players have to use
+their individual skills
+
+22:09.496 --> 22:10.997
+in order
+for the tribe to succeed,
+
+22:11.030 --> 22:12.932
+so that when they go
+to the Tribal Council,
+
+22:12.965 --> 22:15.735
+if they've built
+their alliances correctly,
+
+22:15.768 --> 22:16.969
+they survive.
+
+22:17.003 --> 22:18.371
+Jails aren't
+that much different.
+
+22:18.405 --> 22:20.106
+The networks
+that are established in jails
+
+22:20.139 --> 22:22.409
+offer significant financial
+
+22:22.442 --> 22:24.076
+and logistical resources
+to criminals.
+
+22:24.110 --> 22:27.046
+The petty thief blends his
+skills with the gunrunner,
+
+22:27.079 --> 22:29.649
+or the accountant
+who embezzled millions
+
+22:29.682 --> 22:32.585
+allies with the drug kingpin
+who can launder his money.
+
+22:32.619 --> 22:34.153
+And so a longitudinal
+
+22:34.186 --> 22:35.955
+socializing process looks for
+
+22:35.988 --> 22:38.491
+the most beneficial patterns
+in relationships.
+
+22:38.525 --> 22:40.460
+NIKKI:
+Who Garcia would have had
+
+22:40.493 --> 22:41.961
+to build alliances with
+in order to survive
+
+22:41.994 --> 22:43.763
+being whacked by Salazar.
+
+22:43.796 --> 22:45.832
+I can run data and narrow
+down possible matches.
+
+22:45.865 --> 22:47.934
+But I need your help
+in analyzing final candidates.
+
+22:47.967 --> 22:48.935
+Let's do it.
+
+23:11.190 --> 23:13.793
+Stale.
+
+23:13.826 --> 23:17.430
+Hey. I know how you can get
+yourself a nice, hot pizza.
+
+23:17.464 --> 23:20.600
+Sorry, but you're worth
+a little more to me than that.
+
+23:23.102 --> 23:25.772
+I could've gone for Eppes,
+
+23:25.805 --> 23:27.640
+but you know what it's like.
+
+23:27.674 --> 23:29.609
+I know what it's like, how?
+
+23:29.642 --> 23:32.579
+Everyone in the FBI thought
+you were spying for the Chinese.
+
+23:32.612 --> 23:35.114
+The one man who could prove
+your innocence was dead.
+
+23:35.147 --> 23:36.649
+I mean, hell, even your partner
+thought you were guilty.
+
+23:36.683 --> 23:39.819
+This is nothing like
+what I went through.
+
+23:39.852 --> 23:43.122
+If you're waiting on the
+Stockholm syndrome to kick in,
+
+23:43.155 --> 23:44.691
+it's going to be a long night.
+
+23:46.993 --> 23:48.528
+If I get ahold of that gun,
+
+23:48.561 --> 23:50.096
+I won't hesitate
+to take you out.
+
+23:55.935 --> 23:58.137
+Department of Corrections
+just sent over Garcia's file.
+
+23:58.170 --> 24:00.873
+He was serving two years
+for obstruction of justice.
+
+24:00.907 --> 24:04.143
+Wait. So he should have been
+in minimum security.
+
+24:04.176 --> 24:05.645
+Yeah. Apparently,
+Garcia thought so, too.
+
+24:05.678 --> 24:07.714
+He wrote multiple letters
+to the prison board.
+
+24:07.747 --> 24:09.516
+Claimed his life was in danger.
+
+24:09.549 --> 24:11.083
+What, they just ignored it?
+
+24:11.117 --> 24:13.019
+No, they signed off
+on several transfers.
+
+24:13.052 --> 24:14.654
+But each time,
+the orders were rescinded
+
+24:14.687 --> 24:16.055
+at the very last minute.
+
+24:16.088 --> 24:17.156
+Well, why's that?
+
+24:17.189 --> 24:20.560
+That information's probably
+available at the prison.
+
+24:20.593 --> 24:22.929
+Thought you might want
+to get back in the game.
+
+24:22.962 --> 24:25.231
+Questioning my judgment?
+
+24:25.264 --> 24:26.733
+No.
+
+24:26.766 --> 24:28.034
+My own, maybe.
+
+24:28.067 --> 24:28.968
+Give yourself a break.
+
+24:29.001 --> 24:32.204
+You know, we might
+turn out to be right.
+
+24:32.238 --> 24:34.641
+Is that why you
+didn't take the shot?
+
+24:36.042 --> 24:38.811
+- You think he's innocent?
+- I hope so.
+
+24:40.279 --> 24:43.082
+Don't worry.
+Colby's in good hands.
+
+24:46.285 --> 24:47.787
+I just spoke with Don.
+
+24:47.820 --> 24:49.689
+He and Charlie are
+narrowing down their list.
+
+24:49.722 --> 24:51.724
+I'm not going to sit around
+and do nothing
+
+24:51.758 --> 24:53.560
+while your boy wonder
+plays with his abacus.
+
+24:53.593 --> 24:54.861
+I'd like to probe the perimeter,
+
+24:54.894 --> 24:56.629
+see if I can't get a
+camera under the door.
+
+24:56.663 --> 24:58.898
+Edgerton's a master
+at tactics.
+
+24:58.931 --> 25:00.567
+He is going
+to be expecting that.
+
+25:00.600 --> 25:02.535
+THOMPSON: This thing may not end
+the way you want it to.
+
+25:02.569 --> 25:03.970
+We need to be ready.
+
+25:04.003 --> 25:05.137
+Look, it's a mistake.
+
+25:05.171 --> 25:07.807
+I'm not asking
+your permission, Sinclair.
+
+25:07.840 --> 25:09.876
+Go.
+
+25:32.331 --> 25:34.266
+(Galvin yells,
+Edgerton chuckles)
+
+25:34.300 --> 25:36.068
+Damn it! Pull back!
+
+25:38.004 --> 25:38.938
+(laughs)
+
+25:41.340 --> 25:44.210
+Eh, it was just a few volts.
+Enough to send a message.
+
+25:44.243 --> 25:46.278
+Yeah? What message is that?
+
+25:46.312 --> 25:49.582
+"I'm a sociopath
+who enjoys hurting people"?
+
+26:06.966 --> 26:08.601
+I always liked you, Granger.
+
+26:08.635 --> 26:11.170
+Served in the military,
+not afraid to mix it up.
+
+26:13.272 --> 26:15.141
+We're not so different.
+
+26:15.174 --> 26:16.876
+Really?
+
+26:16.909 --> 26:19.278
+'Cause from where I'm sitting,
+I'd say we are.
+
+26:21.147 --> 26:22.915
+Just the facts, ma'am, huh?
+
+26:22.949 --> 26:24.316
+Hmm.
+
+26:24.350 --> 26:26.653
+Dragnet.
+
+26:26.686 --> 26:28.187
+I used to love that show.
+
+26:28.220 --> 26:29.756
+It's what made me want
+to become a cop.
+
+26:29.789 --> 26:31.123
+I bet it did.
+
+26:31.157 --> 26:33.826
+The beginning, when Joe Friday's
+describing Los Angeles?
+
+26:33.860 --> 26:36.128
+Shots of the beautiful women
+on the beach?
+
+26:36.162 --> 26:37.864
+No, the end.
+
+26:37.897 --> 26:40.967
+When the prisoner would hold up
+his plaque for the mug shot.
+
+26:41.000 --> 26:43.135
+The announcer would
+tell you his sentence.
+
+26:45.972 --> 26:47.239
+Charlie won't let me down.
+
+26:50.142 --> 26:52.111
+It's possible you
+don't have all the facts.
+
+26:52.144 --> 26:54.847
+What exactly is it
+you expect he's going to find?
+
+26:57.784 --> 26:59.719
+You know, Joe Friday never
+actually said that line.
+
+26:59.752 --> 27:02.121
+But enough people
+
+27:02.154 --> 27:04.390
+repeat something, and soon
+enough, it becomes the truth.
+
+27:06.292 --> 27:07.927
+It doesn't mean it's right.
+
+27:22.341 --> 27:26.445
+Okay. So, these are
+the 53 most likely convicts
+
+27:26.478 --> 27:29.215
+that Garcia could have
+switched bracelets with.
+
+27:29.248 --> 27:33.285
+- We'll start with Guy Baker.
+- Hm-mm.
+
+27:33.319 --> 27:34.787
+What do you mean, mm?
+
+27:34.821 --> 27:36.422
+Look, he's got three kids.
+
+27:36.455 --> 27:38.257
+There's no way he's
+going to cross Salazar.
+
+27:38.290 --> 27:39.792
+Okay.
+
+27:39.826 --> 27:41.694
+How about Jorge Ramos?
+
+27:42.829 --> 27:44.964
+Yeah, maybe.
+
+27:44.997 --> 27:47.900
+I mean, his father-in-law
+makes Salazar look small-time.
+
+27:47.934 --> 27:49.335
+Anything happens to his
+daughter or his grandkids,
+
+27:49.368 --> 27:51.270
+Salazar is dead.
+
+27:51.303 --> 27:52.404
+CHARLIE:
+Orlando Casindo.
+
+27:52.438 --> 27:55.274
+No. Look. His sentence
+is almost up.
+
+27:55.307 --> 27:57.376
+(chuckles)
+
+27:57.409 --> 27:59.445
+You're amazing, you know?
+
+27:59.478 --> 28:01.280
+The more stressful
+the circumstance,
+
+28:01.313 --> 28:03.282
+the more clarity you have.
+
+28:03.315 --> 28:05.384
+Yeah, well, look,
+my life were on the line,
+
+28:05.417 --> 28:07.920
+and someone asked you
+the square root of 2007?
+
+28:07.954 --> 28:11.323
+44.7995535,
+give or take a digit.
+
+28:11.357 --> 28:13.225
+See, that's clear thinking.
+
+28:17.463 --> 28:19.298
+I could have ended this
+back at the prison.
+
+28:21.400 --> 28:22.835
+What, by killing Ian?
+
+28:22.869 --> 28:24.837
+I mean, it's what the textbook
+says to do.
+
+28:27.473 --> 28:30.743
+You know, after seeing
+the destruction at Hiroshima,
+
+28:30.777 --> 28:34.113
+Robert Oppenheimer spent
+the rest of his life
+
+28:34.146 --> 28:36.282
+fighting nuclear proliferation
+
+28:36.315 --> 28:38.417
+and totally destroyed
+his career,
+
+28:38.450 --> 28:42.421
+but he valued the lives of his
+friends and family even more.
+
+28:42.454 --> 28:47.359
+You know, I'm thinking your
+instinct was self-preservation.
+
+28:54.967 --> 28:57.136
+Galvin's got a second-degree
+burn on her hand.
+
+28:57.169 --> 28:58.805
+Thompson, I warned you
+not to go.
+
+28:58.838 --> 29:00.539
+What, are you on his side now?
+
+29:00.572 --> 29:02.408
+I cannot keep this jail
+in lockdown forever.
+
+29:02.441 --> 29:03.843
+We can't even get a visual
+on your guy.
+
+29:03.876 --> 29:05.511
+He could be dead, for all we
+know.
+
+29:05.544 --> 29:06.879
+(phone rings)
+You're not going in, okay?
+
+29:06.913 --> 29:07.980
+Not yet.
+
+29:08.014 --> 29:09.816
+Sinclair.
+
+29:09.849 --> 29:11.918
+Hey, David. We've narrowed down
+the list of potential prisoners
+
+29:11.951 --> 29:13.853
+that Garcia switched
+bracelets with to seven.
+
+29:19.191 --> 29:20.092
+Pete Lugo.
+
+29:25.397 --> 29:26.432
+Sean PiГ±eiro.
+
+29:28.567 --> 29:29.301
+Hakeem Watkins.
+
+29:34.874 --> 29:36.475
+Terell Post.
+
+29:37.576 --> 29:38.945
+Robert Ortiz.
+
+29:41.413 --> 29:44.216
+Randy Shannon.
+
+29:48.220 --> 29:49.121
+And Matthew Nunn.
+
+29:55.594 --> 29:56.528
+Empty cell.
+
+29:56.562 --> 29:58.330
+Records indicate
+he's in courthouse holding.
+
+30:01.267 --> 30:03.335
+Which one's Matthew Nunn?
+
+30:04.603 --> 30:05.504
+Hey, come here.
+
+30:05.537 --> 30:07.539
+(grunts)
+
+30:07.573 --> 30:09.108
+Where's Garcia?
+
+30:09.141 --> 30:10.542
+I never heard of the man.
+
+30:10.576 --> 30:11.543
+Think harder or I swear,
+
+30:11.577 --> 30:13.545
+you'll be serving your sentence
+plus his, his,
+
+30:13.579 --> 30:15.447
+and maybe his, too.
+
+30:15.481 --> 30:16.849
+I don't know. That's
+the truth, I swear.
+
+30:16.883 --> 30:18.584
+Some dude said he'd
+get $1,000 to my wife
+
+30:18.617 --> 30:20.486
+if I switched
+bracelets with him.
+
+30:20.519 --> 30:22.521
+Damn it!
+
+30:22.554 --> 30:24.957
+(phone rings)
+
+30:24.991 --> 30:25.992
+Find him?
+
+30:26.025 --> 30:27.193
+DAVID (on phone):
+We're having some problems.
+
+30:27.226 --> 30:29.095
+Charlie needs some more time.
+
+30:29.128 --> 30:31.463
+You are gonna make me hurt
+this man to prove my point!
+
+30:31.497 --> 30:34.600
+DAVID:
+Ian, don't. Ian? Ian?
+
+30:40.239 --> 30:43.042
+- Your boy's losing it.
+- What's my best option?
+
+30:43.075 --> 30:45.344
+Explosives.
+
+30:45.377 --> 30:46.478
+We'll go through the wall.
+
+30:46.512 --> 30:47.613
+You give me 20 minutes,
+
+30:47.646 --> 30:49.348
+I'll end this thing.
+
+30:51.483 --> 30:53.319
+Do it.
+
+31:01.127 --> 31:03.963
+These are the prisoners waiting
+to be taken back to the jail.
+
+31:04.964 --> 31:06.865
+And there's Garcia.
+
+31:07.666 --> 31:10.202
+As you can see, we don't know
+
+31:10.236 --> 31:12.504
+which van he went on, or whose
+bracelet he's wearing now.
+
+31:12.538 --> 31:15.107
+And every prisoner that Garcia
+switched bracelets with
+
+31:15.141 --> 31:17.910
+has increased his chances
+of survival.
+
+31:17.944 --> 31:19.645
+The first bracelet got him
+
+31:19.678 --> 31:21.047
+out of his cell block,
+and the next one
+
+31:21.080 --> 31:22.548
+got him to the courthouse.
+
+31:22.581 --> 31:24.350
+Tell me where he's going next,
+I'll buy you a new Rubik's Cube.
+
+31:24.383 --> 31:25.584
+It's pursuit-evasion.
+
+31:25.617 --> 31:27.954
+I knew we'd be back to the snake
+and the fish.
+
+31:27.987 --> 31:31.090
+Nope. Two children
+playing hide-and-seek.
+
+31:31.123 --> 31:34.593
+The seeker counts to 50
+and begins looking.
+
+31:34.626 --> 31:37.563
+But kids don't go from room
+to room in an efficient manner.
+
+31:37.596 --> 31:40.666
+They run to places like
+the basement or the attic first,
+
+31:40.699 --> 31:43.002
+places that offer
+the best hiding spots.
+
+31:43.035 --> 31:45.104
+In a similar manner,
+we look at prisoners
+
+31:45.137 --> 31:47.306
+who could have switched
+bracelets with Garcia
+
+31:47.339 --> 31:50.242
+at the courthouse and rank them
+based on where they're housed,
+
+31:50.276 --> 31:54.080
+or who has the safest hiding
+spot from Salazar and his men.
+
+31:54.113 --> 31:56.348
+(crickets chirping)
+
+31:56.382 --> 31:58.517
+(sighs)
+
+31:58.550 --> 32:00.686
+You know, when I was, like, 12,
+
+32:00.719 --> 32:03.255
+there was this kid,
+Ricky Caroll,
+
+32:03.289 --> 32:06.993
+the bully who used to terrorize
+the neighborhood.
+
+32:07.026 --> 32:08.194
+So, one day,
+
+32:08.227 --> 32:10.329
+me and my friend,
+we, uh, hid out
+
+32:10.362 --> 32:11.697
+and waited for him
+and jumped him.
+
+32:11.730 --> 32:14.333
+And?
+
+32:14.366 --> 32:16.035
+We beat the crap out of him.
+
+32:16.068 --> 32:18.404
+Then I got home and I told
+my old man what happened,
+
+32:18.437 --> 32:21.073
+and, uh, he beat
+the crap out of me
+
+32:21.107 --> 32:23.542
+and said it was better
+to fail with honor
+
+32:23.575 --> 32:25.978
+than to win by cheating.
+
+32:29.581 --> 32:31.483
+Think I should just quit?
+
+32:31.517 --> 32:33.085
+Trust my fate to a jury?
+
+32:36.188 --> 32:39.491
+I'd rather see you
+have your day in court alive
+
+32:39.525 --> 32:41.627
+than have to stand
+at your funeral, Ian.
+
+32:44.196 --> 32:49.201
+Why don't you let me help you,
+the right way?
+
+32:49.235 --> 32:50.669
+(sighs)
+
+32:50.702 --> 32:53.172
+You see the way I live.
+
+32:53.205 --> 32:55.241
+I can carry my life
+in a backpack.
+
+32:55.274 --> 32:58.110
+My idea of a five-star hotel is
+
+32:58.144 --> 33:00.646
+an insulated sleeping bag
+and a waterproof tent.
+
+33:00.679 --> 33:01.647
+(chuckles)
+
+33:01.680 --> 33:05.217
+What the hell would I even do
+with $500,000?
+
+33:05.251 --> 33:07.486
+Have you even taken a moment
+to think about that?
+
+33:15.361 --> 33:17.129
+(typing)
+
+33:17.163 --> 33:18.164
+(computer trilling)
+
+33:18.197 --> 33:19.331
+What am I looking at?
+
+33:19.365 --> 33:21.433
+Garcia's transfer orders.
+
+33:21.467 --> 33:24.203
+All signed by the same person.
+
+33:24.236 --> 33:27.005
+DAVID: By the same marshal,
+Frank Thompson.
+
+33:29.441 --> 33:31.510
+All right, we're good
+to go, boss.
+
+33:31.543 --> 33:33.279
+Hey, hold on a sec.
+
+33:33.312 --> 33:36.148
+If that's some authority from
+the DOJ, I don't give a crap.
+
+33:36.182 --> 33:37.483
+They're Garcia's transfer
+orders,
+
+33:37.516 --> 33:40.152
+- denied seven times by you.
+- And with good reason.
+
+33:40.186 --> 33:42.354
+THOMPSON:
+You ever work a jail?
+
+33:42.388 --> 33:44.190
+Ever have three prisoners
+jump you,
+
+33:44.223 --> 33:46.825
+nothing to defend yourself
+with but a flashlight?
+
+33:46.858 --> 33:49.328
+No. But all of a sudden
+you're an expert
+
+33:49.361 --> 33:51.197
+on how things are done
+around here.
+
+33:51.230 --> 33:53.165
+DAVID: So you're saying
+this is normal protocol?
+
+33:53.199 --> 33:55.367
+THOMPSON: Salazar wanted Garcia
+transferred.
+
+33:55.401 --> 33:57.069
+I knew moving him
+was part of his plan.
+
+33:57.103 --> 33:57.903
+Part of his plan, how?
+
+33:57.936 --> 33:59.705
+Garcia goes
+to a different prison,
+
+33:59.738 --> 34:03.309
+meets new contacts and Salazar's
+heroin ring continues to grow.
+
+34:03.342 --> 34:06.412
+Keep Garcia here,
+at least it's contained.
+
+34:06.445 --> 34:08.580
+Now, let me do my job,
+
+34:08.614 --> 34:09.815
+get your partner home.
+
+34:09.848 --> 34:11.683
+(phone ringing)
+Let's go.
+
+34:13.819 --> 34:16.122
+(phone ringing)
+Sinclair.
+
+34:16.155 --> 34:17.423
+Garcia switched bracelets
+with a prisoner
+
+34:17.456 --> 34:21.460
+whose number is between
+223-527-885
+
+34:21.493 --> 34:24.796
+and 223-527-996.
+
+34:24.830 --> 34:26.132
+That's about 112 names,
+right, Charlie?
+
+34:26.165 --> 34:27.133
+Yeah.
+
+34:27.166 --> 34:29.168
+But they're all in
+the maximum security wing.
+
+34:29.201 --> 34:32.238
+If Garcia's in solitary,
+then we have him cornered.
+
+34:32.271 --> 34:34.273
+Thompson, wait!
+
+34:34.306 --> 34:35.207
+(metal door slamming)
+
+34:40.779 --> 34:42.148
+(phone line ringing)
+
+34:42.181 --> 34:43.249
+(phone ringing)
+
+34:43.282 --> 34:45.117
+I'd better hear Garcia's voice
+
+34:45.151 --> 34:45.984
+on the other end
+of this phone.
+
+34:46.017 --> 34:47.853
+DAVID:
+Hey, we located him, all right.
+
+34:47.886 --> 34:49.855
+I need to talk my partner
+right now.
+
+34:53.392 --> 34:55.327
+It's David.
+
+34:55.361 --> 34:56.462
+Still alive.
+
+34:58.430 --> 35:01.267
+We found Garcia.
+He's in maximum security
+
+35:01.300 --> 35:03.135
+so it's going to take us
+a few minutes to get to him.
+
+35:03.169 --> 35:05.604
+Maybe in the meantime, I could
+send you guys in some food.
+
+35:05.637 --> 35:09.208
+Some Italian, you know,
+maybe some Mexican.
+
+35:09.241 --> 35:10.376
+EDGERTON:
+No food.
+
+35:10.409 --> 35:11.777
+Just Garcia. Five minutes.
+
+35:15.181 --> 35:17.383
+Garcia got himself transferred
+to maximum security.
+
+35:17.416 --> 35:19.451
+He must've been really afraid
+of Salazar.
+
+35:19.485 --> 35:21.153
+He could've figured out a way
+to get to a cell block
+
+35:21.187 --> 35:22.020
+Salazar didn't control.
+
+35:22.053 --> 35:24.190
+He picked a spot
+that no one can get to.
+
+35:24.223 --> 35:26.292
+A place
+that's being watched 24-7.
+
+35:26.325 --> 35:28.294
+Salazar can't operate
+without help inside the jail.
+
+35:28.327 --> 35:29.228
+A marshal?
+
+35:30.262 --> 35:32.264
+Garcia knew who all along,
+
+35:32.298 --> 35:33.232
+but Costello was killed
+
+35:33.265 --> 35:34.300
+before he could give me
+the exact location.
+
+35:38.670 --> 35:40.539
+- You let yourself be arrested.
+- I had to get in here.
+
+35:40.572 --> 35:42.274
+It was my best chance
+to find Garcia.
+
+35:42.308 --> 35:43.875
+It was crazy, man.
+
+35:43.909 --> 35:45.211
+I needed Charlie's help.
+
+35:45.244 --> 35:46.345
+If I would've rabbited,
+
+35:46.378 --> 35:47.646
+nobody would've listened
+to a fugitive.
+
+35:49.448 --> 35:51.183
+EDGERTON:
+Five more minutes.
+
+35:51.217 --> 35:52.584
+Five more minutes and Garcia
+
+35:52.618 --> 35:54.320
+will give us Salazar's partner.
+
+35:54.353 --> 35:56.222
+We may not have that much time.
+
+35:56.255 --> 35:57.789
+The bit about the food--
+
+35:57.823 --> 36:00.192
+Mexico, it's me and David's
+distress word.
+
+36:00.226 --> 36:01.893
+That means Thompson's
+getting ready to breach.
+
+36:01.927 --> 36:02.928
+30 seconds.
+
+36:02.961 --> 36:04.463
+So you could ask yourself,
+Granger,
+
+36:04.496 --> 36:06.365
+why is Thompson pushing
+to make entry?
+
+36:06.398 --> 36:08.634
+Why wouldn't he at least listen
+to what Garcia has to say?
+
+36:08.667 --> 36:11.237
+He wants to protect himself,
+and now he's got to kill me.
+
+36:12.704 --> 36:13.605
+Breach has control.
+
+36:15.774 --> 36:17.876
+Ten...
+
+36:17.909 --> 36:19.745
+nine...
+
+36:19.778 --> 36:22.848
+eight... seven...
+
+36:22.881 --> 36:24.416
+Just the facts.
+
+36:24.450 --> 36:26.318
+- ...six...
+- Just the facts.
+
+36:26.352 --> 36:27.653
+five...
+
+36:27.686 --> 36:29.588
+four...
+
+36:29.621 --> 36:30.789
+three...
+
+36:32.391 --> 36:33.392
+...two...
+
+36:33.425 --> 36:34.926
+one.
+(beep)
+
+36:38.430 --> 36:39.498
+Hands!
+
+36:39.531 --> 36:40.932
+- Hands!
+- I got him! I got him!
+
+36:44.270 --> 36:47.773
+* That would really have
+helped me through *
+
+36:49.441 --> 36:51.243
+Just in case you don't shoot
+any better than you think.
+
+36:51.277 --> 36:53.279
+Where the hell is Galvin?
+
+36:54.613 --> 36:58.917
+* Nothing will be left
+standing from *
+
+37:03.555 --> 37:05.291
+* See it through
+
+37:05.324 --> 37:09.361
+* Nothing will be left
+standing from *
+
+37:14.466 --> 37:15.767
+(gunshot)
+
+37:22.974 --> 37:24.009
+(handcuffs tightening)
+
+37:25.577 --> 37:27.379
+(panting)
+
+37:33.419 --> 37:35.321
+(crickets chirping)
+
+37:40.459 --> 37:42.294
+NIKKI: Galvin's been working
+for Salazar for two years now.
+
+37:42.328 --> 37:44.330
+EDGERTON:
+She convinced Thompson
+
+37:44.363 --> 37:46.432
+to reject all of Garcia's
+transfer orders.
+
+37:46.465 --> 37:48.066
+And set up the phony accounts
+under your name.
+
+37:48.099 --> 37:50.436
+Thompson?
+
+37:50.469 --> 37:52.738
+Only thing he's guilty of
+is trusting Galvin.
+
+37:52.771 --> 37:54.740
+EDGERTON:
+Well, here's where I get off.
+
+37:54.773 --> 37:57.376
+NIKKI: Hey, just until
+the courts open.
+
+37:57.409 --> 37:58.810
+I'll get a judge to officially
+release you.
+
+37:58.844 --> 38:00.979
+These days it could be a while.
+
+38:02.448 --> 38:03.782
+Any chance of a conjugal visit?
+
+38:05.917 --> 38:07.018
+Yeah, sure.
+
+38:07.052 --> 38:10.956
+As soon as they get cell service
+in the Abajo Mountains.
+
+38:10.989 --> 38:11.957
+(chuckles)
+
+38:11.990 --> 38:13.492
+He's all yours.
+
+38:13.525 --> 38:14.526
+(door buzzing)
+
+38:14.560 --> 38:15.794
+(door opening)
+
+38:23.402 --> 38:24.436
+(fingers snapping)
+
+38:24.470 --> 38:25.704
+You see?
+
+38:25.737 --> 38:28.474
+Your gut was right.
+
+38:28.507 --> 38:30.509
+I know, one thing
+I'm certain of.
+
+38:30.542 --> 38:31.810
+If I'm ever held hostage,
+
+38:31.843 --> 38:33.512
+I want you on the other side
+of that trigger.
+
+38:33.545 --> 38:35.614
+Oh, well, you--
+I might let them keep.
+
+38:35.647 --> 38:37.383
+*
+
+38:37.416 --> 38:40.452
+COLBY:
+(sighs) Wow.
+
+38:40.486 --> 38:41.753
+Took you long enough.
+
+38:41.787 --> 38:43.422
+Oh, please, none of this
+would've happened
+
+38:43.455 --> 38:45.357
+if you didn't fight
+like a girl.
+
+38:45.391 --> 38:46.458
+(wry chuckle)
+Come on.
+
+38:46.492 --> 38:48.627
+If anybody acted like a girl
+in there, it was you.
+
+38:48.660 --> 38:50.862
+Should've heard
+yourself on that phone.
+
+38:50.896 --> 38:52.664
+You're all,
+"I just want to make sure
+
+38:52.698 --> 38:53.932
+my partner's all right
+in there."
+
+38:53.965 --> 38:55.501
+Downright embarrassing.
+
+38:55.534 --> 38:56.902
+If I let you die,
+
+38:56.935 --> 38:57.903
+you know the kind of paperwork
+
+38:57.936 --> 38:59.438
+I'm going to have to fill out?
+
+38:59.471 --> 39:01.907
+All right, I can just kiss
+my promotion good-bye.
+
+39:03.041 --> 39:04.510
+(groans)
+
+39:04.543 --> 39:07.012
+Wow. This feels good.
+
+39:08.714 --> 39:11.617
+Guess you won't mind
+driving, then, right?
+
+39:18.590 --> 39:20.859
+Hey.
+(chuckles)
+
+39:20.892 --> 39:22.861
+Why am I always going to bed
+when everyone else is waking up?
+
+39:22.894 --> 39:24.530
+Well, at least this time
+you're not alone.
+
+39:24.563 --> 39:25.964
+- I'm right here with you.
+- Thanks.
+
+39:25.997 --> 39:27.399
+It's like when we were kids,
+
+39:27.433 --> 39:28.534
+we used to stay up all night
+
+39:28.567 --> 39:29.801
+and sneak downstairs
+and watch TV.
+
+39:29.835 --> 39:30.802
+Oh, yeah,
+
+39:30.836 --> 39:32.438
+we'd lie to Mom, right?
+And then what'd she say?
+
+39:32.471 --> 39:34.873
+Oh, "Only the truth
+will set you free."
+
+39:34.906 --> 39:37.743
+(clicks tongue)
+Hey.
+
+39:37.776 --> 39:39.545
+Ian bet his life on you, kid.
+
+39:40.746 --> 39:43.482
+You could say the same thing
+about you.
+
+39:43.515 --> 39:47.085
+You sure that's why
+I didn't pull the trigger?
+
+39:47.118 --> 39:48.420
+Oh.
+
+39:48.454 --> 39:50.155
+I'd bet my life on it.

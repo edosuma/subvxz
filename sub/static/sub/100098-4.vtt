@@ -1,0 +1,1872 @@
+WEBVTT
+
+00:01.040 --> 00:03.157
+Everything we did
+was what they wanted.
+
+00:03.600 --> 00:05.910
+<i>I'm a prisoner,
+just like before.</i>
+
+00:06.000 --> 00:07.195
+I'm going after Whiterose.
+
+00:07.280 --> 00:08.919
+I'm in.
+Give me your phone.
+
+00:09.000 --> 00:12.038
+<i>I rigged Signal's API
+so we could share locations.</i>
+
+00:12.120 --> 00:13.120
+You fucked me! I lost
+
+00:13.240 --> 00:14.754
+everything because of you.
+
+00:14.840 --> 00:17.799
+<i>My son's taken to Denmark,
+and my wife's dead!</i>
+
+00:17.880 --> 00:19.553
+<i>The Dark Army
+are just hackers.</i>
+
+00:19.640 --> 00:21.056
+<i>He turned
+the gun on himself.</i>
+
+00:21.080 --> 00:22.434
+<i>He erased his history.</i>
+
+00:22.520 --> 00:24.159
+<i>You work for
+the Dark Army now.</i>
+
+00:24.240 --> 00:27.039
+<i>My whole life
+is ruined because of you.</i>
+
+00:27.120 --> 00:30.511
+<i>Olivia Cortez, she's
+the Deus Group's only US account manager.</i>
+
+00:30.600 --> 00:31.750
+<i>She's our way in.</i>
+
+00:31.840 --> 00:34.355
+<i>You wanted to work with me,
+this is the way it is.</i>
+
+00:34.440 --> 00:36.830
+If there's a problem,
+don't be here when I get back.
+
+00:36.920 --> 00:39.355
+I'm resigning
+as CEO of E Corp.
+
+00:39.440 --> 00:42.672
+Call Mr. Wellick and offer him
+the CEO position.
+
+00:42.760 --> 00:45.798
+That van's been following us
+since we got off the subway.
+
+00:47.080 --> 00:50.039
+Elliot, we're on the inside.
+It's time to take them down.
+
+00:54.720 --> 00:57.760
+<i>Elliot. I've come
+with the news we've been waiting for.</i>
+
+00:57.800 --> 01:00.190
+<i>They want to make me
+CEO of E Corp.</i>
+
+01:01.680 --> 01:04.878
+<i>Are you hearing me? The offer came
+directly from Whiterose.</i>
+
+01:05.000 --> 01:06.673
+<i>What are you doing?</i>
+
+01:07.920 --> 01:10.196
+<i>This is exactly
+what we've been waiting for.</i>
+
+01:10.280 --> 01:12.556
+<i>We're on the inside.
+It's time to take them down.</i>
+
+01:17.480 --> 01:20.439
+<i>Sorry, I've been under
+a lot of stress.</i>
+
+01:21.120 --> 01:22.634
+<i>I didn't mean to snap.</i>
+
+01:22.720 --> 01:24.837
+<i>No, uh, I get it.</i>
+
+01:26.320 --> 01:28.960
+<i>It's okay. Uh...
+Here, have a seat.</i>
+
+01:29.480 --> 01:31.358
+<i>Well, you want water
+or something?</i>
+
+01:32.560 --> 01:33.755
+<i>Let me get you a glass.</i>
+
+01:36.960 --> 01:38.030
+<i>There you go.</i>
+
+01:40.480 --> 01:43.154
+<i>I'm gonna boot up my computer.
+It'll just take a minute.</i>
+
+01:44.440 --> 01:48.480
+<i>Fuck. I forgot the install this morning.
+Looks like it failed.</i>
+
+01:48.560 --> 01:49.596
+<i>I wonder why.</i>
+
+01:53.880 --> 01:55.837
+<i>Logs say
+"out of disk space."</i>
+
+01:56.480 --> 01:57.800
+<i>Just give me a second.</i>
+
+01:59.400 --> 02:01.198
+<i>I need to adjust
+the swap partitions.</i>
+
+02:04.680 --> 02:05.830
+<i>That should fix it.</i>
+
+02:07.680 --> 02:09.990
+<i>"Boot device not found." Shit.</i>
+
+02:10.639 --> 02:11.835
+<i>Now my terminal's frozen.</i>
+
+02:47.680 --> 02:48.680
+Fuck.
+
+02:48.760 --> 02:50.194
+Get in, check the logs.
+
+02:50.280 --> 02:53.751
+If the recording wasn't sent back
+to Dark Army, wipe everything
+
+02:53.840 --> 02:55.832
+and make sure they
+can't track the van.
+
+02:56.760 --> 02:57.910
+What about him?
+
+03:01.080 --> 03:02.196
+He's dead.
+
+03:32.680 --> 03:36.879
+To be clear, I am not calling you
+because we are good.
+
+03:38.480 --> 03:43.271
+I am calling because I got into
+Olivia's Cyprus National Bank Account.
+
+03:43.360 --> 03:45.716
+Unfortunately,
+her access isn't good enough.
+
+03:46.800 --> 03:48.678
+I can see
+all the Deus account numbers,
+
+03:48.760 --> 03:51.673
+but she's not authorized
+to transfer anything.
+
+03:51.760 --> 03:55.754
+I got lateral access inside
+the bank's system, but hit a wall.
+
+03:55.880 --> 03:58.395
+All their authentication
+goes through a proxy,
+
+03:58.480 --> 04:01.757
+and everything else
+on their domain is read-only,
+
+04:01.840 --> 04:03.832
+which means
+
+04:03.920 --> 04:07.391
+we are gonna have to break into
+Virtual Realty and get on their servers.
+
+04:07.800 --> 04:11.271
+Since the Deus Group meeting is tomorrow,
+I'm scouting the place now.
+
+04:11.360 --> 04:15.991
+Security is lax with Christmas,
+so we need to do it ASAP.
+
+04:17.640 --> 04:20.154
+Also, can't help
+but wonder
+
+04:20.279 --> 04:25.196
+why exactly the fuck you are not
+answering my calls!
+
+04:25.880 --> 04:29.920
+We were supposed to meet at Allsafe,
+or did you forget again?
+
+04:30.040 --> 04:31.076
+Dick.
+
+04:33.440 --> 04:34.715
+Okay, you know what?
+
+04:35.200 --> 04:38.159
+I'm coming to your apartment,
+and when I get there,
+
+04:38.240 --> 04:40.391
+I expect you to have
+heard this message
+
+04:40.480 --> 04:43.200
+and already be prepping
+for Virtual Realty.
+
+04:43.280 --> 04:47.797
+Oh. And when you do get this voicemail,
+keep this in mind.
+
+04:47.880 --> 04:49.200
+Fuck you!
+
+04:49.280 --> 04:52.512
+You are a fucking
+selfish dickhead of an asshole
+
+04:52.600 --> 04:56.640
+who is the shittiest brother
+on Earth!
+
+04:56.720 --> 04:59.554
+I don't wanna say I hate you,
+but I hate you.
+
+04:59.640 --> 05:02.394
+I hate you
+so fucking much.
+
+05:02.480 --> 05:03.994
+If I show up
+at your apartment
+
+05:04.080 --> 05:07.710
+and you're hanging from the goddamn ceiling
+by a rope, that's cool.
+
+05:07.800 --> 05:10.395
+In fact, that would be
+my preference.
+
+05:10.480 --> 05:13.439
+So in sum,
+fuck off and die!
+
+05:15.680 --> 05:18.320
+<i>To continue
+your recording, press two.</i>
+
+05:18.400 --> 05:20.551
+<i>To delete your recording,
+press three.</i>
+
+05:25.080 --> 05:27.959
+<i>Please re-record your message
+after the tone.</i>
+
+05:29.960 --> 05:33.556
+Hey, Elliot, it's me.
+
+07:08.800 --> 07:10.075
+Elliot?
+
+07:58.920 --> 08:01.456
+Okay, it looks like
+the logs were never sent.
+
+08:01.480 --> 08:05.440
+So, all we gotta do is get rid of the body
+and the van, and we're good to go, okay?
+
+08:17.360 --> 08:19.317
+I'm gonna go pick us up
+a couple of snow shovels.
+
+08:19.400 --> 08:21.119
+We're not here
+for shovels.
+
+08:21.200 --> 08:22.236
+What are we here for?
+
+08:24.320 --> 08:26.755
+Go inside, pay for the gas,
+and grab a lighter.
+
+08:33.000 --> 08:35.913
+Oh. Internet's down.
+No Ecoin.
+
+08:39.880 --> 08:42.395
+$19.86.
+
+08:44.520 --> 08:45.954
+Do I know you?
+
+08:49.400 --> 08:50.516
+I don't think so.
+
+08:53.600 --> 08:55.114
+You look awfully familiar.
+
+08:56.360 --> 08:58.192
+Yeah, sorry,
+we're kind of in a hurry.
+
+09:00.560 --> 09:02.233
+You sure
+we haven't met before?
+
+09:03.360 --> 09:05.317
+Yeah, you must have me
+mistaken for someone else.
+
+09:05.440 --> 09:06.669
+You an actor?
+
+09:06.760 --> 09:08.080
+Can you just
+ring him up?
+
+09:08.160 --> 09:10.356
+Wait, were you
+on <i>Big Brother?</i>
+
+09:12.600 --> 09:14.751
+Yeah, that must be it.
+
+09:14.840 --> 09:17.480
+I knew it.
+I never forget a face.
+
+09:18.080 --> 09:19.309
+Keep the change.
+
+09:19.680 --> 09:21.194
+Merry Christmas!
+
+09:33.960 --> 09:35.280
+Where'd you move
+the van to?
+
+09:36.240 --> 09:37.435
+I didn't
+move the van.
+
+10:03.760 --> 10:06.480
+Hey, hey,
+what are you doing?
+
+10:06.800 --> 10:07.800
+Hey!
+
+10:08.400 --> 10:10.039
+Hey, thief!
+
+10:10.120 --> 10:12.840
+- Thief, I've called the police.
+- Shit.
+
+10:12.920 --> 10:14.376
+Hey, dude, you're straight up
+trying to steal my car.
+
+10:14.400 --> 10:17.040
+It's cool, man. It's cool.
+You don't need to call the cops, okay?
+
+10:17.120 --> 10:19.112
+- I'm walking away.
+- No, hold on.
+
+10:19.200 --> 10:22.955
+You trying to steal my car
+and walk away. What's up?
+
+10:23.600 --> 10:26.638
+Dude, do you really want to deal
+with the hassle of calling the cops?
+
+10:26.720 --> 10:29.096
+It's just gonna end in an all-nighter
+for you at the station,
+
+10:29.120 --> 10:30.634
+followed by a shit ton
+of paperwork.
+
+10:31.720 --> 10:33.837
+Besides, nothing...
+Nothing happened.
+
+10:34.480 --> 10:37.712
+You busted me, I'm walking away.
+No harm, no foul.
+
+10:37.800 --> 10:41.191
+Yeah, but I got questions
+that need answering.
+
+10:42.640 --> 10:45.758
+First, have you
+seen my keys?
+
+10:48.080 --> 10:49.150
+No.
+
+10:51.920 --> 10:53.752
+That was
+my only question.
+
+10:54.560 --> 10:55.835
+Can I please go now?
+
+10:55.920 --> 10:57.877
+Oh, wait, I got
+another question.
+
+10:57.960 --> 10:59.474
+Can you start my car?
+
+11:02.800 --> 11:03.950
+Really?
+
+11:04.040 --> 11:07.511
+Yeah, I usually use my keys,
+and I can't seem to find them.
+
+11:07.600 --> 11:10.559
+Okay, you're not really planning
+on driving like this, are you?
+
+11:10.640 --> 11:12.199
+Well, I gotta get home.
+
+11:13.960 --> 11:15.792
+Dude, you are
+drunk as shit.
+
+11:15.880 --> 11:18.520
+Can't you just call a cab
+or something?
+
+11:18.600 --> 11:21.320
+No, cabs don't go
+where I'm headed.
+
+11:21.720 --> 11:24.235
+- Where is that, the North Pole?
+- No.
+
+11:25.320 --> 11:27.835
+It's upstate. Foxrock.
+
+11:34.560 --> 11:37.075
+- What's your name?
+- Tobias.
+
+11:37.160 --> 11:38.560
+Hi, Tobias.
+
+11:38.640 --> 11:40.279
+I'm Darlene.
+
+11:40.360 --> 11:41.510
+We're friends, right?
+
+11:43.840 --> 11:45.433
+Yeah, I'd like that.
+
+11:45.520 --> 11:46.590
+Great.
+
+11:47.320 --> 11:48.800
+So, here's an idea.
+
+11:48.880 --> 11:50.155
+I'll drive you home
+
+11:50.240 --> 11:53.278
+if I can borrow your car afterwards
+for a quick errand.
+
+11:56.080 --> 11:59.312
+- You drive a hard bargain, Dolly.
+- Darlene.
+
+11:59.400 --> 12:01.790
+Exactly.
+Let's ride!
+
+12:06.440 --> 12:11.037
+Oh, guys, I understand,
+but like I said, Internet's down.
+
+12:11.120 --> 12:12.713
+Phone's hooked
+to the Internet,
+
+12:12.800 --> 12:15.235
+so that means
+phone's down, too.
+
+12:15.320 --> 12:17.391
+We're kind of in the middle
+of nowhere here.
+
+12:17.480 --> 12:19.040
+None of our phones
+have service.
+
+12:19.360 --> 12:22.353
+There's gotta be someplace
+nearby with cell reception.
+
+12:22.440 --> 12:25.160
+- Sure, back in town.
+- What town?
+
+12:25.800 --> 12:27.154
+Pike's Hollow.
+
+12:27.240 --> 12:28.833
+How do we get there?
+
+12:28.920 --> 12:31.674
+It's too far to walk
+unless you take the shortcut.
+
+12:32.680 --> 12:37.436
+But, my husband's coming to pick me up
+in a bit, if you want a ride.
+
+12:37.520 --> 12:38.670
+Where's the shortcut?
+
+12:43.640 --> 12:44.676
+Got it!
+
+12:45.360 --> 12:48.990
+Tyrell Wellick, right?
+That's how I know you.
+
+12:50.280 --> 12:52.431
+But I never knew
+you were on <i>Big Brother.</i>
+
+12:54.120 --> 12:59.434
+Holy smokes! I cannot believe
+you are in my store.
+
+13:00.040 --> 13:02.430
+- Can I get a selfie?
+- No, I'm not him.
+
+13:02.520 --> 13:03.715
+You have me confused.
+Okay?
+
+13:03.800 --> 13:05.280
+The shortcut,
+how do we get there?
+
+13:05.360 --> 13:07.829
+Are you sure you're
+not Tyrell Wellick?
+
+13:07.920 --> 13:11.038
+E Corp fella. You are
+the spitting image of him.
+
+13:11.120 --> 13:12.520
+Yes, I'm sure.
+
+13:14.320 --> 13:15.640
+Well, that's too bad.
+
+13:17.280 --> 13:19.272
+Sure like to
+meet him one day.
+
+13:20.200 --> 13:21.839
+Seems like a nice guy.
+
+13:21.920 --> 13:25.800
+Jesus fucking Christ, woman!
+Where is the shortcut?
+
+13:25.880 --> 13:27.394
+How the fuck
+do we get to town?
+
+13:30.240 --> 13:32.880
+Whoa!
+Aren't you friggin' rude?
+
+13:38.400 --> 13:41.757
+Directly across the street,
+you'll see an opening to a trail,
+
+13:41.880 --> 13:44.554
+and that will take you through
+the woods for a stretch,
+
+13:44.640 --> 13:47.314
+but be sure you veer left
+at the creek.
+
+13:47.400 --> 13:50.757
+You'll find yourself in Pike's Hollow
+in 30 minutes or so.
+
+13:53.800 --> 13:55.280
+Fucking finally.
+
+13:56.840 --> 13:58.672
+Wouldn't hurt you to
+learn some manners
+
+13:58.760 --> 14:00.114
+on the walk.
+
+16:10.840 --> 16:12.096
+This is
+the right trail, right?
+
+16:12.120 --> 16:13.713
+The one across
+from the gas station?
+
+16:15.000 --> 16:16.275
+There was only one.
+
+16:18.280 --> 16:20.511
+- Are you sure?
+- Yeah.
+
+16:28.640 --> 16:29.994
+So quiet out here.
+
+16:36.200 --> 16:37.919
+Have you ever
+considered leaving?
+
+16:41.200 --> 16:42.270
+What do you mean?
+
+16:43.200 --> 16:46.318
+Just walking off,
+disappearing,
+
+16:47.480 --> 16:49.472
+leaving the life you're living
+behind you,
+
+16:49.560 --> 16:52.758
+all the bullshit, the stress,
+the pain, everything?
+
+16:53.640 --> 16:55.120
+You know,
+maybe start over
+
+16:56.320 --> 16:58.516
+where no one knows you
+and reinvent yourself
+
+16:58.600 --> 17:01.399
+and forget about all the mistakes
+you made in this life.
+
+17:02.880 --> 17:03.950
+Find some peace.
+
+17:05.319 --> 17:06.356
+Some rest.
+
+17:08.560 --> 17:09.914
+I think about that.
+
+17:11.119 --> 17:12.156
+Don't you?
+
+17:14.280 --> 17:15.349
+No.
+
+17:21.240 --> 17:22.594
+Any sign of the creek?
+
+17:23.240 --> 17:25.152
+Well, maybe it's
+still up ahead.
+
+17:27.160 --> 17:28.310
+Ah.
+
+17:29.920 --> 17:31.120
+We've been walking
+for a while.
+
+17:31.200 --> 17:33.317
+We should've
+come across it by now.
+
+17:33.400 --> 17:35.676
+How do you know if we should've
+come across it by now?
+
+17:35.760 --> 17:38.480
+Because we've been walking
+for fucking hours. That's how!
+
+17:38.560 --> 17:41.280
+Don't get mad at me. I don't know
+where the goddamn creek is.
+
+17:41.360 --> 17:42.536
+You were the one
+who took off this way.
+
+17:42.560 --> 17:43.560
+Unbelievable.
+
+17:43.640 --> 17:45.279
+You're blaming me
+that we're lost?
+
+17:45.360 --> 17:47.431
+I blame you that
+we're even here.
+
+17:48.520 --> 17:50.239
+- You said he was dead.
+- He was.
+
+17:50.320 --> 17:51.834
+Then how did he
+drive the van?
+
+17:51.920 --> 17:55.231
+- I don't fucking know!
+- All right, all right.
+
+17:55.320 --> 17:56.549
+Let's all calm down.
+
+17:57.560 --> 17:58.676
+Take it easy.
+
+18:07.760 --> 18:08.760
+What was that?
+
+18:10.160 --> 18:11.160
+A dog?
+
+18:15.920 --> 18:16.920
+Who knows?
+
+18:17.000 --> 18:19.040
+We're in the middle of the woods.
+Could be anything.
+
+18:19.280 --> 18:20.350
+Maybe a coyote.
+
+18:20.960 --> 18:21.996
+Or a wolf.
+
+18:22.960 --> 18:24.474
+That.
+
+18:29.240 --> 18:30.390
+You hear it?
+
+18:31.600 --> 18:34.479
+Let's just keep going.
+Maybe the creek is up ahead.
+
+18:45.320 --> 18:46.800
+She knew my face.
+
+18:49.240 --> 18:50.276
+What?
+
+18:51.160 --> 18:52.389
+The cashier.
+
+18:53.480 --> 18:54.516
+She knew my face.
+
+18:55.760 --> 18:56.796
+So what?
+
+18:58.720 --> 19:00.439
+That means
+she can ID me.
+
+19:04.760 --> 19:08.515
+<i>You search,
+you find, all is well.</i>
+
+19:09.480 --> 19:11.472
+<i>But what if you search
+and you don't find?</i>
+
+19:12.120 --> 19:13.395
+<i>How long do you look?</i>
+
+19:16.640 --> 19:18.836
+<i>Eventually, you've gotta
+give up, right?</i>
+
+19:19.360 --> 19:20.396
+<i>Then what?</i>
+
+19:21.120 --> 19:24.272
+<i>That thing you were searching for,
+what becomes of it?</i>
+
+19:25.080 --> 19:26.753
+<i>How could you ever know?</i>
+
+19:40.320 --> 19:41.595
+Big night tonight?
+
+19:44.600 --> 19:45.600
+Oh.
+
+19:45.680 --> 19:48.195
+No. I'm not the real Santa.
+
+19:49.200 --> 19:50.350
+Yeah.
+
+19:51.160 --> 19:53.675
+Sometimes I wish I were.
+
+19:57.360 --> 19:59.397
+Sometimes I wish
+I were...
+
+20:05.160 --> 20:06.674
+Where'd you
+go there, Tobias?
+
+20:08.080 --> 20:09.560
+Uh... Just thinking.
+
+20:10.960 --> 20:11.960
+Jimmy.
+
+20:13.360 --> 20:14.555
+Good guy.
+
+20:15.640 --> 20:17.757
+Fell on
+some tough times.
+
+20:18.600 --> 20:24.358
+You know how sometimes the world
+just seems like it's kicking you down
+
+20:24.440 --> 20:25.794
+and you can't get up?
+
+20:27.000 --> 20:28.434
+Christ, do I ever.
+
+20:28.840 --> 20:30.160
+That's Jimmy.
+
+20:31.480 --> 20:33.039
+And you know how it is.
+
+20:33.840 --> 20:39.677
+Soon you're out in the cold winter night,
+asking a lot of questions,
+
+20:39.800 --> 20:41.473
+looking at the world,
+
+20:41.560 --> 20:46.430
+thinking about what it might be like
+without you in it.
+
+21:09.760 --> 21:10.955
+Do you have to do that?
+
+21:14.280 --> 21:16.112
+- It's a Christmas song.
+- It's annoying.
+
+21:24.600 --> 21:25.716
+I just got it.
+
+21:27.680 --> 21:29.080
+Why you wear that hoodie.
+
+21:30.040 --> 21:31.838
+I've never seen you
+in anything else.
+
+21:32.760 --> 21:37.710
+Black hoodie, black jeans,
+black shoes, always the same.
+
+21:38.080 --> 21:41.437
+I've been wondering this whole time,
+but now I finally get it.
+
+21:42.400 --> 21:43.470
+You don't care.
+
+21:46.240 --> 21:47.674
+Sure, why not?
+
+21:48.840 --> 21:52.800
+Silk tie, $6,000 suit.
+
+21:56.040 --> 21:58.600
+I mean, it sounds pathetic
+to say aloud, but...
+
+22:00.880 --> 22:02.155
+I actually care.
+
+22:04.640 --> 22:05.640
+And you know what?
+
+22:07.480 --> 22:08.800
+That's why I'm a failure.
+
+22:10.400 --> 22:12.869
+My entire life,
+I've been an outsider,
+
+22:13.920 --> 22:18.551
+worried what other people think of me,
+how I can make them happy,
+
+22:19.680 --> 22:22.479
+because I needed their approval
+and their acceptance.
+
+22:26.080 --> 22:27.309
+But you never cared.
+
+22:29.240 --> 22:30.469
+The first day we met,
+
+22:31.960 --> 22:36.637
+there we were, Allsafe's most important
+clients roaming through the office,
+
+22:36.720 --> 22:38.712
+and you couldn't care less.
+
+22:47.480 --> 22:48.960
+We're gonna die out here.
+
+22:50.120 --> 22:51.713
+Maybe not tonight,
+but soon.
+
+22:53.080 --> 22:54.639
+The Dark Army soldier,
+
+22:55.680 --> 22:57.592
+he's likely reported
+back by now.
+
+22:59.360 --> 23:01.716
+It's only a matter of time
+before they find us.
+
+23:12.480 --> 23:13.596
+Did you hear that?
+
+23:14.720 --> 23:18.191
+If there's traffic,
+we gotta be close to town.
+
+23:37.920 --> 23:40.310
+- Hey! Hey!
+- Hey!
+
+23:42.040 --> 23:43.040
+Hey!
+
+23:47.840 --> 23:49.399
+Jesus Christ!
+
+24:02.640 --> 24:03.915
+So, what's with
+the getup?
+
+24:04.520 --> 24:07.194
+Mall Santa?
+Salvation Army?
+
+24:08.960 --> 24:10.758
+Sloan Kettering.
+
+24:11.600 --> 24:13.717
+It's a cancer center.
+
+24:14.200 --> 24:15.998
+I do it for the kids.
+
+24:16.880 --> 24:18.837
+Dude, that's dope.
+
+24:20.200 --> 24:22.317
+You're definitely
+a better person than me.
+
+24:25.840 --> 24:27.911
+So what,
+the kids served spiked nog?
+
+24:28.240 --> 24:32.314
+No, me and some of
+the other volunteers,
+
+24:32.400 --> 24:36.952
+we got a little tradition
+after visiting the hospital.
+
+24:37.760 --> 24:38.876
+What's that?
+
+24:39.600 --> 24:40.716
+We get drunk.
+
+24:43.520 --> 24:45.432
+Nice tradition,
+I guess.
+
+24:45.920 --> 24:51.439
+Yeah, you know the kids,
+they love when we drop by.
+
+24:52.240 --> 24:55.233
+So many smiling faces.
+
+24:57.400 --> 25:00.632
+This might be the last time
+I do it, though.
+
+25:02.160 --> 25:04.516
+You know the thing
+that really gets you?
+
+25:06.880 --> 25:09.918
+Some of them
+are so small.
+
+25:14.200 --> 25:18.877
+It's almost as if
+they were just born to die.
+
+25:21.400 --> 25:22.675
+Jesus.
+
+25:24.800 --> 25:26.519
+No wonder
+you're plastered.
+
+25:27.720 --> 25:29.837
+And how else do you
+get through that?
+
+25:31.320 --> 25:35.792
+Well, it was easier
+when my wife went with me.
+
+25:35.880 --> 25:40.318
+But, since the accident...
+
+25:52.400 --> 25:53.834
+What do you
+got there, Tobias?
+
+25:54.400 --> 25:55.400
+Oh...
+
+25:55.880 --> 26:00.193
+I like to keep a nip or two on me
+during the holidays.
+
+26:00.520 --> 26:02.239
+I'm not talking
+about the booze.
+
+26:03.040 --> 26:04.040
+Oh.
+
+26:04.520 --> 26:05.749
+Percocet.
+
+26:11.680 --> 26:15.754
+Sometimes the pain's
+just too much.
+
+26:21.800 --> 26:23.598
+Alexa, play
+"slow jams" playlist.
+
+26:23.680 --> 26:25.353
+<i>Playing "slowjams"
+playlist.</i>
+
+26:26.720 --> 26:28.074
+This is
+my apartment.
+
+26:33.840 --> 26:35.832
+You know,
+when we were chatting,
+
+26:35.920 --> 26:39.118
+I just imagined this
+super organized.
+
+26:41.200 --> 26:42.656
+Well, I actually did
+clean up earlier.
+
+26:42.680 --> 26:44.876
+No, I like it.
+
+26:49.320 --> 26:50.549
+You want a drink?
+
+26:55.480 --> 26:57.756
+I have one Tecate.
+
+26:59.040 --> 27:00.110
+We can share.
+
+27:17.520 --> 27:21.560
+So, my apartment being organized was
+part of your fantasy in our chat?
+
+27:21.640 --> 27:22.960
+Well, you know...
+
+27:23.840 --> 27:25.638
+Just visualizing.
+
+27:29.160 --> 27:31.117
+I guess that's the thing
+about IRC.
+
+27:32.360 --> 27:34.591
+Everyone gets to imagine
+exactly what they want.
+
+27:38.960 --> 27:40.030
+Is that why you do it?
+
+27:42.680 --> 27:44.592
+I like how I can
+control everything.
+
+27:53.680 --> 27:57.594
+I have this fantasy that I'm the only person
+from IRC you've ever invited over.
+
+28:03.840 --> 28:04.910
+You are.
+
+28:36.040 --> 28:38.874
+Just...
+Let me just...
+
+28:41.480 --> 28:42.675
+I'll be right back.
+
+28:43.880 --> 28:45.030
+Okay.
+
+29:19.440 --> 29:21.352
+Stop fighting so hard.
+
+29:26.680 --> 29:28.672
+You're gonna lose control
+faster that way.
+
+29:31.840 --> 29:32.876
+Give into it.
+
+29:34.720 --> 29:36.279
+Give up control.
+
+29:38.440 --> 29:43.276
+You realize you'll
+never be free.
+
+30:49.680 --> 30:50.750
+Um...
+
+30:52.160 --> 30:53.879
+Tobias?
+
+30:55.040 --> 30:56.076
+What's up?
+
+31:00.080 --> 31:01.309
+Hold on now.
+
+31:02.320 --> 31:03.754
+Whose car is that?
+
+31:05.120 --> 31:07.032
+That was gonna be
+my question.
+
+31:07.920 --> 31:11.675
+Hey. That's my car.
+
+31:14.680 --> 31:16.831
+Oh, I get it now.
+
+31:18.240 --> 31:21.074
+Oh, you see,
+I didn't drive today.
+
+31:21.960 --> 31:23.189
+Kenny drove.
+
+31:24.440 --> 31:26.591
+- He picked me up at...
+- Okay, Tobias.
+
+31:27.440 --> 31:30.956
+If that is your car,
+whose car is this?
+
+31:32.480 --> 31:34.517
+I have no clue.
+
+31:38.120 --> 31:39.395
+Christmas, huh?
+
+31:43.000 --> 31:44.070
+Oh.
+
+31:44.280 --> 31:45.509
+Goodbye, Tobias.
+
+31:46.840 --> 31:50.993
+Goodbye is short and final.
+
+32:06.640 --> 32:08.791
+Hey. Hey.
+
+32:09.400 --> 32:11.869
+Hey. Look.
+
+32:12.680 --> 32:16.594
+I know it might not be my place,
+but I wanna help you.
+
+32:18.640 --> 32:20.518
+You wanna help me?
+
+32:20.920 --> 32:22.559
+I don't want you to
+hurt yourself.
+
+32:25.800 --> 32:29.271
+Holy crow, what the heck
+are you talking about?
+
+32:29.360 --> 32:31.016
+What do you mean?
+You're all sad and lonely
+
+32:31.040 --> 32:33.794
+going on about Jimmy,
+your suicidal "friend."
+
+32:33.880 --> 32:38.830
+Jimmy Stewart. <i>It's a Wonderful Life.</i>
+Christmas classic.
+
+32:38.920 --> 32:42.311
+Tobias, you just
+told me goodbye is final.
+
+32:42.400 --> 32:45.871
+That is Steinbeck.
+He's a national treasure.
+
+32:45.960 --> 32:48.680
+- Read a book.
+- Okay, what about the pills?
+
+32:49.320 --> 32:52.711
+You're drunk as shit and you have
+a bottle of Percocet. Explain that.
+
+32:54.800 --> 32:57.474
+- For my wife.
+- Your wife's dead.
+
+33:00.080 --> 33:01.639
+My wife is dead?
+
+33:02.680 --> 33:04.956
+Wait, you said
+she had an accident.
+
+33:07.520 --> 33:09.193
+She threw her back out
+
+33:09.280 --> 33:10.953
+when we were putting
+
+33:11.040 --> 33:13.839
+the Santa on the roof
+yesterday.
+
+33:14.840 --> 33:16.911
+She's in brutal pain.
+
+33:17.000 --> 33:19.037
+She can barely move.
+
+33:19.120 --> 33:22.352
+- Doc wrote a prescription...
+- Okay, you fucking scared me!
+
+33:25.920 --> 33:27.991
+- Hey, Dolly.
+- Darlene.
+
+33:28.520 --> 33:30.034
+Are you okay?
+
+33:31.200 --> 33:33.112
+Yeah, I'm okay.
+Why wouldn't I be?
+
+33:35.440 --> 33:37.159
+You wanna talk about it?
+
+33:38.880 --> 33:40.394
+There's nothing
+to talk about.
+
+33:42.760 --> 33:43.830
+You sure?
+
+33:46.200 --> 33:47.200
+Yes.
+
+33:49.760 --> 33:52.912
+All right.
+Have a great night.
+
+33:57.600 --> 33:58.670
+Fine.
+
+34:03.760 --> 34:07.276
+I have lost
+absolutely everyone,
+
+34:07.360 --> 34:10.989
+my boyfriend,
+my best friend, my parents.
+
+34:11.080 --> 34:12.958
+The only one I have left
+is my brother,
+
+34:13.040 --> 34:17.000
+who is an asshole that treats me
+like absolute shit.
+
+34:18.159 --> 34:20.231
+But I'm really worried
+about him right now,
+
+34:20.320 --> 34:24.996
+and it pisses me off that I'm worried
+because I am always worried about him,
+
+34:25.080 --> 34:29.279
+and he flat-out told me to fuck off.
+So, why do I bother?
+
+34:31.920 --> 34:33.036
+I don't know.
+
+34:35.040 --> 34:37.396
+I don't know, I'm afraid
+this time it's different.
+
+34:38.520 --> 34:40.193
+I'm afraid
+he might be dead.
+
+34:48.920 --> 34:49.989
+Okay.
+
+35:06.320 --> 35:08.676
+- Reception?
+- No.
+
+35:10.640 --> 35:11.710
+Time.
+
+35:15.080 --> 35:17.231
+Just realizing
+it's Christmas.
+
+35:20.080 --> 35:21.878
+Can't be much further.
+
+35:21.960 --> 35:23.838
+- To what?
+- Town.
+
+35:25.120 --> 35:27.760
+Let's stop lying to ourselves.
+We're nowhere near town.
+
+35:27.840 --> 35:30.753
+- We're completely lost.
+- We just gotta keep moving.
+
+35:30.840 --> 35:33.753
+Why? Even if we magically made it
+to this Pike's Hollow place,
+
+35:33.840 --> 35:35.957
+the town is gonna be swarming
+with Dark Army.
+
+35:36.040 --> 35:39.511
+- We've gotta try.
+- You aren't listening to me.
+
+35:39.600 --> 35:42.513
+Whatever we're walking towards,
+it ends with death.
+
+35:54.640 --> 35:55.869
+What are you doing?
+
+35:58.920 --> 36:00.274
+There's a rock
+in my shoe.
+
+36:19.160 --> 36:23.040
+You honestly don't care about me,
+do you?
+
+36:25.000 --> 36:26.559
+What are you
+talking about now?
+
+36:26.640 --> 36:28.836
+Like why do you wear
+that same hoodie every day?
+
+36:29.680 --> 36:30.750
+You don't care.
+
+36:32.720 --> 36:34.234
+Did you ever
+care about me?
+
+36:35.040 --> 36:36.679
+I mean, be honest,
+I can take it.
+
+36:36.760 --> 36:37.955
+What is the point
+of this?
+
+36:38.040 --> 36:40.236
+Just answer the question,
+did you?
+
+36:42.000 --> 36:44.016
+- Tyrell, you didn't make it easy...
+- Just answer the question!
+
+36:44.040 --> 36:45.040
+No!
+
+36:53.160 --> 36:54.160
+The sound of death.
+
+36:54.800 --> 36:57.110
+It's just some stupid animal.
+Let's go.
+
+36:58.680 --> 37:00.273
+- Go without me.
+- What?
+
+37:00.920 --> 37:02.673
+- You're giving up?
+- Yeah.
+
+37:03.840 --> 37:04.910
+I think so.
+
+37:06.640 --> 37:08.518
+I can't deal with
+this shit anymore.
+
+37:25.080 --> 37:26.116
+Come on.
+
+37:28.240 --> 37:32.519
+If you stay out here alone,
+you can be sure it's game over.
+
+37:33.560 --> 37:34.880
+You're better than this.
+
+37:34.960 --> 37:39.000
+Yeah, maybe I was,
+but not anymore.
+
+37:39.840 --> 37:40.956
+I'm going.
+
+37:41.960 --> 37:43.189
+Yeah, go, Elliot.
+
+37:43.720 --> 37:45.359
+- I will.
+- Yeah, good.
+
+37:45.920 --> 37:48.071
+'Cause you don't need me.
+You never needed me.
+
+37:48.200 --> 37:50.271
+- That's the truth, right?
+- Yeah, that's the truth!
+
+37:50.360 --> 37:52.397
+I never fucking
+needed you!
+
+37:52.480 --> 37:54.437
+You were only
+in the way!
+
+37:54.720 --> 37:55.870
+If it weren't
+for you...
+
+37:56.000 --> 37:57.559
+The world would've
+been saved?
+
+37:58.680 --> 38:02.560
+And you would have been the savior?
+Is that what you think?
+
+38:03.120 --> 38:04.918
+Is that the fantasy
+I ruined for you?
+
+38:05.000 --> 38:07.390
+Stay here, die!
+
+38:07.480 --> 38:09.995
+I don't give a fuck
+about you!
+
+38:11.000 --> 38:13.151
+I'm done!
+
+38:15.000 --> 38:16.070
+Good!
+
+38:17.160 --> 38:18.594
+Look around you!
+
+38:19.200 --> 38:23.399
+All signs lead to the same
+hopeless destination,
+
+38:23.480 --> 38:26.359
+and the sooner you realize that,
+the better,
+
+38:26.440 --> 38:31.754
+but you're so much in your own head that
+you can't see the truth, that it's over!
+
+38:34.800 --> 38:37.000
+<i>Seems like we're
+always thinking of ourselves</i>
+
+38:37.040 --> 38:39.032
+<i>when looking for
+something that's lost.</i>
+
+38:40.960 --> 38:43.475
+<i>But we never think much
+about the lost,</i>
+
+38:44.440 --> 38:47.194
+<i>whatever, whoever is
+unable to be found,</i>
+
+38:48.800 --> 38:51.838
+<i>whether it's a set of keys
+left somewhere and forgotten,</i>
+
+38:53.040 --> 38:55.714
+<i>a couple of guys wandering aimlessly
+in the woods,</i>
+
+38:56.720 --> 38:59.189
+<i>or someone who's
+disappeared inside himself.</i>
+
+39:00.040 --> 39:02.111
+<i>What if that's what they
+wanted all along?</i>
+
+39:03.160 --> 39:04.480
+<i>Not to be found.</i>
+
+39:22.920 --> 39:23.990
+You're wrong.
+
+39:25.960 --> 39:28.156
+I don't like being
+an outsider, either.
+
+39:30.120 --> 39:31.873
+Maybe I'm just good
+at hiding it.
+
+39:35.040 --> 39:37.191
+Why'd you come back?
+Why aren't you going?
+
+39:39.080 --> 39:40.116
+I don't know.
+
+39:41.120 --> 39:44.955
+I guess, it felt wrong
+to leave you.
+
+39:48.040 --> 39:54.150
+Besides, I think you're the only person
+I know that actually likes me.
+
+39:58.320 --> 39:59.913
+You were right
+about one thing.
+
+40:02.000 --> 40:05.072
+I've known that we're gonna die
+since we walked out of that gas station
+
+40:05.160 --> 40:06.560
+and the van was gone.
+
+40:09.080 --> 40:11.390
+I don't think there's a way
+out of this for us.
+
+40:13.000 --> 40:14.434
+Why do you want
+to keep going?
+
+40:17.240 --> 40:18.515
+My sister.
+
+40:20.760 --> 40:24.674
+I have to warn her.
+I have to at least try.
+
+40:26.960 --> 40:28.599
+I got her into this mess.
+
+40:29.520 --> 40:33.036
+Same as the last time
+and the time before that.
+
+40:33.120 --> 40:37.114
+I've been a horrible brother.
+I treated her like shit.
+
+40:38.880 --> 40:42.954
+Least I can do is call her
+and tell her to run.
+
+40:47.960 --> 40:49.599
+Maybe she can
+still escape.
+
+40:56.280 --> 40:58.636
+How much longer do you think
+until they find us?
+
+41:00.000 --> 41:01.150
+I don't know, man.
+
+41:09.160 --> 41:10.310
+All right.
+
+41:13.480 --> 41:14.834
+Let's keep moving.
+
+41:16.840 --> 41:18.832
+Maybe you can still
+make that phone call.
+
+41:34.720 --> 41:35.995
+- Dolly.
+- Darl...
+
+41:36.920 --> 41:37.920
+What?
+
+41:38.240 --> 41:43.599
+I know you're worried about your brother,
+but you gotta worry about you, too.
+
+41:47.280 --> 41:48.475
+I'm trying.
+
+41:49.440 --> 41:51.318
+And I hope he's not dead.
+
+41:53.120 --> 41:54.713
+Merry Christmas.
+
+41:59.720 --> 42:01.200
+Hi.
+
+42:02.440 --> 42:03.510
+Ho, ho, ho.
+
+42:04.000 --> 42:05.480
+Santa's home.
+
+42:50.520 --> 42:51.954
+Oh.
+
+42:56.320 --> 42:57.320
+Oh, shit.
+
+43:38.840 --> 43:39.876
+Fuck!
+
+45:12.080 --> 45:13.116
+Tyrell.
+
+45:17.800 --> 45:18.836
+You okay?
+
+45:28.600 --> 45:29.750
+Oh, Jesus Christ.
+
+45:31.120 --> 45:32.190
+I'm okay.
+
+45:35.520 --> 45:37.113
+We can't just
+leave him here.
+
+45:43.440 --> 45:45.397
+Gotta get you to
+a hospital, man.
+
+45:46.360 --> 45:48.556
+Fuck. Fucking phone.
+
+45:48.680 --> 45:50.319
+No, no hospital.
+
+45:51.000 --> 45:53.754
+The Dark Army will find me.
+They'll find you.
+
+45:57.320 --> 46:00.199
+No, no, we gotta
+keep moving, man.
+
+46:00.280 --> 46:03.000
+We'll find someplace
+that can help you.
+
+46:03.080 --> 46:04.400
+No, I'm done.
+
+46:06.960 --> 46:10.032
+Burn the van and
+all the evidence.
+
+46:13.760 --> 46:16.798
+Make sure you take care
+of Whiterose.
+
+46:17.960 --> 46:19.076
+Okay?
+
+46:26.280 --> 46:27.280
+Tyrell.
+
+46:33.680 --> 46:35.114
+I can't let you die.
+
+46:39.200 --> 46:40.680
+I'm just gonna
+go for a walk.

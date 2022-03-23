@@ -1,0 +1,3115 @@
+WEBVTT
+
+00:01.135 --> 00:01.635
+( music playing )
+
+00:27.661 --> 00:29.730
+( beeps )
+
+00:29.763 --> 00:31.232
+Jesus.
+
+00:32.733 --> 00:35.203
+( chatter )
+
+00:55.356 --> 00:58.292
+( fizzing )
+
+01:55.283 --> 01:56.917
+Doug:
+Your code loops
+all over the place.
+
+01:56.950 --> 01:59.587
+It's not structured.
+It's not maintainable
+by anyone.
+
+01:59.620 --> 02:01.889
+- I disagree.
+- There are reentrant forks,
+
+02:01.922 --> 02:04.358
+no way of knowing
+which branch invoked
+a function.
+
+02:04.392 --> 02:07.661
+We don't do that in C++.
+It's officially deprecated
+in the language.
+
+02:07.695 --> 02:10.264
+I can maintain it.
+There are condition
+flags for everything.
+
+02:10.298 --> 02:11.499
+There's no one-way arrow.
+
+02:11.532 --> 02:12.900
+Is that what
+you want to do?
+
+02:12.933 --> 02:14.635
+Be the code grunt
+for this sick piece
+of choss?
+
+02:14.668 --> 02:16.337
+Dougie, chill.
+
+02:16.370 --> 02:18.306
+My guys will flowchart it.
+I'll write out the flags...
+
+02:18.339 --> 02:19.940
+I'm sure you will.
+
+02:19.973 --> 02:22.376
+The flow chart
+would strangle us.
+It's a mess.
+
+02:22.410 --> 02:23.611
+And what do you mean
+your guys?
+
+02:23.644 --> 02:25.279
+It's fast and it fits.
+
+02:25.313 --> 02:26.614
+It's no longer necessary.
+
+02:26.647 --> 02:28.949
+Doug, we bought
+your company.
+
+02:28.982 --> 02:31.552
+You should adapt
+to our programming language.
+
+02:31.585 --> 02:33.287
+I know it sucks
+to be rewritten.
+
+02:33.321 --> 02:34.922
+It doesn't make sense.
+
+02:34.955 --> 02:37.558
+It's like asking a race car
+to adapt to a covered wagon.
+
+02:37.591 --> 02:39.560
+- Poetic.
+- Maybe we should
+all try to,
+
+02:39.593 --> 02:41.362
+you know,
+take our egos out of it.
+
+02:41.395 --> 02:43.297
+Well, my ego would love
+to have a good night's sleep,
+
+02:43.331 --> 02:46.334
+but sadly it has
+to rewrite your code first.
+
+02:46.367 --> 02:47.801
+( pencil clatters )
+
+02:47.835 --> 02:48.936
+Yikes.
+
+02:48.969 --> 02:50.471
+Diane, I am so sorry.
+
+02:50.504 --> 02:51.805
+Diane:
+It's all fun and games
+
+02:51.839 --> 02:53.241
+till someone gets
+stabbed in the cheek.
+
+02:55.343 --> 02:56.410
+Hi.
+
+02:56.444 --> 02:57.911
+I'm just here to observe.
+
+02:59.447 --> 03:02.516
+Okay, well...
+
+03:02.550 --> 03:04.318
+I think we're all
+on the same page now.
+
+03:04.352 --> 03:07.521
+Definitely.
+Um, we're really close.
+
+03:07.555 --> 03:09.490
+( scoffs )
+
+03:09.523 --> 03:11.259
+Maybe this'll help.
+
+03:11.292 --> 03:12.860
+It's an integration
+road map.
+
+03:12.893 --> 03:15.496
+Look, we think the way you
+created Mutiny was brilliant.
+
+03:15.529 --> 03:17.731
+The original block of code
+was truly innovative.
+
+03:17.765 --> 03:19.467
+Mm-hmm, but?
+
+03:19.500 --> 03:21.535
+It doesn't play nice
+with our SwapMeet code.
+
+03:21.569 --> 03:23.871
+If you make some changes
+to that block
+
+03:23.904 --> 03:25.906
+and we make
+some changes to our C++...
+
+03:25.939 --> 03:28.642
+It's a bug factory.
+The old code makes
+it impossible
+
+03:28.676 --> 03:30.278
+to keep track
+of the reentrant looping.
+
+03:32.380 --> 03:35.616
+But I don't need
+the object-oriented
+language, okay?
+
+03:35.649 --> 03:37.618
+I can keep track
+of the looping in my head.
+
+03:37.651 --> 03:39.487
+Oh, I get it.
+You're that good.
+
+03:39.520 --> 03:42.256
+Yeah, I am.
+Aren't you?
+
+03:42.290 --> 03:43.791
+Bosworth:
+...looking all around
+and then
+
+03:43.824 --> 03:45.893
+he came around the side
+of the trailer there.
+
+03:45.926 --> 03:47.761
+And I swear to God,
+he goes,
+
+03:47.795 --> 03:49.530
+"Man, that ain't no bear.
+That's your ex-wife."
+
+03:49.563 --> 03:51.365
+- Grr!
+- ( laughs )
+
+03:51.399 --> 03:53.267
+- She was just doing
+the whole thing.
+- Uh-oh.
+
+03:53.301 --> 03:56.337
+Oh, you surprised
+to see her?
+
+03:56.370 --> 03:57.571
+- Yeah.
+- Mm-mm.
+
+03:57.605 --> 03:59.607
+Adios, amiga.
+
+03:59.640 --> 04:00.608
+- Hey there.
+- Hi.
+
+04:00.641 --> 04:02.410
+Hi.
+
+04:02.443 --> 04:03.877
+( stammers )
+Here, go ahead.
+After you.
+
+04:03.911 --> 04:07.581
+Thank you.
+( chuckles )
+
+04:07.615 --> 04:09.417
+Good day, ladies.
+
+04:09.450 --> 04:11.652
+Donna:
+Hi. Well, this is
+a nice surprise.
+
+04:11.685 --> 04:13.954
+I was in the neighborhood.
+
+04:13.987 --> 04:15.923
+So, how's it going
+with the SwapMeet guys?
+
+04:15.956 --> 04:17.358
+Um, good.
+
+04:18.992 --> 04:20.694
+You keep
+telling me that
+on the phone
+
+04:20.728 --> 04:23.664
+with that same
+not-so-sure thing
+you do with your voice.
+
+04:23.697 --> 04:25.799
+What not-so-sure thing?
+
+04:25.833 --> 04:27.468
+( chuckles )
+
+04:27.501 --> 04:29.903
+Anyway, I just popped
+into their project meeting.
+
+04:29.937 --> 04:32.540
+The vibe
+was pretty hostile.
+
+04:32.573 --> 04:34.074
+Why haven't you told me?
+
+04:34.107 --> 04:36.310
+Well, it's a work
+in progress.
+
+04:36.344 --> 04:38.679
+- Donna.
+- ( sighs ) I know.
+
+04:38.712 --> 04:40.381
+Cam isn't comfortable
+with the guys yet,
+
+04:40.414 --> 04:41.915
+and I'm working on it.
+
+04:41.949 --> 04:43.851
+- How are you
+working on it?
+- Well--
+
+04:43.884 --> 04:46.086
+My point is,
+we should be
+working on it.
+
+04:46.119 --> 04:48.622
+If there are issues,
+we need to air them out.
+
+04:48.656 --> 04:49.957
+Otherwise
+resentment festers
+
+04:49.990 --> 04:51.359
+and the whole thing
+starts to rot.
+
+04:53.427 --> 04:54.695
+All right,
+how about this?
+
+04:54.728 --> 04:56.797
+We could all
+go to dinner tonight,
+
+04:56.830 --> 04:58.632
+have some wine,
+talk things through.
+
+04:58.666 --> 05:00.434
+- I do like wine.
+- Great.
+
+05:00.468 --> 05:01.802
+But I can't do tonight.
+
+05:01.835 --> 05:03.504
+I've got tickets
+to a charity thing,
+
+05:03.537 --> 05:04.705
+a fundraiser
+for Save the Bay.
+
+05:04.738 --> 05:06.674
+- Oh, that sounds--
+- Terrible.
+
+05:06.707 --> 05:08.709
+I was gonna say lovely.
+
+05:08.742 --> 05:11.078
+My date just cancelled
+and I have a plus one.
+
+05:11.111 --> 05:14.648
+I could check with Gordon,
+see if he could watch
+the girls tonight.
+
+05:14.682 --> 05:16.384
+No, um...
+
+05:16.417 --> 05:18.452
+I was thinking
+about John Bosworth.
+
+05:18.486 --> 05:20.888
+Oh.
+
+05:20.921 --> 05:22.356
+I mean...
+
+05:22.390 --> 05:24.558
+really?
+
+05:24.592 --> 05:26.860
+Bosworth:
+"Man, that ain't no bear.
+That's my ex-wife."
+
+05:26.894 --> 05:28.962
+- ( all laugh )
+- Grr!
+
+05:28.996 --> 05:33.000
+You know, there'll be
+a whole slew of Valley
+big shots there.
+
+05:33.033 --> 05:36.003
+It's a great opportunity
+for John to make some
+business connections.
+
+05:36.036 --> 05:37.871
+Sure.
+
+05:37.905 --> 05:40.007
+But...
+
+05:40.040 --> 05:42.410
+nobody
+calls him John.
+
+05:44.645 --> 05:45.713
+I do.
+
+05:46.880 --> 05:49.617
+"Never Get Older" playing
+
+05:52.420 --> 05:54.655
+All right, guys.
+
+05:54.688 --> 05:56.056
+Guys.
+
+05:56.089 --> 05:58.492
+- Guys, please, please!
+- Shh!
+
+05:58.526 --> 06:02.029
+Bodie:
+Yo, shut up, kid!
+
+06:02.062 --> 06:03.764
+All right,
+I know we've gotten off
+to a rough start,
+
+06:03.797 --> 06:05.399
+and I'm sorry about that.
+
+06:05.433 --> 06:06.600
+That's the understatement
+of the century.
+
+06:06.634 --> 06:07.868
+We're in a bit
+of a holding pattern
+
+06:07.901 --> 06:10.137
+ever since Cam took over
+for our lead coder.
+
+06:10.170 --> 06:12.005
+- Louis: Yeah, that was genoid.
+- Bodie: You don't know
+jack about it.
+
+06:12.039 --> 06:14.808
+But we're gonna use this
+as an opportunity.
+
+06:14.842 --> 06:16.109
+Now, I know we've
+had some success
+
+06:16.143 --> 06:18.145
+flowcharting
+the two systems.
+
+06:18.178 --> 06:20.714
+How are we doing
+with our organizational
+training objectives?
+
+06:20.748 --> 06:22.916
+Oh, you mean
+the buddy system?
+
+06:22.950 --> 06:25.819
+It's a nightmare trying
+to train these jokers.
+
+06:25.853 --> 06:27.921
+All they want to do
+is bitch about C++.
+
+06:27.955 --> 06:29.957
+( robotic voice )
+C++.
+
+06:29.990 --> 06:32.560
+He just follows me
+around all day doing
+this idiotic routine.
+
+06:32.593 --> 06:34.662
+- C++.
+- Carl, he's
+your trainee, okay?
+
+06:34.695 --> 06:36.597
+- I don't care.
+- Master Carl,
+I've been programmed
+
+06:36.630 --> 06:38.532
+- to observe
+your every move...
+- Okay.
+
+06:38.566 --> 06:41.201
+...so I may learn
+from your flawed behavior
+what it is to be human.
+
+06:41.234 --> 06:42.970
+Shut up,
+shut up, shut up!
+
+06:43.003 --> 06:44.204
+Bodie:
+He's not even funny.
+
+06:44.237 --> 06:47.074
+Bodie, stop
+antagonizing him, okay?
+
+06:47.107 --> 06:49.810
+- Beep-boop-beep.
+- Get out of my face!
+
+06:49.843 --> 06:51.645
+- Hey!
+- Whoa, whoa!
+
+06:51.679 --> 06:52.913
+Let's kill
+these a-holes!
+
+06:52.946 --> 06:55.182
+- Calm down!
+- All: Oh!
+
+06:55.215 --> 06:58.118
+Oh, shit.
+You okay?
+
+07:00.988 --> 07:04.625
+Everyone, sit down.
+
+07:09.497 --> 07:10.564
+What the f--?
+
+07:10.598 --> 07:14.502
+( theme music playing )
+
+07:46.099 --> 07:49.570
+You see?
+It is just so charming.
+
+07:49.603 --> 07:50.938
+It has all
+the original molding.
+
+07:50.971 --> 07:53.140
+And all
+the original mold.
+
+07:53.173 --> 07:57.210
+And the backyard is adorable.
+It's perfect for barbecues.
+
+07:57.244 --> 07:58.946
+Oh, did you hear that?
+
+08:02.149 --> 08:05.686
+Okay, why don't I give you
+and your, uh, friend
+
+08:05.719 --> 08:07.254
+a minute to talk?
+
+08:07.287 --> 08:08.989
+Thanks.
+
+08:10.858 --> 08:12.560
+She thinks we're a couple.
+
+08:12.593 --> 08:13.894
+You're not my type.
+
+08:13.927 --> 08:16.296
+Yeah, this place
+has character.
+
+08:16.329 --> 08:17.831
+This isn't a generic box.
+
+08:17.865 --> 08:19.833
+No, the Mutiny house
+had character.
+
+08:19.867 --> 08:23.003
+This place
+is just quaint.
+
+08:23.036 --> 08:25.172
+You've hated
+every place we've seen.
+
+08:25.205 --> 08:27.140
+So? I'm picky.
+
+08:27.174 --> 08:29.777
+And nothing feels right.
+
+08:29.810 --> 08:32.813
+Is this about the house
+or is this something else?
+
+08:32.846 --> 08:37.317
+It's Thing One
+and Thing Two.
+
+08:37.350 --> 08:39.687
+God, I can't
+stand them.
+
+08:39.720 --> 08:43.557
+Especially the bigger Thing,
+this arrogant frat boy.
+
+08:43.591 --> 08:44.858
+( whines )
+
+08:44.892 --> 08:46.293
+The smaller Thing's
+not so bad.
+
+08:46.326 --> 08:47.895
+You know their names.
+
+08:47.928 --> 08:49.630
+Yes, Tweedledee
+and Tweedledum.
+
+08:49.663 --> 08:51.231
+Heckle and Jeckle.
+Frick and Frack.
+
+08:51.264 --> 08:53.801
+I get it.
+But they want
+to be useful.
+
+08:53.834 --> 08:56.169
+By what? Translating
+everything into C++?
+
+08:56.203 --> 08:59.773
+Donna, if I knew
+that was the plan,
+I wouldn't have signed on.
+
+08:59.807 --> 09:02.075
+But we did sign on.
+
+09:02.109 --> 09:03.777
+The guys are under
+a two-year contract
+
+09:03.811 --> 09:05.646
+with a piece of the company.
+We married them.
+
+09:05.679 --> 09:08.582
+We have to sit down
+and talk it out
+
+09:08.616 --> 09:12.319
+before the whole thing
+festers and rots.
+
+09:12.352 --> 09:14.788
+- We're having dinner
+tomorrow night.
+- What?
+
+09:14.822 --> 09:16.590
+That's a horrible idea.
+Who suggested that?
+
+09:17.925 --> 09:19.092
+I did.
+
+09:19.126 --> 09:20.961
+Oh, great.
+
+09:20.994 --> 09:23.130
+And so now you're
+just informing me.
+
+09:23.163 --> 09:26.266
+See?
+It already
+feels like home.
+
+09:29.069 --> 09:32.039
+MacMillan Utility
+was always intended to be
+a jumping-off point.
+
+09:32.072 --> 09:34.842
+Totally.
+It's all about
+transformation.
+
+09:34.875 --> 09:36.376
+Many companies
+start doing one thing
+
+09:36.409 --> 09:38.045
+and then change direction.
+
+09:38.078 --> 09:39.847
+If we can just find
+the right vector.
+
+09:39.880 --> 09:43.183
+Ryan:
+Then our freeware
+can stay free.
+
+09:43.216 --> 09:44.885
+Router tech is promising.
+
+09:44.918 --> 09:46.987
+Ah, Cisco's already
+way ahead on that one.
+
+09:47.020 --> 09:50.891
+Uh, 3-D graphics.
+Uh, AI.
+
+09:50.924 --> 09:53.126
+- 5th gen systems.
+- It's a billion-dollar
+road to nowhere.
+
+09:53.160 --> 09:55.028
+I give it a year.
+
+09:55.062 --> 09:57.698
+Fairchild made cameras.
+Now they make semiconductors.
+
+09:57.731 --> 10:00.233
+Coleco was the Connecticut
+Leather Company.
+
+10:00.267 --> 10:01.769
+Now they make video games.
+
+10:01.802 --> 10:03.370
+Yeah, and Mutiny started
+as a games company.
+
+10:03.403 --> 10:06.039
+- Shut up.
+- Sorry, I'm just
+so stoked
+
+10:06.073 --> 10:07.708
+to be a part
+of your process.
+
+10:07.741 --> 10:10.744
+- Plus the caffeine...
+- No, I mean be quiet.
+
+10:10.778 --> 10:12.045
+Now.
+
+10:12.079 --> 10:14.314
+Please.
+
+10:14.347 --> 10:18.351
+Shh.
+
+10:24.057 --> 10:25.125
+Uh...
+
+10:25.158 --> 10:26.760
+okay.
+
+10:26.794 --> 10:28.962
+Let's circle
+the five best ideas.
+
+10:37.738 --> 10:39.172
+Wait, what--
+what are you doing, man?
+
+10:39.206 --> 10:40.808
+We spent weeks on that.
+
+10:40.841 --> 10:42.175
+There's some
+good stuff there.
+
+10:45.846 --> 10:47.948
+Good is the enemy of great.
+
+10:47.981 --> 10:50.884
+If anything's worth pursuing,
+we'll remember it tomorrow.
+
+10:50.918 --> 10:51.952
+( sighs )
+
+10:51.985 --> 10:54.054
+"Beyond Belief" playing
+
+10:54.087 --> 10:56.356
+* History repeats
+the old conceits *
+
+10:56.389 --> 10:59.760
+* The glib replies,
+the same defeats *
+
+10:59.793 --> 11:01.795
+* Keep your finger
+on important issues *
+
+11:01.829 --> 11:05.165
+* With crocodile tears
+and a pocketful of tissues *
+
+11:05.198 --> 11:07.100
+* I'm just the oily slick
+
+11:07.134 --> 11:10.070
+* On the windup world
+of the nervous tick *
+
+11:10.103 --> 11:15.475
+* In a very
+fashionable hovel *
+
+11:15.508 --> 11:17.778
+* I hang around,
+dying to be tortured *
+
+11:17.811 --> 11:20.413
+* You'll never be alone
+in the bone orchard *
+
+11:20.447 --> 11:26.086
+* This battle with the bottle
+is nothing so novel *
+
+11:26.119 --> 11:29.056
+* So in this almost empty
+gin palace... *
+
+11:29.089 --> 11:30.858
+( knock on door )
+
+11:30.891 --> 11:32.960
+* Through a two-way
+looking glass... *
+
+11:32.993 --> 11:34.161
+Come in...
+
+11:34.194 --> 11:36.129
+if you must.
+
+11:36.163 --> 11:37.731
+Can we talk
+for a minute?
+
+11:37.765 --> 11:39.232
+I guess.
+
+11:43.136 --> 11:46.106
+Look, I know we got off
+on the wrong foot.
+
+11:46.139 --> 11:49.176
+I mean, we all want
+the same thing, right?
+
+11:52.179 --> 11:53.713
+Yeah.
+
+11:55.916 --> 11:57.350
+Maybe we...
+
+11:57.384 --> 11:59.152
+got into this
+too quickly,
+
+11:59.186 --> 12:02.255
+but, yeah, let's--
+we're in it now, so...
+
+12:02.289 --> 12:03.857
+If you think
+it was too quick,
+
+12:03.891 --> 12:05.392
+you have your man
+Bos to thank.
+
+12:05.425 --> 12:09.029
+- He strong-armed us
+into taking the deal.
+- Really?
+
+12:09.062 --> 12:11.364
+- 'Cause I heard that you
+and Greg misrepresented...
+- It's Craig.
+
+12:11.398 --> 12:13.266
+...the value of your company
+to lure us into overpaying.
+
+12:13.300 --> 12:15.168
+What's your deal?
+
+12:15.202 --> 12:17.504
+Why do you have
+such a hard time
+playing with others?
+
+12:17.537 --> 12:20.273
+Were you born this way
+or did some loser ex-boyfriend
+
+12:20.307 --> 12:22.275
+turn you into
+a man-hating bitch?
+
+12:22.309 --> 12:23.977
+( phone ringing )
+
+12:24.011 --> 12:26.980
+- Cameron: Ah!
+- * I've got a feeling
+
+12:27.014 --> 12:28.816
+* I'm gonna get
+a lot of grief... *
+
+12:28.849 --> 12:31.318
+- ( music stops )
+- ( ringing continues )
+
+12:31.351 --> 12:32.886
+What?
+
+12:32.920 --> 12:35.022
+Man's voice:
+Catherine? Is that you?
+
+12:35.055 --> 12:37.825
+- Yes.
+- It's Len.
+
+12:37.858 --> 12:39.292
+What's wrong?
+
+12:39.326 --> 12:41.528
+Nothing, just--
+sorry to call you at work.
+
+12:41.561 --> 12:43.430
+I wanted to let you know
+your mom...
+
+12:43.463 --> 12:44.998
+What?
+
+12:45.032 --> 12:47.167
+Your mom and I
+are selling the house.
+
+12:47.200 --> 12:49.502
+Bought a little condo
+outside of Miami.
+
+12:49.536 --> 12:51.905
+We gotta get rid
+of all that crap
+in the garage.
+
+12:51.939 --> 12:54.908
+Do-- do you want
+your dad's stuff?
+
+12:54.942 --> 12:59.046
+Your mom saved it for you,
+but, you know, Miami.
+
+12:59.079 --> 13:01.849
+We're gonna sell
+everything that's left
+over 4th of July weekend.
+
+13:01.882 --> 13:03.550
+I was hoping you might
+come and take a look,
+
+13:03.583 --> 13:05.485
+say hello to your mother.
+
+13:05.518 --> 13:08.055
+It's not like
+it used to be.
+
+13:08.088 --> 13:10.323
+She's much better now.
+
+13:10.357 --> 13:12.492
+Oh, uh...
+
+13:12.525 --> 13:16.229
+then why didn't
+she call?
+
+13:16.263 --> 13:18.298
+I hope you're doing well
+out there.
+
+13:18.331 --> 13:20.067
+I'll let your mom know
+that we talked.
+
+13:20.100 --> 13:22.402
+( line clicks,
+dial tone )
+
+13:26.573 --> 13:29.877
+( indistinct arguing )
+
+13:31.879 --> 13:33.480
+Craig:
+You need to apologize.
+
+13:33.513 --> 13:35.182
+All you have to do
+is say, "I'm sorry,"
+that's it.
+
+13:35.215 --> 13:37.050
+How many times
+have I gotta try?
+
+13:37.084 --> 13:39.286
+- God.
+- Wait, Doug!
+
+13:45.158 --> 13:48.161
+( door opens, closes )
+
+13:54.968 --> 13:57.070
+Hey, what was that about?
+
+13:57.104 --> 13:59.106
+Oh.
+
+13:59.139 --> 14:02.910
+Oh, just
+the usual ups and downs
+of a magical partnership.
+
+14:04.244 --> 14:06.146
+You're here late.
+
+14:06.179 --> 14:10.150
+But then you're probably
+always here late.
+
+14:10.183 --> 14:13.120
+Are you implying
+that I don't have a life?
+
+14:13.153 --> 14:14.454
+Yes.
+
+14:19.192 --> 14:23.330
+You could say
+that Doug and I have
+different styles.
+
+14:23.363 --> 14:25.498
+No shit.
+
+14:25.532 --> 14:27.567
+He just walked into my office
+and called me a bitch.
+
+14:27.600 --> 14:31.004
+( sighs )
+
+14:31.038 --> 14:33.240
+I am so sorry.
+
+14:33.273 --> 14:37.277
+Look, we're really excited
+
+14:37.310 --> 14:38.611
+to be part of Mutiny.
+
+14:38.645 --> 14:41.982
+It's just SwapMeet
+was our baby.
+
+14:42.015 --> 14:45.385
+I think Doug
+still feels down
+about having to sell.
+
+14:45.418 --> 14:48.088
+But that's no excuse.
+
+14:53.660 --> 14:55.295
+You want to see
+something cool?
+
+14:55.328 --> 14:57.364
+Is it a dead body?
+
+14:59.232 --> 15:01.368
+Only if Doug's still here.
+
+15:07.307 --> 15:09.609
+You sure this is okay?
+
+15:09.642 --> 15:11.644
+He won't mind.
+
+15:31.198 --> 15:32.432
+Can I ask you something?
+
+15:35.635 --> 15:37.604
+Okay.
+
+15:37.637 --> 15:40.540
+Why won't you change
+that original block of PL/M?
+
+15:44.111 --> 15:47.514
+It's the only piece left
+that I wrote by myself.
+
+15:49.749 --> 15:54.321
+Alone in my bedroom,
+just me.
+
+15:54.354 --> 15:58.491
+Back when this whole place
+was just me.
+
+15:58.525 --> 16:00.427
+I did all the timings
+by hand,
+
+16:00.460 --> 16:02.595
+I checked the status
+on every buffer
+
+16:02.629 --> 16:04.531
+and every keystroke
+every time,
+
+16:04.564 --> 16:07.500
+all with check loops.
+
+16:07.534 --> 16:09.569
+It was fast
+and it was...
+
+16:09.602 --> 16:12.105
+Beautiful.
+
+16:12.139 --> 16:15.442
+It is beautiful.
+
+16:22.549 --> 16:25.385
+Yeah.
+
+16:25.418 --> 16:26.653
+And what do you
+want me to say?
+
+16:26.686 --> 16:30.423
+I-- I'm proud
+of this place.
+
+16:30.457 --> 16:34.627
+But back then,
+it was this secret.
+
+16:34.661 --> 16:37.497
+It was all mine.
+
+16:41.134 --> 16:42.669
+Then we should
+leave it alone.
+
+16:58.818 --> 17:00.620
+Ah.
+
+17:06.593 --> 17:08.161
+( sighs )
+
+17:08.195 --> 17:09.729
+Just got the weirdest
+phone call.
+
+17:11.331 --> 17:13.400
+My stepfather.
+
+17:13.433 --> 17:16.303
+I guess he and my mom
+are moving to Florida.
+
+17:19.606 --> 17:22.375
+They're selling
+all my dad's stuff.
+
+17:24.577 --> 17:26.846
+He died when I was nine.
+
+17:26.879 --> 17:29.716
+Shit.
+
+17:29.749 --> 17:33.453
+I'm sorry to hear that.
+
+17:33.486 --> 17:36.789
+Just he had
+this motorcycle...
+
+17:39.192 --> 17:41.228
+an old Panhead Harley.
+
+17:41.261 --> 17:44.231
+Oh, he used to ride me
+to school on it.
+
+17:46.133 --> 17:48.668
+I'd show up to kindergarten
+with this, like,
+
+17:48.701 --> 17:50.437
+gigantic helmet.
+
+17:50.470 --> 17:54.307
+I'm sure it looked
+ridiculous, but it was--
+
+17:56.409 --> 17:59.546
+it just felt so...
+
+18:02.882 --> 18:04.617
+You should
+go get the bike.
+
+18:17.830 --> 18:20.533
+Have you ever considered
+a solo business venture?
+
+18:20.567 --> 18:23.136
+( soft laugh )
+
+18:26.606 --> 18:29.209
+- ( gunshots )
+- ( quacking )
+
+18:30.310 --> 18:31.844
+( game chiming )
+
+18:35.648 --> 18:37.517
+Hmm.
+
+18:37.550 --> 18:40.220
+Wasn't the Nintendo system
+supposed to be for Joanie?
+
+18:40.253 --> 18:44.691
+- ( gunshots )
+- No, it was a family present.
+
+18:44.724 --> 18:49.829
+Anyways, I had to unwind
+after that brawl today.
+
+18:49.862 --> 18:52.399
+I honestly don't know
+what to do about those guys.
+
+18:52.432 --> 18:53.866
+Cardiff had its challenges,
+
+18:53.900 --> 18:56.803
+but no one ever
+punched me in the ear.
+
+18:56.836 --> 18:59.939
+Yeah, well, you're not
+at Cardiff anymore.
+
+18:59.972 --> 19:02.609
+( gunshots )
+
+19:04.944 --> 19:06.613
+There's your answer.
+
+19:06.646 --> 19:08.781
+Just take the guys
+out back and shoot 'em.
+
+19:08.815 --> 19:10.917
+( quacking )
+
+19:17.324 --> 19:19.459
+( chimes )
+
+19:23.563 --> 19:27.267
+Bosworth:
+Well, he comes around
+the side of the trailer,
+
+19:27.300 --> 19:28.268
+and he goes,
+"Man, that ain't a bear.
+
+19:28.301 --> 19:29.269
+That's your ex-wife."
+
+19:29.302 --> 19:31.371
+- Grr!
+- ( laughing )
+
+19:31.404 --> 19:34.307
+See?
+Thank you,
+thank you.
+
+19:34.341 --> 19:38.445
+( coughs )
+Man, it was crazy, man.
+
+19:38.478 --> 19:40.413
+And I don't know
+how long she stayed there.
+
+19:40.447 --> 19:41.981
+She was there all night,
+
+19:42.014 --> 19:43.583
+just sort of
+frozen in place.
+
+19:43.616 --> 19:46.453
+Grr!
+The poor bastard...
+
+19:46.486 --> 19:48.488
+( woman giggles, screams )
+
+19:48.521 --> 19:50.857
+( continues indistinctly )
+
+19:50.890 --> 19:53.793
+- ( music playing )
+- ( chattering )
+
+19:59.699 --> 20:01.401
+Don't move.
+
+20:09.909 --> 20:12.512
+Joe MacMillan.
+
+20:12.545 --> 20:14.314
+Of course.
+
+20:14.347 --> 20:16.783
+Diane Gould.
+
+20:16.816 --> 20:19.552
+Funny that we've
+never officially met.
+
+20:19.586 --> 20:21.754
+But I'm certainly
+aware of you.
+
+20:21.788 --> 20:24.824
+Amador Gould Gilson.
+I admire your business model.
+
+20:24.857 --> 20:28.361
+Small, intelligent
+investment portfolio.
+
+20:28.395 --> 20:29.896
+I guess you could
+call that boutique.
+
+20:29.929 --> 20:34.701
+Well, size isn't
+everything, right?
+
+20:34.734 --> 20:38.037
+I hear you facilitated
+the SwapMeet acquisition
+at Mutiny.
+
+20:38.070 --> 20:39.406
+Congrats.
+
+20:39.439 --> 20:41.441
+We're very excited
+about it.
+
+20:41.474 --> 20:43.343
+I'm surprised Cameron Howe
+wanted to play ball
+
+20:43.376 --> 20:44.877
+with another company.
+
+20:44.911 --> 20:46.413
+She must be
+in a good place.
+
+20:48.047 --> 20:50.350
+Excuse me.
+Can I, um--
+
+20:50.383 --> 20:52.585
+- can I borrow you
+for a sec?
+- Yeah.
+
+20:52.619 --> 20:54.454
+It's great
+to finally meet you.
+
+20:54.487 --> 20:55.788
+Mm, you as well.
+
+21:04.397 --> 21:07.600
+( whooping, giggling )
+
+21:07.634 --> 21:09.869
+- ( music continues )
+- ( chatter )
+
+21:12.972 --> 21:14.507
+How do I get
+one of these?
+
+21:14.541 --> 21:17.076
+Uh, make more money.
+
+21:17.109 --> 21:20.680
+Which brings us
+to our little problem.
+
+21:20.713 --> 21:22.815
+You heard
+of this individual,
+Topher Erickson?
+
+21:22.849 --> 21:24.083
+Does not ring a bell.
+
+21:24.116 --> 21:25.685
+His father's Cal Erickson,
+
+21:25.718 --> 21:27.820
+senior vice president
+of General Atomics.
+
+21:27.854 --> 21:29.722
+Okay.
+
+21:29.756 --> 21:33.693
+Well, apparently
+he was at one
+of your parties
+
+21:33.726 --> 21:36.028
+and indulged in
+a copious amount
+of cocaine.
+
+21:36.062 --> 21:37.964
+Mm-hmm.
+
+21:37.997 --> 21:39.899
+And then grabbed
+someone and went off
+on a little joyride
+
+21:39.932 --> 21:42.969
+in the brand-new Ferrari
+his father procured for
+his 18th birthday.
+
+21:43.002 --> 21:45.438
+What kind of jerk
+spends 60 grand
+and buys Italian?
+
+21:45.472 --> 21:47.874
+Yeah, well,
+this particular jerk
+
+21:47.907 --> 21:49.909
+funds about a quarter
+of your business.
+
+21:49.942 --> 21:51.578
+Hmm, okay.
+
+21:51.611 --> 21:54.046
+And it's boring old
+contractor clients like that
+
+21:54.080 --> 21:56.783
+that float your little
+software experiments.
+
+21:56.816 --> 21:58.451
+I'm gonna mingle.
+
+21:58.485 --> 22:00.353
+Set something up.
+I'll do damage control.
+
+22:00.387 --> 22:02.555
+Good.
+
+22:02.589 --> 22:04.056
+- Hi there.
+- Mm.
+
+22:05.758 --> 22:07.760
+Friendly fella.
+
+22:07.794 --> 22:10.597
+Well, we can't all have
+your Southern charm.
+
+22:11.864 --> 22:13.566
+I want to thank you
+for calling me
+
+22:13.600 --> 22:16.603
+when my grandson
+was born.
+
+22:16.636 --> 22:17.804
+That was you, right?
+
+22:17.837 --> 22:19.071
+Mm-hmm.
+
+22:19.105 --> 22:23.910
+Oh, sure.
+Joe MacMillan,
+man of mystery.
+
+22:23.943 --> 22:27.580
+Yeah, it's always
+good to hear from
+an old... friend.
+
+22:27.614 --> 22:30.583
+Well, you seem
+to be doing just fine
+making new friends.
+
+22:30.617 --> 22:32.419
+Oh, Miss Gould is just
+a business associate.
+
+22:32.452 --> 22:34.421
+Oh, no, I mean
+everyone here.
+
+22:34.454 --> 22:36.122
+They're lapping you up.
+
+22:36.155 --> 22:37.857
+It's a good call,
+playing up the Texas thing.
+
+22:37.890 --> 22:39.859
+People love
+a performance.
+
+22:39.892 --> 22:41.894
+It looks like you're
+in a performance
+of your own, huh?
+
+22:41.928 --> 22:43.630
+More of a one-man show
+kind of thing.
+
+22:43.663 --> 22:47.800
+Yeah, I'm a regular
+Spalding Gray.
+
+22:50.637 --> 22:52.004
+I left someone hanging.
+
+22:52.038 --> 22:53.706
+Be well.
+
+22:59.846 --> 23:01.648
+Oh, good,
+you're still here.
+
+23:01.681 --> 23:03.483
+I was worried
+you got kidnapped
+
+23:03.516 --> 23:05.685
+by that old pal
+Joe MacMillan.
+
+23:08.555 --> 23:10.857
+- Can I top you off?
+- Yes, please.
+
+23:21.000 --> 23:23.002
+You certainly
+made a splash tonight.
+
+23:23.035 --> 23:25.071
+How so?
+
+23:26.573 --> 23:28.675
+You're the life
+of the party.
+
+23:28.708 --> 23:30.510
+Everybody loves you.
+
+23:32.545 --> 23:35.114
+Between you and me,
+I told Donna
+
+23:35.147 --> 23:37.550
+I was inviting you
+for business.
+
+23:37.584 --> 23:39.586
+But really, I just didn't
+feel like flying solo,
+
+23:39.619 --> 23:42.221
+you know,
+under the circumstances?
+
+23:42.254 --> 23:44.891
+Glad I could be
+of service.
+
+23:44.924 --> 23:46.659
+Isn't that crazy?
+
+23:46.693 --> 23:49.629
+That you can build a life
+with someone, raise kids,
+
+23:49.662 --> 23:53.700
+spend your 20s, your 30s,
+half your damn 40s together,
+
+23:53.733 --> 23:56.569
+and in the end
+feel nothing?
+
+23:57.870 --> 23:59.539
+How is that possible?
+
+23:59.572 --> 24:01.541
+I don't know.
+
+24:01.574 --> 24:03.576
+Would you like
+a cigarette?
+
+24:03.610 --> 24:05.845
+No.
+
+24:05.878 --> 24:08.581
+No, I'm good.
+
+24:08.615 --> 24:11.984
+Somewhere along the line,
+I lost my taste for tobacco.
+
+24:12.018 --> 24:14.053
+And champagne.
+
+24:14.086 --> 24:15.722
+Parties.
+
+24:28.635 --> 24:31.037
+I told my lawyer
+I didn't want
+to fly up here
+
+24:31.070 --> 24:32.271
+and bail Topher out
+right away.
+
+24:32.304 --> 24:33.673
+Let him cool
+his heels for a while,
+
+24:33.706 --> 24:35.908
+reflect upon
+his actions.
+
+24:35.942 --> 24:38.144
+Plus, SF's not
+my cup of tea.
+
+24:38.177 --> 24:40.012
+It must be hard
+to leave La Jolla.
+
+24:40.046 --> 24:42.114
+I love Del Mar.
+It's got the perfect mix
+
+24:42.148 --> 24:45.217
+of sand bottom beach breaks
+and patchy reefs.
+
+24:45.251 --> 24:48.921
+It's, uh--
+it's very easy
+to find a wave
+
+24:48.955 --> 24:50.222
+you can call your own.
+
+24:50.256 --> 24:51.924
+I've always envied surfers.
+
+24:51.958 --> 24:54.694
+We do a little naval work
+out at Coronado Island.
+
+24:54.727 --> 24:56.563
+- Mm.
+- Those bastards offshore
+
+24:56.596 --> 24:58.531
+look like they don't have
+a care in the world
+
+24:58.565 --> 25:00.967
+while I'm stuck to my seat
+worrying about packet switching
+
+25:01.000 --> 25:02.835
+and computer viruses,
+thank you very much.
+
+25:02.869 --> 25:05.204
+- ( chuckles )
+- Packet switching?
+
+25:05.237 --> 25:07.607
+- Is that with the DoD?
+- Yeah, nothing sexy.
+
+25:07.640 --> 25:09.141
+Just moving a bunch
+of electronic boxes around.
+
+25:09.175 --> 25:10.810
+- Mm.
+- System's so damn clunky,
+
+25:10.843 --> 25:12.579
+they're gonna overhaul
+the whole thing.
+
+25:12.612 --> 25:13.980
+Ken:
+Ugh, sounds like
+a pain in the ass.
+
+25:14.013 --> 25:15.682
+You know
+what you should do?
+
+25:15.715 --> 25:18.651
+You should take a page
+from those carefree bastards
+
+25:18.685 --> 25:21.253
+and you should
+catch a wave, huh?
+Clear your mind.
+
+25:21.287 --> 25:23.723
+Joe's got
+a great instructor
+down your way.
+
+25:25.157 --> 25:27.226
+She's, uh--
+she's amazing.
+
+25:27.259 --> 25:28.695
+And guess what,
+her name--
+
+25:28.728 --> 25:30.329
+it's, uh--
+her name is Sandy.
+
+25:30.362 --> 25:31.931
+- ( both laugh )
+- Sandy.
+
+25:31.964 --> 25:34.033
+- Right, Joe.
+- ( chuckles )
+
+25:34.066 --> 25:36.535
+That's good.
+Love to meet her.
+
+25:39.371 --> 25:42.575
+Look, I know
+I'm being managed here.
+
+25:42.609 --> 25:44.143
+Glenfiddich goes down nice,
+but it doesn't wipe away
+
+25:44.176 --> 25:46.178
+the taste
+of that phone call
+from those cops.
+
+25:46.212 --> 25:49.749
+Topher's still a teenager.
+We don't let our boy run wild.
+
+25:49.782 --> 25:51.951
+Cal, I was very troubled
+
+25:51.984 --> 25:53.285
+when I heard
+what happened to your son.
+
+25:53.319 --> 25:56.856
+I had no idea there were
+minors in my home
+
+25:56.889 --> 25:58.224
+or narcotics,
+
+25:58.257 --> 26:00.993
+and in no universe
+would I approve of that.
+
+26:03.863 --> 26:05.598
+All right.
+
+26:05.632 --> 26:07.867
+You seem
+like a decent man.
+
+26:07.900 --> 26:09.836
+Not some 'Frisco nutjob.
+
+26:09.869 --> 26:13.305
+I'll submit a detailed report
+to the big boss, i.e., my wife,
+
+26:13.339 --> 26:16.108
+and, uh, that should
+clear things up.
+
+26:16.142 --> 26:18.344
+Might not mention
+Sandy to her, though.
+
+26:20.112 --> 26:22.148
+Nothing like a girl
+in a wet suit,
+am I right?
+
+26:22.181 --> 26:24.150
+You sure are.
+Although, I prefer a bikini.
+
+26:24.183 --> 26:26.252
+Yeah.
+
+26:26.285 --> 26:30.723
+Some of our business
+associates in SF,
+
+26:30.757 --> 26:33.693
+they're a little funny,
+if you catch my drift.
+
+26:33.726 --> 26:35.662
+Soft handshakes.
+
+26:35.695 --> 26:37.730
+Hell, maybe
+we'll get lucky
+
+26:37.764 --> 26:40.800
+and all the faggots
+will catch that special flu
+that's going around.
+
+26:40.833 --> 26:42.334
+As long as my son
+stays away from it.
+
+26:42.368 --> 26:44.837
+But, uh, got plenty of time
+to whip him into shape.
+
+26:44.871 --> 26:46.138
+Like I said,
+he's still a kid.
+
+26:46.172 --> 26:49.742
+All right, gentlemen,
+it's that time.
+
+26:49.776 --> 26:52.945
+All right.
+Yes, sir.
+
+26:52.979 --> 26:54.781
+Hey, watch it, man.
+
+26:54.814 --> 26:56.315
+Do you know,
+I wouldn't worry
+about your son.
+
+26:56.348 --> 26:59.218
+He'll find his path
+when he gets away from you.
+
+26:59.251 --> 27:01.353
+But I feel sorry
+for your wife.
+
+27:01.387 --> 27:03.155
+She has to lie there
+taking it,
+
+27:03.189 --> 27:05.024
+wondering
+what the hell she did
+
+27:05.057 --> 27:07.226
+to have your stinking
+breath in her face.
+
+27:07.259 --> 27:11.197
+Or, wait,
+maybe I was wrong.
+
+27:11.230 --> 27:13.365
+Maybe the big boss
+isn't the one taking it.
+
+27:15.034 --> 27:16.869
+Hey, Jesus Christ, Joe.
+
+27:16.903 --> 27:18.237
+We had the son of a bitch
+locked and you had to--
+
+27:18.270 --> 27:19.739
+Had to what?
+
+27:19.772 --> 27:22.108
+We sell security software
+to the government.
+
+27:23.275 --> 27:26.245
+Hey, wait.
+Come on, hey!
+
+27:35.287 --> 27:36.989
+Hey.
+
+27:37.023 --> 27:38.324
+Hey.
+
+27:38.357 --> 27:40.192
+It was great hanging out
+with you last night.
+
+27:43.162 --> 27:44.263
+Mm-hmm.
+
+27:44.296 --> 27:46.833
+( keyboard clacking )
+
+27:50.169 --> 27:52.171
+- Can I just--
+- Uh, yeah.
+
+28:07.286 --> 28:09.455
+Sure.
+
+28:09.488 --> 28:11.791
+Cool.
+
+28:11.824 --> 28:14.126
+I'll let you
+get back to work.
+
+28:19.398 --> 28:21.300
+( groans )
+
+28:26.505 --> 28:28.975
+I heard you two had
+a good conversation
+last night.
+
+28:29.008 --> 28:31.243
+Uh, yeah.
+
+28:31.277 --> 28:34.246
+I decided to, uh, keep
+the SwapMeet code as it is
+
+28:34.280 --> 28:37.216
+and translate
+some of Mutiny into C++
+to bridge the interface.
+
+28:37.249 --> 28:38.384
+Really?
+That's great.
+
+28:38.417 --> 28:39.919
+The guys are
+gonna be thrilled.
+
+28:39.952 --> 28:43.722
+And I think
+we should fire them.
+
+28:44.991 --> 28:47.927
+What? Why?
+
+28:47.960 --> 28:51.063
+Do you have an actual,
+you know, reason we
+can give Diane,
+
+28:51.097 --> 28:52.865
+since she's the one
+who's gonna have
+to pay for it?
+
+28:52.899 --> 28:55.134
+Yes.
+
+28:55.167 --> 28:56.335
+We don't need them.
+
+28:58.337 --> 28:59.806
+Well, the dinner
+is tonight.
+
+28:59.839 --> 29:01.007
+If you really want
+to fire the guys,
+
+29:01.040 --> 29:02.741
+then you can
+tell Diane yourself.
+
+29:05.177 --> 29:07.046
+"You Make Me Wanna Dance"
+playing in background
+
+29:07.079 --> 29:10.449
+Oh, no!
+They have three-player
+"Yeti Mountain Mission"?
+
+29:10.482 --> 29:11.918
+Race!
+
+29:11.951 --> 29:13.786
+No, no, no, no, no.
+No video games.
+
+29:13.820 --> 29:15.154
+We're here to coalesce
+as a group.
+
+29:15.187 --> 29:16.789
+- What?
+- So line up by "heighth."
+
+29:16.823 --> 29:18.357
+- What?
+- "Heighth"?
+
+29:18.390 --> 29:21.060
+Height.
+Line up by height.
+How tall you are.
+
+29:21.093 --> 29:23.195
+- ( laughing )
+- Height.
+
+29:23.229 --> 29:24.430
+So you're gonna
+be at the end.
+
+29:24.463 --> 29:26.498
+You're at this end
+over here.
+
+29:26.532 --> 29:28.334
+- Hey, does hair count?
+- Yes, hair counts.
+
+29:28.367 --> 29:30.169
+Down here at the end.
+
+29:30.202 --> 29:32.371
+Arki, you're in the center.
+Lev, you're there.
+
+29:32.404 --> 29:34.040
+Wonderboy,
+down at the end.
+
+29:34.073 --> 29:35.174
+Come on, guys.
+
+29:35.207 --> 29:37.109
+Bodie:
+Yeah, Wonderboy.
+
+29:37.143 --> 29:39.946
+All right, you've been
+ordered by Allied Command
+
+29:39.979 --> 29:41.914
+to select
+12 general prisoners...
+
+29:41.948 --> 29:44.516
+- I'm innocent.
+- ...convicted by
+courts-martial
+
+29:44.550 --> 29:48.855
+and sentenced to be executed
+or serve lengthy prison terms
+
+29:48.888 --> 29:52.058
+for murder, robbery,
+
+29:52.091 --> 29:54.894
+striking
+a general in the ear,
+
+29:54.927 --> 29:56.896
+and other crimes
+of violence.
+
+29:56.929 --> 29:59.198
+And you will deliver them
+behind enemy lines
+
+29:59.231 --> 30:03.002
+in France to undertake
+a mission of sabotage
+
+30:03.035 --> 30:05.404
+that could change
+the course of the war.
+
+30:05.437 --> 30:08.074
+Okay, Lee Marvin,
+but don't most of the guys
+in that movie eat it?
+
+30:08.107 --> 30:09.575
+By the end, is it more
+like the "Dirty Deuce"?
+
+30:09.608 --> 30:11.477
+I'll show you
+a Dirty Deuce, Bodie.
+
+30:11.510 --> 30:13.913
+It's a metaphor.
+
+30:13.946 --> 30:15.414
+Actually, it's more
+of an allegory.
+
+30:15.447 --> 30:16.615
+Uh, pipe down,
+Smurfette.
+
+30:16.648 --> 30:18.117
+An allegory
+is a metaphor.
+
+30:18.150 --> 30:19.251
+F you, semen.
+
+30:19.285 --> 30:21.520
+Semen?
+Did she just
+call me semen?
+
+30:21.553 --> 30:23.255
+- Man on P.A.: It's time
+for the next battle!
+- ( feedback squeals )
+
+30:23.289 --> 30:25.324
+God.
+
+30:25.357 --> 30:30.362
+Players, follow me
+for instruction in the rules
+of honorable play.
+
+30:30.396 --> 30:32.498
+Bodie:
+You need to turn
+down your toys.
+
+30:32.531 --> 30:34.934
+Come on, guys.
+Let's see a little bit
+of that Apache know-how.
+
+30:34.967 --> 30:36.035
+( growls )
+
+30:36.068 --> 30:38.437
+( guns blasting )
+
+30:38.470 --> 30:40.539
+- Cover me, cover me!
+- ( coders shouting )
+
+30:40.572 --> 30:42.608
+There he is,
+there he is!
+
+30:42.641 --> 30:44.510
+- Buckle up, big man.
+- Shit!
+
+30:46.312 --> 30:50.349
+( shouting indistinctly )
+
+30:50.382 --> 30:54.120
+Guys, don't
+just stand around.
+Fight back!
+
+30:54.153 --> 30:56.923
+I'm out, I'm done.
+Screw you, asshole.
+
+30:56.956 --> 30:59.658
+All right, guys,
+green team, gather around,
+gather around.
+
+30:59.691 --> 31:01.560
+All right,
+look, focus, okay?
+
+31:01.593 --> 31:03.930
+Guard the base.
+Get each other's backs,
+all right?
+
+31:03.963 --> 31:05.998
+Is this thing even on?
+
+31:06.032 --> 31:08.000
+Bodie, get down.
+You're in the line of fire!
+
+31:08.034 --> 31:09.535
+Wonderboy, get that
+out of your mouth.
+
+31:09.568 --> 31:11.270
+Come on, man,
+get your head in the game.
+
+31:11.303 --> 31:13.605
+( blasting )
+
+31:13.639 --> 31:16.208
+Hey, guys, check it out.
+If you just cover this thing,
+you can't get hit.
+
+31:16.242 --> 31:18.377
+There must be
+a way to disengage
+the entire system.
+
+31:18.410 --> 31:19.645
+What a bunch of pussies.
+
+31:19.678 --> 31:20.679
+That's sexist.
+
+31:20.712 --> 31:22.281
+- ( beeps )
+- All: Oh!
+
+31:22.314 --> 31:24.416
+- He's on our team!
+- F off, you big D.
+
+31:24.450 --> 31:26.285
+- ( beeps )
+- Oh, my God, stop!
+
+31:26.318 --> 31:28.387
+We're all gonna die!
+
+31:28.420 --> 31:30.156
+It's Judgment Day,
+sinners!
+
+31:30.189 --> 31:32.358
+- ( shouting )
+- Coder: Dodged a shot.
+
+31:32.391 --> 31:34.093
+"Goodnight, Saigon"
+playing
+
+31:34.126 --> 31:37.596
+( all screaming )
+
+31:37.629 --> 31:39.431
+Let's do this!
+
+31:39.465 --> 31:46.538
+* We said we'd all
+go down together *
+
+31:46.572 --> 31:53.612
+* Yes, we would all
+go down together *
+
+31:53.645 --> 32:00.652
+* We said we'd all
+go down together *
+
+32:00.686 --> 32:03.522
+* Yes, we would
+all go down... *
+
+32:03.555 --> 32:05.491
+( all yelling )
+
+32:05.524 --> 32:08.494
+( all cheering )
+
+32:08.527 --> 32:11.663
+Yeah!
+
+32:11.697 --> 32:14.133
+( cheering continues )
+
+32:17.636 --> 32:20.639
+Sir! Sir!
+You are officially
+disqualified.
+
+32:20.672 --> 32:22.074
+Coders: What?!
+
+32:22.108 --> 32:24.410
+( all chanting )
+Green! Green! Green!
+
+32:26.712 --> 32:30.182
+( echoes )
+* And who was right?
+
+32:33.719 --> 32:36.322
+( chatter )
+
+32:36.355 --> 32:37.756
+Craig:
+We feel 100% confident.
+
+32:37.789 --> 32:39.458
+Doug:
+If we're properly assigned,
+
+32:39.491 --> 32:41.493
+we can get this whole thing
+out the door in three weeks.
+
+32:41.527 --> 32:43.229
+Three weeks?
+
+32:43.262 --> 32:46.098
+That's much sooner
+than we expected, right?
+
+32:46.132 --> 32:47.766
+Oh, I just wish--
+
+32:47.799 --> 32:50.602
+Let it go.
+She's not coming.
+
+32:50.636 --> 32:52.071
+( sighs )
+
+32:52.104 --> 32:54.240
+I thought you two
+had a good conversation.
+
+32:54.273 --> 32:56.208
+Yeah, I thought so, too.
+
+32:56.242 --> 32:57.543
+We have so much
+respect for Cam
+
+32:57.576 --> 32:59.545
+and what you guys
+have built together.
+
+32:59.578 --> 33:02.481
+It sounds nice and all,
+but the real question is
+can you work with her?
+
+33:02.514 --> 33:04.083
+- Definitely.
+- Of course.
+
+33:04.116 --> 33:06.718
+We just get the feeling
+she can't work with us.
+
+33:06.752 --> 33:08.720
+You know?
+
+33:08.754 --> 33:11.257
+Are we ready
+to go ahead and order?
+
+33:11.290 --> 33:12.358
+"Cold Siren"
+playing in background
+
+33:12.391 --> 33:14.193
+* Cold, cold creature
+
+33:14.226 --> 33:17.529
+* And she keeps
+her so-called heart *
+
+33:17.563 --> 33:23.769
+* She's a cold, cold,
+cold, cold, siren song *
+
+33:23.802 --> 33:26.205
+* A cold,
+siren song... *
+
+33:41.587 --> 33:43.489
+( chatter )
+
+33:47.459 --> 33:49.061
+I'm sorry.
+
+33:49.095 --> 33:50.562
+It's not your fault.
+
+33:50.596 --> 33:52.664
+Can we have
+the check, please?
+
+33:52.698 --> 33:55.767
+I just think
+if Cam doesn't want
+to work with the guys,
+
+33:55.801 --> 33:58.170
+she should have
+the courage to deal
+with it face-to-face.
+
+33:58.204 --> 33:59.771
+No, I know.
+
+33:59.805 --> 34:01.307
+Look, I wanted her
+to tell you,
+
+34:01.340 --> 34:04.710
+but since
+she's not here...
+
+34:04.743 --> 34:07.646
+Cam wants to fire
+Doug and Craig.
+
+34:09.215 --> 34:10.582
+Really?
+That's big.
+
+34:10.616 --> 34:12.151
+Yeah.
+
+34:12.184 --> 34:14.686
+Do you agree with her?
+
+34:14.720 --> 34:17.323
+Well, I--
+she's my partner.
+
+34:17.356 --> 34:21.127
+Personally, I think
+these guys are a big asset.
+
+34:21.160 --> 34:22.694
+But your relationship
+with Cameron
+
+34:22.728 --> 34:24.130
+is the most
+important thing.
+
+34:24.163 --> 34:27.566
+That's what
+I'm investing in.
+
+34:27.599 --> 34:30.636
+If working with
+Doug and Craig is untenable,
+
+34:30.669 --> 34:33.872
+Mutiny can pay
+their earn-out early
+and send 'em home.
+
+34:33.905 --> 34:36.675
+But you just said
+that they're a big asset.
+
+34:36.708 --> 34:38.710
+I wouldn't
+be happy about it,
+
+34:38.744 --> 34:41.813
+but it's better than
+forcing something toxic.
+
+34:41.847 --> 34:44.250
+I just hope it's the guys
+who are the problem.
+
+34:47.519 --> 34:49.321
+So, how's
+the team-building coming?
+
+34:49.355 --> 34:51.457
+Well, surprisingly
+productive.
+
+34:51.490 --> 34:54.193
+Although I've been banned
+from future competition
+
+34:54.226 --> 34:56.762
+due to my controversial
+military tactics.
+
+34:56.795 --> 34:58.864
+- ( chuckles )
+- You can get out there.
+They're still there.
+
+34:58.897 --> 35:00.299
+It's stupid fun.
+
+35:00.332 --> 35:04.236
+No, I just
+came by 'cause I--
+
+35:04.270 --> 35:06.438
+well, 'cause
+I said I would.
+
+35:06.472 --> 35:09.441
+Well, look at you,
+Mr. Nice Guy.
+
+35:09.475 --> 35:11.777
+Mr. Nice Guy?
+
+35:11.810 --> 35:15.714
+Back at Cardiff,
+you were the heavy
+SVP of Sales.
+
+35:15.747 --> 35:17.483
+All those
+multimillion-dollar
+accounts,
+
+35:17.516 --> 35:19.518
+everybody was
+scared shitless of you.
+
+35:19.551 --> 35:21.620
+You know,
+including myself.
+
+35:21.653 --> 35:22.854
+But now...
+
+35:22.888 --> 35:25.791
+Now what?
+
+35:25.824 --> 35:29.561
+Look, I just mean, you know,
+being the boss sounds good,
+
+35:29.595 --> 35:31.397
+but this is better.
+
+35:31.430 --> 35:33.765
+There's minimal
+responsibility,
+maximum fun.
+
+35:33.799 --> 35:38.404
+Which reminds me,
+what's that story
+you keep telling the guys?
+
+35:38.437 --> 35:40.806
+- Something about...
+- That thing's outta gas.
+
+35:40.839 --> 35:44.610
+( coders laughing )
+Bos!
+
+35:44.643 --> 35:46.645
+- You should've seen it.
+- Oh, man, you're not
+gonna believe it.
+
+35:46.678 --> 35:48.647
+Gordon went
+full-on kamikaze.
+
+35:48.680 --> 35:50.816
+He practically
+murdered the guy.
+
+35:50.849 --> 35:53.285
+It seemed totally
+lame at first, but it was
+actually pretty awesome.
+
+35:53.319 --> 35:54.920
+Yeah, even she
+liked it.
+
+35:54.953 --> 35:56.422
+( all laugh )
+
+35:56.455 --> 35:57.723
+You should play
+the next round, man.
+
+35:57.756 --> 35:58.824
+- You would shred
+this course.
+- No.
+
+35:58.857 --> 36:00.826
+Coders:
+Come on. Come on.
+
+36:00.859 --> 36:04.363
+( chanting )
+Bos! Bos! Bos!
+
+36:07.566 --> 36:09.768
+No, I'm good.
+
+36:09.801 --> 36:10.902
+I said I'm good!
+
+36:18.310 --> 36:19.978
+Go have another round.
+
+36:20.011 --> 36:22.314
+Get on in there.
+You guys enjoy it.
+
+36:22.348 --> 36:24.816
+- Okay, yeah.
+- ( overlapping chatter )
+
+36:24.850 --> 36:26.585
+( all cheering )
+
+36:26.618 --> 36:28.520
+( guns blasting )
+
+36:43.369 --> 36:45.271
+( sighs )
+
+36:55.314 --> 36:56.382
+Cam.
+
+36:58.717 --> 37:00.018
+What time is it?
+
+37:00.051 --> 37:02.854
+It's late.
+You missed the dinner.
+
+37:02.888 --> 37:05.491
+Oh, my God, Donna,
+I'm sorry.
+
+37:05.524 --> 37:08.960
+Jesus, I--
+I don't know...
+
+37:08.994 --> 37:10.996
+I meant to be there.
+I planned to be there.
+
+37:11.029 --> 37:12.631
+I don't know
+what happened.
+
+37:12.664 --> 37:14.266
+You're overworked,
+that's what happened.
+
+37:14.300 --> 37:16.402
+You're exhausted.
+
+37:16.435 --> 37:18.470
+Um, how was the dinner?
+
+37:18.504 --> 37:21.373
+Fine.
+
+37:21.407 --> 37:22.641
+Doug sucked up a lot.
+
+37:22.674 --> 37:24.543
+God, I hate that guy.
+
+37:24.576 --> 37:26.445
+I know.
+But Craig's okay.
+
+37:26.478 --> 37:27.946
+Yeah.
+
+37:29.315 --> 37:31.450
+After they left,
+
+37:31.483 --> 37:33.018
+I told Diane
+you want to fire them.
+
+37:33.051 --> 37:34.953
+And?
+
+37:37.889 --> 37:39.458
+She said no.
+
+37:42.060 --> 37:43.729
+What do you mean,
+she said no?
+
+37:43.762 --> 37:45.964
+They're a part of the deal.
+
+37:45.997 --> 37:49.901
+They're an important asset
+and we have to find a way
+to make it work.
+
+37:49.935 --> 37:51.337
+( chuckles )
+What?
+
+37:51.370 --> 37:53.339
+I thought she
+was on our side.
+
+37:53.372 --> 37:56.608
+She feels
+it's what's best
+for the company.
+
+38:03.549 --> 38:05.384
+Okay.
+
+38:05.417 --> 38:08.587
+( exhales )
+
+38:08.620 --> 38:11.823
+Okay, well,
+thank you for asking.
+I really appreciate it.
+
+38:13.124 --> 38:14.593
+Yeah.
+
+38:16.695 --> 38:19.365
+- I'll see you at home.
+- Yeah.
+
+38:35.881 --> 38:39.084
+( door opens, closes )
+
+38:53.399 --> 38:55.734
+( door opens )
+
+38:55.767 --> 38:57.869
+Hello?
+
+38:57.903 --> 39:02.140
+I'm cool to work at night,
+but your call kind of
+freaked me out.
+
+39:02.173 --> 39:05.143
+We lost
+General Atomics today.
+
+39:05.176 --> 39:09.047
+They represent 37%
+of our annual billing.
+
+39:09.080 --> 39:11.016
+What happened?
+
+39:11.049 --> 39:13.552
+I traded them
+for something
+more valuable.
+
+39:15.721 --> 39:17.155
+What's this?
+
+39:17.188 --> 39:19.625
+The log-in credentials
+for the ARPANET,
+
+39:19.658 --> 39:22.027
+the Department of Defense
+packet-switching network.
+
+39:22.060 --> 39:24.763
+I secured the information
+through General Atomics.
+
+39:24.796 --> 39:26.765
+I want you to look into it
+before they flag
+
+39:26.798 --> 39:28.600
+that my credentials
+still work.
+
+39:28.634 --> 39:32.037
+Okay, but, you know,
+the ARPANET isn't new tech.
+
+39:32.070 --> 39:36.442
+It's sort of rusty.
+It's not like missile codes
+or fighter plane blueprints.
+
+39:36.475 --> 39:38.143
+This is--
+this is mundane stuff.
+
+39:38.176 --> 39:41.179
+I do know that.
+It's antiquated.
+
+39:41.212 --> 39:43.381
+And that means
+it's ripe for an upgrade.
+
+39:44.683 --> 39:46.184
+So what should I do?
+
+39:46.217 --> 39:50.656
+I need you to go
+into it, map it,
+
+39:50.689 --> 39:54.926
+and help me figure out
+what's next.
+
+39:54.960 --> 39:58.129
+- ( duck quacking )
+- ( gunshots )
+
+39:59.965 --> 40:01.833
+- Cameron: Why?
+- ( game chimes )
+
+40:01.867 --> 40:04.436
+( Cameron and Gordon
+chatting indistinctly )
+
+40:14.546 --> 40:16.648
+- Play after this.
+- There's two controllers,
+though.
+
+40:16.682 --> 40:20.085
+Play after I finish
+the best out of 10.
+
+40:20.118 --> 40:23.855
+Man, you're like some kind
+of "Duck Hunt" savant.
+
+40:23.889 --> 40:26.224
+Does that mean I'm totally
+deficient in other areas?
+
+40:26.257 --> 40:31.229
+Like "Duck Hunt" savant,
+but bad team player.
+
+40:31.262 --> 40:32.964
+Come on.
+( groans )
+
+40:32.998 --> 40:34.466
+So how's it going with...
+
+40:34.500 --> 40:36.535
+( German accent )
+...Dick und Doof?
+
+40:36.568 --> 40:38.537
+Dick und Doof?
+
+40:38.570 --> 40:40.806
+That's what my grandfather
+called Laurel and Hardy.
+
+40:40.839 --> 40:42.708
+Loosely translates
+to "chubby and dumb."
+
+40:42.741 --> 40:46.878
+Well, that's perfect,
+'cause Doug's the Dick...
+
+40:46.912 --> 40:48.680
+Und Craig ist Doof.
+
+40:48.714 --> 40:50.115
+- Ja.
+- Ja.
+
+40:50.148 --> 40:51.850
+( both laugh )
+
+40:51.883 --> 40:54.019
+Ahh!
+
+40:55.186 --> 40:56.788
+Oh, whatever, though.
+
+40:56.822 --> 40:59.190
+I guess I'm gonna
+have to make it work.
+
+41:00.959 --> 41:02.628
+All right, hope you
+haven't lost your edge
+
+41:02.661 --> 41:04.730
+now that you're
+a peacemaker.
+
+41:08.299 --> 41:10.769
+Uh, oh, do you
+want a soda?
+
+41:10.802 --> 41:12.938
+- Yeah, sure.
+- Yeah?
+
+41:23.281 --> 41:24.883
+- Hey.
+- Jesus!
+
+41:24.916 --> 41:26.718
+What are you doing?
+
+41:26.752 --> 41:30.155
+You know, I wanted
+to tell you something.
+
+41:30.188 --> 41:34.092
+I've been thinking,
+and you should stay here
+as long as you want.
+
+41:34.125 --> 41:37.696
+You can take your time
+finding a place.
+
+41:45.737 --> 41:48.239
+( "Duck Hunt" continues
+in background )
+
+42:00.251 --> 42:04.155
+Oh, thanks.
+Yes!
+
+42:04.189 --> 42:05.991
+All right,
+all you.
+
+42:08.827 --> 42:10.829
+Can I ask you a question?
+
+42:13.131 --> 42:15.266
+When did you know
+you were losing Cardiff?
+
+42:25.243 --> 42:27.713
+( music playing )

@@ -1,0 +1,3672 @@
+WEBVTT
+
+00:00.333 --> 00:01.867
+ Please, don't try anything
+
+00:01.867 --> 00:03.902
+ that you're about to see us do
+ at home.
+
+00:03.903 --> 00:06.903
+ Ever!
+
+00:08.074 --> 00:10.442
+ NARRATOR: On this episode
+ of "Mythbusters"...
+
+00:10.443 --> 00:12.244
+ Ba-da-da-da!
+ Ba-da-da! 
+
+00:12.245 --> 00:15.245
+ NARRATOR:... Doctors Hyneman
+ and Savage raid the "Ark"-hives
+
+00:16.315 --> 00:19.316
+ for a movie myth
+ about a bike flip.
+
+00:19.652 --> 00:21.053
+ [ Laughter ]
+
+00:21.054 --> 00:23.555
+ If you poke a pole
+ in the front spokes,
+
+00:23.556 --> 00:26.158
+ will it really flip out?
+
+00:26.159 --> 00:27.192
+ [ Laughter ]
+
+00:27.193 --> 00:28.727
+ The timing was perfect.
+
+00:28.728 --> 00:30.996
+ -lf you say so, Junior.
+ -[ Laughs ]
+
+00:30.997 --> 00:33.997
+ NARRATOR: And Kari, Grant,
+ and Tory are breaking bad...
+
+00:34.067 --> 00:35.834
+ I'm bustin' out of here, see?
+
+00:35.835 --> 00:38.835
+ NARRATOR:... to test tall tales
+ of prison breaks.
+
+00:39.272 --> 00:41.673
+ They want to know
+ if you can rappel to freedom
+
+00:41.674 --> 00:44.674
+ using bedsheets, toilet paper...
+
+00:44.711 --> 00:46.045
+ Freedom!
+
+00:46.046 --> 00:47.513
+ -NARRATOR:... and hair?
+ -[Bleep]
+
+00:47.514 --> 00:50.514
+ -Oh! Oh!
+ -Ow!
+
+00:54.587 --> 00:57.289
+ NARRATOR:
+ Who are the Mythbusters?
+
+00:57.290 --> 00:58.557
+ Adam Savage...
+
+00:58.558 --> 01:00.759
+ That's 100 % wacky right there.
+
+01:00.760 --> 01:03.328
+ -NARRATOR:... and Jamie Hyneman.
+ -Pain is your friend.
+
+01:03.329 --> 01:05.197
+ NARRATOR:
+ Between them, more than 30 years
+
+01:05.197 --> 01:07.733
+ of special-effects experience.
+
+01:07.734 --> 01:10.734
+ Joining them -- Kari Byron...
+
+01:11.438 --> 01:13.205
+ -Let's do it.
+ -NARRATOR:... Grant Imahara...
+
+01:13.206 --> 01:15.240
+ Danger!
+ Warning! Warning!
+
+01:15.241 --> 01:16.909
+ NARRATOR:
+...and Tory Belleci.
+
+01:16.910 --> 01:19.211
+ Okay, you want to play rough,
+ little gopher?
+
+01:19.212 --> 01:21.947
+ NARRATOR:
+ They don't just tell the myths.
+
+01:21.948 --> 01:24.948
+ They put them to the test.
+
+01:26.000 --> 01:32.074
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
+
+01:39.165 --> 01:42.134
+ Let me guess.
+
+01:42.135 --> 01:44.002
+ -lndiana Jones?
+ -Yes.
+
+01:44.003 --> 01:47.003
+ Cast your mind back to "Indiana
+ Jones and the Last Crusade."
+
+01:47.440 --> 01:49.575
+ Indy and his father
+ are racing away from the Nazis
+
+01:49.576 --> 01:50.409
+ on a motorcycle.
+
+01:50.410 --> 01:53.045
+ Nazis come up alongside them
+ and are about to get them,
+
+01:53.046 --> 01:54.346
+ but Indy doesn't have a weapon.
+
+01:54.347 --> 01:56.281
+ Quickly thinking,
+ he grabs a flagpole,
+
+01:56.282 --> 01:58.484
+ jams it in the front spokes
+ of the Nazi motorcycle and...
+
+01:58.485 --> 02:01.485
+ The motorcycle flips up
+ in the air, end over end.
+
+02:01.754 --> 02:02.888
+ Bad time for the Nazi.
+
+02:02.889 --> 02:04.022
+ Exactly.
+
+02:04.023 --> 02:06.525
+ That is our movie myth.
+
+02:06.526 --> 02:09.526
+ NARRATOR: It's a classic scene
+ from the silver screen.
+
+02:09.529 --> 02:12.529
+ The Doctors Jones,
+ Junior and Senior,
+
+02:12.599 --> 02:15.599
+ are being chased
+ by the Third Reich on bikes.
+
+02:17.203 --> 02:20.203
+ But a flagpole in the front
+ wheel of the nearest Nazi,
+
+02:21.040 --> 02:24.040
+ and a motorcycle flip-out
+ sees our hero escape
+
+02:24.310 --> 02:26.078
+ with a trademark cheesy grin.
+
+02:26.079 --> 02:29.047
+ This one's really interesting
+ from a physics sense.
+
+02:29.048 --> 02:31.450
+ Because when I look
+ at that scene,
+
+02:31.451 --> 02:33.952
+ it doesn't seem awkward
+ or out of place.
+
+02:33.953 --> 02:35.654
+ But it does beg the question,
+
+02:35.655 --> 02:38.257
+ is it really that easy
+ to redirect all the energy
+
+02:38.258 --> 02:41.258
+ that's going this way
+ to going that way?
+
+02:41.427 --> 02:42.728
+ I'm thinking
+ that we break it down
+
+02:42.729 --> 02:44.897
+ to its constituent components,
+ test each one,
+
+02:44.898 --> 02:46.532
+ and then put them
+ all back together
+
+02:46.533 --> 02:47.933
+ for a full-sized finale.
+
+02:47.934 --> 02:48.934
+ This will be fun.
+
+02:48.935 --> 02:51.503
+ It's been years
+ since I've been on a motorcycle.
+
+02:51.504 --> 02:53.605
+ Ever since that -- that gang,
+ right?
+
+02:53.606 --> 02:55.007
+ [ Horn honking ]
+
+02:55.008 --> 02:56.642
+ NARRATOR:
+ So, first things first.
+
+02:56.643 --> 02:59.643
+ It's a motorcycle myth,
+ and we'll be needing a...
+
+03:00.213 --> 03:01.313
+ JAMIE:
+ That's a bike.
+
+03:01.314 --> 03:02.414
+ NARRATOR: Exactly.
+
+03:02.415 --> 03:04.416
+ ADAM:
+ Aw, it's lovely.
+
+03:04.417 --> 03:06.818
+ Actually, we rode across the
+ country in one of these things.
+
+03:06.819 --> 03:07.686
+ No way.
+
+03:07.687 --> 03:09.655
+ I'm just reeling from learning
+ something about you
+
+03:09.656 --> 03:10.656
+ I didn't know.
+
+03:10.657 --> 03:12.691
+ It seems that there's
+ a never-ending supply of those.
+
+03:12.692 --> 03:14.860
+ NARRATOR:
+ Okay, it may be old-fashioned,
+
+03:14.861 --> 03:17.496
+ but the movie bikes
+ are vintage World War I I.
+
+03:17.497 --> 03:18.630
+ ADAM:
+ I know what you're saying.
+
+03:18.631 --> 03:20.332
+ You're saying
+ this really doesn't look like
+
+03:20.333 --> 03:23.333
+ a vintage World War I I era
+ motorcycle, and it isn't.
+
+03:23.770 --> 03:26.770
+ In fact, it's from 1981, but
+ it is the exact model of bike
+
+03:28.408 --> 03:30.876
+ used by the stunt men
+ to perform their stunts
+
+03:30.877 --> 03:32.778
+ for "Indiana Jones
+ and the Last Crusade,"
+
+03:32.779 --> 03:35.779
+ which means that it,
+ and not some vintage bike,
+
+03:36.015 --> 03:39.015
+ is the perfect test platform
+ for us for this for this myth.
+
+03:40.086 --> 03:41.520
+ NARRATOR:
+ Now that that's sorted,
+
+03:41.521 --> 03:43.922
+ let's kick things off
+ as Adam and Jamie focus
+
+03:43.923 --> 03:45.757
+ on the first aspect of the myth.
+
+03:45.758 --> 03:47.893
+ ADAM: Since this myth is all
+ about the poking of a flagpole
+
+03:47.894 --> 03:49.328
+ into the spokes of a motorcycle,
+
+03:49.329 --> 03:50.829
+ one of the things
+ we want to know is,
+
+03:50.830 --> 03:53.830
+ how fast can we poke a flagpole?
+
+03:54.834 --> 03:56.602
+ NARRATOR:
+ Because once they know the speed
+
+03:56.603 --> 03:59.603
+ of a human flagpole poke...
+
+04:01.975 --> 04:03.175
+ ADAM:
+ Nice, tiger.
+
+04:03.176 --> 04:06.011
+ NARRATOR:... they can calibrate
+ their remaining tests
+
+04:06.012 --> 04:07.012
+ to just that.
+
+04:07.013 --> 04:09.281
+ Just plain funny to watch you
+ exert yourself like that.
+
+04:09.282 --> 04:12.282
+ I don't know why, exactly.
+ It just is.
+
+04:12.619 --> 04:13.819
+ High comedy.
+
+04:13.820 --> 04:15.587
+ -Whatever floats your goat.
+ -[ Laughs ]
+
+04:15.588 --> 04:18.588
+ NARRATOR: And the high comedy
+ on the high speed
+
+04:18.825 --> 04:21.825
+ reveals the magic number to be
+ 30 miles per hour.
+
+04:22.395 --> 04:24.896
+ Cue part two
+ of the experiment --
+
+04:24.897 --> 04:27.699
+ a remote-control
+ flagpole thruster.
+
+04:27.700 --> 04:29.868
+ You might remember
+ this puppy right here
+
+04:29.869 --> 04:32.869
+ from "Birds on a Truck" because
+ this was our pigeon catcher.
+
+04:33.539 --> 04:36.341
+ NARRATOR: Yep, it's not a prop
+ from "Mad Max."
+
+04:36.342 --> 04:38.744
+ It really is a pigeon catcher.
+
+04:38.745 --> 04:40.345
+ ADAM: [ Laughs ]
+
+04:40.346 --> 04:42.180
+ NARRATOR:
+ Not that it caught any pigeons.
+
+04:42.181 --> 04:44.616
+ JAMIE: It has an air reservoir.
+ It has a valve.
+
+04:44.617 --> 04:46.985
+ It has everything we need
+ to shoot the stick
+
+04:46.986 --> 04:48.754
+ into the wheels
+ of the motorcycle.
+
+04:48.755 --> 04:51.755
+ In 3, 2, 1...
+
+04:55.128 --> 04:57.829
+ [ Laughs ]
+
+04:57.830 --> 05:00.098
+ NARRATOR:
+ Yeah, that looked a tad faster
+
+05:00.099 --> 05:02.200
+ than 30 miles an hour to me.
+
+05:02.201 --> 05:03.769
+ But let's see what Adam thinks.
+
+05:03.770 --> 05:05.170
+ ADAM: One.
+
+05:05.171 --> 05:06.605
+ [ Wood rattling ]
+
+05:06.606 --> 05:09.606
+ [ Laughs ]
+
+05:09.742 --> 05:11.310
+ That might be a little too fast.
+
+05:11.311 --> 05:13.045
+ NARRATOR: Hmm.
+ That's what I said.
+
+05:13.046 --> 05:16.046
+ Is everybody okay?
+
+05:16.683 --> 05:18.083
+ JAMIE:
+ That's dangerous.
+
+05:18.084 --> 05:21.084
+ Yeah, we might have to
+ tune that one back.
+
+05:21.821 --> 05:24.089
+ I'm not gonna get tired of that.
+
+05:24.090 --> 05:26.124
+ NARRATOR: And so, to get
+ the speed they need --
+
+05:26.125 --> 05:28.427
+ around 30 miles per hour...
+
+05:28.428 --> 05:31.428
+ ADAM: This is
+ an exceedingly weird operation.
+
+05:32.432 --> 05:35.133
+ NARRATOR:... they add some hose
+ to decrease the pressure.
+
+05:35.134 --> 05:38.134
+ Firing in 3, 2, 1.
+
+05:39.806 --> 05:40.772
+ That might be it.
+
+05:40.773 --> 05:42.507
+ ADAM: That's it.
+ That's the butter zone.
+
+05:42.508 --> 05:45.508
+ 12 p.s. i., we get
+ 28 1/2 miles per hour.
+
+05:46.412 --> 05:47.946
+ That's perfect.
+
+05:47.947 --> 05:49.681
+ NARRATOR:
+ As odd as this sounds,
+
+05:49.682 --> 05:51.583
+ after destroying
+ their wooden backstop,
+
+05:51.584 --> 05:54.584
+ they finally got the ex-pigeon
+ catcher throwing a flagpole
+
+05:55.955 --> 05:58.955
+ at a realistic speed.
+
+06:05.365 --> 06:06.998
+ TORY:
+ I'm free!
+
+06:06.999 --> 06:08.900
+ This might sound crazy,
+ but a lot of the fans are saying
+
+06:08.901 --> 06:11.336
+ that you can actually make rope
+ out of toilet paper,
+
+06:11.337 --> 06:12.404
+ and it'll be strong enough
+
+06:12.405 --> 06:14.840
+ that you could scale down
+ a jail wall and escape.
+
+06:14.841 --> 06:16.274
+ Toilet paper?
+ Are you serious?
+
+06:16.275 --> 06:17.509
+ GRANT:
+ Well, if we're gonna do that,
+
+06:17.510 --> 06:19.644
+ I think we should do
+ the all-time classic --
+
+06:19.645 --> 06:21.146
+ making a rope out of bedsheets.
+
+06:21.147 --> 06:22.447
+ I know it's kind of out there,
+
+06:22.448 --> 06:24.082
+ but let's also do
+ the "Rapunzel" version of this,
+
+06:24.083 --> 06:25.817
+ where you make a rope
+ out of hair.
+
+06:25.818 --> 06:28.553
+ -Ew.
+ -lck
+
+06:28.554 --> 06:31.554
+ NARRATOR: Any prison break worth
+ its place in urban folklore
+
+06:32.125 --> 06:35.125
+ involves a death-defying descent
+ from a great height...
+
+06:37.363 --> 06:40.265
+...including
+ these fan-site fables.
+
+06:40.266 --> 06:43.266
+ Desperate convicts eager to be
+ ex-convicts have escaped jail
+
+06:44.537 --> 06:46.972
+ with the apparent aid
+ of cell-made ropes
+
+06:46.973 --> 06:49.741
+ of toilet paper and bedsheets.
+
+06:49.742 --> 06:52.742
+ And if you include
+ Rapunzel's luscious locks,
+
+06:53.146 --> 06:56.146
+ that's three harebrained
+ escape plans to test.
+
+06:57.216 --> 06:58.650
+ So, how are we gonna test this?
+
+06:58.651 --> 07:01.386
+ Why don't we each take one of
+ the materials, make our ropes,
+
+07:01.387 --> 07:04.189
+ and see which one of us makes it
+ down the side of the building?
+
+07:04.190 --> 07:05.690
+ And may the best rope win.
+
+07:05.691 --> 07:07.993
+ Wait, wait.
+ I want bedsheets, then.
+
+07:07.994 --> 07:09.227
+ Too late.
+
+07:09.228 --> 07:11.930
+ NARRATOR: Yes, in
+ a vertigo-inducing finale...
+
+07:11.931 --> 07:13.432
+ KARI: Aah!
+
+07:13.433 --> 07:15.033
+ Oh, my God.
+ I want to throw up.
+
+07:15.034 --> 07:18.034
+ NARRATOR:... our fun-loving
+ criminals will find out for real
+
+07:18.237 --> 07:21.237
+ if the ropes made
+ from their mythical materials
+
+07:21.574 --> 07:24.543
+ will aid and abet
+ their jailbreak.
+
+07:24.544 --> 07:26.678
+ Stupidest idea ever.
+
+07:26.679 --> 07:29.214
+ NARRATOR: Or send them
+ plummeting to their doom.
+
+07:29.215 --> 07:30.015
+ Ow!
+
+07:30.016 --> 07:31.883
+ NARRATOR:
+ But before all that,
+
+07:31.884 --> 07:34.119
+ let's take you
+ back to the beginning...
+
+07:34.120 --> 07:37.120
+...where Kari's plan
+ for a braided escape
+
+07:37.256 --> 07:39.458
+ is giving her a bad hair day.
+
+07:39.459 --> 07:40.892
+ KARI: Is this not
+ the most disgusting thing
+
+07:40.893 --> 07:43.893
+ you've ever seen --
+ an entire box of just hair?
+
+07:45.164 --> 07:46.832
+ NARRATOR:
+ Yes, coming in at number one
+
+07:46.833 --> 07:49.434
+ on the weirdest
+ raw-material chart
+
+07:49.435 --> 07:52.304
+ are 50 human-hair ponytails.
+
+07:52.305 --> 07:55.305
+ KARI: We have to break out of a
+ building that's 14 stories high,
+
+07:55.641 --> 07:58.641
+ so I have to make a rope
+ that is 140 feet long.
+
+08:01.180 --> 08:03.248
+ I think the difficulty here
+ is not gonna necessarily
+
+08:03.249 --> 08:05.817
+ be the strength of the hair,
+ 'cause this feels really strong.
+
+08:05.818 --> 08:08.520
+ I think it's gonna be where
+ the hair splices together.
+
+08:08.521 --> 08:10.922
+ I have to come up with some sort
+ of knotting or braiding system
+
+08:10.923 --> 08:13.625
+ that it won't slide apart
+ and, you know, 100 feet down,
+
+08:13.626 --> 08:15.894
+ I'm not just gonna plummet
+ to the earth.
+
+08:15.895 --> 08:17.596
+ And it's gross.
+
+08:17.597 --> 08:19.598
+ NARRATOR: Meanwhile,
+ Grant's mythical method
+
+08:19.599 --> 08:22.599
+ is a little more conventional
+ and a film-fugitive favorite.
+
+08:23.469 --> 08:26.371
+ GRANT: In order to make sure we
+ have maximum authenticity here,
+
+08:26.372 --> 08:28.673
+ we've gotten these bedsheets
+
+08:28.674 --> 08:31.076
+ from our friends
+ in Alameda County,
+
+08:31.077 --> 08:33.945
+ and they're actual
+ county-jail linens.
+
+08:33.946 --> 08:35.847
+ NARRATOR:
+ And finally Tory,
+
+08:35.847 --> 08:38.783
+ who has some serious
+ tensile strength issues
+
+08:38.784 --> 08:41.784
+ with his authentic
+ one-ply prison-issue tissue.
+
+08:42.655 --> 08:45.023
+ [ Metal rattling ]
+
+08:45.024 --> 08:46.992
+ There you have it.
+ It's not strong enough.
+
+08:46.993 --> 08:49.160
+ NARRATOR:
+ But he's a man with a plan.
+
+08:49.161 --> 08:50.595
+ TORY:
+ If you look at the toilet paper,
+
+08:50.596 --> 08:52.998
+ it's perforated
+ for your convenience
+
+08:52.999 --> 08:55.200
+ of pulling off
+ one sheet at a time.
+
+08:55.201 --> 08:57.969
+ Already it's got
+ this built-in weak link.
+
+08:57.970 --> 08:59.905
+ So I think twisting it,
+ rolling it
+
+08:59.906 --> 09:02.906
+ will give me the extra strength
+ that I need.
+
+09:03.142 --> 09:04.142
+ Look at that.
+
+09:04.143 --> 09:06.878
+ The same amount of toilet paper
+ just wrapped up
+
+09:06.879 --> 09:08.947
+ is strong enough
+ to now hold the three kilos.
+
+09:08.948 --> 09:11.948
+ So this is the way I'm gonna
+ make my toilet-paper rope.
+
+09:12.585 --> 09:13.585
+ -MAN: Fire!
+ -Go!
+
+09:13.586 --> 09:15.320
+ NARRATOR:
+ Adam and Jamie's past crusade
+
+09:15.321 --> 09:17.923
+ to hold Hollywood
+ to scientific account...
+
+09:17.924 --> 09:19.891
+ -Whoo!
+ -ADAM: Oh, that's great!
+
+09:19.892 --> 09:22.093
+ NARRATOR:... has given the team
+ some memorable moments
+
+09:22.094 --> 09:23.728
+ of movie mayhem.
+
+09:23.729 --> 09:26.398
+ MAN:
+ Buster's on the ground.
+
+09:26.399 --> 09:28.333
+ NARRATOR:
+ But on this last crusade,
+
+09:28.334 --> 09:30.602
+ the team are tackling
+ the tall tale
+
+09:30.603 --> 09:33.603
+ that a stick between the spokes
+ can cause...
+
+09:33.906 --> 09:36.906
+...a head-over-handlebars flip.
+
+09:38.477 --> 09:41.079
+ So far they've got their bike
+
+09:41.080 --> 09:44.080
+ and rigged a remote-control
+ flagpole thruster.
+
+09:46.285 --> 09:47.619
+ So, what's next?
+
+09:47.620 --> 09:49.854
+ JAMIE: When this bike is moving
+ at highway speeds,
+
+09:49.855 --> 09:52.855
+ the spokes are going so fast,
+ you can hardly see them.
+
+09:53.359 --> 09:55.327
+ So what we need to find out
+ is whether it's possible
+
+09:55.328 --> 09:58.328
+ for a human to thrust a stick
+ into those spokes
+
+09:59.165 --> 10:01.733
+ fast enough to get them
+ cleanly through there,
+
+10:01.734 --> 10:04.734
+ and then, once that occurs,
+ what happens to the wheel.
+
+10:05.438 --> 10:08.239
+ NARRATOR: And to get the wheel
+ spinning at chasing speeds --
+
+10:08.240 --> 10:11.240
+ 50 miles per hour --
+ Adam whips up a dynamometer.
+
+10:11.844 --> 10:14.844
+ And now it's time for the old
+ spoke-and-poke test.
+
+10:15.815 --> 10:17.749
+ NARRATOR:
+ So with the bike secured,
+
+10:17.750 --> 10:20.685
+ this test is all about the space
+ between the spokes
+
+10:20.686 --> 10:22.887
+ and not the full flip.
+
+10:22.888 --> 10:24.222
+ This is gonna be cool.
+
+10:24.223 --> 10:26.891
+ NARRATOR: Will a flagpole thrust
+ at realistic speed
+
+10:26.892 --> 10:28.627
+ actually penetrate the wheel?
+
+10:28.628 --> 10:31.628
+ 3, 2, 1.
+
+10:32.365 --> 10:33.465
+ NARRATOR:
+ Apparently not.
+
+10:33.466 --> 10:35.367
+ Well, that was
+ a bit of a letdown.
+
+10:35.368 --> 10:38.368
+ NARRATOR: Yes, the stick
+ just bounced right back out.
+
+10:39.472 --> 10:42.472
+ And after a second test
+ under the same conditions...
+
+10:43.542 --> 10:45.710
+...produces a similar result,
+
+10:45.711 --> 10:48.013
+ the guys decide
+ they are missing the point.
+
+10:48.014 --> 10:51.014
+ Firing, 3, 2, 1.
+
+10:52.018 --> 10:53.852
+ NARRATOR: Perfect.
+ Penetration.
+
+10:53.853 --> 10:55.186
+ Wheel stoppage.
+
+10:55.187 --> 10:58.187
+ And, as a bonus,
+ some controlled mayhem.
+
+10:59.225 --> 11:01.259
+ We broke some stuff.
+
+11:01.260 --> 11:02.727
+ JAMIE:
+ We successfully stopped
+
+11:02.728 --> 11:04.462
+ the wheel with the stick,
+ and that's great.
+
+11:04.463 --> 11:07.463
+ That's 15 pounds coming to a
+ dead stop from 50 miles an hour.
+
+11:08.701 --> 11:10.802
+ But this was a stationary test.
+
+11:10.803 --> 11:12.637
+ When we go out on the road
+ with this,
+
+11:12.638 --> 11:15.140
+ there are hundreds of pounds
+ in this bike,
+
+11:15.141 --> 11:18.109
+ plus the rider,
+ that want to keep on going.
+
+11:18.110 --> 11:20.612
+ And that's where
+ the real fun is gonna start.
+
+11:20.613 --> 11:22.280
+ NARRATOR:
+ So it's full scale ahead,
+
+11:22.281 --> 11:25.281
+ and the plan in the can
+ looks a lot like this.
+
+11:25.518 --> 11:27.318
+ At the push of a button,
+
+11:27.319 --> 11:30.319
+ the bike and Buster
+ will begin freewheeling.
+
+11:30.690 --> 11:33.690
+ That, in turn, will trigger
+ the flagpole flinger
+
+11:34.193 --> 11:37.193
+ and jam the stick
+ into the spokes.
+
+11:37.496 --> 11:40.031
+ And to get things rolling
+ in the right direction,
+
+11:40.032 --> 11:42.400
+ Adam's reinventing the wheel.
+
+11:42.401 --> 11:44.436
+ ADAM: Well, the first problem
+ I think we've got to solve
+
+11:44.437 --> 11:47.138
+ is exemplified by taking a look
+ at this footage again.
+
+11:47.139 --> 11:49.307
+ Yeah. See that?
+ Okay.
+
+11:49.308 --> 11:52.308
+ The hubbed spoked wheel
+ is not really ideal for us
+
+11:52.712 --> 11:53.812
+ to shove a stick into
+
+11:53.813 --> 11:56.813
+ 'cause those spokes
+ are not gonna stay put.
+
+11:56.916 --> 11:59.851
+ We need a wheel that can stay
+ put under continued abuse
+
+11:59.852 --> 12:02.852
+ for repeated tests, and we're
+ gonna use steel plate to do it.
+
+12:03.923 --> 12:05.757
+ We've had two of these
+ plasma-cut
+
+12:05.758 --> 12:07.025
+ out of quarter-inch steel plate.
+
+12:07.026 --> 12:09.360
+ We're gonna bolt them
+ to one of the motorcycle rims,
+
+12:09.361 --> 12:10.829
+ have a tire put back on it
+
+12:10.830 --> 12:13.798
+ and a couple of flange-mounted
+ pillow blocks on the axle,
+
+12:13.799 --> 12:16.668
+ and that ought to hold up to
+ everything we can throw at it.
+
+12:16.669 --> 12:18.269
+ [ Laughs ]
+
+12:18.270 --> 12:20.472
+ The Road Warrior would be proud.
+
+12:20.473 --> 12:23.473
+ This thing is absolutely
+ as solid as a rock.
+
+12:23.809 --> 12:26.809
+ It's perfect.
+
+12:28.180 --> 12:29.214
+ [ Tires screeching ]
+
+12:29.215 --> 12:31.483
+ NARRATOR:
+ For the prison-break parable...
+
+12:31.484 --> 12:33.618
+ This place can't hold me!
+
+12:33.619 --> 12:36.087
+ NARRATOR:
+...Grant "Iron Man" Imahara...
+
+12:36.088 --> 12:37.789
+ I'm bustin' out of here, see?
+
+12:37.790 --> 12:40.091
+ NARRATOR:
+...Kari "Knuckles" Byron...
+
+12:40.092 --> 12:42.026
+ -MAN: Come on.
+ -I was framed!
+
+12:42.027 --> 12:44.662
+ NARRATOR:... and
+ "Don" Salvatore Belleci...
+
+12:44.663 --> 12:45.730
+ Framed, I tell you!
+
+12:45.731 --> 12:47.665
+ NARRATOR:
+...are pretending to be put away
+
+12:47.666 --> 12:49.467
+ in order to break out.
+
+12:49.468 --> 12:52.468
+ Prisoners, step in.
+ Lockdown.
+
+12:54.540 --> 12:57.342
+ NARRATOR: They're going to find
+ out if you can effect an escape
+
+12:57.343 --> 13:00.343
+ with ropes made of bedsheets,
+ toilet paper, and hair.
+
+13:01.547 --> 13:04.249
+ KARI: My collection of hair
+ gathered from the shower
+
+13:04.250 --> 13:06.818
+ and all the rattails
+ I've been stealing...
+
+13:06.819 --> 13:08.153
+ Aah!
+
+13:08.154 --> 13:11.154
+...I will have no problem making
+ a rope and getting out of here.
+
+13:11.423 --> 13:13.358
+ NARRATOR:
+ But despite being forced to use
+
+13:13.359 --> 13:15.760
+ authentic cell-made materials...
+
+13:15.761 --> 13:18.761
+ Warden, I got diarrhea.
+ I need more toilet paper.
+
+13:19.198 --> 13:20.899
+ NARRATOR:... the guys
+ won't really have to prepare
+
+13:20.900 --> 13:23.900
+ their escape in their cells.
+
+13:24.236 --> 13:26.237
+ They get to do that
+ back at the shop,
+
+13:26.238 --> 13:27.705
+ where Tory has worked out
+
+13:27.706 --> 13:30.706
+ that if he twists
+ one-ply prison-issue tissue,
+
+13:30.776 --> 13:32.277
+ it becomes less fragile.
+
+13:32.278 --> 13:34.546
+ TORY: As you can see,
+ I'm twisting the toilet paper
+
+13:34.547 --> 13:35.613
+ into little strings.
+
+13:35.614 --> 13:37.649
+ Once I have enough strings,
+ I'll weave it into a rope,
+
+13:37.650 --> 13:40.650
+ and hopefully that will be
+ strong enough to hold my weight,
+
+13:40.820 --> 13:42.754
+ and that will be my ticket
+ out of this joint.
+
+13:42.755 --> 13:45.557
+ And this process is taking
+ a long time,
+
+13:45.558 --> 13:47.458
+ but, let's face it, I'm in jail.
+
+13:47.459 --> 13:49.227
+ I got nothing but time.
+
+13:49.228 --> 13:52.228
+ Someday I'll be free 
+
+13:52.631 --> 13:53.965
+ Bing 
+
+13:53.966 --> 13:55.533
+ NARRATOR:
+ It may be time-consuming,
+
+13:55.534 --> 13:58.236
+ but before
+ modern manufacturing techniques,
+
+13:58.237 --> 14:01.237
+ this is exactly
+ how real rope was made.
+
+14:01.340 --> 14:04.340
+ Fibers of material
+ were twisted into yarns.
+
+14:04.376 --> 14:05.743
+ A few of these yarns
+
+14:05.744 --> 14:08.744
+ were twisted in the opposite
+ direction to form threads,
+
+14:09.048 --> 14:11.182
+ and, again, several of these
+
+14:11.183 --> 14:14.052
+ were counter-twisted
+ to form rope.
+
+14:14.053 --> 14:17.053
+ So it might sound crazy, but
+ Tory could be on to something.
+
+14:18.190 --> 14:21.190
+ [ Laughs ] I'm gonna get
+ out of jail in no time.
+
+14:21.393 --> 14:23.461
+ NARRATOR: Meanwhile,
+ Kari's about to find out
+
+14:23.462 --> 14:26.462
+ if her plan for a braided escape
+ is even viable.
+
+14:27.032 --> 14:29.968
+ KARI: I'm a little nervous
+ about the strength of the hair,
+
+14:29.969 --> 14:31.536
+ so I've got a knotted piece here
+
+14:31.537 --> 14:34.272
+ that I was actually just gonna
+ try my weight on.
+
+14:34.273 --> 14:37.273
+ I'm really kind of nervous
+ about this because of...
+
+14:38.544 --> 14:39.844
+ [Bleep]
+
+14:39.845 --> 14:42.845
+...that factor.
+
+14:42.948 --> 14:45.817
+ Maybe I need to find some
+ inmates with some less healthy,
+
+14:45.818 --> 14:46.985
+ slippery hair --
+
+14:46.986 --> 14:49.986
+ some good, fried-out,
+ bleached-blond inmates.
+
+14:50.289 --> 14:53.289
+ NARRATOR: Yeah, or maybe,
+ just like a conventional rope,
+
+14:53.726 --> 14:56.527
+ you could braid a number of
+ those single strands together.
+
+14:56.528 --> 14:58.062
+ KARI:
+ I'm gonna take three braids
+
+14:58.063 --> 15:00.198
+ and tie them all into one braid
+
+15:00.199 --> 15:01.933
+ so that it's sort of
+ how rope works,
+
+15:01.934 --> 15:04.934
+ where one fails, it has two more
+ to kind of depend on.
+
+15:05.871 --> 15:08.339
+ And hopefully that can give it
+ more strength.
+
+15:08.340 --> 15:10.708
+ Unfortunately,
+ I'm getting claw hand
+
+15:10.709 --> 15:12.710
+ from, like, all the braiding.
+
+15:12.711 --> 15:14.178
+ Ugh.
+
+15:14.179 --> 15:16.114
+ NARRATOR:
+ And that just leaves Grant,
+
+15:16.115 --> 15:19.115
+ who got lucky, with the least
+ labor-intensive material.
+
+15:19.485 --> 15:20.985
+ GRANT:
+ The bedsheet is beautiful
+
+15:20.986 --> 15:23.655
+ because you can go
+ to the prison laundry,
+
+15:23.656 --> 15:25.490
+ steal as many as you need.
+
+15:25.491 --> 15:28.491
+ You don't need a hundred years
+ to make your bedsheet rope.
+
+15:28.861 --> 15:31.861
+ You need about, I don't know,
+ maybe two hours,
+
+15:32.064 --> 15:34.732
+ and you're climbing
+ your way to freedom.
+
+15:34.733 --> 15:36.701
+ NARRATOR:
+ However, the toilet-paper plan
+
+15:36.702 --> 15:39.637
+ is taking a lot, lot longer.
+
+15:39.638 --> 15:41.439
+ I need to spread my wings
+ and fly.
+
+15:41.440 --> 15:42.974
+ NARRATOR:
+ So, to speed things up,
+
+15:42.975 --> 15:45.975
+ our crafty criminal uses
+ his mastermind to good effect
+
+15:48.447 --> 15:51.447
+ by twisting multiple strands
+ at once and cheating.
+
+15:53.252 --> 15:55.186
+ TORY: So, I've taken five sheets
+ of toilet paper,
+
+15:55.187 --> 15:56.988
+ twisted them together
+ to create this.
+
+15:56.989 --> 15:59.057
+ Now I'm gonna take three
+ of these, wrap them together,
+
+15:59.058 --> 16:01.025
+ and then take that
+ and wrap that together
+
+16:01.026 --> 16:03.761
+ and hopefully create a rope
+ that's gonna be strong enough
+
+16:03.762 --> 16:04.963
+ to hold up my weight.
+
+16:04.964 --> 16:06.731
+ NARRATOR:
+ Meanwhile, over in Grant's cell,
+
+16:06.732 --> 16:09.732
+ he's testing to see if
+ the sheets can take the strain.
+
+16:10.169 --> 16:12.937
+ GRANT: So, what we have here
+ is a single standard
+
+16:12.938 --> 16:15.938
+ Alameda County bedsheet
+ with a knot tied at the top,
+
+16:16.275 --> 16:18.910
+ threaded through
+ 150 pounds of weight,
+
+16:18.911 --> 16:21.279
+ which is equivalent
+ to my body weight.
+
+16:21.280 --> 16:22.647
+ And as you can see,
+
+16:22.648 --> 16:25.049
+ it's actually doing quite well
+ so far.
+
+16:25.050 --> 16:27.085
+ NARRATOR:
+ Outside in the exercise yard,
+
+16:27.086 --> 16:30.086
+ Tory is also ready
+ for a strength test.
+
+16:31.390 --> 16:32.557
+ This might work!
+
+16:32.558 --> 16:34.292
+ NARRATOR:
+ Kari, however, is still
+
+16:34.293 --> 16:36.527
+ desperately braiding
+ and plaiting.
+
+16:36.528 --> 16:39.528
+ She's more concerned about
+ the hair's joints and splices
+
+16:39.765 --> 16:42.765
+ than its tensile strength.
+
+16:43.168 --> 16:46.168
+ After all, keratin, the major
+ protein component of hair,
+
+16:46.772 --> 16:49.407
+ is as hard as nails --
+ literally.
+
+16:49.408 --> 16:52.408
+ It's also the stuff that forms
+ horns, claws, and hooves.
+
+16:54.013 --> 16:57.013
+ The question is,
+ will it also make rope?
+
+16:59.551 --> 17:01.486
+ Jamie and Adam
+ are flipping out...
+
+17:01.487 --> 17:03.388
+ That might be a little too fast.
+
+17:03.389 --> 17:03.855
+ Firing.
+
+17:03.856 --> 17:05.323
+ NARRATOR:
+...testing the movie myth
+
+17:05.324 --> 17:08.324
+ that jamming a stick
+ between the spokes...
+
+17:08.894 --> 17:11.894
+...will cause
+ a motorcycle flip-out.
+
+17:12.231 --> 17:14.632
+ But they've got
+ a tough build ahead.
+
+17:14.633 --> 17:16.134
+ In order to go full scale
+ with this,
+
+17:16.135 --> 17:19.135
+ we need to both be able to hold
+ this bike and let go of it
+
+17:20.406 --> 17:22.140
+ at very precise timing.
+
+17:22.141 --> 17:24.175
+ So we're gonna start
+ by building a trailer
+
+17:24.175 --> 17:26.944
+ that holds it upright,
+ that, on the push of a button,
+
+17:26.944 --> 17:29.313
+ releases it,
+ and then, once it's released,
+
+17:29.314 --> 17:32.314
+ will fire a stick right through
+ those front spokes.
+
+17:34.119 --> 17:37.119
+ NARRATOR: In engineering terms,
+ there's a mountain to climb.
+
+17:37.189 --> 17:40.189
+ And what better way to show the
+ passage of time than a montage?
+
+17:47.866 --> 17:50.866
+ And a cross-dissolve later,
+ the rig is ready to roll.
+
+17:51.437 --> 17:54.437
+ But before the cameras do, the
+ team needs a change of scenery.
+
+17:55.374 --> 17:57.875
+ -Ready?
+ -Yep. Let's go.
+
+17:57.876 --> 17:59.077
+ [ Tires screeching ]
+
+17:59.078 --> 18:01.979
+ NARRATOR: And the location
+ they've chosen is, surprise,
+
+18:01.980 --> 18:03.681
+ the disused runway at Alameda.
+
+18:03.682 --> 18:05.550
+ ADAM: It's a good day
+ for a motorcycle accident.
+
+18:05.551 --> 18:08.551
+ -JAMIE: I think so.
+ -Let's make a few.
+
+18:09.021 --> 18:12.021
+ NARRATOR: Unlikely to have
+ a motorcycle accident is Jamie,
+
+18:12.991 --> 18:15.991
+ our very own cross-country
+ motorbiking Mythbuster.
+
+18:16.795 --> 18:18.696
+ -But Adam?
+ -ADAM: Let's trade.
+
+18:18.697 --> 18:21.165
+ NARRATOR:
+ Well, that's a different story.
+
+18:21.166 --> 18:23.968
+ [ Engine revs ]
+
+18:23.969 --> 18:26.838
+ How do you undo this?
+
+18:26.839 --> 18:29.839
+ I'm not so sure
+ this is a good idea.
+
+18:30.175 --> 18:33.175
+ Adam on a motorcycle?
+
+18:34.580 --> 18:37.580
+ Even with seat belts,
+ I worry about Adam.
+
+18:41.220 --> 18:42.954
+ Are you done yet?
+ We got some work to do.
+
+18:42.955 --> 18:44.789
+ -Let's get busy.
+ -All right. Let's do it.
+
+18:44.790 --> 18:47.758
+ -[ Engine stalls ]
+ -Oh! Aw.
+
+18:47.759 --> 18:50.495
+ NARRATOR: So while Jamie
+ reassembles the trailer
+
+18:50.496 --> 18:51.729
+ and release rig,
+
+18:51.730 --> 18:54.730
+ Adam brightens up the bike
+ for its big scene.
+
+18:55.267 --> 18:58.267
+ And with Buster's ride
+ secured to the trailer...
+
+18:59.104 --> 19:00.605
+...he's ready for a test run.
+
+19:00.606 --> 19:02.340
+ ADAM: This may look pretty
+ straightforward,
+
+19:02.341 --> 19:03.774
+ but, actually,
+ it's a pretty complicated rig,
+
+19:03.775 --> 19:06.244
+ and there's a lot of little
+ things which we're not sure
+
+19:06.245 --> 19:09.180
+ exactly how they might react
+ to getting up to speed.
+
+19:09.181 --> 19:10.481
+ So that's the first thing
+ we're gonna do --
+
+19:10.482 --> 19:13.482
+ get the whole rig up to speed
+ and just see how it runs.
+
+19:13.919 --> 19:15.486
+ NARRATOR:
+ And with the truck easing up
+
+19:15.487 --> 19:17.588
+ to 25 miles per hour...
+
+19:17.589 --> 19:19.023
+ JAMIE: I don't see
+ any problem with that.
+
+19:19.024 --> 19:20.525
+ NARRATOR:
+...Buster stays upright
+
+19:20.526 --> 19:22.960
+ and has no problems
+ keeping in line.
+
+19:22.961 --> 19:24.729
+ Now it's time
+ to start the mayhem.
+
+19:24.730 --> 19:27.730
+ Start the mayhem!
+
+19:28.367 --> 19:30.334
+ Yeah! [ Growls ]
+
+19:30.335 --> 19:32.036
+ NARRATOR:
+ Jailed for science,
+
+19:32.037 --> 19:35.037
+ Kari, Grant, and Tory are going
+ a little stir crazy.
+
+19:36.842 --> 19:38.676
+ Man, I got to get out of here.
+
+19:38.677 --> 19:40.645
+ If only we could figure out
+ a way to escape.
+
+19:40.646 --> 19:42.480
+ If only we had a rope
+ or something.
+
+19:42.481 --> 19:43.948
+ NARRATOR:
+ Yes, they're putting
+
+19:43.949 --> 19:46.949
+ three mythical rope-making
+ materials to the test.
+
+19:48.053 --> 19:51.053
+ The hair's been braided,
+ the toilet paper twisted,
+
+19:51.390 --> 19:54.292
+ and the sheets rolled
+ and knotted,
+
+19:54.293 --> 19:56.427
+ which means
+ our ingenious inmates
+
+19:56.428 --> 19:58.896
+ are ready to become outmates.
+
+19:58.897 --> 20:01.199
+ And the coop
+ they'll be flying from
+
+20:01.200 --> 20:04.200
+ is the Alameda County
+ Courthouse Jail.
+
+20:05.103 --> 20:06.938
+ They have to rappel
+ from the roof
+
+20:06.939 --> 20:09.473
+ using only
+ their cell-made ropes.
+
+20:09.474 --> 20:11.075
+ [ Creaking ]
+
+20:11.076 --> 20:12.410
+ [ Laughing ]
+ Not bad.
+
+20:12.411 --> 20:13.544
+ All right, you guys.
+
+20:13.545 --> 20:16.247
+ This is the moment of truth
+ for our prison-escape ropes.
+
+20:16.248 --> 20:19.183
+ We've got 100 % human hair,
+ toilet-paper rope,
+
+20:19.184 --> 20:21.686
+ and the old-school classic,
+ bedsheet.
+
+20:21.687 --> 20:23.754
+ Well, since yours is probably
+ the most likely to work,
+
+20:23.755 --> 20:25.690
+ maybe you should go first
+ to show us how it's done.
+
+20:25.691 --> 20:26.958
+ And then this way,
+ we can test out
+
+20:26.959 --> 20:29.427
+ the SWAT team safety mechanism.
+
+20:29.428 --> 20:31.729
+ -[ Laughs ]
+ -Fine. I will.
+
+20:31.730 --> 20:33.431
+ -Good luck, man.
+ -All right.
+
+20:33.432 --> 20:35.399
+ -Freedom!
+ -KARI: Good idea.
+
+20:35.400 --> 20:38.400
+ Him going first.
+ I like that.
+
+20:38.537 --> 20:41.405
+ NARRATOR: So Grant,
+ the nominated human guinea pig,
+
+20:41.406 --> 20:42.406
+ is first up.
+
+20:42.407 --> 20:45.407
+ But rest assured,
+ he's in safe hands.
+
+20:45.844 --> 20:48.844
+ Jack Tucker and Mike Norton
+ are SWAT team rappel masters,
+
+20:49.948 --> 20:52.550
+ and they've rigged a harness
+ and rope system
+
+20:52.551 --> 20:55.551
+ that will allow Grant
+ to climb unassisted...
+
+20:55.687 --> 20:56.787
+ unless he falls.
+
+20:56.788 --> 20:59.557
+ Well, that certainly
+ gets the juices flowing.
+
+20:59.558 --> 21:01.659
+ Um... yeah.
+
+21:01.660 --> 21:04.660
+ It's a little bit different
+ perspective up here.
+
+21:05.631 --> 21:08.631
+ [ Dramatic music plays ]
+
+21:09.434 --> 21:11.702
+ Okay.
+ I can do this.
+
+21:11.703 --> 21:14.703
+ NARRATOR: With every inch
+ of that terrifying drop
+
+21:14.873 --> 21:17.375
+ playing on his mind,
+ Grant forces himself
+
+21:17.376 --> 21:19.610
+ to focus on prepping
+ for the climb.
+
+21:19.611 --> 21:22.611
+ GRANT: So this is the moment
+ of truth for my bedsheet rope.
+
+21:23.048 --> 21:26.048
+ Can you actually escape using a
+ bedsheet and not have it break?
+
+21:28.053 --> 21:30.988
+ [ Laughing nervously ]
+
+21:30.989 --> 21:33.989
+ Okay. It's long enough.
+
+21:35.894 --> 21:37.228
+ Okay.
+
+21:37.229 --> 21:39.096
+ [ Wind whistling ]
+
+21:39.097 --> 21:42.033
+ So careful observers may note
+ that I'm wearing,
+
+21:42.034 --> 21:45.034
+ in addition to my standard
+ prison garb, a safety harness.
+
+21:45.237 --> 21:47.805
+ Now, the important thing
+ is that the safety harness
+
+21:47.806 --> 21:50.806
+ is only in case the rope breaks
+ or there's some other problem.
+
+21:52.978 --> 21:55.012
+ Okay, you guys.
+ I'm ready to go.
+
+21:55.013 --> 21:58.013
+ The bedsheet will be holding
+ my entire weight the whole time.
+
+21:59.551 --> 22:01.018
+ Here I go.
+
+22:01.019 --> 22:03.154
+ NARRATOR:
+ Grant's first careful steps
+
+22:03.155 --> 22:06.155
+ are onto a convenient ledge
+ just over the edge.
+
+22:07.459 --> 22:09.527
+ Holy sheets!
+ That's high!
+
+22:09.528 --> 22:12.263
+ NARRATOR: But from here on in,
+ it's down to Grant
+
+22:12.264 --> 22:13.998
+ and those knotted bedsheets.
+
+22:13.999 --> 22:15.333
+ All right.
+ You guys ready?
+
+22:15.334 --> 22:16.334
+ -KARI: Ready!
+ -TORY: Yeah!
+
+22:16.335 --> 22:19.335
+ Here we go with the, uh,
+ old-school bedsheet.
+
+22:19.938 --> 22:22.506
+ Be careful, little buddy!
+
+22:22.507 --> 22:25.507
+ NARRATOR: Despite the concern
+ below, the early signs are good.
+
+22:26.144 --> 22:27.745
+ KARI: He's doing
+ the walk-down-the-wall thing.
+
+22:27.746 --> 22:28.813
+ TORY: Oh.
+
+22:28.814 --> 22:31.082
+ It looks like he's done this
+ before.
+
+22:31.083 --> 22:33.250
+ You've broken
+ out of jail before?
+
+22:33.251 --> 22:35.619
+ KARI: Wow.
+ Those are holding up.
+
+22:35.620 --> 22:37.188
+ NARRATOR:
+ The bedsheets are holding up.
+
+22:37.189 --> 22:39.223
+ [ Chuckling ]
+ He's getting tired.
+
+22:39.224 --> 22:40.591
+ KARI:
+ Oh, man.
+
+22:40.592 --> 22:43.592
+ NARRATOR: The question now is,
+ can Grant hold himself up?
+
+22:43.695 --> 22:46.695
+ -Ugh. Oh [bleep]
+ -KARI: Oh, God.
+
+22:47.265 --> 22:49.600
+ He's just hanging!
+ He's just hanging!
+
+22:49.601 --> 22:52.601
+ TORY: Hang on, buddy!
+ Don't let go!
+
+22:52.738 --> 22:54.438
+ You're almost free!
+
+22:54.439 --> 22:55.606
+ Attaboy!
+
+22:55.607 --> 22:57.875
+ -This sucks.
+ -KARI: You can do it.
+
+22:57.876 --> 22:59.477
+ GRANT:
+ I've got climbing experience.
+
+22:59.478 --> 23:02.478
+ But there's nothing to hold on
+ to up there except for the rope.
+
+23:02.881 --> 23:05.182
+ TORY: Pretend like
+ your life depends on it.
+
+23:05.183 --> 23:06.450
+ 'Cause it kind of does.
+
+23:06.451 --> 23:09.451
+ GRANT: So I just thank God
+ I got those big knots in there,
+
+23:09.488 --> 23:12.089
+ 'cause if I didn't have that,
+ I'd be done.
+
+23:12.090 --> 23:14.291
+ KARI: Oh, Grant.
+ You're doing so good.
+
+23:14.292 --> 23:16.660
+ TORY: You're almost there, dude.
+ You're halfway there!
+
+23:16.661 --> 23:18.496
+ KARI: The sheets
+ are totally holding you up.
+
+23:18.497 --> 23:19.697
+ GRANT:
+ There were a couple places
+
+23:19.698 --> 23:21.532
+ where I couldn't quite get
+ a foothold,
+
+23:21.533 --> 23:23.567
+ and the rope just slipped
+ through my hands,
+
+23:23.568 --> 23:25.603
+ and that's where I got
+ these hideous rope burns,
+
+23:25.604 --> 23:28.038
+ which are really,
+ really hurting.
+
+23:28.039 --> 23:29.673
+ TORY:
+ Look at the pain in his face.
+
+23:29.674 --> 23:31.609
+ Freedom's like 20 feet away.
+
+23:31.610 --> 23:32.777
+ KARI: Yeah!
+
+23:32.778 --> 23:34.245
+ GRANT:
+ Ow. Ow!
+
+23:34.246 --> 23:35.379
+ KARI:
+ Oh, yes!
+
+23:35.380 --> 23:37.715
+ Yes, yes, yes!
+
+23:37.716 --> 23:38.783
+ Yeah!
+
+23:38.784 --> 23:41.285
+ TORY: Let go!
+ You're there, dude!
+
+23:41.286 --> 23:43.053
+ -Yeah!
+ -Yeah!
+
+23:43.054 --> 23:44.588
+ -You're free!
+ -GRANT: I'm free!
+
+23:44.589 --> 23:46.390
+ -I'm free!
+ -KARI: Confirmed!
+
+23:46.391 --> 23:47.958
+ Ow!
+
+23:47.959 --> 23:49.026
+ NARRATOR: Freedom!
+
+23:49.027 --> 23:51.595
+ But with a bad case
+ of rope burns.
+
+23:51.596 --> 23:53.130
+ You did it!
+
+23:53.131 --> 23:54.965
+ The good news is,
+ I can totally see
+
+23:54.966 --> 23:56.367
+ why they put this in movies.
+
+23:56.368 --> 23:59.368
+ Because the entire time,
+ the bedsheet was solid.
+
+23:59.638 --> 24:02.573
+ There was no ripping,
+ no tearing,
+
+24:02.574 --> 24:04.475
+ no giving way of the bedsheet.
+
+24:04.476 --> 24:05.476
+ That was solid.
+
+24:05.477 --> 24:06.977
+ And, you know, if I had been
+
+24:06.978 --> 24:09.647
+ in a little bit better
+ physical condition,
+
+24:09.648 --> 24:12.648
+ I probably would have gotten
+ down that no problem.
+
+24:12.651 --> 24:15.651
+ NARRATOR: And what that means is
+ that scaling the jailhouse wall
+
+24:16.121 --> 24:18.689
+ with a bedsheet rope
+ is confirmed.
+
+24:18.690 --> 24:21.690
+ I'm free!
+
+24:23.795 --> 24:24.929
+ For those playing along at home,
+
+24:24.930 --> 24:26.730
+ here's where we stand so far
+ in the myth
+
+24:26.731 --> 24:29.333
+ that jamming a flagpole into
+ the front spokes of a motorcycle
+
+24:29.334 --> 24:32.334
+ will cause it
+ to flip up in the air.
+
+24:32.904 --> 24:35.272
+ We've gotten the motorcycle
+ wheel up to 50 miles an hour
+
+24:35.273 --> 24:38.273
+ and found out that yes,
+ a human is totally capable
+
+24:38.543 --> 24:41.543
+ of jamming a flagpole into that
+ front wheel and stopping it.
+
+24:43.648 --> 24:45.015
+ We broke some stuff.
+
+24:45.016 --> 24:46.283
+ The question now is,
+
+24:46.284 --> 24:49.053
+ if you're doing that
+ to a motorcycle that's moving,
+
+24:49.054 --> 24:51.455
+ will it have the effect
+ that the myth states?
+
+24:51.456 --> 24:54.456
+ The bike immediately stops
+ and starts to cartwheel
+
+24:54.759 --> 24:56.360
+ while going up in the air.
+
+24:56.361 --> 24:57.862
+ Now we're gonna see
+ what happens for real.
+
+24:57.863 --> 25:00.464
+ NARRATOR:
+ And with the crowd expectant,
+
+25:00.465 --> 25:03.465
+ the teams set up and step up
+ for the first test
+
+25:03.802 --> 25:05.536
+ at 25 miles per hour.
+
+25:05.537 --> 25:06.804
+ -You know what I hope?
+ -What?
+
+25:06.805 --> 25:08.739
+ -I hope it works.
+ -Me too.
+
+25:08.740 --> 25:10.040
+ All right.
+ Let's start it.
+
+25:10.041 --> 25:13.041
+ NARRATOR: Buster, looking
+ every inch a crash-test biker,
+
+25:14.045 --> 25:17.045
+ tailgates the truck,
+ ready for his moment of glory.
+
+25:18.350 --> 25:19.984
+ WILL:
+ 20 miles per hour.
+
+25:19.985 --> 25:22.553
+ NARRATOR: And once the team
+ are at test speed...
+
+25:22.554 --> 25:24.221
+ -25.
+ -NARRATOR:... Adam calls it.
+
+25:24.222 --> 25:27.222
+ Firing in 3, 2, 1.
+
+25:28.660 --> 25:31.061
+ JAMIE: Ah, it went through.
+ It stopped the wheel.
+
+25:31.062 --> 25:32.229
+ Okay, Will, stop.
+
+25:32.230 --> 25:35.230
+ ADAM:
+ Slow down and stop.
+
+25:36.501 --> 25:38.669
+ NARRATOR:
+ It all happened pretty fast.
+
+25:38.670 --> 25:40.304
+ But a quick look
+ at the high speed
+
+25:40.305 --> 25:43.305
+ confirms the Rube Goldberg-esque
+ rig worked like a dream.
+
+25:44.943 --> 25:47.545
+ Jamie hit the switch.
+ Buster was released.
+
+25:47.546 --> 25:49.680
+ ADAM: Oh, I see it
+ clicking the switch.
+
+25:49.681 --> 25:51.248
+ NARRATOR:
+ The cannon fired,
+
+25:51.249 --> 25:54.151
+ and the flagpole was jammed
+ into the spokes...
+
+25:54.152 --> 25:57.152
+ ADAM: Dude!
+ The timing was just dead-on.
+
+25:57.289 --> 25:59.557
+ NARRATOR:... giving Buster
+ a taste of asphalt.
+
+25:59.558 --> 26:01.625
+ How you doing, buddy?
+
+26:01.626 --> 26:04.595
+ NARRATOR: But there was no sign
+ of the mythical flip.
+
+26:04.596 --> 26:06.163
+ ADAM:
+ It couldn't be better.
+
+26:06.164 --> 26:08.032
+ But I didn't see
+ no bike-o flip-o.
+
+26:08.033 --> 26:10.601
+ NARRATOR:
+ Yep, no bike-o flip-o.
+
+26:10.602 --> 26:13.070
+ More of a bike-o topple-o.
+
+26:13.071 --> 26:14.838
+ So, what's next?
+
+26:14.839 --> 26:16.273
+ JAMIE:
+ The next thing we're gonna do
+
+26:16.274 --> 26:17.808
+ is ramp the speed up
+ a little bit
+
+26:17.809 --> 26:20.809
+ so that the bike will tend to
+ want to stay upright for longer,
+
+26:21.313 --> 26:23.914
+ and we'll probably get a little
+ more energy in the process,
+
+26:23.915 --> 26:26.750
+ which means a bigger flip
+ if we're gonna get one at all.
+
+26:26.751 --> 26:28.819
+ NARRATOR:
+ So it's take two.
+
+26:28.820 --> 26:29.987
+ ADAM:
+ Holding up well.
+
+26:29.988 --> 26:32.022
+ NARRATOR: And this time,
+ they take the truck to 40.
+
+26:32.023 --> 26:33.457
+ WILL:
+ 40 miles per hour.
+
+26:33.458 --> 26:36.458
+ Okay, firing in 3, 2, 1, go.
+
+26:37.462 --> 26:39.630
+ Oh!
+
+26:39.631 --> 26:41.865
+ -[ Laughs ]
+ -JAMIE: Okay, he can stop.
+
+26:41.866 --> 26:44.535
+ -Tell him to stop.
+ -[ Laughing ] Stop.
+
+26:44.536 --> 26:46.570
+ NARRATOR:
+ So, the additional momentum
+
+26:46.571 --> 26:49.571
+ didn't help
+ the bike get airborne.
+
+26:49.941 --> 26:52.676
+ Instead,
+ that extra energy was used
+
+26:52.677 --> 26:55.677
+ to snap the flagpole in half.
+
+26:56.881 --> 26:59.881
+ You know what?
+ That right there is the test.
+
+27:00.418 --> 27:02.920
+ -You know, that's the test.
+ -Yeah.
+
+27:02.921 --> 27:05.589
+ And it didn't work.
+ It broke the stick.
+
+27:05.590 --> 27:08.025
+ ADAM: I think that was the
+ circumstances of the myth there.
+
+27:08.026 --> 27:10.060
+ We got the bike going
+ at 40 miles per hour.
+
+27:10.061 --> 27:12.229
+ We got the stick firing
+ perfectly into the spokes.
+
+27:12.230 --> 27:14.965
+ It didn't stop the bike.
+ It didn't flip the bike.
+
+27:14.966 --> 27:17.534
+ And it broke the stick.
+
+27:17.535 --> 27:18.669
+ JAMIE:
+ So, what's next?
+
+27:18.670 --> 27:20.738
+ Stronger stick.
+ That was the circumstances.
+
+27:20.739 --> 27:23.739
+ Let's try and get the results
+ with a big, fat, steel stick.
+
+27:24.175 --> 27:25.576
+ -Steel it is.
+ -Mm-hmm.
+
+27:25.577 --> 27:28.577
+ NARRATOR: Yep, just like Buster,
+ the myth is down,
+
+27:28.747 --> 27:31.747
+ but not quite out.
+
+27:32.751 --> 27:35.119
+ Kari, Tory, and Grant
+ have had success
+
+27:35.120 --> 27:38.120
+ with the first of
+ their rappel-to-freedom tests.
+
+27:38.390 --> 27:40.124
+ KARI: Yeah!
+
+27:40.125 --> 27:41.592
+ -You're free!
+ -GRANT: I'm free!
+
+27:41.593 --> 27:42.893
+ I'm free!
+
+27:42.894 --> 27:45.396
+ This myth
+ is absolutely confirmed,
+
+27:45.397 --> 27:47.431
+ and I love it
+ when myths are confirmed.
+
+27:47.432 --> 27:48.832
+ The rope did not break.
+
+27:48.833 --> 27:51.833
+ You can make a bedsheet rope
+ and escape from jail.
+
+27:52.003 --> 27:53.537
+ Let's not air this
+ in the prisons.
+
+27:53.538 --> 27:55.506
+ NARRATOR:
+ That's one down -- literally.
+
+27:55.507 --> 27:57.074
+ I'm free!
+
+27:57.075 --> 27:58.275
+ NARRATOR:
+ With two to go.
+
+27:58.276 --> 27:59.410
+ KARI:
+ I'm not afraid of heights,
+
+27:59.411 --> 28:01.178
+ but I am really afraid
+ of falling,
+
+28:01.179 --> 28:03.147
+ and I'm not a mountain climber.
+
+28:03.148 --> 28:05.315
+ This will be the first time
+ I really will have done
+
+28:05.316 --> 28:08.316
+ anything remotely like this,
+ so yeah, I'm nervous.
+
+28:09.454 --> 28:12.454
+ Oh, my God.
+ I want to throw up.
+
+28:12.557 --> 28:13.557
+ [ Laughs ]
+
+28:13.558 --> 28:15.192
+ NARRATOR:
+ And no wonder she's nervous.
+
+28:15.193 --> 28:18.193
+ It's clear hair isn't exactly
+ an ideal rope-making material.
+
+28:20.298 --> 28:22.599
+ GRANT: I was watching her
+ form the rope,
+
+28:22.600 --> 28:25.102
+ and there were many times
+ where she had to take it apart
+
+28:25.103 --> 28:27.905
+ because she would test it
+ and it would just go "fwshh!"
+
+28:27.906 --> 28:29.640
+ She's got multiple strands,
+ you know,
+
+28:29.641 --> 28:32.641
+ forming a big, thick rope
+ of hair, but I don't know.
+
+28:33.912 --> 28:36.780
+ At this point, my confidence
+ isn't especially high.
+
+28:36.781 --> 28:38.382
+ NARRATOR:
+ And neither is Kari's.
+
+28:38.383 --> 28:41.383
+ Whose hair-ball idea is this?
+
+28:41.519 --> 28:44.354
+ NARRATOR: Well, it's
+ a "hair"-brain plan, for sure,
+
+28:44.355 --> 28:46.557
+ but it's too late
+ to turn back now.
+
+28:46.558 --> 28:49.558
+ We're about to find out if
+ that hairy lifeline will cut it.
+
+28:52.030 --> 28:55.030
+ TORY: Man. Oh.
+
+28:55.033 --> 28:57.701
+ GRANT: It's looking pretty good
+ so far, actually.
+
+28:57.702 --> 28:59.536
+ TORY: Well, the hair is --
+ It's holding up.
+
+28:59.537 --> 29:00.637
+ GRANT:
+ That's great.
+
+29:00.638 --> 29:02.606
+ TORY: It's incredible
+ how strong it is.
+
+29:02.607 --> 29:04.875
+ -Whoa!
+ -GRANT: Whoa!
+
+29:04.876 --> 29:07.745
+ NARRATOR: It defies belief,
+ but Kari's descent
+
+29:07.746 --> 29:09.713
+ is being supported
+ by nothing more
+
+29:09.714 --> 29:12.714
+ than a 1 40-feet-long
+ triple-braided ponytail.
+
+29:13.918 --> 29:15.285
+ How's it going, Kari?
+
+29:15.286 --> 29:16.520
+ KARI:
+ I see split ends.
+
+29:16.521 --> 29:18.122
+ TORY: You should have used
+ conditioner.
+
+29:18.123 --> 29:19.723
+ KARI:
+ There's split ends!
+
+29:19.724 --> 29:21.325
+ NARRATOR:
+ Hair-care issues aside,
+
+29:21.326 --> 29:24.326
+ Kari's descent is going
+ spectacularly well.
+
+29:24.796 --> 29:25.996
+ TORY:
+ You're almost free!
+
+29:25.997 --> 29:27.831
+ NARRATOR:
+ And her technique of sliding
+
+29:27.832 --> 29:30.701
+ instead of climbing
+ is just perfect.
+
+29:30.702 --> 29:33.070
+ -Yeah!
+ -You're free!
+
+29:33.071 --> 29:34.271
+ GRANT:
+ You did it!
+
+29:34.272 --> 29:36.073
+ The hair didn't break.
+
+29:36.074 --> 29:38.876
+ I've got to say,
+ I'm totally amazed.
+
+29:38.877 --> 29:40.344
+ My hands -- little jacked.
+
+29:40.345 --> 29:43.345
+ This rope is composed
+ of hair that's braided.
+
+29:44.749 --> 29:46.183
+ And if you look at it,
+
+29:46.184 --> 29:49.184
+ it's actually kind of springy,
+ which is just crazy.
+
+29:50.121 --> 29:51.121
+ It's effective.
+
+29:51.122 --> 29:53.123
+ Disgusting, but effective.
+
+29:53.124 --> 29:54.291
+ Yeah!
+
+29:54.292 --> 29:56.160
+ Oh, my God!
+ That was so scary!
+
+29:56.161 --> 29:57.861
+ -Yeah?
+ -And the hair didn't break.
+
+29:57.862 --> 29:59.763
+ I can't believe it didn't break.
+
+29:59.764 --> 30:02.699
+ KARI: It was like I'd slide,
+ grab a knot, slide, grab a knot.
+
+30:02.700 --> 30:04.635
+ But the whole time, I was just
+ like, "It's coming undone,
+
+30:04.636 --> 30:06.937
+ it's coming undone, it's coming
+ undone, it's coming undone!"
+
+30:06.938 --> 30:09.273
+ When I was right close to
+ the ground, I had about a foot.
+
+30:09.274 --> 30:10.908
+ Then I kind of dropped
+ a little bit.
+
+30:10.909 --> 30:12.843
+ That's the only time
+ I actually felt the rope
+
+30:12.844 --> 30:15.112
+ kind of -- the belay --
+ was the last foot.
+
+30:15.113 --> 30:18.113
+ The whole time, that was
+ sheer human hair strength.
+
+30:19.918 --> 30:21.752
+ NARRATOR:
+ Incredible, but true.
+
+30:21.753 --> 30:23.287
+ But unlike the bedsheets,
+
+30:23.288 --> 30:26.288
+ the guys are reluctant
+ to call this one confirmed.
+
+30:26.791 --> 30:28.725
+ TORY: The hair worked,
+ and it didn't break.
+
+30:28.726 --> 30:30.594
+ I mean, it's not
+ the most practical technique,
+
+30:30.595 --> 30:32.262
+ but if you can get
+ that amount of hair
+
+30:32.263 --> 30:35.263
+ and braid it together,
+ you can make rope and escape.
+
+30:36.000 --> 30:38.035
+ NARRATOR: Yeah,
+ unless your name's Rapunzel,
+
+30:38.036 --> 30:40.604
+ getting that amount of hair
+ could be an issue.
+
+30:40.605 --> 30:43.605
+ But as a mythical rope-making
+ material, it does actually work.
+
+30:47.779 --> 30:48.378
+ ADAM: 3...
+
+30:48.379 --> 30:49.980
+ NARRATOR:
+ On the motorcycle movie myth,
+
+30:49.981 --> 30:52.981
+ Adam and Jamie are having
+ a flipping good time.
+
+30:53.351 --> 30:54.885
+ I didn't see no bike-o flip-o.
+
+30:54.886 --> 30:56.687
+ NARRATOR:
+ But so far there's been no sign
+
+30:56.688 --> 30:59.688
+ of the mythical
+ head-over-handlebars flip.
+
+30:59.824 --> 31:01.258
+ JAMIE:
+ Okay, you can stop.
+
+31:01.259 --> 31:04.259
+ NARRATOR: So they decided
+ to beef things up a bit.
+
+31:04.495 --> 31:07.495
+ So, at 40 miles an hour,
+ hickory didn't really cut it.
+
+31:08.166 --> 31:11.166
+ So this time,
+ we're gonna use a steel pipe.
+
+31:11.302 --> 31:14.302
+ This is about eight times
+ as heavy, and...
+
+31:15.773 --> 31:17.708
+...it's gonna do something
+ pretty violent.
+
+31:17.709 --> 31:19.576
+ ADAM: Hopefully,
+ this is the "it" shot.
+
+31:19.577 --> 31:22.145
+ This is either going to flip
+ this motorcycle
+
+31:22.146 --> 31:24.281
+ or prove once and for all
+ that it's totally not possible.
+
+31:24.282 --> 31:26.984
+ -I hope this works.
+ -What's not to work?
+
+31:26.985 --> 31:29.853
+ [ Both laugh ]
+
+31:29.854 --> 31:31.889
+ Oh, so many things.
+
+31:31.890 --> 31:33.957
+ NARRATOR: But if it goes
+ according to plan,
+
+31:33.958 --> 31:36.958
+ Buster will soon be taking
+ a short, dizzying flight
+
+31:37.562 --> 31:40.562
+ with a mandatory crash landing.
+
+31:40.932 --> 31:43.433
+ Okay. Pull in 3, 2, 1.
+
+31:43.434 --> 31:45.535
+ Go!
+
+31:45.536 --> 31:48.536
+ Oh!
+ [ Laughs ]
+
+31:50.008 --> 31:53.008
+ Give me five there!
+
+31:55.513 --> 31:58.513
+ NARRATOR: Another
+ smooth execution by the rig,
+
+31:58.650 --> 32:01.518
+ and you could say
+ the guys are pleased.
+
+32:01.519 --> 32:03.620
+ Well, that seemed to work
+ just beautifully.
+
+32:03.621 --> 32:04.988
+ It doesn't get
+ any prettier than that.
+
+32:04.989 --> 32:07.257
+ -JAMIE: No. It was flawless.
+ -And the bike did not flip.
+
+32:07.258 --> 32:08.825
+ JAMIE: No.
+ The tires skidded.
+
+32:08.826 --> 32:10.761
+ You know, that's it.
+ That's the perfect test.
+
+32:10.762 --> 32:12.129
+ ADAM:
+ It's forward momentum.
+
+32:12.130 --> 32:14.698
+ It doesn't transfer immediately
+ to vertical momentum.
+
+32:14.699 --> 32:15.966
+ It makes all the sense
+ in the world
+
+32:15.967 --> 32:17.267
+ now that I've seen it happen.
+
+32:17.268 --> 32:19.503
+ JAMIE: You know, you could stop
+ the bad guy that way
+
+32:19.504 --> 32:21.138
+ if you happen to have
+ a steel pipe,
+
+32:21.139 --> 32:22.839
+ but it's not getting airborne.
+
+32:22.840 --> 32:25.840
+ It won't happen.
+ It's gonna do exactly that.
+
+32:25.843 --> 32:27.711
+ ADAM:
+ Dude, that totally worked.
+
+32:27.712 --> 32:29.012
+ Freakin' "A."
+
+32:29.013 --> 32:31.281
+ The most important thing
+ to keep in mind about this test
+
+32:31.282 --> 32:34.282
+ is the traction between
+ this wheel and the road surface.
+
+32:34.652 --> 32:35.986
+ Nice work, Buster!
+
+32:35.987 --> 32:38.455
+ If you bring the wheel
+ to a dead stop
+
+32:38.456 --> 32:41.224
+ like you will if you put
+ a stick between the spokes,
+
+32:41.225 --> 32:42.359
+ it's gonna skid.
+
+32:42.360 --> 32:44.061
+ You're gonna lose control.
+
+32:44.062 --> 32:46.596
+ It'll slip out from under
+ the bike, and it's all over.
+
+32:46.597 --> 32:49.597
+ It will not get it airborne
+ like it did in the movie.
+
+32:50.268 --> 32:52.502
+ Oh! So satisfying.
+
+32:52.503 --> 32:55.503
+ NARRATOR: So, no bike-o flip-o
+ even with the mayo.
+
+32:56.474 --> 32:57.975
+ ADAM:
+ You know what we have to do now.
+
+32:57.976 --> 33:00.976
+ We have to finish on a bike
+ that's... doing a flip.
+
+33:02.013 --> 33:04.281
+ Hook or by crook,
+ we have to finish with that.
+
+33:04.282 --> 33:07.282
+ Physics, one, movies, zero.
+
+33:07.552 --> 33:09.419
+ NARRATOR:
+ And so it's back to the shop
+
+33:09.420 --> 33:12.420
+ to square the account and find
+ out the physics of film effects.
+
+33:13.458 --> 33:14.524
+ [ Horn beeping ]
+
+33:14.525 --> 33:15.826
+ Dude, check this out.
+
+33:15.827 --> 33:18.495
+ It looks like this whole scene
+ is just a trick of editing.
+
+33:18.496 --> 33:20.097
+ You can see
+ that when the bike takes off,
+
+33:20.098 --> 33:23.098
+ it's totally stationary, and if
+ I frame forward a couple frames,
+
+33:24.202 --> 33:26.036
+ you can see a small explosion
+ underneath.
+
+33:26.037 --> 33:28.372
+ That's a classic Hollywood
+ sleight of hand.
+
+33:28.373 --> 33:30.741
+ Yeah, it's pretty clear if we're
+ gonna do this Hollywood-style,
+
+33:30.742 --> 33:33.210
+ we're gonna need some explosives
+ to get that bike in the air.
+
+33:33.211 --> 33:35.579
+ -We need a boom.
+ -Exactly.
+
+33:35.580 --> 33:38.148
+ NARRATOR:
+ Yep, so the key is TNT.
+
+33:38.149 --> 33:39.616
+ And with that in mind,
+
+33:39.617 --> 33:42.617
+ our special-effects specialists
+ get back to work.
+
+33:42.687 --> 33:44.688
+ JAMIE: This is what is known
+ as a mortar.
+
+33:44.689 --> 33:47.024
+ Now, this is what is going to
+ make the bike
+
+33:47.025 --> 33:50.025
+ do what we couldn't do
+ with a stick through the spokes.
+
+33:50.428 --> 33:51.962
+ We're gonna fill this
+ with gunpowder.
+
+33:51.963 --> 33:53.964
+ We're gonna put it
+ underneath the bike,
+
+33:53.965 --> 33:56.965
+ and it's gonna fire
+ a bunch of black powder,
+
+33:57.402 --> 33:59.136
+ shooting the bike
+ way up in the air
+
+33:59.137 --> 34:00.871
+ and spinning while it does it.
+
+34:00.872 --> 34:03.807
+ NARRATOR: To survive that
+ black-powder-powered flight,
+
+34:03.808 --> 34:05.742
+ the bike gets a once-over
+ from Adam.
+
+34:05.743 --> 34:08.245
+ ADAM: I reinforced
+ its skeletal structure
+
+34:08.246 --> 34:10.480
+ so that it can be punched
+ from behind the engine
+
+34:10.481 --> 34:13.016
+ and fly up in the air to glory.
+
+34:13.016 --> 34:16.016
+ NARRATOR: Sounds great, unless
+ your name happens to be Buster.
+
+34:18.121 --> 34:21.121
+ To get to the, uh, bottom
+ of the toilet-paper jailbreak...
+
+34:22.659 --> 34:25.195
+ Oh, this prison food's
+ killing me!
+
+34:25.196 --> 34:26.196
+ [ Farts ]
+
+34:26.197 --> 34:29.197
+ You need to put more fiber
+ in the damn food!
+
+34:29.833 --> 34:32.268
+ NARRATOR:... Tory has taken
+ a swipe at making a rope
+
+34:32.270 --> 34:35.270
+ from genuine one-ply
+ perforated prison poop paper.
+
+34:36.440 --> 34:38.108
+ So my toilet-paper rope is done.
+
+34:38.109 --> 34:40.543
+ It's taken me a long time,
+ and it looks like rope.
+
+34:40.545 --> 34:42.813
+ However, it's still
+ only toilet paper.
+
+34:42.813 --> 34:45.549
+ I'm hoping it's gonna be strong
+ enough to hold up my weight.
+
+34:45.550 --> 34:48.351
+ KARI: [ High-pitched voice ]
+ His chances are made of paper.
+
+34:48.351 --> 34:51.351
+ GRANT: His escape technique's
+ paper-thin!
+
+34:52.023 --> 34:53.456
+ [ Normal voice ]
+ We better get out of here,
+
+34:53.458 --> 34:55.425
+ or they're gonna put us
+ in the loony bin.
+
+34:55.426 --> 34:57.828
+ Toilet-paper rope escape
+
+34:57.829 --> 35:00.797
+ is probably
+ the stupidest idea ever.
+
+35:00.798 --> 35:03.798
+ It's not that stupid.
+ You've had stupider ideas.
+
+35:03.968 --> 35:06.703
+ I'm gonna kick your butt
+ if I survive, Grant.
+
+35:06.704 --> 35:09.704
+ Watch that first step.
+ She's a doozy.
+
+35:09.774 --> 35:12.476
+ NARRATOR: And that first step
+ is also the crucial moment
+
+35:12.477 --> 35:15.477
+ when nothing but toilet paper
+ is taking Tory's weight.
+
+35:16.447 --> 35:19.447
+ KARI: [ Laughing ]
+ Oh, my God!
+
+35:19.984 --> 35:20.851
+ [Bleep]
+
+35:20.852 --> 35:23.852
+ NARRATOR: But, incredibly,
+ a few expletives aside,
+
+35:24.155 --> 35:27.155
+ it's all going according
+ to plan -- sort of.
+
+35:27.725 --> 35:30.560
+ TORY: Toilet paper is used
+ to wipe your butt,
+
+35:30.561 --> 35:33.330
+ not climb down a building.
+
+35:33.331 --> 35:35.732
+ NARRATOR: It seems
+ the real issue with the tissue
+
+35:35.733 --> 35:37.634
+ is finding a firm grip.
+
+35:37.635 --> 35:39.503
+ -Oh! Oh!
+ -TORY: [ Grunts ]
+
+35:39.504 --> 35:40.971
+ I'm off -- [ Grunts ]
+
+35:40.972 --> 35:42.139
+ [Bleep]
+
+35:42.140 --> 35:44.241
+ [ Groans ]
+ [Bleep]
+
+35:44.242 --> 35:46.243
+ -Are you okay?
+ -[ Weakly ] Yeah.
+
+35:46.244 --> 35:49.244
+ NARRATOR: And that right there
+ is why we hired the SWAT team.
+
+35:49.814 --> 35:51.314
+ Tory slipped.
+
+35:51.315 --> 35:52.949
+ -KARI Oh!
+ -TORY: [ Grunts ] [Bleep]
+
+35:52.950 --> 35:55.919
+ NARRATOR: And if it wasn't
+ for the safety harness,
+
+35:55.920 --> 35:57.921
+ he was a goner.
+
+35:57.922 --> 36:00.922
+ But aside from that sudden
+ and terrifying drop...
+
+36:00.992 --> 36:03.293
+ GRANT: Yeah, dude,
+ you're almost there!
+
+36:03.294 --> 36:06.294
+ NARRATOR:... Tory and
+ the toilet paper hold firm
+
+36:06.297 --> 36:08.698
+ and make it safely
+ to terra firma.
+
+36:08.699 --> 36:10.567
+ -GRANT: [ Laughs ]
+ -Freedom!
+
+36:10.568 --> 36:12.736
+ GRANT: Yeah!
+
+36:12.737 --> 36:14.304
+ You did it!
+
+36:14.305 --> 36:16.673
+ -How's those hands?
+ -They're numb!
+
+36:16.674 --> 36:19.674
+ Who would've thought toilet
+ paper works to escape prison?!
+
+36:21.979 --> 36:22.913
+ I'm amazed.
+
+36:22.914 --> 36:25.749
+ I'm amazed that the toilet paper
+ did not break.
+
+36:25.750 --> 36:28.451
+ Freedom!
+
+36:28.452 --> 36:30.787
+ At least while he was
+ making his way down.
+
+36:30.788 --> 36:33.523
+ I'm free.
+ I can't walk, but I'm free.
+
+36:33.524 --> 36:36.524
+ NARRATOR: Yeah, it broke, but
+ it didn't break during the test.
+
+36:36.861 --> 36:39.861
+ And so Tory gives toilet paper
+ his seal of approval.
+
+36:39.997 --> 36:41.131
+ TORY:
+ Oh [bleep]
+
+36:41.132 --> 36:44.132
+ I'm totally convinced
+ that toilet paper used as a rope
+
+36:44.368 --> 36:46.603
+ is a plausible way
+ to escape from prison.
+
+36:46.604 --> 36:48.471
+ You saw it.
+ It didn't break.
+
+36:48.472 --> 36:50.674
+ It stretched a lot,
+ but it didn't break.
+
+36:50.675 --> 36:53.410
+ It was incredible.
+ Toilet paper.
+
+36:53.411 --> 36:54.878
+ It worked!
+ We're free!
+
+36:54.879 --> 36:57.847
+ That was amazing!
+ Two plausibles and a confirmed!
+
+36:57.848 --> 36:59.816
+ Hair, toilet paper,
+ and bedsheets!
+
+36:59.817 --> 37:02.817
+ All right. I'll see you guys
+ in Mexico in a month.
+
+37:10.228 --> 37:12.362
+ Welcome back.
+ Here's where we stand.
+
+37:12.363 --> 37:13.763
+ We have already busted the myth
+
+37:13.764 --> 37:16.499
+ that if you jam a flagpole
+ into the spokes of a motorcycle
+
+37:16.500 --> 37:18.635
+ at speed,
+ that it will flip end over end.
+
+37:18.636 --> 37:21.636
+ Totally not possible
+ within the laws of physics.
+
+37:23.708 --> 37:26.243
+ Now Jamie and I are gonna do it
+ Hollywood-style
+
+37:26.244 --> 37:29.244
+ with our favorite tool --
+ explosives.
+
+37:29.880 --> 37:32.349
+ In Hollywood, also,
+ geeky television-show hosts
+
+37:32.350 --> 37:34.918
+ get to dress up like
+ their favorite movie heroes...
+
+37:34.919 --> 37:36.753
+ -[ Whip cracks ]
+ -That's the only crack I know.
+
+37:36.754 --> 37:39.422
+ I can't... crack like that.
+ Ow.
+
+37:39.423 --> 37:42.025
+...pretend to be in one
+ of their favorite movies.
+
+37:42.026 --> 37:43.627
+ [ Whip cracking ]
+
+37:43.628 --> 37:45.295
+ All right.
+ Let's get to filming.
+
+37:45.296 --> 37:47.897
+ NARRATOR: And to make sure
+ this silver scene re-creation
+
+37:47.898 --> 37:50.898
+ is spot-on, the bike and Buster
+ get a makeover
+
+37:51.902 --> 37:54.304
+ by the wardrobe department.
+
+37:54.305 --> 37:55.972
+ ADAM:
+ It looks good.
+
+37:55.973 --> 37:57.574
+ NARRATOR:
+ And Buster is given no choice
+
+37:57.575 --> 38:00.575
+ about his participation
+ in the upcoming stunt.
+
+38:00.678 --> 38:03.079
+ That's how the old Hollywood
+ stunt men used to do it.
+
+38:03.080 --> 38:06.080
+ "Wire me in!" they'd scream.
+ [ Chuckles ]
+
+38:06.784 --> 38:08.785
+ Buster's old-school.
+
+38:08.786 --> 38:11.688
+ NARRATOR: With our very own
+ member of the Third Reich
+
+38:11.689 --> 38:14.689
+ on his bike, the guys,
+ with the help of Matt the pyro,
+
+38:15.693 --> 38:18.693
+ prepare the mortar that
+ will send Buster into the air.
+
+38:19.497 --> 38:21.264
+ JAMIE: We've got this mortar
+ with the plate
+
+38:21.265 --> 38:22.299
+ right on top of it.
+
+38:22.300 --> 38:24.734
+ That plate is welded
+ to the bottom of the motorcycle.
+
+38:24.735 --> 38:26.303
+ It's very secure.
+
+38:26.304 --> 38:28.505
+ When that gunpowder goes off,
+
+38:28.506 --> 38:31.141
+ the plate is gonna go up,
+ and that's all there is to it.
+
+38:31.142 --> 38:33.710
+ NARRATOR: With Jamie applying
+ the finishing touches,
+
+38:33.711 --> 38:36.711
+ Adam takes delivery of
+ the final piece of the puzzle.
+
+38:37.381 --> 38:39.482
+ Dude, I totally want
+ one of these.
+
+38:39.483 --> 38:42.483
+ NARRATOR: So now Adam's got
+ the ride to go with the outfit.
+
+38:42.853 --> 38:45.853
+ Awesome. Look. It's got a seat
+ for Jamie and everything.
+
+38:50.161 --> 38:52.729
+ Ba-da-da-da!
+ Ba-da-da! 
+
+38:52.730 --> 38:55.730
+ NARRATOR: And with that out
+ of his system, it's stunt time.
+
+38:56.067 --> 38:58.468
+ ADAM:
+ It's like nerd fantasy camp.
+
+38:58.469 --> 39:00.370
+ Okay, so, here's
+ how the Mythbusters'
+
+39:00.371 --> 39:02.205
+ big-budget movie shot
+ is gonna break down.
+
+39:02.206 --> 39:04.107
+ Jamie and I will start
+ the motorcycle and sidecar
+
+39:04.108 --> 39:06.643
+ about 100 feet
+ behind our stunt cycle.
+
+39:06.644 --> 39:08.078
+ We're gonna drive right past it.
+
+39:08.079 --> 39:09.946
+ When we get 100 feet
+ ahead of it,
+
+39:09.947 --> 39:12.115
+ the pyro's gonna detonate
+ the charge in this.
+
+39:12.116 --> 39:15.116
+ Our stunt Buster is gonna fly
+ up in the air end over end,
+
+39:15.319 --> 39:16.920
+ and the long lens
+ that we're shooting it from
+
+39:16.921 --> 39:19.921
+ is gonna make it look like we're
+ a lot closer to the explosion
+
+39:19.924 --> 39:21.324
+ than we actually are.
+
+39:21.325 --> 39:22.959
+ [ Horn beeping ]
+
+39:22.960 --> 39:25.960
+ You ready, old man?
+ You got a taste for adventure?
+
+39:26.497 --> 39:28.932
+ [ Chuckling ] Okay.
+ Here we go.
+
+39:28.933 --> 39:31.933
+ [ Engine revving ]
+
+39:32.370 --> 39:35.370
+ NARRATOR: So everyone,
+ including Buster, is all set.
+
+39:36.107 --> 39:38.141
+ Adam and Jamie roll up to speed,
+
+39:38.142 --> 39:41.142
+ and Matt waits with his finger
+ on the detonator.
+
+39:41.379 --> 39:44.180
+ To get the shot,
+ the timing, camera angle,
+
+39:44.181 --> 39:47.181
+ and flight of the bike
+ has to be just so.
+
+39:50.421 --> 39:53.421
+ And that couldn't have gone
+ better.
+
+39:53.457 --> 39:55.992
+ [ Laughs ]
+ Well, the timing was perfect.
+
+39:55.993 --> 39:57.460
+ If you say so, Junior.
+
+39:57.461 --> 40:00.461
+ [ Laughs ]
+
+40:00.464 --> 40:02.832
+ NARRATOR:
+ Well, let's check the footage.
+
+40:02.833 --> 40:05.833
+ The mortar exploded as Adam
+ and Jamie hit their mark,
+
+40:06.036 --> 40:09.036
+ and Buster, the chasing Nazi
+ with a stick in the spokes,
+
+40:09.974 --> 40:12.974
+ goes head over handlebars.
+
+40:13.677 --> 40:15.378
+ ADAM: [ Laughs ]
+
+40:15.379 --> 40:16.980
+ Oh, that's awesome.
+
+40:16.981 --> 40:19.282
+ JAMIE: I'm seeing it go
+ ass over teakettle.
+
+40:19.283 --> 40:21.351
+ ADAM: That's exactly
+ what it looks like in the movie.
+
+40:21.352 --> 40:24.320
+ NARRATOR: Yep, as
+ a quick comparison confirms,
+
+40:24.321 --> 40:26.089
+ the guys got the shot.
+
+40:26.090 --> 40:28.124
+ ADAM:
+ It's beautiful.
+
+40:28.125 --> 40:29.826
+ You may watch this
+ and still think,
+
+40:29.827 --> 40:31.928
+ "I think it could happen
+ to the motorcycle
+
+40:31.929 --> 40:33.029
+ under the right conditions."
+
+40:33.030 --> 40:36.030
+ Let me point out
+ this stick in the wheel
+
+40:36.734 --> 40:38.435
+ made the motorcycle skid.
+
+40:38.436 --> 40:40.036
+ How much energy did it take
+
+40:40.037 --> 40:42.839
+ to make the bike go
+ completely vertical?
+
+40:42.840 --> 40:45.840
+ Enough energy to crush this
+ 3/8-inch-thick steel plate
+
+40:47.511 --> 40:50.511
+ and crack the frame
+ in like 19 different places.
+
+40:50.514 --> 40:52.515
+ That's a hell of a lot
+ more energy
+
+40:52.516 --> 40:54.951
+ than you can generate
+ with a wooden stick.
+
+40:54.952 --> 40:57.952
+ Myth busted.
+
+41:00.191 --> 41:02.892
+ And now, Buster, for doing such
+ a good job, gets his reward.
+
+41:02.893 --> 41:04.127
+ He really likes it this way.
+
+41:04.128 --> 41:07.128
+ Nice work, Buster!
+ Nice work!
+
+41:08.305 --> 41:14.653
+Support us and become VIP member 
+to remove all ads from www.OpenSubtitles.org

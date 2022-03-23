@@ -1,0 +1,3665 @@
+WEBVTT
+
+00:02.936 --> 00:04.338
+Hi, I'm Jeffrey Tanner.
+
+00:04.372 --> 00:06.207
+Welcome to Sophe.
+
+00:06.240 --> 00:08.309
+We all know the Internet
+changed the world.
+
+00:08.342 --> 00:10.578
+The only question is:
+into what?
+
+00:10.611 --> 00:12.213
+It can be a platform
+to bring us together
+
+00:12.246 --> 00:13.647
+or to tear us apart.
+
+00:13.681 --> 00:15.083
+I know because I spent my life
+
+00:15.849 --> 00:17.151
+trying to turn it
+into something
+
+00:18.152 --> 00:19.253
+that would connect us all.
+Then...
+
+00:20.321 --> 00:22.090
+I love you, Dad.
+...my daughter was murdered.
+
+00:22.123 --> 00:23.191
+Nothing else mattered anymore.
+
+00:24.292 --> 00:25.626
+Everyone was sure
+they knew who did it--
+
+00:25.659 --> 00:27.061
+the police, my ex-wife--
+
+00:28.362 --> 00:30.098
+but I was convinced the
+wrong man had been convicted
+
+00:30.131 --> 00:31.399
+and the real killer
+was still out there.
+
+00:31.432 --> 00:32.333
+So, together with my team,
+
+00:33.601 --> 00:34.668
+I built Sophe, a crowdsource
+crime solving platform
+
+00:34.702 --> 00:38.172
+powered by the smartest,
+most diverse,
+
+00:38.206 --> 00:41.075
+independent collection
+of detectives on the planet:
+
+00:41.109 --> 00:43.377
+you.
+
+00:43.411 --> 00:44.378
+Let's get to work.
+
+00:46.214 --> 00:48.182
+Previously on
+Wisdom of the Crowd...
+
+00:48.216 --> 00:49.483
+Next week is
+the one-year anniversary
+
+00:49.517 --> 00:50.551
+of my daughter Mia's death.
+
+00:50.584 --> 00:52.153
+Ryan Booth.
+
+00:52.186 --> 00:53.554
+This is a drug addict
+
+00:53.587 --> 00:55.289
+with a violent criminal record
+
+00:55.323 --> 00:57.125
+caught on camera
+assaulting our daughter.
+
+00:58.326 --> 00:59.560
+And I am gonna find him.
+
+00:59.593 --> 01:01.195
+My dad took out
+a second mortgage
+
+01:01.229 --> 01:03.197
+just to send him to Grand Pines,
+
+01:03.231 --> 01:05.199
+some fancy
+treatment center.
+
+01:05.233 --> 01:08.169
+Mia wasn't an intern
+at Grand Pines.
+
+01:08.202 --> 01:10.238
+She was a patient.
+She was a what?
+
+01:10.271 --> 01:11.639
+If the brass catch on
+that you're helping
+
+01:11.672 --> 01:13.707
+Jeffrey Tanner undermine
+a closed murder case...
+
+01:13.741 --> 01:15.543
+Your closed murder case.
+
+01:15.576 --> 01:16.477
+Where do we start?
+
+01:16.510 --> 01:18.546
+Lieutenant Ruiz,
+
+01:18.579 --> 01:20.214
+glad you finally figured out
+that we can help.
+
+01:20.248 --> 01:21.382
+You knew, didn't you?
+
+01:21.415 --> 01:22.616
+Knew what?
+
+01:22.650 --> 01:23.717
+About Mia's stay at Grand Pines.
+
+01:23.751 --> 01:25.386
+Why didn't you tell me?
+
+01:25.419 --> 01:26.587
+She didn't want you to know.
+
+01:26.620 --> 01:27.888
+Jeffrey's been wrong
+about all this, right?
+
+01:27.921 --> 01:29.690
+You've been divorced nine years.
+You don't owe him anything.
+
+01:29.723 --> 01:32.360
+Carlos Ochoa, he did not
+kill our daughter.
+
+01:32.393 --> 01:34.128
+You should've just kept your
+mouth shut about that girl.
+
+01:34.162 --> 01:35.529
+What if we never find him?
+
+01:35.563 --> 01:37.298
+SARA:
+The tech works.
+
+01:37.331 --> 01:38.499
+An hour ago,
+we just pulled a serial killer
+
+01:38.532 --> 01:39.633
+off the street.
+
+01:39.667 --> 01:41.702
+We're gonna find
+the truth about Mia.
+
+01:44.272 --> 01:46.174
+CROWD (chanting):
+You will not replace us!
+
+01:46.207 --> 01:48.309
+You will not replace us!
+
+01:48.342 --> 01:50.278
+You will not replace us!
+
+01:50.311 --> 01:53.214
+You will not replace us!
+You will not replace us!
+
+01:53.247 --> 01:55.516
+(chanting):
+Say it loud, say it clear!
+
+01:55.549 --> 01:57.718
+Immigrants are welcome here!
+
+01:57.751 --> 01:59.620
+America is white!
+(crowd cheering)
+
+01:59.653 --> 02:02.490
+America is ours!
+
+02:02.523 --> 02:04.358
+(crowd cheering)
+
+02:04.392 --> 02:06.527
+(chanting): All of us!
+America for all of us!
+
+02:06.560 --> 02:08.629
+All of us! All of us!
+
+02:08.662 --> 02:11.165
+Because this is
+our great struggle,
+
+02:11.199 --> 02:13.367
+the struggle of white,
+
+02:13.401 --> 02:17.338
+European Americans who
+made this country great.
+
+02:17.371 --> 02:18.472
+(crowd cheering)
+
+02:18.506 --> 02:22.310
+(crowd clamoring)
+
+02:22.343 --> 02:24.278
+We have awoken
+
+02:24.312 --> 02:28.382
+and we will not go quietly!
+
+02:28.416 --> 02:29.517
+(crowd clamoring)
+
+02:31.252 --> 02:33.153
+(glass shatters)
+
+02:34.288 --> 02:35.789
+(tear gas guns popping)
+
+02:35.823 --> 02:38.292
+NEWSWOMAN: A political protest
+turned violent
+
+02:38.326 --> 02:40.628
+last night when
+white nationalist demonstrators,
+
+02:40.661 --> 02:42.430
+participating in a rally
+
+02:42.463 --> 02:45.233
+against San Francisco's
+sanctuary city policies,
+
+02:45.266 --> 02:48.202
+clashed with
+anti-racist activists
+
+02:48.236 --> 02:50.404
+in Jefferson Park
+near city hall.
+
+02:50.438 --> 02:52.406
+The rally was organized by
+
+02:52.440 --> 02:54.642
+white nationalist leader
+Brandt Davis,
+
+02:54.675 --> 02:58.412
+a self-proclaimed spokesman
+for the alt-right.
+
+02:58.446 --> 03:00.781
+The Take Back Our Cities rally
+has been in the works
+
+03:00.814 --> 03:04.352
+for several weeks, and was to
+feature a number of national...
+
+03:04.385 --> 03:06.287
+Would you like some?
+
+03:06.320 --> 03:07.421
+Want some bread?
+
+03:07.455 --> 03:09.790
+Oh, brilliant.
+
+03:11.692 --> 03:13.361
+Thank you.
+
+03:13.394 --> 03:14.695
+Where did you get this?
+
+03:14.728 --> 03:18.566
+(chuckles) It's not
+our first rodeo, dear.
+
+03:18.599 --> 03:20.234
+CAVANAUGH:
+That one.
+
+03:24.372 --> 03:25.606
+Morning, sister.
+
+03:25.639 --> 03:27.808
+Pleasure as always,
+Detective.
+
+03:32.346 --> 03:34.582
+SARA:
+Vandalism?
+
+03:34.615 --> 03:36.850
+I went to protest
+neo-Nazis, not burn cars.
+
+03:36.884 --> 03:38.586
+I was trying to stop people
+from breaking windows.
+
+03:38.619 --> 03:40.321
+I'm sure you were, but, uh...
+
+03:40.354 --> 03:41.722
+Look, Detective, I didn't
+do anything wrong,
+
+03:41.755 --> 03:43.691
+and I'm waiting for my
+green card to be approved.
+
+03:43.724 --> 03:45.693
+If I get charged,
+I will be deported.
+
+03:45.726 --> 03:48.829
+And here I thought
+irony was dead.
+
+03:48.862 --> 03:51.332
+And why am I not
+surprised to see you?
+
+03:51.365 --> 03:52.500
+Sure, just hang around my desk.
+
+03:52.533 --> 03:53.501
+You okay?
+
+03:53.534 --> 03:54.735
+Yeah, I'm fine, honestly.
+
+03:54.768 --> 03:56.370
+I even made a few new friends.
+
+03:56.404 --> 03:58.339
+Some friends, really?
+Yes.
+
+03:58.372 --> 04:00.374
+Yeah, the nuns
+are easy to talk to.
+
+04:00.408 --> 04:04.278
+I asked Sophe users for help,
+and they uploaded this.
+
+04:05.579 --> 04:07.615
+SARA:
+Stop! Stop!
+
+04:07.648 --> 04:09.483
+Stop! What are you doing?!
+
+04:09.517 --> 04:10.818
+This is a peaceful protest!
+
+04:10.851 --> 04:12.486
+MAN:
+Let go!
+
+04:12.520 --> 04:13.721
+SARA:
+Get off!
+
+04:13.754 --> 04:14.888
+POLICE OFFICER:
+Drop the weapon!
+
+04:14.922 --> 04:17.491
+Drop it! Turn around.
+Okay. Yeah, yeah.
+
+04:17.525 --> 04:19.327
+Hands on the wall.
+It's not mine.
+That-that wasn't mine.
+
+04:19.360 --> 04:21.762
+Now!
+Okay, yup.
+
+04:21.795 --> 04:23.831
+If they haven't charged her yet,
+they're not going to,
+
+04:23.864 --> 04:26.300
+not after they see this.
+
+04:26.334 --> 04:27.301
+You're enjoying this.
+
+04:27.335 --> 04:28.602
+I am very much so.
+
+04:28.636 --> 04:29.637
+RUIZ:
+Body just turned up.
+
+04:29.670 --> 04:30.838
+Near Jefferson Square Park.
+
+04:30.871 --> 04:32.473
+Fun never stops.
+
+04:32.506 --> 04:33.741
+All right,
+I'll see what I can do.
+
+04:33.774 --> 04:36.744
+You can go home now.
+
+04:36.777 --> 04:37.845
+TANNER:
+They let you keep the handcuffs?
+
+04:37.878 --> 04:39.613
+There you go.
+
+04:39.647 --> 04:41.582
+CROWD (chanting):
+All of us! All of us!
+
+04:41.615 --> 04:43.484
+(siren wailing)
+All of us!
+
+04:43.517 --> 04:45.786
+All of us! All of us!
+
+04:45.819 --> 04:47.455
+So what do we got,
+a dead protestor?
+
+04:47.488 --> 04:49.523
+Notprotestor,
+
+04:49.557 --> 04:51.625
+the protestor.
+
+04:51.659 --> 04:53.727
+Whoa, is that...?
+Yes.
+
+04:53.761 --> 04:57.365
+That is Brandt Davis.
+
+04:57.398 --> 04:59.533
+A dead white supremacist
+in downtown San Francisco.
+
+04:59.567 --> 05:01.802
+You don't see
+that every day.
+
+05:01.835 --> 05:03.537
+White nationalist,
+
+05:03.571 --> 05:04.672
+I believe is what they're
+calling themselves now.
+
+05:04.705 --> 05:05.806
+Oh, yeah. That makes it better.
+
+05:05.839 --> 05:06.874
+Yeah.
+
+05:06.907 --> 05:08.542
+Body's been here all night?
+
+05:08.576 --> 05:09.943
+Homeless man found him.
+
+05:09.977 --> 05:11.645
+Two gunshot wounds,
+close range.
+
+05:11.679 --> 05:13.547
+No weapons, no casings.
+
+05:13.581 --> 05:14.948
+Picture perfect.
+
+05:14.982 --> 05:16.784
+All right, let's rewind.
+
+05:16.817 --> 05:18.752
+Davis was the keynote
+speaker last night.
+
+05:18.786 --> 05:19.953
+Protestors came,
+
+05:19.987 --> 05:21.555
+call it hate speech...
+
+05:21.589 --> 05:23.524
+Well, he wasn't exactly
+singing "Kumbaya."
+
+05:23.557 --> 05:25.393
+Then all hell broke loose.
+
+05:25.426 --> 05:27.695
+So, he gets chased
+from the rally and comes here,
+
+05:27.728 --> 05:29.430
+three blocks away, to get shot.
+
+05:29.463 --> 05:31.665
+Question is: by whom?
+
+05:31.699 --> 05:33.967
+Well, isn't the simplest answer
+usually the right one?
+
+05:34.001 --> 05:36.504
+I mean, there were thousands
+of people here last night.
+
+05:36.537 --> 05:37.905
+A lot of them were mad at him.
+
+05:37.938 --> 05:39.973
+Any one of them
+could've done this.
+WOMAN: Brandt!
+
+05:40.007 --> 05:41.809
+(crying):
+Let me through, please!
+Get your hands off her.
+
+05:41.842 --> 05:43.411
+That's his wife.
+(crying):
+Please.
+
+05:43.444 --> 05:44.445
+CAVANAUGH:
+Hey, it's okay.
+
+05:44.478 --> 05:44.878
+It's okay. Let them through.
+
+05:46.980 --> 05:48.816
+No...
+I want to see him, please.
+
+05:48.849 --> 05:50.418
+Mrs. Davis, you can't touch
+the body right now.
+
+05:50.451 --> 05:51.719
+We're still gathering evidence.
+
+05:51.752 --> 05:53.821
+(crying): He should've
+had more protection.
+
+05:53.854 --> 05:55.423
+Mrs. Davis, we'd like to ask
+you some questions downtown.
+
+05:55.456 --> 05:57.458
+Why?
+
+05:57.491 --> 05:59.727
+You're telling me you two intend
+to take this case seriously?
+
+05:59.760 --> 06:00.761
+And you are?
+
+06:00.794 --> 06:02.530
+Caleb Boorman.
+
+06:02.563 --> 06:04.998
+Brandt and I
+built this movement together.
+
+06:05.032 --> 06:07.735
+I promise you, Mr. Boorman, when
+it comes to solving a murder,
+
+06:07.768 --> 06:10.438
+only color I see is blue.
+
+06:10.471 --> 06:12.806
+Mrs. Davis, we want to find out
+who did this to your husband,
+
+06:12.840 --> 06:14.508
+and we need your help
+for that, so, please.
+
+06:14.542 --> 06:16.610
+Okay.
+
+06:16.644 --> 06:18.579
+(crying)
+
+06:18.612 --> 06:19.947
+(siren wailing)
+
+06:21.849 --> 06:23.584
+Did you call her?
+
+06:23.617 --> 06:24.885
+No.
+
+06:24.918 --> 06:27.788
+Watch your step, ma'am.
+
+06:29.657 --> 06:30.658
+Deputy Chief.
+
+06:31.659 --> 06:34.862
+Well, I guess the rest
+of my week just blew up.
+
+06:34.895 --> 06:37.765
+These nutjobs are
+already armed and angry.
+
+06:37.798 --> 06:38.999
+How do you think
+they'll react
+
+06:39.032 --> 06:40.768
+to their hater-in-chief
+being killed?
+
+06:40.801 --> 06:42.870
+I will pull as many
+detectives as I can.
+
+06:42.903 --> 06:46.640
+What about your
+buddy, Tanner?
+
+06:46.674 --> 06:49.477
+Well, I wouldn't exactly
+call him my buddy.
+
+06:49.510 --> 06:52.480
+But, uh, his people have
+helped us out on a few cases.
+
+06:52.513 --> 06:53.681
+You've helped him out, too.
+
+06:54.848 --> 06:57.651
+You slipped him police files
+on Ryan Booth, didn't you?
+
+06:57.685 --> 06:59.920
+Now he needs
+to help us.
+
+06:59.953 --> 07:02.022
+I want you to formalize
+a relationship with him.
+
+07:02.055 --> 07:03.691
+Ma'am, all due respect...
+
+07:03.724 --> 07:06.660
+This Sophe, it closes cases.
+
+07:06.694 --> 07:08.028
+And given all the attention
+on this one,
+
+07:08.061 --> 07:09.930
+I'll take all the help
+I can get.
+
+07:09.963 --> 07:11.064
+Plus, people are
+talking about it.
+
+07:11.098 --> 07:12.065
+It's good PR.
+
+07:12.099 --> 07:13.734
+PR?
+Yes.
+
+07:13.767 --> 07:15.769
+It's a whole new era
+of civic engagement.
+
+07:15.803 --> 07:17.838
+I want people to know that SFPD
+
+07:17.871 --> 07:19.840
+is working with Sophe
+on a regular basis.
+
+07:19.873 --> 07:22.810
+You want me to get Tanner
+to work with us?
+
+07:22.843 --> 07:25.479
+His daughter's murder is
+the only thing he cares about,
+
+07:25.513 --> 07:26.780
+and he's convinced
+we got the wrong man.
+
+07:26.814 --> 07:28.081
+Which we didn't.
+
+07:28.115 --> 07:30.818
+Fine. Tanner agrees,
+
+07:30.851 --> 07:32.953
+you can help him with
+his investigation.
+
+07:32.986 --> 07:34.922
+Unofficially, of course.
+
+07:34.955 --> 07:36.857
+Chief.
+
+07:36.890 --> 07:38.592
+What do you mean,
+"unofficially"?
+
+07:38.626 --> 07:40.027
+We'll work out
+the details later.
+
+07:40.060 --> 07:42.563
+Just get Tanner on board
+and solve this
+
+07:42.596 --> 07:44.632
+before the whole city
+becomes a riot zone.
+
+07:50.671 --> 07:53.841
+Well, tell your boss
+if she wants a deal,
+
+07:53.874 --> 07:56.977
+she's gonna have to officially
+reopen my daughter's case.
+
+07:57.010 --> 07:58.078
+CAVANAUGH:
+You know I can't do that.
+
+07:58.111 --> 08:00.948
+But what I can do
+is help you now
+
+08:00.981 --> 08:02.783
+without having to sneak around
+about it.
+
+08:02.816 --> 08:05.018
+Sounds like they were
+already onto you about that.
+
+08:05.052 --> 08:06.654
+What about Mia's case files?
+
+08:06.687 --> 08:08.121
+I want access to all of them.
+
+08:08.155 --> 08:10.658
+That should be fine.
+
+08:10.691 --> 08:12.726
+And if we find new leads,
+you'll run them down,
+
+08:12.760 --> 08:13.927
+just like you would
+any other case?
+
+08:13.961 --> 08:15.696
+When time permits, yes.
+
+08:15.729 --> 08:16.997
+Best I can do.
+
+08:17.030 --> 08:18.732
+Oh, by the way,
+there's one more thing.
+
+08:18.766 --> 08:19.967
+Yeah.
+
+08:20.000 --> 08:21.735
+Deputy chief said
+she'll make sure
+
+08:21.769 --> 08:23.003
+there's no charges against Sara.
+
+08:23.036 --> 08:25.773
+You can tell her
+she's in the clear.
+
+08:28.341 --> 08:29.843
+I'll tell her
+when I see her.
+
+08:29.877 --> 08:31.845
+So, we got a deal or what?
+
+08:31.879 --> 08:34.748
+(sighs) Okay.
+
+08:34.782 --> 08:35.749
+What's the case?
+
+08:35.783 --> 08:39.620
+Yeah. About that.
+
+08:39.653 --> 08:41.922
+*
+
+08:49.963 --> 08:52.700
+JOSH: Brandt Davis,
+Mr. Alt-Right, the guy is toxic.
+
+08:52.733 --> 08:54.067
+Right, he sucks.
+So, now what?
+
+08:54.101 --> 08:55.969
+We're supposed to kill
+people we disagree with?
+
+08:56.003 --> 08:57.771
+No, I didn't say that.
+You know, there's definitely
+
+08:57.805 --> 08:58.672
+a picture of you
+in the dictionary
+
+08:58.706 --> 08:59.840
+right next to "broflake."
+
+08:59.873 --> 09:01.041
+What does that even mean?
+
+09:01.074 --> 09:02.676
+What I'm worried about
+is selling out
+
+09:02.710 --> 09:03.777
+so the cops run this place.
+
+09:03.811 --> 09:06.880
+Nobody runs
+this place but us.
+
+09:06.914 --> 09:09.082
+Now, we'll work with the SFPD
+on a case-by-case basis
+
+09:09.116 --> 09:12.052
+for as long as it benefits
+Mia's investigation.
+
+09:12.085 --> 09:13.787
+Understood?
+
+09:13.821 --> 09:14.988
+Now, this case
+is an opportunity.
+
+09:15.022 --> 09:17.925
+To do what exactly?
+
+09:17.958 --> 09:21.061
+To see how Sophe
+handles user bias.
+
+09:21.094 --> 09:22.763
+They've done
+experiments on this.
+
+09:22.796 --> 09:24.998
+When a football game
+has too many penalties,
+
+09:25.032 --> 09:27.701
+the fans on each team think
+that the other team committed
+
+09:27.735 --> 09:29.737
+twice as many...
+JOSH:
+Selective perception.
+
+09:29.770 --> 09:31.905
+It's like the fans are seeing
+two completely different games.
+
+09:31.939 --> 09:33.841
+Which is a perfect metaphor
+for the country right now.
+
+09:33.874 --> 09:35.709
+(phone vibrates)
+Let's play this video.
+
+09:35.743 --> 09:41.114
+Brandt Davis posted this
+just before he was killed.
+
+09:41.148 --> 09:44.217
+Tonight we unmask our
+adversaries for who they are:
+
+09:44.251 --> 09:48.689
+hypocrites who claim
+to stand for free speech
+
+09:48.722 --> 09:51.725
+while attacking us for
+expressing our point of view.
+
+09:51.759 --> 09:53.694
+We're still here.
+
+09:53.727 --> 09:55.696
+And we're ready to fight
+for this cause,
+
+09:55.729 --> 09:59.232
+ready to die for it,
+and we will prevail,
+
+09:59.266 --> 10:03.003
+because when truth is on
+your side, nothing else matters.
+
+10:03.036 --> 10:04.838
+Seriously?
+
+10:04.872 --> 10:07.107
+This is not about free speech.
+
+10:07.140 --> 10:09.643
+They went there
+looking for violence.
+
+10:09.677 --> 10:12.646
+They were itching for it
+just so they can play the victim
+
+10:12.680 --> 10:14.882
+and argue that both sides
+are to blame. No, I'm sorry.
+
+10:14.915 --> 10:18.786
+There's a right and there's
+a wrong, and racists are wrong.
+
+10:18.819 --> 10:20.253
+We have every right
+to stand up to them
+
+10:20.287 --> 10:22.756
+and tell them exactly
+how pathetic they are.
+
+10:22.790 --> 10:24.725
+TANNER:
+That's exactly my point.
+
+10:24.758 --> 10:26.760
+He's a polarizing victim
+who has divided the country
+
+10:26.794 --> 10:27.995
+and possibly our user base.
+
+10:28.028 --> 10:30.197
+If we can't
+filter out the bias
+
+10:30.230 --> 10:31.965
+and extract what the
+crowd actually thinks,
+
+10:31.999 --> 10:33.734
+Sophe doesn't work.
+
+10:33.767 --> 10:35.135
+Jeffrey.
+One second, Mike.
+
+10:35.168 --> 10:37.137
+Sophe lives or dies on this.
+
+10:37.170 --> 10:39.639
+Put it up.
+
+10:41.308 --> 10:44.177
+JOSH:
+How are we gonna solve a murder
+
+10:44.211 --> 10:46.880
+when so many of our own users
+don't even want to help?
+
+10:46.914 --> 10:48.215
+Have you not been
+listening to me?
+
+10:48.248 --> 10:50.017
+That's exactly
+what I'm saying.
+MIKE: Alex.
+
+10:58.792 --> 11:00.027
+You knew that Mia wanted
+to keep this private.
+
+11:00.060 --> 11:01.028
+I told you that.
+
+11:01.061 --> 11:02.696
+Where'd you get this?
+
+11:02.730 --> 11:03.897
+My chief of staff.
+
+11:03.931 --> 11:06.700
+The press called.
+
+11:06.734 --> 11:07.267
+They want a comment from me
+
+11:08.168 --> 11:09.102
+because they're gonna
+run this story.
+
+11:09.136 --> 11:10.170
+All right, listen.
+
+11:10.203 --> 11:13.774
+I swear to you
+that I did not post
+
+11:13.807 --> 11:15.175
+anything about
+Grand Pines on Sophe.
+
+11:15.208 --> 11:16.744
+Then who did?
+
+11:16.777 --> 11:17.911
+(computer beeping)
+
+11:20.013 --> 11:22.983
+Where did they find this?
+
+11:26.353 --> 11:29.322
+ALEX: You did this when
+you posted her case online.
+
+11:29.356 --> 11:30.824
+You did this!
+I didn't do this!
+
+11:30.858 --> 11:32.793
+Yes, you did!
+
+11:32.826 --> 11:34.294
+Our daughter
+has become clickbait.
+
+11:34.327 --> 11:35.796
+That's not-- Alex.
+
+11:35.829 --> 11:37.064
+You need to fix this.
+
+11:37.097 --> 11:38.932
+Use your connections,
+use your money.
+
+11:38.966 --> 11:40.100
+I don't care
+what you do,
+
+11:40.133 --> 11:41.902
+but you need to fix it.
+
+11:55.482 --> 11:57.017
+RUIZ: Mrs. Davis,
+I know this is hard for you,
+
+11:58.285 --> 11:59.386
+but I need you to tell me what
+you remember from last night.
+
+11:59.419 --> 12:02.389
+Honestly, not much.
+
+12:02.422 --> 12:06.126
+When the barricades broke,
+it was chaos.
+
+12:06.159 --> 12:09.396
+Do you remember where you were
+exactly when it happened?
+
+12:09.429 --> 12:12.532
+No. I just remember
+being attacked.
+
+12:12.565 --> 12:16.269
+I lost Brandt in the crowd.
+We got separated.
+
+12:16.303 --> 12:18.405
+Everyone scattered.
+
+12:18.438 --> 12:22.075
+After that,
+I just ran to the hotel.
+
+12:22.109 --> 12:24.111
+But he wasn't there.
+
+12:24.144 --> 12:27.414
+I... I waited for him
+all night, but...
+
+12:27.447 --> 12:29.449
+(sniffles)
+
+12:29.482 --> 12:31.284
+Being a public figure,
+
+12:31.318 --> 12:33.453
+I'm sure your husband received
+his share of threats.
+
+12:33.486 --> 12:37.190
+Are there any in particular
+that you can tell us about?
+
+12:37.224 --> 12:37.958
+BOORMAN: You're
+kidding me, right?
+
+12:38.992 --> 12:39.526
+Brandt got threats
+from everyone.
+
+12:40.293 --> 12:42.062
+Everywhere.
+Last week in Austin,
+
+12:42.095 --> 12:45.032
+some "bad hombre"
+punched him in the jaw.
+
+12:45.065 --> 12:46.433
+Cops practically cheered.
+
+12:46.466 --> 12:48.068
+LILIANA:
+Well, Brandt was, uh...
+
+12:50.470 --> 12:54.374
+He had views that
+a lot of people didn't like.
+
+12:54.407 --> 12:56.143
+He...
+
+12:58.245 --> 13:01.114
+Do you know
+what it feels like to
+
+13:01.148 --> 13:03.216
+fall in love
+with somebody,
+
+13:03.250 --> 13:06.486
+and then you look up one day
+and they're a different person?
+
+13:06.519 --> 13:10.557
+I know some of the things
+he said were offensive,
+
+13:10.590 --> 13:14.327
+but no one is just one thing,
+and Brandt was a good person.
+
+13:14.361 --> 13:17.197
+He taught me to
+never apologize for who I was.
+
+13:17.230 --> 13:19.266
+BOORMAN:
+He was a truth teller.
+
+13:19.299 --> 13:21.134
+That's why people hated him.
+
+13:21.168 --> 13:24.471
+I'm sorry, what truth
+
+13:24.504 --> 13:26.306
+was he telling?
+
+13:26.339 --> 13:28.541
+That race is what defines us
+as human beings.
+
+13:28.575 --> 13:31.511
+Government,
+economics, religion--
+
+13:31.544 --> 13:34.214
+they're all just constructs that
+obscure the fundamental fact
+
+13:34.247 --> 13:36.483
+that human life is
+a competition between races.
+
+13:36.516 --> 13:38.118
+Oh, please.
+
+13:38.151 --> 13:39.386
+And where are your people
+from exactly?
+
+13:39.419 --> 13:42.089
+You're a white European.
+Acknowledge it.
+
+13:42.122 --> 13:43.290
+Be proud of it.
+
+13:43.323 --> 13:45.058
+CAVANAUGH:
+Okay, are we done?
+
+13:45.092 --> 13:47.127
+We're here to find out
+who killed Mr. Davis,
+
+13:47.160 --> 13:49.029
+not to have a damn
+political debate.
+
+13:49.062 --> 13:51.231
+You think I believe that?
+
+13:51.264 --> 13:53.466
+In the People's Republic
+of San Francisco?
+
+13:53.500 --> 13:55.068
+Give me a break.
+
+13:55.102 --> 13:56.636
+Then try us.
+
+13:56.669 --> 13:59.239
+Tell your followers
+to send us
+
+13:59.272 --> 14:01.074
+any information they
+have about the rally.
+
+14:01.108 --> 14:03.243
+Put it on Sophe.
+
+14:03.276 --> 14:05.412
+If it's real, we'll post it.
+
+14:09.416 --> 14:10.583
+Done.
+
+14:13.286 --> 14:15.522
+We'll be watching.
+
+14:19.559 --> 14:20.560
+(door opens)
+
+14:20.593 --> 14:22.529
+(clears throat)
+
+14:22.562 --> 14:24.231
+(door closes)
+
+14:24.264 --> 14:27.567
+How does that not
+make you insane?
+
+14:27.600 --> 14:29.602
+You think I haven't
+heard that before?
+
+14:29.636 --> 14:31.471
+Or worse?
+
+14:31.504 --> 14:35.108
+I heard just as bad
+in the locker room at work.
+
+14:35.142 --> 14:38.345
+Right.
+
+14:38.378 --> 14:40.380
+Sorry.
+Guess we all do
+
+14:40.413 --> 14:42.049
+live in our little bubbles,
+don't we?
+
+14:44.484 --> 14:48.221
+So far, 38 separate sites have
+carried the Grand Pines story.
+
+14:48.255 --> 14:49.689
+Send a cease and desist
+to all of them.
+
+14:49.722 --> 14:51.324
+I want them taken down.
+
+14:51.358 --> 14:52.425
+If you want to
+play whack-a-mole,
+
+14:53.426 --> 14:54.227
+they're just gonna
+pop up somewhere else.
+
+14:54.261 --> 14:54.794
+And most of them
+are worded carefully
+
+14:54.827 --> 14:57.097
+to avoid a libel claim.
+
+14:57.130 --> 14:58.565
+This is my daughter,
+Mike, all right?
+
+14:58.598 --> 15:01.301
+Talk about "fake news"?
+This is it.
+
+15:01.334 --> 15:02.702
+Dangle a few
+defamation suits, will you?
+
+15:02.735 --> 15:05.638
+Why? So you can
+look like Peter Thiel,
+
+15:05.672 --> 15:07.640
+some Silicon Valley bully
+who's trying to buy his way
+
+15:07.674 --> 15:08.708
+out of the First Amendment?
+
+15:08.741 --> 15:10.477
+A) He won,
+
+15:10.510 --> 15:11.311
+and B)
+
+15:11.344 --> 15:13.113
+the First Amendment
+does not apply
+
+15:13.146 --> 15:14.214
+if it's false.
+
+15:14.247 --> 15:15.348
+It's about the optics, Jeffrey.
+
+15:15.382 --> 15:16.649
+The optics?
+
+15:16.683 --> 15:18.385
+You're getting slammed
+by your own users
+
+15:18.418 --> 15:19.352
+because you're trying
+to solve the murder
+
+15:19.386 --> 15:20.353
+of some white nationalist.
+
+15:21.354 --> 15:22.489
+Now you want us to declare
+war on the Internet?
+
+15:23.590 --> 15:26.593
+Exactly how much ammunition
+do you want to hand out?
+
+15:26.626 --> 15:28.495
+You know how this works.
+
+15:28.528 --> 15:29.496
+In five minutes,
+the president's gonna tweet,
+
+15:30.497 --> 15:31.364
+and they're gonna be
+onto something else.
+
+15:31.398 --> 15:37.204
+Just let it go.
+
+15:37.237 --> 15:38.738
+You said there are
+38 sites, right?
+
+15:38.771 --> 15:41.174
+One of them
+had to be first.
+
+15:41.208 --> 15:43.710
+Find the source.
+
+15:46.679 --> 15:49.582
+ALEX: You've interviewed me
+plenty of times, Tanya.
+
+15:49.616 --> 15:51.518
+I want
+your readers to know
+
+15:51.551 --> 15:53.553
+who Mia was as a person,
+
+15:53.586 --> 15:55.755
+and that the stories
+that are out there now,
+
+15:55.788 --> 15:57.657
+it's just not the truth.
+
+15:57.690 --> 16:01.194
+She was... as you know,
+
+16:01.228 --> 16:06.566
+a wonderful, kind, smart,
+strong young woman.
+
+16:06.599 --> 16:09.402
+She was the light
+of my life.
+
+16:09.436 --> 16:13.206
+But like a lot of
+young people her age,
+
+16:13.240 --> 16:14.607
+at one moment in her life,
+
+16:14.641 --> 16:17.277
+she suffered from
+clinical depression.
+
+16:17.310 --> 16:18.711
+It's nothing
+to be ashamed of.
+
+16:18.745 --> 16:20.647
+She was very brave.
+
+16:20.680 --> 16:23.550
+She sought help for it, and I
+was very proud of her for that.
+
+16:23.583 --> 16:25.452
+I want to make sure
+
+16:25.485 --> 16:28.321
+that people are aware of that
+and that they understand that,
+
+16:28.355 --> 16:30.290
+because what is
+being said right now
+
+16:30.323 --> 16:32.792
+is a complete violation
+of her privacy.
+
+16:32.825 --> 16:35.395
+She kept it private
+because she was...
+
+16:35.428 --> 16:37.230
+TANYA:
+Alex,
+
+16:37.264 --> 16:39.399
+I can't imagine
+what you're going through.
+
+16:39.432 --> 16:41.701
+But now that the truth is out,
+
+16:41.734 --> 16:44.737
+is it your hope that
+these fake stories will stop?
+
+16:44.771 --> 16:48.308
+No parent should ever
+have to see their child's name
+
+16:48.341 --> 16:49.709
+dragged through the mud.
+
+16:49.742 --> 16:51.344
+That's right.
+That's why we appreciate
+
+16:51.378 --> 16:52.512
+the opportunity to
+address all this.
+
+16:52.545 --> 16:53.546
+Of course.
+
+16:54.481 --> 16:55.482
+So, is there anything else
+your paper needs?
+
+16:55.515 --> 16:56.649
+Okay.
+
+16:56.683 --> 16:57.750
+What about Jeffrey?
+
+16:57.784 --> 17:00.787
+What about him?
+
+17:00.820 --> 17:01.788
+People are saying that,
+
+17:01.821 --> 17:03.656
+by launching Sophe,
+
+17:03.690 --> 17:07.427
+Jeffrey invited the public
+to speculate on Mia's death.
+
+17:07.460 --> 17:09.629
+Don't you think he bears
+some of the responsibility
+
+17:09.662 --> 17:13.566
+for these... lies
+that are getting out there?
+
+17:13.600 --> 17:16.403
+What my ex-husband does
+is his own business.
+
+17:16.436 --> 17:17.670
+And I have no comment.
+
+17:17.704 --> 17:19.272
+Okay, then.
+
+17:19.306 --> 17:21.308
+And I hate to be the one
+to show this to you,
+
+17:21.341 --> 17:22.475
+but it's out there.
+
+17:22.509 --> 17:23.610
+Do you care
+to comment on
+
+17:23.643 --> 17:25.712
+any of the new rumors that
+are circulating right now?
+
+17:25.745 --> 17:26.746
+I'm sorry, what new rumors
+are you talking about?
+
+17:31.651 --> 17:34.487
+Alex Hale is a power player in
+D.C. with Silicon Valley money.
+
+17:34.521 --> 17:37.457
+And we all know that
+the Democrats are desperate
+
+17:37.490 --> 17:39.426
+for anybody who can lead them
+out of the wilderness,
+
+17:39.459 --> 17:41.394
+but not if there are
+secrets in her past
+
+17:41.428 --> 17:42.662
+that are gonna blow up
+in her face.
+
+17:42.695 --> 17:46.466
+Now, these are deep waters,
+my friends,
+
+17:46.499 --> 17:48.301
+and I want to
+tread carefully here,
+
+17:48.335 --> 17:49.736
+but if her daughter
+knew something,
+
+17:49.769 --> 17:51.571
+and the Democrats
+needed to shut her down...
+
+17:51.604 --> 17:53.673
+Ray Randolph?
+
+17:53.706 --> 17:54.674
+Seriously, Tanya?
+
+17:55.575 --> 17:56.776
+What, you want to talk
+about Infowars next?
+
+17:58.077 --> 17:58.478
+How about Pizzagate? All right,
+you know, we're done here.
+
+17:58.511 --> 18:00.280
+We're done.
+
+18:00.313 --> 18:02.449
+Carlos Ochoa killed my daughter.
+
+18:02.482 --> 18:03.683
+Period.
+
+18:03.716 --> 18:05.785
+So you disagree
+with your ex-husband?
+
+18:08.855 --> 18:11.624
+Yes, I do.
+
+18:11.658 --> 18:13.726
+CROWD (chanting):
+Stop the white genocide!
+
+18:13.760 --> 18:15.395
+You will not replace us!
+
+18:15.428 --> 18:16.863
+JOSH: Well, at least
+you were wrong about
+
+18:16.896 --> 18:18.698
+being an extension
+of the police.
+
+18:18.731 --> 18:21.434
+Instead, we're being co-opted
+by the American Nazi Party.
+
+18:21.468 --> 18:23.370
+Who are these idiots?
+
+18:23.403 --> 18:25.305
+Look at the tiki torches.
+It's like a Nazi luau.
+
+18:27.740 --> 18:30.377
+You have anything else?
+
+18:30.410 --> 18:32.779
+I've set Sophe to recognize
+Brandt Davis's face.
+
+18:32.812 --> 18:34.881
+Now she's isolating every image
+of him, and we're building
+
+18:34.914 --> 18:37.850
+a timeline of his movements
+throughout the rally.
+
+18:37.884 --> 18:39.352
+TARIQ: There's
+Davis setting up.
+
+18:39.386 --> 18:40.520
+Now he's taking
+the stage.
+
+18:43.556 --> 18:44.791
+I need a shower after
+reading this stuff.
+
+18:44.824 --> 18:46.659
+And a lobotomy
+to erase it from my mind.
+
+18:46.693 --> 18:48.761
+Okay, wait, slow-slow it down
+right there.
+
+18:48.795 --> 18:51.564
+That's where Davis gets
+separated from his wife.
+
+18:53.800 --> 18:55.335
+Stop, stop.
+Back up, back up.
+
+18:55.368 --> 18:56.769
+There.
+
+18:56.803 --> 18:58.505
+That man in the orange.
+
+18:58.538 --> 18:59.606
+He's dragging Davis
+around the corner.
+
+18:59.639 --> 19:01.341
+CAVANAUGH:
+Can't see his face.
+
+19:01.374 --> 19:02.642
+You got footage
+from around the corner?
+
+19:02.675 --> 19:03.676
+We're out of video.
+
+19:03.710 --> 19:05.712
+Can we load up my footage?
+
+19:05.745 --> 19:07.947
+The part that we used
+to get me out of jail.
+JOSH: Yeah.
+
+19:07.980 --> 19:09.882
+Here you go.
+
+19:13.586 --> 19:15.455
+SARA:
+Hold on, hold on.
+
+19:15.488 --> 19:15.888
+There.
+
+19:17.690 --> 19:18.758
+Can you zoom in?
+
+19:21.528 --> 19:22.929
+TANNER:
+Same jacket. It's him.
+
+19:22.962 --> 19:26.433
+SARA:
+We can't post this.
+
+19:26.466 --> 19:28.701
+If we put his face out there,
+he'll have a target on his back.
+
+19:28.735 --> 19:30.703
+CAVANAUGH:
+Normally I'd agree with you,
+
+19:30.737 --> 19:32.372
+but the police
+do this every day.
+
+19:32.405 --> 19:34.374
+I mean, turn on the news,
+go to our website.
+
+19:34.407 --> 19:36.576
+"Person of interest,
+wanted for questioning."
+
+19:36.609 --> 19:38.645
+You're the one always
+warning us about privacy.
+
+19:38.678 --> 19:40.413
+Sara, we got this man on video
+
+19:40.447 --> 19:41.681
+dragging a murder victim
+around the corner.
+
+19:41.714 --> 19:44.984
+If it were anybody else,
+we wouldn't hesitate.
+
+19:45.017 --> 19:47.954
+If this is the killer,
+we have to find him.
+
+19:47.987 --> 19:48.888
+Post it.
+
+19:54.961 --> 19:56.529
+(phone chimes)
+
+19:56.563 --> 19:58.498
+*
+
+20:03.636 --> 20:04.771
+(phone chimes)
+
+20:13.646 --> 20:14.914
+(phone chimes)
+
+20:24.957 --> 20:26.626
+SARA:
+"Take him out"?
+
+20:26.659 --> 20:28.428
+"An eye for an eye"?
+
+20:28.461 --> 20:30.963
+Let's hope we won't
+have to solve another murder.
+
+20:36.869 --> 20:38.338
+Referral traffic is way up.
+
+20:38.371 --> 20:39.639
+New users have spiked
+twelvefold.
+
+20:39.672 --> 20:40.940
+Everyone wants
+a look at this guy.
+
+20:41.941 --> 20:43.543
+Or a piece of him.
+"The Beta-Cuck Dictatorship
+
+20:43.576 --> 20:44.577
+"of California
+got a great man killed.
+
+20:44.611 --> 20:46.613
+Get the beaners
+out of here."
+
+20:46.646 --> 20:49.048
+Spelling obviously not a huge
+issue for the Davis crowd.
+
+20:49.081 --> 20:50.850
+Can you mark that
+as inflammatory.
+
+20:50.883 --> 20:52.852
+Uh, where are we with
+building out the algorithm
+
+20:52.885 --> 20:54.987
+to filter out bias?
+I'm already feeding in
+
+20:55.021 --> 20:55.955
+the curated responses.
+
+20:56.823 --> 20:58.057
+A few more hours,
+and we should have
+
+20:58.090 --> 20:58.858
+a large enough sample for Sophe
+
+20:59.759 --> 21:00.893
+to start identifying bias
+on her own.
+
+21:00.927 --> 21:01.594
+Let's hope it works.
+
+21:02.595 --> 21:04.397
+If it doesn't,
+our results could be skewed.
+
+21:04.431 --> 21:06.065
+Nobody's offered up an I.D. yet?
+
+21:06.098 --> 21:09.001
+No. But we've had probably
+50 users attempt to clear him.
+
+21:09.035 --> 21:11.037
+Um... "He couldn't
+have killed Davis.
+
+21:11.070 --> 21:12.505
+He was with me."
+
+21:12.539 --> 21:14.607
+Let's mark that
+as another false alibi.
+
+21:14.641 --> 21:16.909
+I'll teach Sophe
+contextual cues.
+
+21:16.943 --> 21:18.978
+You have any luck sourcing
+those articles on Mia?
+
+21:19.011 --> 21:22.014
+All 38 sites that posted
+some version of the story
+
+21:22.048 --> 21:23.616
+got traced back to a single
+article on something called
+
+21:23.650 --> 21:25.618
+Celebrity Reality Center.
+
+21:25.652 --> 21:27.987
+It's like TMZ,
+but with even less scruples.
+
+21:28.020 --> 21:29.489
+Well, where did they
+get the story?
+
+21:29.522 --> 21:30.990
+That I'm still
+working on.
+
+21:31.023 --> 21:31.924
+Can I borrow you for a second?
+
+21:35.127 --> 21:36.696
+Yeah.
+
+21:36.729 --> 21:38.531
+I have some concerns
+about our user base.
+
+21:38.565 --> 21:39.966
+Our numbers
+are dropping.
+
+21:39.999 --> 21:41.901
+What are you talking about?
+Traffic is way up.
+
+21:41.934 --> 21:44.337
+New users are up,
+but dedicated users,
+
+21:44.371 --> 21:46.573
+people who have been on Sophe
+for ten days or more...
+
+21:46.606 --> 21:49.609
+Watch the change
+over the last 24 hours.
+
+21:51.978 --> 21:53.413
+That's because of
+the Brandt Davis case.
+
+21:53.446 --> 21:54.981
+Some because of Davis.
+
+21:55.014 --> 21:56.716
+But most of the deletions
+are from people
+
+21:56.749 --> 21:58.518
+who only looked
+at Mia's case.
+
+21:58.551 --> 21:59.986
+That doesn't make any sense.
+
+22:00.019 --> 22:01.721
+Why would they be leaving
+because of Mia?
+
+22:01.754 --> 22:03.956
+Jeffrey, Mia's treatment
+at Grand Pines
+
+22:03.990 --> 22:05.925
+is all over the Internet.
+
+22:05.958 --> 22:08.060
+People don't care that
+she suffered from depression;
+
+22:08.094 --> 22:11.431
+they care that they didn't
+hear it from you first.
+
+22:11.464 --> 22:12.965
+That's why they're leaving.
+
+22:12.999 --> 22:14.634
+It's none of
+their damn business.
+
+22:14.667 --> 22:17.404
+I didn't start
+Sophe to air
+
+22:17.437 --> 22:18.505
+Mia's private life in public.
+
+22:18.538 --> 22:20.072
+I know.
+
+22:20.106 --> 22:21.941
+But this isn't just
+your investigation anymore.
+
+22:21.974 --> 22:25.545
+Sophe users are invested
+in finding Mia's killer,
+
+22:25.578 --> 22:27.079
+but they want
+something in return.
+
+22:27.113 --> 22:29.081
+They want community.
+
+22:29.115 --> 22:30.517
+They want access.
+They want honesty.
+
+22:30.550 --> 22:33.085
+And by withholding it...
+
+22:33.119 --> 22:35.455
+you're only going
+to alienate them more.
+
+22:35.488 --> 22:37.624
+(phone chimes, vibrates)
+
+22:39.191 --> 22:40.560
+What is it?
+
+22:40.593 --> 22:41.594
+Nothing.
+
+22:41.628 --> 22:42.595
+Jeffrey?
+
+22:42.629 --> 22:43.763
+No, I hear you.
+
+22:43.796 --> 22:45.498
+I do, I do.
+
+22:48.601 --> 22:50.503
+(chanting):
+All of us! All of us!
+
+22:50.537 --> 22:51.571
+CAVANAUGH: We're still
+waiting on the ME's report,
+
+22:51.604 --> 22:54.040
+but cause of death
+seems pretty clear.
+
+22:54.073 --> 22:56.075
+Two bullet holes
+aren't exactly subtle.
+
+22:56.108 --> 22:57.577
+The image we
+got from Sophe
+
+22:57.610 --> 22:59.045
+is our best lead.
+
+22:59.078 --> 23:00.046
+We're still trying
+to get an I.D.
+
+23:00.079 --> 23:02.181
+Well, hurry up.
+
+23:02.214 --> 23:05.051
+We've got unis breaking up
+fights all over the city.
+
+23:05.084 --> 23:06.653
+Alt-right, Antifa--
+where the hell
+
+23:06.686 --> 23:08.154
+do they get
+these names from, anyway?
+
+23:08.187 --> 23:09.656
+Well, if the guy's out there,
+we'll find him.
+
+23:09.689 --> 23:12.525
+(phone chimes, vibrates)
+
+23:12.559 --> 23:14.627
+RUIZ: We might not
+have to look too far.
+
+23:14.661 --> 23:17.196
+He just turned himself in.
+
+23:17.229 --> 23:18.798
+I didn't do it.
+
+23:18.831 --> 23:21.668
+I didn't kill
+Brandt Davis.
+
+23:21.701 --> 23:24.671
+So this isn't you?
+
+23:24.704 --> 23:26.606
+This isn't you dragging
+Davis from the protest?
+
+23:28.575 --> 23:31.511
+Yeah, that's me, but...
+
+23:31.544 --> 23:33.713
+(sighs)
+...it's not what it looks like.
+
+23:33.746 --> 23:35.615
+RUIZ:
+Really, Eddie?
+
+23:35.648 --> 23:37.584
+Why don't you tell us
+what it looks like to you?
+
+23:37.617 --> 23:39.619
+I didn't do that.
+
+23:39.652 --> 23:42.188
+I dragged him out of there
+to save him.
+
+23:42.221 --> 23:43.723
+(crowd clamoring)
+
+23:46.158 --> 23:50.096
+When the barricades broke down,
+it got insane.
+
+23:50.129 --> 23:52.832
+He'd have been ripped apart,
+so I got him out of there.
+
+23:52.865 --> 23:55.234
+RUIZ: Well, that's
+awfully charitable,
+
+23:55.267 --> 23:57.069
+considering what he says
+about people that look like you.
+
+23:57.103 --> 23:59.105
+What he says about us
+
+23:59.138 --> 24:01.040
+is exactly why
+I didn't want him to get hurt.
+
+24:01.073 --> 24:02.742
+It would play
+right into his narrative.
+
+24:02.775 --> 24:03.309
+CAVANAUGH:
+You're telling me
+
+24:03.342 --> 24:05.645
+you came face-to-face
+
+24:05.678 --> 24:07.614
+with the biggest hater
+in the country,
+
+24:07.647 --> 24:09.816
+and all you can think about
+is "his narrative"?
+
+24:09.849 --> 24:13.119
+I'm out there
+trying to change things.
+
+24:13.152 --> 24:15.588
+Illegal border crossings are
+at their lowest levels in years,
+
+24:15.622 --> 24:18.591
+but all these
+people talk about
+
+24:18.625 --> 24:20.860
+is Mexican criminals
+stealing their jobs.
+
+24:20.893 --> 24:24.497
+"Rapists and murderers,"
+just like their idol says.
+
+24:24.531 --> 24:26.733
+Killing Davis plays
+right into their hands.
+
+24:26.766 --> 24:28.167
+All right, so you saved him,
+
+24:28.200 --> 24:29.869
+you got him out of there,
+then what?
+
+24:29.902 --> 24:31.571
+I hustled him
+down to Fulton Street.
+
+24:31.604 --> 24:33.606
+It was quiet there.
+
+24:33.640 --> 24:35.608
+And if you're wondering,
+
+24:35.642 --> 24:37.844
+no, he didn't say "thank you."
+
+24:37.877 --> 24:39.712
+He acted like
+I'd done something wrong.
+
+24:39.746 --> 24:43.149
+Anyway, um, that's when
+a car rolled up,
+
+24:43.182 --> 24:45.585
+black SUV, North Dakota plates--
+
+24:45.618 --> 24:48.555
+the one with the buffalo
+on them-- and he got in.
+
+24:48.588 --> 24:50.156
+Alive.
+
+24:50.189 --> 24:51.891
+Did you see
+who was driving the SUV?
+
+24:51.924 --> 24:54.226
+Nah.
+
+24:54.260 --> 24:55.662
+Uh, windows were tinted.
+
+24:55.695 --> 24:57.664
+Look, I work hard,
+
+24:57.697 --> 24:59.566
+I pay taxes.
+
+24:59.599 --> 25:01.167
+But I don't have papers.
+
+25:01.200 --> 25:03.235
+I'm taking a risk
+just showing up here.
+
+25:03.269 --> 25:05.605
+You think I'd do that
+if I killed Davis?
+
+25:09.809 --> 25:11.911
+San Francisco is
+a sanctuary city.
+
+25:11.944 --> 25:13.680
+That's why Davis was here
+in the first place.
+
+25:16.282 --> 25:17.917
+So if you didn't do the crime,
+there's no reason
+
+25:17.950 --> 25:19.285
+for ICE to know
+anything about this.
+
+25:19.318 --> 25:22.689
+I didn't.
+
+25:22.722 --> 25:25.191
+I just got off the phone
+with Cavanaugh.
+
+25:25.224 --> 25:27.660
+They don't think
+the guy in the photo did it,
+
+25:27.694 --> 25:29.829
+but they're gonna hold him
+for now while they look into it.
+
+25:29.862 --> 25:33.666
+Meanwhile, it's all over
+the right-wing media
+
+25:33.700 --> 25:39.171
+that an undocumented immigrant
+may have killed Brandt Davis.
+
+25:39.205 --> 25:41.808
+Now people are attacking
+Latinos on the street.
+
+25:44.176 --> 25:45.244
+(grunting)
+
+25:46.979 --> 25:48.314
+SARA:
+This is because of us.
+
+25:48.347 --> 25:50.216
+This is because of Sophe.
+
+25:50.249 --> 25:52.251
+We put his face
+out there,
+
+25:52.284 --> 25:54.654
+and now people are
+using it as an excuse
+
+25:54.687 --> 25:57.223
+to jump anyone that
+looks like him.
+Sara, listen...
+
+25:57.256 --> 26:00.159
+What if what we built is
+actually making the world worse?
+
+26:00.192 --> 26:02.261
+You don't think
+that I've wrestled with this?
+
+26:02.294 --> 26:04.964
+The Internet was supposed
+to bring people together,
+
+26:04.997 --> 26:06.699
+but it also created a platform
+
+26:06.733 --> 26:08.234
+for them to tear
+each other apart.
+
+26:08.267 --> 26:10.169
+The worst part
+
+26:10.202 --> 26:12.839
+about democracy is that
+you have to deal with people
+
+26:12.872 --> 26:14.206
+whose ideas you hate.
+
+26:14.240 --> 26:15.842
+But it's better
+than the alternative.
+
+26:15.875 --> 26:18.244
+We can't dictate what people do
+
+26:18.277 --> 26:20.246
+with what we make.
+
+26:20.279 --> 26:21.981
+But we can steer them
+in the right direction.
+
+26:22.014 --> 26:23.983
+The right dir...
+
+26:24.016 --> 26:26.285
+Right now,
+we are helping to create
+
+26:26.318 --> 26:27.854
+the worst possible
+narrative here.
+
+26:27.887 --> 26:29.722
+We're giving the Brandt Davises
+of this world
+
+26:29.756 --> 26:31.290
+exactly what they want.
+
+26:31.323 --> 26:33.192
+Then change the narrative.
+
+26:33.225 --> 26:34.393
+Find the right killer.
+
+26:34.426 --> 26:35.261
+Just like that.
+(snaps fingers)
+
+26:35.294 --> 26:37.630
+Have you ever heard of
+
+26:37.664 --> 26:39.265
+the Invisible Gorilla
+experiment?
+
+26:39.298 --> 26:41.367
+They told a group of people
+at a basketball game
+
+26:41.400 --> 26:42.835
+to count the number of passes.
+
+26:42.869 --> 26:45.905
+Half the people were
+so focused on the ball,
+
+26:45.938 --> 26:48.875
+they didn't see a gorilla walk
+through the center of the game.
+
+26:48.908 --> 26:51.644
+They only saw
+what they were looking for.
+
+26:53.746 --> 26:54.747
+(knock on door)
+
+26:54.781 --> 26:55.915
+You have a minute?
+
+26:55.948 --> 26:57.349
+Yeah. What's going on?
+
+26:57.383 --> 26:59.919
+We found the original leak
+for the Mia story.
+
+26:59.952 --> 27:02.021
+Celebrity Reality Center
+got it from a Reddit user
+
+27:02.054 --> 27:04.223
+named truthrising776.
+
+27:04.256 --> 27:06.693
+The same username
+also posted about Mia
+
+27:06.726 --> 27:09.428
+all over social media,
+all using the same VPN.
+
+27:09.461 --> 27:11.230
+So you've got nothing?
+
+27:11.263 --> 27:12.765
+Not exactly.
+I found and read
+
+27:12.799 --> 27:14.233
+all their posts
+over the last five years...
+
+27:14.266 --> 27:15.735
+They're all
+trashy stories,
+
+27:15.768 --> 27:17.436
+all damaging to
+different politicians.
+
+27:17.469 --> 27:19.906
+Whoever he or she is,
+
+27:19.939 --> 27:21.640
+Anthony Weiner would
+like to punch them.
+
+27:25.244 --> 27:26.913
+So what are you saying, Mike?
+
+27:26.946 --> 27:28.380
+ALEX:
+Opposition research?
+
+27:28.414 --> 27:30.249
+On me?
+
+27:30.282 --> 27:32.952
+Somebody, somewhere,
+leaked the story about Mia
+
+27:32.985 --> 27:34.921
+to hurt you politically.
+
+27:34.954 --> 27:36.723
+So this is all my fault?
+
+27:36.756 --> 27:38.791
+That's not what I'm saying.
+You are saying that.
+
+27:38.825 --> 27:40.392
+I wanted to let you know
+so you could watch your back.
+
+27:40.426 --> 27:43.830
+How very kind of you.
+You're looking out for me.
+
+27:43.863 --> 27:45.932
+I want to find out who took
+our daughter away from us,
+
+27:45.965 --> 27:48.034
+and if things get messy,
+so be it.
+So do I.
+
+27:48.067 --> 27:49.902
+This is all you, Jeffrey.
+
+27:49.936 --> 27:51.337
+This is all on you.
+
+27:51.370 --> 27:52.338
+At least I give a damn.
+
+27:52.371 --> 27:54.073
+You can tell the press
+
+27:54.106 --> 27:56.809
+that my grief has clouded
+my judgment all you want,
+
+27:56.843 --> 27:59.345
+but at least I'm not
+just over it.
+
+28:02.381 --> 28:04.717
+Michael, can you stop the car?
+
+28:04.751 --> 28:06.418
+Alex, I'm sorry. It's...
+Stop the car, Michael.
+
+28:06.452 --> 28:08.087
+No, just get out.
+Hold on.
+
+28:08.120 --> 28:09.088
+Listen to me.
+
+28:09.121 --> 28:10.256
+Get out.
+
+28:12.959 --> 28:14.894
+*
+
+28:42.254 --> 28:44.223
+Byoop. Byoop.
+I'm good at the sound.
+Don't make the sound.
+
+28:44.256 --> 28:46.058
+The game makes the sound.
+We are missing the gorilla.
+
+28:46.092 --> 28:48.160
+Please tell me this ends
+with Josh in a gorilla suit.
+
+28:48.194 --> 28:50.096
+I'll have you know
+I would rock that suit.
+No.
+
+28:50.129 --> 28:51.998
+My point is, we've been thinking
+about this all wrong.
+
+28:52.031 --> 28:54.100
+I hate Davis's politics,
+
+28:54.133 --> 28:56.235
+so I assumed politics
+is what got him killed.
+
+28:56.268 --> 28:58.104
+To be fair, a lot of people
+want him dead
+
+28:58.137 --> 28:59.438
+because of the crap he spouts.
+Yeah.
+
+28:59.471 --> 29:01.407
+But because of all that noise,
+
+29:01.440 --> 29:04.310
+political motives have been
+overrepresented in the data.
+
+29:04.343 --> 29:07.013
+There's other reasons
+to kill someone.
+
+29:07.046 --> 29:09.882
+Let's look at other motives:
+uh, money, jealousy, revenge.
+
+29:09.916 --> 29:11.250
+Okay.
+Yeah.
+
+29:11.283 --> 29:13.419
+CAVANAUGH: Got the
+traffic cam stills back.
+
+29:13.452 --> 29:15.187
+(computer beeps)
+
+29:15.221 --> 29:16.222
+Okay, Sara, you're on.
+
+29:16.255 --> 29:17.356
+SARA:
+Great.
+
+29:18.357 --> 29:20.126
+We have Sophe focusing
+on non-political data
+
+29:20.159 --> 29:22.361
+to see if there's
+any other motives involved.
+
+29:22.394 --> 29:25.965
+Okay, Eddie Leyva said that
+Davis got into a black SUV
+
+29:25.998 --> 29:27.066
+with North Dakota plates, right?
+
+29:27.099 --> 29:29.101
+(camera clicks)
+These were pulled
+
+29:29.135 --> 29:31.103
+from the traffic
+cam on McAllister,
+
+29:31.137 --> 29:33.339
+just around the corner from
+where Davis's body was found.
+
+29:33.372 --> 29:36.042
+The funny thing is
+Mrs. Davis said
+
+29:36.075 --> 29:38.277
+that she couldn't find her
+husband after the protest,
+
+29:38.310 --> 29:40.479
+that she waited for him
+in the hotel all night.
+
+29:40.512 --> 29:42.248
+(camera clicks)
+And this photo
+
+29:42.281 --> 29:44.516
+was from a few blocks away,
+11 minutes later.
+
+29:44.550 --> 29:46.118
+Brandt Davis is gone.
+
+29:46.152 --> 29:47.920
+So you think
+his wife killed him?
+
+29:47.954 --> 29:49.221
+CAVANAUGH
+Either that,
+
+29:49.255 --> 29:51.523
+or she drove him
+to where someone else did.
+
+29:51.557 --> 29:53.259
+Question is: why?
+
+29:53.292 --> 29:55.261
+TARIQ: Well, we may have
+something here.
+
+29:55.294 --> 29:57.363
+Several users have posted
+pictures of Brandt Davis
+
+29:57.396 --> 29:58.430
+on vacation.
+
+30:01.033 --> 30:03.102
+Yeah, they're also pointing out
+his appearance.
+
+30:03.135 --> 30:04.904
+He's got a nice tan,
+he's lost weight...
+
+30:06.438 --> 30:08.274
+CAVANAUGH:
+And that's not his wife.
+
+30:08.307 --> 30:09.475
+(chuckles)
+
+30:10.642 --> 30:12.011
+TARIQ: Not one of the master
+race either, but... (chuckles)
+
+30:13.212 --> 30:14.180
+I guess hypocrisy never stopped
+anyone from getting laid.
+
+30:14.213 --> 30:15.948
+So... what?
+
+30:15.982 --> 30:17.416
+Liliana finds out
+Brandt is cheating on her,
+
+30:17.449 --> 30:20.987
+she decided to end the marriage
+by ending Brandt?
+
+30:21.020 --> 30:23.422
+JOSH:
+Okay, so, weird thing happening.
+
+30:23.455 --> 30:25.157
+Users are saying
+that the vacation photos
+
+30:25.191 --> 30:26.425
+aren't a vacation.
+
+30:26.458 --> 30:29.228
+That resort Davis was at,
+it's actually something called
+
+30:29.261 --> 30:31.430
+the Lifespring Clinic
+in Rosarito, Mexico.
+
+30:31.463 --> 30:32.564
+SARA:
+What do you mean by "clinic"?
+
+30:32.598 --> 30:34.100
+It's one of those
+
+30:34.133 --> 30:36.035
+hippie-dippy
+alternative medicine places
+
+30:36.068 --> 30:38.404
+where rich people go
+to mainline frankincense cures
+
+30:38.437 --> 30:39.571
+or whatever they do.
+
+30:39.605 --> 30:41.573
+Never discount
+the power of frankincense.
+
+30:41.607 --> 30:44.010
+What about that woman?
+
+30:47.279 --> 30:48.948
+She's a nurse.
+
+30:51.183 --> 30:53.552
+Detective, I don't think
+Davis was having an affair.
+
+30:53.585 --> 30:54.586
+CAVANAUGH:
+No.
+
+30:54.620 --> 30:57.323
+He was dying.
+
+30:59.091 --> 31:01.360
+Just got the autopsy report.
+
+31:01.393 --> 31:04.263
+Brandt Davis had
+pancreatic cancer.
+
+31:04.296 --> 31:06.265
+He only had a few months
+left to live.
+
+31:06.298 --> 31:08.067
+Well, that's a coincidence.
+
+31:08.100 --> 31:09.601
+Yes, it is, isn't it?
+
+31:09.635 --> 31:11.403
+(evidence alert blaring)
+
+31:11.437 --> 31:14.473
+Detective, uh,
+we are having a bit of an issue.
+
+31:14.506 --> 31:16.075
+Can I get back to you?
+
+31:16.108 --> 31:17.243
+CAVANAUGH and RUIZ:
+Yeah.
+
+31:17.276 --> 31:19.211
+It's a troll storm.
+
+31:19.245 --> 31:20.412
+We've got so many
+photo submissions
+
+31:20.446 --> 31:22.114
+it's actually
+gumming up our system.
+
+31:22.148 --> 31:23.349
+Must be from
+Brandt Davis supporters.
+
+31:23.382 --> 31:24.483
+Some. But it looks like
+
+31:25.584 --> 31:26.285
+most of these are new users,
+referred by something
+
+31:26.318 --> 31:28.020
+called the Daily Volk-Press.
+
+31:28.054 --> 31:29.355
+Great.
+It's a Neo-Nazi site.
+
+31:29.388 --> 31:31.190
+They've just realized
+Liliana Davis
+
+31:31.223 --> 31:33.492
+has become a suspect,
+and they are not happy about it.
+
+31:33.525 --> 31:35.427
+Eddie's supporters
+are reacting.
+
+31:35.461 --> 31:37.229
+TARIQ: Looks like the left's got
+some fight in it, after all.
+
+31:37.263 --> 31:39.131
+Less joking, more deleting, huh?
+
+31:49.541 --> 31:51.210
+It's a flame war.
+
+31:51.243 --> 31:53.245
+These trolls are
+coming after Mia.
+
+31:53.279 --> 31:55.647
+I know. We're
+trying to clear it.
+
+31:55.681 --> 31:58.117
+(sighs) Josh, what about
+the bias algorithm?
+
+31:58.150 --> 31:59.651
+I'm not sure it's ready.
+
+31:59.685 --> 32:03.555
+Well, I can't imagine
+a better time to find out.
+
+32:03.589 --> 32:06.592
+Right, yeah, okay.
+Um, all right, here goes.
+
+32:06.625 --> 32:09.395
+If it works, the algorithm
+will cancel out the responses
+
+32:09.428 --> 32:11.130
+from the extreme
+left and right,
+
+32:11.163 --> 32:13.165
+leaving us with
+the unbiased middle.
+
+32:29.315 --> 32:31.683
+Real-time bias
+correction. You did it.
+
+32:31.717 --> 32:33.285
+Nice work.
+JOSH: Thanks.
+
+32:33.319 --> 32:35.621
+SARA: See? Sophe can
+handle user bias.
+
+32:35.654 --> 32:37.389
+Slow your roll there, M.I.T.,
+you're no Jedi yet.
+
+32:37.423 --> 32:38.557
+Shut up.
+
+32:38.590 --> 32:40.459
+SARA:
+Look.
+
+32:40.492 --> 32:42.694
+Users are sending in
+video files.
+
+32:42.728 --> 32:44.696
+BRANDT: We all know the only
+reason people remember Malcolm X
+
+32:44.730 --> 32:46.698
+is 'cause he was killed.
+
+32:46.732 --> 32:48.367
+Name one thing
+he actually accomplished.
+
+32:48.400 --> 32:51.570
+Martin Luther King, Jr.,
+Gandhi--
+
+32:51.603 --> 32:53.572
+I disagree with their beliefs,
+
+32:53.605 --> 32:55.541
+but I admire them
+for sticking to them.
+
+32:55.574 --> 32:59.445
+They'd be relics in history
+if not for their deaths.
+
+32:59.478 --> 33:03.682
+But because of that...
+we'll remember them forever.
+
+33:03.715 --> 33:08.254
+Weird that Davis had a thing for
+civil rights leaders, isn't it?
+
+33:08.287 --> 33:10.589
+Not the leaders,
+their deaths.
+
+33:10.622 --> 33:13.259
+They were all assassinated.
+
+33:13.292 --> 33:15.727
+Are you saying Brandt wanted
+to die at that rally?
+
+33:15.761 --> 33:17.363
+He was already dying.
+
+33:17.396 --> 33:19.398
+If you're this guy,
+
+33:19.431 --> 33:23.335
+what better way to go out
+than becoming a martyr?
+
+33:28.374 --> 33:31.677
+Thank you for agreeing to
+speak with us again, Mrs. Davis.
+
+33:31.710 --> 33:34.413
+If you want counsel present,
+you're entitled to that.
+
+33:40.319 --> 33:41.720
+I'm fine.
+
+33:41.753 --> 33:43.489
+What is this about?
+
+33:43.522 --> 33:45.424
+We were wondering
+if maybe
+
+33:45.457 --> 33:47.826
+you weren't completely
+honest with us earlier.
+
+33:47.859 --> 33:50.362
+We know your
+husband was sick.
+
+33:50.396 --> 33:52.298
+Pancreatic cancer
+is no picnic.
+
+33:52.331 --> 33:55.234
+And we also know
+how much you loved him.
+
+33:55.267 --> 33:57.403
+It'd take a lot of love
+to do what you did.
+
+33:57.436 --> 33:59.505
+I didn't do anything.
+
+33:59.538 --> 34:03.609
+You didn't make your husband
+a martyr, just like he wanted?
+
+34:03.642 --> 34:05.711
+Brandt is a martyr.
+
+34:05.744 --> 34:07.546
+An illegal killed him
+
+34:07.579 --> 34:10.716
+because he didn't like
+what Brandt believed.
+
+34:10.749 --> 34:13.452
+Sad as it is, that's
+the America we live in now.
+
+34:19.358 --> 34:20.759
+This was taken
+
+34:20.792 --> 34:22.461
+right before your
+husband was killed.
+
+34:22.494 --> 34:26.298
+Right before you drove him
+to that alley
+
+34:26.332 --> 34:28.500
+and shot him.
+
+34:30.769 --> 34:32.438
+No.
+
+34:32.471 --> 34:33.705
+We found your car.
+
+34:33.739 --> 34:36.408
+Our techs lifted traces
+of gunpowder and blood
+
+34:36.442 --> 34:37.643
+off the steering wheel.
+
+34:37.676 --> 34:39.445
+The DNA cinches it.
+
+34:39.478 --> 34:40.879
+CAVANAUGH: We also
+found the sniper's nest
+
+34:40.912 --> 34:42.481
+in the building
+across the street.
+
+34:42.514 --> 34:44.416
+Kind of hard
+to conceal the hole
+
+34:44.450 --> 34:46.518
+your husband's guy
+cut into the glass.
+
+34:46.552 --> 34:48.554
+He had somebody all
+ready to take him out
+
+34:48.587 --> 34:50.622
+in full view of everyone,
+didn't he?
+
+34:50.656 --> 34:53.259
+Till Eddie Leyva
+spoiled his plan.
+
+35:04.436 --> 35:07.606
+Brandt was so smart,
+you know.
+
+35:07.639 --> 35:09.875
+He was always reading,
+
+35:09.908 --> 35:11.710
+especially history.
+
+35:11.743 --> 35:14.713
+He loved history--
+Roman, Greek.
+
+35:14.746 --> 35:18.417
+In another life, maybe he would
+have been a professor.
+
+35:18.450 --> 35:21.387
+From the day I met him,
+
+35:21.420 --> 35:23.689
+I knew he was destined
+to leave a mark.
+
+35:23.722 --> 35:29.328
+Dying of cancer is so...
+average.
+
+35:29.361 --> 35:31.730
+And your husband wasn't average,
+was he, Mrs. Davis?
+
+35:31.763 --> 35:34.666
+Progress demands sacrifice.
+
+35:34.700 --> 35:36.568
+He always said.
+
+35:36.602 --> 35:39.471
+And he walked the walk.
+
+35:39.505 --> 35:42.474
+He made the ultimate sacrifice
+for his cause.
+
+35:42.508 --> 35:44.876
+The way I see it...
+
+35:47.446 --> 35:49.815
+...this evidence can
+tell two stories.
+
+35:49.848 --> 35:52.351
+The first is about
+a scheming woman
+
+35:52.384 --> 35:54.653
+who murdered her
+husband in cold blood.
+
+35:54.686 --> 35:57.489
+The second is a story
+of a loving wife
+
+35:57.523 --> 36:01.427
+who granted her dying
+husband's last wish.
+
+36:01.460 --> 36:03.762
+Now, we can't do
+anything for a murderer.
+
+36:03.795 --> 36:06.698
+But for a loving wife...
+
+36:06.732 --> 36:09.435
+we can talk
+to the D.A. for her.
+
+36:09.468 --> 36:13.705
+Maybe get the
+charges reduced.
+
+36:13.739 --> 36:16.342
+All you have to do is write down
+your confession, Mrs. Davis.
+
+36:17.776 --> 36:19.878
+Say that your husband
+put you up to this.
+
+36:40.666 --> 36:43.402
+I need you to
+understand.
+
+36:43.435 --> 36:45.837
+If you don't, there's
+nothing we can do for you.
+
+36:45.871 --> 36:48.474
+You will spend the rest
+of your life in prison
+
+36:48.507 --> 36:50.642
+just for helping
+the man you loved.
+
+36:54.012 --> 36:55.814
+I didn't help him
+do anything.
+
+36:55.847 --> 36:57.716
+Mrs. Davis.
+I told you.
+
+36:57.749 --> 37:00.552
+Brandt was killed by an illegal.
+
+37:00.586 --> 37:03.489
+Somebody who shouldn't even be
+in this white country.
+
+37:03.522 --> 37:05.757
+And that's how
+he'll be remembered,
+
+37:05.791 --> 37:08.594
+as a martyr...
+
+37:08.627 --> 37:10.396
+forever.
+
+37:16.535 --> 37:17.503
+(door opens)
+
+37:17.536 --> 37:19.405
+Take Mrs. Davis
+to booking.
+
+37:27.979 --> 37:29.515
+BRANDT:
+We're still here.
+
+37:29.548 --> 37:31.950
+And we're ready to fight
+for this cause,
+
+37:31.983 --> 37:33.985
+ready to die for it.
+
+37:34.019 --> 37:36.555
+And we will prevail,
+
+37:36.588 --> 37:40.058
+because when truth is on
+your side, nothing else matters.
+
+37:40.091 --> 37:41.927
+BOORMAN: Those were
+Brandt's last words to us.
+
+37:41.960 --> 37:44.896
+He lived a hero
+and he died a martyr.
+
+37:44.930 --> 37:48.867
+He dared to speak the truth, and
+an illegal killed him for it.
+
+37:48.900 --> 37:50.936
+Don't believe the fake news
+
+37:50.969 --> 37:53.071
+the mainstream media
+is trying to sell.
+
+37:53.104 --> 37:54.973
+Liliana loved Brandt
+more than anything.
+
+37:55.006 --> 37:57.476
+She'd never have hurt him.
+
+37:57.509 --> 37:59.745
+It's inconceivable.
+
+37:59.778 --> 38:02.080
+Well, regardless of how you feel
+about Brandt Davis or his views,
+
+38:02.113 --> 38:05.484
+the official story
+doesn't add up.
+
+38:05.517 --> 38:08.954
+And isn't it a coincidence
+that Jeffrey Tanner is involved?
+
+38:08.987 --> 38:11.657
+You know,
+Alex Hale's ex-husband,
+
+38:11.690 --> 38:13.659
+whose own daughter
+may have known something
+
+38:13.692 --> 38:15.561
+that some people
+didn't want out there.
+
+38:15.594 --> 38:17.028
+Isn't that all neat and tidy?
+
+38:17.062 --> 38:19.565
+People are outraged.
+
+38:19.598 --> 38:22.100
+We can't keep up with
+all the calls we're getting.
+
+38:22.133 --> 38:23.802
+TANNER: A white
+supremacist martyr.
+
+38:23.835 --> 38:25.937
+It's like jumbo shrimp.
+
+38:25.971 --> 38:27.973
+Real story is out there.
+
+38:28.006 --> 38:31.477
+Eventually, the truth matters.
+Has to.
+
+38:33.979 --> 38:35.747
+What can I do for you,
+Detective?
+
+38:39.651 --> 38:42.854
+I got a call.
+
+38:42.888 --> 38:45.724
+Carlos Ochoa was
+attacked in prison.
+
+38:45.757 --> 38:46.825
+He was stabbed.
+
+38:46.858 --> 38:50.729
+Good news is
+he survived.
+
+38:50.762 --> 38:53.865
+18 hours of surgery,
+but he pulled through.
+
+38:53.899 --> 38:56.702
+Bad news is he's in a coma.
+
+38:56.735 --> 39:00.138
+Docs don't know if
+he'll ever wake up.
+
+39:00.171 --> 39:02.874
+Look, Tanner, I know this is not
+what you want to hear, and...
+
+39:02.908 --> 39:05.811
+I started this investigation
+for Mia,
+
+39:05.844 --> 39:09.515
+and now Carlos Ochoa
+is a victim, too.
+
+39:16.755 --> 39:19.758
+I have to believe
+there's something to it all.
+
+39:22.093 --> 39:24.530
+I have to see it through.
+
+39:27.866 --> 39:29.601
+Hey, Dad.
+
+39:29.635 --> 39:31.737
+Um, your office said
+you're out of town,
+
+39:31.770 --> 39:34.840
+so figured you'd like
+the personal touch. (chuckles)
+
+39:34.873 --> 39:36.141
+Anyways,
+
+39:36.174 --> 39:39.745
+um, can't wait
+to see you tomorrow.
+
+39:39.778 --> 39:42.748
+Hey, I know I probably
+don't say this enough,
+
+39:42.781 --> 39:44.883
+but I love you, Dad.
+
+39:44.916 --> 39:47.653
+And, um, I know
+we've had our problems,
+
+39:47.686 --> 39:50.055
+but I wouldn't be
+who I am without you.
+
+39:50.088 --> 39:52.758
+So... anyways, travel safe.
+
+39:52.791 --> 39:54.660
+Love you.
+
+39:54.693 --> 39:55.927
+Already said that, didn't I?
+
+39:55.961 --> 39:58.564
+(laughs) Okay. Bye.
+
+40:07.939 --> 40:11.142
+That's who my daughter was...
+
+40:11.176 --> 40:13.078
+a bright, generous spirit
+
+40:13.111 --> 40:16.682
+who spent her time
+helping others.
+
+40:16.715 --> 40:19.851
+But she wasn't above
+needing help herself.
+
+40:19.885 --> 40:21.920
+The truth is...
+
+40:21.953 --> 40:24.990
+I wasn't upfront about
+Mia's stay at Grand Pines.
+
+40:27.025 --> 40:29.695
+She was a private person,
+and I...
+
+40:29.728 --> 40:32.698
+I just wanted to respect that,
+but, in the end,
+
+40:32.731 --> 40:38.236
+my silence damaged your trust
+in me and in Sophe.
+
+40:38.269 --> 40:41.707
+And for that, I'm very sorry.
+
+40:41.740 --> 40:45.744
+I see now that Mia's case
+doesn't just belong to me.
+
+40:45.777 --> 40:49.147
+It belongs to everyone
+who joined in to help us.
+
+40:49.180 --> 40:53.985
+So, as of today...
+
+40:54.019 --> 40:58.123
+I promise complete transparency.
+
+40:58.156 --> 41:02.060
+I'm putting everything
+that I have about my daughter
+
+41:02.093 --> 41:03.995
+on Sophe.
+
+41:04.029 --> 41:07.833
+The truth matters.
+
+41:07.866 --> 41:10.135
+And I hope...
+
+41:10.168 --> 41:13.739
+I hope that this
+restores your faith,
+
+41:13.772 --> 41:15.273
+so that together
+
+41:15.306 --> 41:20.712
+we can do what's right,
+once and for all.
+
+41:20.746 --> 41:23.048
+For Mia.
+
+41:25.050 --> 41:28.019
+Are you sure?
+
+41:28.053 --> 41:30.155
+Yes.
+
+41:30.188 --> 41:32.290
+Even the police files.
+
+41:32.323 --> 41:33.925
+Everything.
+
+41:43.835 --> 41:45.003
+Even Mia's video?
+
+41:45.036 --> 41:46.271
+Post it.
+
+41:53.178 --> 41:55.747
+Post it all.
+
+41:58.349 --> 41:59.818
+(computer beeps)
+
+42:08.727 --> 42:10.195
+It's working.
+
+42:10.228 --> 42:12.998
+Captioning sponsored by
+CBS
+
+42:13.031 --> 42:15.100
+and TOYOTA.
+
+42:26.244 --> 42:30.015
+Captioned by
+Media Access Group at WGBH
+access.wgbh.org

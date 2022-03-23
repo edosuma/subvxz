@@ -1,0 +1,1982 @@
+WEBVTT
+
+00:07.240 --> 00:09.766
+From <i>Bloomberg West</i> in San Francisco,
+I'm Emily Chang.
+
+00:09.920 --> 00:13.527
+General Keith Alexander is here
+to tackle tech's role in counter-terrorism,
+
+00:13.600 --> 00:16.364
+but first, a quick glimpse
+with Richard Hendricks,
+
+00:16.480 --> 00:20.201
+founder and CEO of the hot, new
+compression platform Pied Piper,
+
+00:20.280 --> 00:22.851
+and Erlich Bachman, Chief Visionary.
+
+00:22.960 --> 00:28.285
+Oh, Emily Chang, it is just splendid
+to be here with you at historical Pier 3,
+
+00:28.360 --> 00:29.691
+with a breathtaking view
+
+00:29.800 --> 00:31.609
+of the Embarcadero Center
+
+00:31.680 --> 00:33.364
+and the flag of San Francisco.
+
+00:33.600 --> 00:34.601
+Now, Richard...
+
+00:34.720 --> 00:38.088
+Richard actually
+developed this technology in my incubator.
+
+00:38.160 --> 00:39.730
+I am listed...
+
+00:39.800 --> 00:44.806
+I was originally listed under the white pages
+as "Erlich Blachman", with an
+
+00:44.880 --> 00:46.564
+a typo that apparently couldn't be changed,
+
+00:46.640 --> 00:49.211
+and then Google indexed it,
+so I've been dealing with that.
+
+00:50.200 --> 00:54.250
+Richard, Pied Piper has taken off like a rocket.
+
+00:54.320 --> 00:57.369
+More than 100,000 installs
+in just 10 days.
+
+00:57.440 --> 00:58.487
+Is that right?
+
+00:59.640 --> 01:00.766
+Uh... Uh, yes.
+
+01:00.840 --> 01:01.887
+Pretty amazing.
+
+01:01.960 --> 01:05.851
+And you have a last-minute invite
+to the Vanity Fair summit dinner tonight.
+
+01:05.960 --> 01:07.962
+Quite an honor for such a young company.
+
+01:08.040 --> 01:09.565
+Richard, maybe
+you could comment on this one?
+
+01:09.640 --> 01:13.087
+Yeah, we are finally the belles of the balls.
+
+01:13.880 --> 01:15.166
+I mean, uh, ball.
+
+01:15.560 --> 01:20.248
+Now, some people are
+calling you the next Unicorn.
+
+01:20.320 --> 01:22.004
+Have you guys thought about that?
+
+01:22.080 --> 01:24.481
+You could have a billion-dollar company.
+
+01:24.560 --> 01:28.531
+Erlich, you could own 5% of $1 billion.
+
+01:28.680 --> 01:29.920
+Uh, ten, actually.
+
+01:30.000 --> 01:31.001
+<i>Richard, this is boring.</i>
+
+01:31.080 --> 01:32.241
+- Shit.
+- No, no, no.
+
+01:32.360 --> 01:33.930
+<i>He was an early investor.</i>
+
+01:34.000 --> 01:36.287
+<i>Again, it's Erlich Bachman.</i>
+
+01:36.360 --> 01:39.648
+<i>If you Google that, it'll say,
+"Did you mean Erlich Blachman?"</i>
+
+01:39.720 --> 01:43.884
+<i>You can click on that link, it'll give you
+the correct results for Erlich Bachman.</i>
+
+01:44.680 --> 01:46.364
+<i>Should we take some calls?</i>
+
+01:46.440 --> 01:47.441
+<i>We don't do that here.</i>
+
+01:49.000 --> 01:50.604
+I just know what I saw, Richard.
+
+01:50.680 --> 01:54.321
+No, come on. Look, she's married,
+she just had another baby.
+
+01:54.400 --> 01:57.802
+If you pushed a little harder,
+you could have scored right there on camera.
+
+01:57.880 --> 01:59.644
+- You should get her phone number.
+- Shut up.
+
+02:01.360 --> 02:04.967
+Oh. This is actually,
+uh, Jian-Yang pranking me.
+
+02:05.040 --> 02:06.041
+I should take it.
+
+02:08.120 --> 02:11.966
+Yes, of course I have frog's legs.
+Why do you ask?
+
+02:12.040 --> 02:16.011
+Are you serious? Have you honestly still
+not told him that you sold your shares?
+
+02:16.080 --> 02:17.684
+You can't keep lying to him like this.
+
+02:17.760 --> 02:19.364
+It's not technically a lie.
+
+02:19.440 --> 02:21.807
+My shares don't transfer to Raviga
+until the next board meeting.
+
+02:21.880 --> 02:24.281
+- Come on, it's been 10 days.
+- I know, I know.
+
+02:24.360 --> 02:27.967
+But, you know, the TechCrunch thing came up
+and then there was the Reddit AMA
+
+02:28.040 --> 02:30.327
+and, you know, now this Bloomberg thing.
+
+02:30.400 --> 02:31.811
+And besides, let's be honest,
+
+02:31.920 --> 02:34.685
+Richard shouldn't be in the public eye
+without me along to help.
+
+02:34.800 --> 02:37.007
+Did you just see the skeeved-out look
+on Emily Chang's face?
+
+02:37.080 --> 02:38.525
+I thought she was going to walk off set.
+
+02:38.600 --> 02:40.409
+Erlich, you're lying to him,
+
+02:40.480 --> 02:43.290
+and you made me a part of it,
+so now I'm lying to him, too.
+
+02:43.360 --> 02:45.328
+The longer you wait,
+the worse this is gonna get.
+
+02:45.400 --> 02:47.687
+- All right, fine, fine. I'll tell him.
+- When?
+
+02:47.760 --> 02:50.525
+After the Vanity Fair thing tonight.
+I mean, did you see the guest list?
+
+02:50.600 --> 02:52.011
+Monica, throw me a bone here.
+
+02:52.080 --> 02:54.447
+Twenty-four hours, then I'm telling him.
+
+02:54.520 --> 02:56.443
+- Fine, I'll tell him. I'll tell Richard.
+- I'm serious.
+
+02:56.520 --> 02:57.601
+- Tell me what?
+- I'm not joking...
+
+02:57.680 --> 02:58.681
+Um...
+
+02:59.280 --> 03:00.691
+it was, uh, Jian-Yang.
+
+03:00.760 --> 03:03.240
+He said to tell you that
+Phillip McCrevis left word.
+
+03:03.320 --> 03:05.607
+Oh. Who's Phillip... Oh.
+
+03:18.080 --> 03:21.926
+Richard, we'd better get our asses
+in first fucking gear
+
+03:22.000 --> 03:25.004
+if we want to make it
+to this Verge photoshoot.
+
+03:25.080 --> 03:26.889
+Oh, shit. That's today?
+
+03:26.960 --> 03:29.645
+Yes, I assume that's why you're still
+wearing your Bloomberg makeup.
+
+03:30.040 --> 03:33.123
+No. No, I was just... I kind of like the way it...
+
+03:33.440 --> 03:36.091
+Uh... Can we just
+push this to next week, please?
+
+03:36.160 --> 03:38.367
+They don't really do that.
+
+03:39.120 --> 03:40.963
+Okay, well, can you go?
+
+03:41.040 --> 03:42.451
+Please? I just have a ton of work,
+
+03:42.520 --> 03:46.411
+and honestly I would be really happy
+if I never had to do any of this ever again
+
+03:46.480 --> 03:48.050
+and then you were just
+the face of the company.
+
+03:48.120 --> 03:50.043
+You know what I mean? Oh, shit.
+
+03:50.120 --> 03:52.043
+What time is this Vanity Fair thing?
+
+03:52.120 --> 03:54.521
+It's tonight. I figure we're wheels up by 6:00,
+
+03:54.600 --> 03:57.604
+then we can check into the hotel,
+shit, shave, and shit again.
+
+03:57.680 --> 03:59.523
+- Get a cocktail.
+- What hotel?
+
+03:59.600 --> 04:01.409
+Eavesdropping. Well, if you must know,
+
+04:01.480 --> 04:04.563
+we got a suite at the Fairmont,
+and they're sending a car.
+
+04:04.680 --> 04:07.251
+I think Richard deserves it.
+And then I figured tomorrow in the a.m.,
+
+04:07.320 --> 04:09.607
+we would sleep in and have a nice brunch.
+
+04:09.680 --> 04:12.047
+I don't have time for a brunch.
+I have to be back here.
+
+04:12.120 --> 04:16.125
+Come on, Eggs Benny, a little spinach tartar,
+you'll flirt with the waitress.
+
+04:16.200 --> 04:19.841
+Killer. And, uh, we'll have a nice talk.
+
+04:20.360 --> 04:21.771
+"Talk"? What about?
+
+04:21.839 --> 04:25.049
+You know, things, all sorts of themes.
+
+04:25.520 --> 04:28.808
+So tomorrow, you, me, brunch,
+
+04:28.880 --> 04:32.282
+and, uh, one word. Frittata.
+
+04:34.600 --> 04:37.729
+Hey, fellas, is it me, or is it a bit chilly in here?
+
+04:40.840 --> 04:43.286
+What in God's name is that?
+
+04:43.360 --> 04:45.840
+What do you think it is? It's a jacket!
+
+04:47.040 --> 04:49.441
+Now, I only ordered one as a sample,
+
+04:49.520 --> 04:52.171
+but once I have your sizes,
+we can all have them.
+
+04:52.240 --> 04:55.005
+Why would we all want them?
+One is already too many.
+
+04:55.080 --> 04:57.560
+I don't mean in the house.
+I mean, like, in the world.
+
+04:57.640 --> 05:01.645
+Now Gilfoyle, I have you at about a 40 long?
+Am I right?
+
+05:01.720 --> 05:03.927
+If my mother was naked
+and dead in the street,
+
+05:04.000 --> 05:06.651
+I would not cover her body with that jacket.
+
+05:06.720 --> 05:08.529
+<i>GM.</i>
+
+05:09.880 --> 05:11.120
+Jared, now that you're here,
+
+05:11.200 --> 05:13.771
+-we need two new tables in the game room.
+- Yeah?
+
+05:13.840 --> 05:17.401
+Okay. Well, maybe against the doors?
+
+05:17.560 --> 05:19.767
+Oh, hold on, there's more.
+
+05:25.160 --> 05:27.208
+And you guys give me shit
+for a tiny gold chain?
+
+05:27.280 --> 05:31.444
+I regret nothing. I'm going to get coffee.
+
+05:35.200 --> 05:36.565
+Hey, Brownie, you coming?
+
+05:36.640 --> 05:38.529
+I was thinking
+we'd hit the Philz on Middlefield.
+
+05:38.600 --> 05:41.206
+No, let's drive to the one on Forest Avenue.
+
+05:41.280 --> 05:43.123
+It's further from that jacket.
+
+05:43.680 --> 05:46.160
+Claude, you're on pager duty
+until we get back.
+
+05:48.080 --> 05:50.481
+Jared, can I borrow that jacket?
+
+05:50.920 --> 05:53.844
+I sense you're doing something ironic with it,
+
+05:53.920 --> 05:55.331
+but I'm okay with that,
+
+05:55.440 --> 05:59.809
+because however unattractive
+this jacket may seem to you,
+
+05:59.920 --> 06:03.003
+once you slip it on, everything will change.
+
+06:03.080 --> 06:08.325
+It'll shake out its hair and take off its glasses,
+and before you know it, you'll be in love.
+
+06:08.880 --> 06:11.247
+Jared, it's really fucking ugly.
+
+06:14.040 --> 06:16.247
+Consider the tortoise.
+
+06:16.320 --> 06:18.004
+As the fable teaches us,
+
+06:18.080 --> 06:20.208
+it may appear that he is losing in his race
+
+06:20.280 --> 06:23.762
+against his nemesis,
+the insolent and cocksure hare.
+
+06:25.680 --> 06:27.523
+But appearances can be deceiving.
+
+06:27.680 --> 06:29.762
+Gavin, the tortoise. Is it Endframe?
+
+06:29.920 --> 06:32.844
+Yes. But there's more.
+
+06:32.920 --> 06:36.083
+- The hare is Pied Piper.
+-Indeed it is. Someone's read their Aesop.
+
+06:36.160 --> 06:37.810
+We've also read the financials, Gavin.
+
+06:37.880 --> 06:39.325
+Between Nucleus and EndFrame,
+
+06:39.400 --> 06:42.051
+you've burned through
+three-quarters of $1 billion,
+
+06:42.120 --> 06:44.043
+with virtually nothing to show for it.
+
+06:44.120 --> 06:45.246
+Two weeks ago,
+
+06:45.320 --> 06:49.405
+on the heels of powering down the entire
+Hooli campus for seemingly no reason,
+
+06:49.480 --> 06:52.927
+you lost all of EndFrame's senior engineers.
+
+06:53.000 --> 06:56.049
+I grant you, we've stumbled on offense of late,
+
+06:56.120 --> 06:58.122
+but the best offense is a good defense.
+
+06:58.200 --> 07:00.601
+We've taken a page out of Apple's playbook
+
+07:00.680 --> 07:03.889
+and are currently "reviewing"
+the Pied Piper app for sale
+
+07:03.960 --> 07:07.601
+in our Hooli store
+at a pace one might call "tortoise-like."
+
+07:07.680 --> 07:09.284
+Don't. They hate that.
+
+07:09.960 --> 07:11.928
+In any case, I have it on good authority
+
+07:12.000 --> 07:16.927
+that it may be some time before Pied Piper
+is available on Hooli OS devices.
+
+07:17.040 --> 07:18.690
+We're making it available immediately.
+
+07:18.880 --> 07:19.961
+Sorry?
+
+07:20.040 --> 07:23.044
+You're fighting a war that's already ended,
+Gavin. Pied Piper won.
+
+07:23.200 --> 07:25.043
+We called this board meeting to inform you
+
+07:25.120 --> 07:28.329
+that it's time for Hooli to let go
+and move on without you at the wheel.
+
+07:28.400 --> 07:32.200
+I'm sorry, without me?
+Are you firing me?
+
+07:32.280 --> 07:33.964
+Our intention is simply to transition you
+
+07:34.040 --> 07:36.566
+into a more appropriate role
+within the company,
+
+07:36.640 --> 07:39.371
+one with less oversight
+of day-to-day operations.
+
+07:41.400 --> 07:43.801
+You're putting me on the fucking roof?
+
+07:43.880 --> 07:46.963
+You could always choose to move on, Gavin.
+Up to you.
+
+07:47.040 --> 07:51.728
+I built this company with my bare hands
+in my fucking garage.
+
+07:51.800 --> 07:53.609
+Where were you when I was doing that?
+
+07:54.720 --> 07:55.801
+Gavin?
+
+07:57.000 --> 07:58.240
+These animals?
+
+08:11.160 --> 08:12.446
+Fuck.
+
+08:13.920 --> 08:18.050
+Well, uh, you are certainly more than qualified
+to be our new head of PR.
+
+08:18.120 --> 08:19.360
+Laurie thinks you're great.
+
+08:19.600 --> 08:22.080
+Um, to be honest, we could use the help.
+
+08:22.360 --> 08:26.126
+All the media stuff has been pretty
+overwhelming, especially lately.
+
+08:26.200 --> 08:28.885
+- If Marissa Mayer can do it, so can you.
+- Oh.
+
+08:29.640 --> 08:31.927
+And you're available immediately?
+
+08:32.000 --> 08:34.684
+I am. I do have one question for you guys.
+
+08:34.760 --> 08:38.287
+Is everything here cool?
+
+08:40.039 --> 08:42.327
+Is it cool?
+
+08:42.400 --> 08:44.164
+Uh, yeah. Yeah, I mean, I'm cool.
+
+08:44.240 --> 08:45.730
+- Yeah, he is cool.
+- Uh-huh.
+
+08:45.800 --> 08:50.124
+Clearly, but is there anything you guys
+want to tell me about the company?
+
+08:51.360 --> 08:52.361
+What, like, uh...
+
+08:52.440 --> 08:54.044
+All right, look, this is weird,
+
+08:54.120 --> 08:56.726
+but when I was in Laurie's office yesterday,
+
+08:56.800 --> 08:59.246
+I saw a piece of paper on her desk.
+
+08:59.320 --> 09:01.721
+Well, she can be a bit untidy.
+
+09:01.800 --> 09:04.406
+It was a sale of a big block
+of Pied Piper stock.
+
+09:04.880 --> 09:06.120
+Is someone on the inside
+
+09:06.200 --> 09:08.487
+-dumping shares right as you're launching?
+- What?
+
+09:08.880 --> 09:11.690
+No. No, absolutely not.
+
+09:11.760 --> 09:13.683
+'Cause that would be
+a pretty severe signaling risk.
+
+09:13.760 --> 09:15.205
+I mean, you don't have to be in PR
+
+09:15.280 --> 09:17.169
+to know that insiders
+only dump stock like that
+
+09:17.240 --> 09:18.651
+when they know something is wrong.
+
+09:18.960 --> 09:21.247
+The bulk of my compensation here
+would be options,
+
+09:21.320 --> 09:22.890
+and if those aren't
+going to be worth anything...
+
+09:23.440 --> 09:25.841
+Yeah. No. No, no, no.
+
+09:25.960 --> 09:29.248
+That is not happening, okay?
+Nothing is going on here.
+
+09:29.320 --> 09:31.846
+- Yeah, except excellence.
+- Okay.
+
+09:32.920 --> 09:37.847
+Well, you let me know what you want to do
+and I'll think about it.
+
+09:39.320 --> 09:41.004
+Okay. Oh.
+
+09:41.520 --> 09:43.522
+Um, well, thanks for coming.
+
+09:48.160 --> 09:49.605
+What the hell was that?
+
+09:50.080 --> 09:52.526
+Maybe it was a negotiating tactic?
+
+09:54.360 --> 09:55.441
+Monica.
+
+09:56.960 --> 09:57.961
+It's Monica.
+
+09:58.040 --> 09:59.724
+Well, let's not jump to conclusions.
+
+09:59.800 --> 10:02.804
+I mean, she's the only one
+who's bought a jacket.
+
+10:02.880 --> 10:05.929
+Jared, she's the only one
+who hates the platform.
+
+10:06.040 --> 10:09.601
+There's no other explanation for this.
+Okay? Monica fucked us.
+
+10:09.800 --> 10:13.122
+She pulled down our pants
+and fucked us in front of our parents.
+
+10:14.360 --> 10:17.170
+Did some...
+Richard, did somebody do that to you?
+
+10:17.240 --> 10:18.241
+No. No, I don't know why...
+
+10:20.880 --> 10:24.805
+Oh, boy, it is chilly.
+
+10:25.440 --> 10:28.808
+Good thing I brought this sweet jiz-acket.
+
+10:28.880 --> 10:32.089
+Hey, friend? We came here together.
+
+10:34.080 --> 10:35.445
+I know what you're doing.
+
+10:36.840 --> 10:38.649
+You think you're embarrassing me,
+
+10:38.720 --> 10:41.405
+but that's only the secondary effect
+of that shitty jacket.
+
+10:41.480 --> 10:43.164
+The primary effect is
+
+10:43.560 --> 10:47.804
+that you look like a douchebag.
+
+10:47.880 --> 10:49.803
+Let me put this in terms you'll understand.
+
+10:49.880 --> 10:52.804
+I'm like a suicide bomber of humiliation.
+
+10:52.920 --> 10:55.969
+I'm happy to go out
+as long as I take you with me.
+
+10:56.040 --> 10:59.408
+Your shame is my paradise.
+
+11:01.760 --> 11:03.091
+'Sup, ladies?
+
+11:03.240 --> 11:06.289
+What you noshing on? Cranberry scone?
+
+11:06.360 --> 11:11.241
+My friend Dinesh here
+has a little crush on you. He's shy.
+
+11:11.840 --> 11:13.080
+I don't know him.
+
+11:13.760 --> 11:15.842
+Oh, he plays coy.
+
+11:15.920 --> 11:17.410
+I don't know why he's so shy.
+
+11:17.480 --> 11:19.801
+Excuse me. I noticed your jacket.
+
+11:19.920 --> 11:21.251
+Do you work for Pied Piper?
+
+11:22.280 --> 11:24.408
+- Yeah.
+- Dude, your app is killin' it.
+
+11:24.480 --> 11:26.209
+Everyone I know is installing it.
+
+11:26.280 --> 11:28.442
+Do you, seriously?
+I just downloaded it last night.
+
+11:28.840 --> 11:31.081
+- Yeah?
+- Do you mind if we get a picture?
+
+11:31.160 --> 11:33.527
+- With me?
+- Yeah. Everybody get in.
+
+11:33.600 --> 11:35.045
+If you want it.
+
+11:37.120 --> 11:38.565
+- Thanks.
+- Thanks, bro.
+
+11:38.640 --> 11:41.211
+Hey, man, did you remember
+to put money in the meter?
+
+11:41.280 --> 11:43.760
+Hi, I'm Dinesh. l work at Pied Piper.
+
+11:43.840 --> 11:45.490
+Excuse me, do I know you?
+
+11:46.280 --> 11:48.089
+Gilfoyle.
+
+11:48.160 --> 11:50.561
+He's a fuckin' dick, but I love him, though.
+
+11:50.640 --> 11:52.369
+You have me confused with someone else.
+
+11:52.680 --> 11:56.651
+My name's clearly Jared, and if you
+would excuse us, you were interrupting.
+
+11:56.960 --> 12:00.009
+No, he's lying. His name is Gilfoyle.
+Show them your driver's license.
+
+12:00.080 --> 12:03.448
+Jared asked you nicely to step back,
+so step the fuck back.
+
+12:03.520 --> 12:05.887
+You're being a dick, and you're cutting in line.
+
+12:05.960 --> 12:08.201
+You heard him. You're being a dick.
+
+12:11.080 --> 12:13.560
+- Boy, some people.
+- What a creep.
+
+12:13.640 --> 12:15.369
+Sorry you had to deal with that, Jared.
+
+12:15.440 --> 12:17.408
+You and me both, friend.
+
+12:17.520 --> 12:19.682
+This is Monica.
+
+12:19.800 --> 12:23.282
+Is it? Because apparently everything else
+that comes out of your mouth is a lie.
+
+12:23.800 --> 12:25.006
+Shit.
+
+12:25.160 --> 12:28.482
+Look, Richard, I totally understand
+if you're pissed at me,
+
+12:28.600 --> 12:32.002
+but please know that I tried as hard as I could
+to get him to tell you.
+
+12:32.080 --> 12:34.003
+Oh, really? Well, that's not what he said.
+
+12:34.080 --> 12:36.082
+Oh, really? What exactly did he say?
+
+12:36.160 --> 12:39.403
+He said that he found it
+on a piece of paper in Laurie's office.
+
+12:39.480 --> 12:43.087
+What? Wait, wait, wait. Hold on.
+Who's the "he" that you're talking about?
+
+12:43.160 --> 12:44.525
+You know who. David.
+
+12:45.000 --> 12:46.161
+My brother?
+
+12:46.360 --> 12:47.327
+What?
+
+12:47.400 --> 12:49.243
+Who the fuck... I don't know.
+
+12:49.320 --> 12:51.288
+No, David, the fucking PR guy
+
+12:51.360 --> 12:53.362
+who's not going to take a job with us
+because of what you did.
+
+12:53.440 --> 12:57.206
+Richard, I am totally lost.
+What exactly do you think I did?
+
+12:57.280 --> 12:58.566
+<i>You can play dumb all you want to.</i>
+
+12:58.640 --> 13:01.325
+It won't change the one thing
+that both you and I know is true.
+
+13:01.400 --> 13:03.129
+You dumped your stock.
+
+13:03.200 --> 13:07.649
+What? No. I didn't dump
+a single share of my Pied Piper stock.
+
+13:07.720 --> 13:09.529
+- I swear.
+- Well, then who the fuck did?
+
+13:10.280 --> 13:11.964
+And make sure that the money reads.
+
+13:12.040 --> 13:14.122
+I mean, Pied Piper is a billion-dollar company.
+
+13:14.200 --> 13:15.440
+It's not just a unicorn.
+
+13:15.520 --> 13:17.284
+All right, let's do some rearing.
+
+13:17.400 --> 13:18.640
+There we go.
+
+13:18.720 --> 13:21.564
+Now, let's let the horns
+sort of look like my dick.
+
+13:22.040 --> 13:23.451
+Perfect.
+
+13:23.960 --> 13:25.485
+Are you fucking kidding me?
+
+13:25.560 --> 13:26.721
+Richard.
+
+13:27.600 --> 13:30.206
+Um, can we take a soft five?
+
+13:30.280 --> 13:32.601
+I was going to tell you.
+That's what tomorrow's brunch was for.
+
+13:32.680 --> 13:36.446
+Brunch? You had 10 fucking days
+and you didn't say a thing.
+
+13:36.520 --> 13:38.568
+Fine. You want to know why I didn't tell you?
+
+13:38.640 --> 13:40.005
+Because it's fucking humiliating.
+
+13:40.080 --> 13:41.241
+I'm broke, Richard.
+
+13:41.320 --> 13:43.243
+Did you hear me? I'm broke.
+
+13:44.280 --> 13:47.204
+Erlich Bachman, the name
+that used to be synonymous with success,
+
+13:47.280 --> 13:49.442
+went broke and was forced to sell.
+
+13:49.520 --> 13:51.841
+- I got royally fucked, Richard.
+- You got fucked?
+
+13:51.920 --> 13:55.083
+You're the one who threw
+a million-dollar party.
+
+13:55.160 --> 13:57.162
+- Yeah, but it was a great party.
+- No one forced you to do that.
+
+13:57.240 --> 13:58.890
+Admit it, you fucked yourself.
+
+13:59.160 --> 14:00.924
+But I'm not gonna let you fuck my company.
+
+14:01.040 --> 14:04.089
+I'm going to have to issue a press release
+explaining what you did and why.
+
+14:04.160 --> 14:05.650
+No, no, come on. This isn't out.
+
+14:05.720 --> 14:08.530
+-It's one PR guy.
+- That we know of, Erlich.
+
+14:08.600 --> 14:10.682
+How many other people
+saw that piece of paper?
+
+14:10.840 --> 14:13.207
+How many people has this guy talked to?
+
+14:13.280 --> 14:16.602
+This is Silicon Valley.
+Rumors spread like light speed here.
+
+14:17.800 --> 14:20.690
+How are we gonna get
+good people to work for us
+
+14:20.760 --> 14:23.286
+if they think something funky
+is going on with our stock?
+
+14:23.640 --> 14:26.405
+How are we going to scale?
+This is gonna kill us.
+
+14:26.480 --> 14:29.051
+Richard, do you know what happens
+if this goes public?
+
+14:29.120 --> 14:31.202
+- I'm Ron Wayne.
+- Who?
+
+14:31.280 --> 14:35.604
+Ron Wayne, the guy that owned 10% of Apple
+and sold it in 1976.
+
+14:35.680 --> 14:37.762
+No one in this town
+will work with me ever again.
+
+14:37.840 --> 14:41.401
+You want me to risk
+the entire future of Pied Piper,
+
+14:41.480 --> 14:43.608
+everything that I've worked for,
+
+14:43.680 --> 14:48.561
+just to protect you from
+your own fucking incompetence?
+
+14:48.640 --> 14:52.690
+Richard, there's a 3% to 4% chance
+that this is going to get out on its own,
+
+14:52.760 --> 14:54.728
+but there is 100% chance
+
+14:54.800 --> 14:59.283
+that if you issue a press release
+no one will ever take me seriously again.
+
+14:59.960 --> 15:02.042
+My dignity is in your hands, Richard.
+
+15:03.000 --> 15:04.331
+Do with it what you will.
+
+15:12.240 --> 15:14.686
+Gavin? Is that you?
+
+15:14.760 --> 15:17.081
+Jack Barker. Nice plane.
+
+15:17.160 --> 15:18.650
+Yours, too. Where are you headed?
+
+15:18.720 --> 15:21.291
+I just needed to take a walk
+and clear my head.
+
+15:21.360 --> 15:24.284
+There's this great little hiking trail
+near my lodge in Jackson Hole.
+
+15:24.400 --> 15:28.086
+Get out of here.
+I'm on my way up to J Hole myself.
+
+15:28.160 --> 15:29.810
+Is that right? I thought you sold.
+
+15:29.880 --> 15:31.723
+No, I just never go there.
+
+15:32.160 --> 15:33.321
+So how long you going for?
+
+15:33.400 --> 15:34.811
+Coming back tomorrow afternoon.
+
+15:34.880 --> 15:37.360
+- Me, too.
+- Oh, come on. Come on.
+
+15:37.960 --> 15:42.443
+Seriously, we need to find a couple hours,
+get together, catch up.
+
+15:42.520 --> 15:43.806
+I could tell you some war stories.
+
+15:43.920 --> 15:45.046
+Well, I'd love that.
+
+15:45.160 --> 15:47.367
+I could tell you a few of my own.
+
+15:47.520 --> 15:50.126
+- Well, be well.
+- You, too.
+
+15:50.200 --> 15:52.043
+- Take care, Jack.
+- Yeah. See you.
+
+15:53.200 --> 15:54.361
+Gavin?
+
+15:54.960 --> 15:56.086
+Wait.
+
+15:56.840 --> 15:59.207
+Uh, what are we doing here?
+
+15:59.600 --> 16:02.763
+I mean, you're on your way to Jackson Hole,
+I'm going to Jackson Hole.
+
+16:02.840 --> 16:05.730
+You seem like you could use some company.
+
+16:06.920 --> 16:08.843
+- You play chess?
+- I do. Indeed.
+
+16:08.920 --> 16:10.285
+Fantastic.
+
+16:10.360 --> 16:13.807
+I tell you, when we get up to altitude
+and the Wi-Fi kicks in,
+
+16:13.880 --> 16:17.282
+I'm ActionJB62 on Hooli chat.
+
+16:17.360 --> 16:18.725
+- Find me.
+- I will.
+
+16:18.800 --> 16:20.882
+- I'm glad we bumped into each other.
+- Me, too.
+
+16:21.280 --> 16:23.362
+- Really is a small world.
+-It's crazy.
+
+16:27.480 --> 16:30.643
+Okay, well, uh, I think it reads well.
+
+16:30.760 --> 16:34.321
+And it's all in there.
+This will definitely set the record straight.
+
+16:34.400 --> 16:36.880
+Then again, you're basically
+lighting Erlich on fire.
+
+16:36.960 --> 16:39.406
+So what? He fucked the company.
+
+16:39.480 --> 16:41.881
+He potentially fucked the company.
+
+16:41.960 --> 16:44.645
+Are you kidding me?
+Gilfoyle, back me up here.
+
+16:44.720 --> 16:45.881
+This is thorny.
+
+16:45.960 --> 16:47.644
+How is this even a question for you guys?
+
+16:47.720 --> 16:50.041
+Honestly. I mean, it's not like
+he's going to be out on the street.
+
+16:50.120 --> 16:54.444
+He just sold 10% of a company
+that's valued at least $50 million,
+
+16:54.520 --> 16:57.171
+and now, suddenly,
+we're giving him the benefit of the doubt?
+
+16:57.720 --> 16:59.927
+Well, it sounds mighty Christian of you,
+Gilfoyle.
+
+17:00.280 --> 17:02.362
+There's no reason for hate speech, Richard.
+
+17:08.760 --> 17:13.209
+I can see by the sour, pinched expressions
+on all your faces
+
+17:13.280 --> 17:17.126
+that Richard has filled you in
+regarding the unfortunate circumstances
+
+17:17.200 --> 17:21.125
+that have forced me to relinquish my stake
+in your fair company.
+
+17:21.280 --> 17:26.047
+Erlich, you should know that
+I have written a press release.
+
+17:26.280 --> 17:28.328
+- Oh?
+- I'm not going to release it yet,
+
+17:28.440 --> 17:31.649
+but if I hear wind of these rumors
+spreading out of control,
+
+17:31.720 --> 17:35.611
+I'm going to send it to every tech publication
+and blog on the face of the Earth.
+
+17:35.680 --> 17:36.761
+Do you understand?
+
+17:36.840 --> 17:39.047
+- Even UPROXX?
+- Yes, even them.
+
+17:39.920 --> 17:41.160
+Also, uh...
+
+17:43.640 --> 17:47.690
+This is the check for next month's use
+of the house as our office,
+
+17:47.760 --> 17:49.728
+but we'll be out by the end of the month.
+
+17:49.800 --> 17:51.689
+Richard, it doesn't have to be like this.
+
+17:51.760 --> 17:55.401
+From this point forward, you will have
+nothing to do with this company whatsoever.
+
+17:55.480 --> 17:59.166
+I'm replacing you on the board,
+and I'm giving your seat to Jared.
+
+18:00.160 --> 18:02.128
+- So that's it then.
+- Yes.
+
+18:03.040 --> 18:05.361
+So I guess we better get ready
+for that Vanity <i>Fair</i> event.
+
+18:05.840 --> 18:06.966
+What?
+
+18:08.520 --> 18:10.284
+Did you not listen to a word I just said?
+
+18:10.400 --> 18:13.688
+I heard thousands of words
+about rumors and the need to contain them.
+
+18:13.760 --> 18:16.570
+What do you think would happen
+if I didn't show up to this Vanity Fair event?
+
+18:16.640 --> 18:18.051
+I've already RSVP'd
+
+18:18.120 --> 18:21.727
+and given them a list of phony
+dietary restrictions just to cause a scene.
+
+18:21.800 --> 18:23.802
+I told them I was pesca-pescatarian.
+
+18:24.080 --> 18:28.130
+Which is one who eats solely fish
+who eat other fish.
+
+18:28.360 --> 18:30.203
+I think my absence would be noted.
+
+18:30.560 --> 18:32.767
+- Erlich brings up a good point.
+-It's true.
+
+18:32.880 --> 18:34.450
+Let us not forget Meinertzhagen's...
+
+18:34.520 --> 18:36.284
+Yes, yes, Meinertzhagen's Haversack.
+
+18:36.360 --> 18:38.362
+We all remember his sack.
+
+18:39.960 --> 18:41.849
+Okay, fine. Yeah.
+
+18:41.920 --> 18:43.888
+Sure. You can come. I can't stop you.
+
+18:44.000 --> 18:48.688
+Uh, I'll be taking the car and the hotel room
+and you're going to have to drive yourself.
+
+18:48.760 --> 18:50.091
+Consider it my farewell dinner.
+
+18:51.200 --> 18:52.406
+See you at the event.
+
+19:01.400 --> 19:03.528
+- Jared, are you okay?
+-It's just so many emotions.
+
+19:03.600 --> 19:08.049
+The board seat. I feel regret and a glee
+that you would choose to honor me,
+
+19:08.120 --> 19:11.841
+and terror at not living up
+to your expectations,
+
+19:11.960 --> 19:14.531
+and compassion for Erlich's loss.
+
+19:15.160 --> 19:19.051
+Oh, Donald, you've come undone.
+
+19:20.360 --> 19:21.521
+You still want him on the board?
+
+19:24.960 --> 19:27.008
+Hi, there. Checking in. Richard Hendricks.
+
+19:27.080 --> 19:28.411
+Fuck me. Hey, Richie.
+
+19:28.520 --> 19:29.965
+Oh, God. Hey, Russ.
+
+19:30.040 --> 19:31.530
+What's up, boy genius? You here fucking?
+
+19:31.600 --> 19:33.841
+Huh? No. No, no, no fucking.
+
+19:33.920 --> 19:36.491
+<i>Just here for the Vanity Fair dinner.</i>
+
+19:36.560 --> 19:37.721
+Oh, yeah, I know that stupid dinner.
+
+19:37.800 --> 19:39.802
+Bunch of VC douchebags
+jerking each other off.
+
+19:39.880 --> 19:41.564
+Speaking of, I got this girl at the bar,
+
+19:41.640 --> 19:43.085
+I'm trying to take her up
+to the presidential suite
+
+19:43.200 --> 19:44.770
+before her fucking bridesmaids
+ruin the whole thing,
+
+19:44.840 --> 19:46.365
+but they're telling me it's booked.
+
+19:46.480 --> 19:49.529
+Who is it? Is it Gore? Fuck that guy.
+
+19:49.600 --> 19:51.329
+- Oh, God.
+- I saw Pied Piper launched.
+
+19:51.400 --> 19:52.686
+Haven't tried it, probably won't.
+
+19:52.760 --> 19:56.446
+I don't even want to think about how fucked
+I got missing out on Erlich's shares. Fuck.
+
+19:57.040 --> 20:00.044
+Wait, he tried to sell you his shares?
+
+20:00.120 --> 20:02.726
+Well, half of them.
+He was pretty desperate to stay on the team.
+
+20:02.800 --> 20:04.802
+Well, he didn't mention
+anything about this to me.
+
+20:04.880 --> 20:07.565
+Of course not. Why would he?
+It's fucking humiliating losing all your money.
+
+20:07.640 --> 20:10.723
+You think when I dropped below $1 billion
+I walked around telling everybody? Fuck no.
+
+20:10.800 --> 20:11.847
+You guys were the only ones who knew,
+
+20:11.920 --> 20:13.046
+and I actually thought about
+having you killed.
+
+20:13.120 --> 20:15.327
+- I'm sorry, what?
+- So Erlich and I, like two weeks ago,
+
+20:15.440 --> 20:16.566
+we had a contract ready.
+
+20:16.640 --> 20:18.529
+Five mil
+I was gonna pay him for half his shares.
+
+20:18.600 --> 20:20.967
+It was a win-win.
+Then that robot, Laurie Bream,
+
+20:21.040 --> 20:22.849
+sweeps in and cockblocks the whole thing.
+
+20:22.920 --> 20:25.730
+She forces him to sell her all his shares.
+You think she's gay?
+
+20:25.800 --> 20:29.885
+Maybe. It hasn't come up.
+I... So wait, she outbid you?
+
+20:29.960 --> 20:31.928
+Outbid me? No, she didn't have to.
+
+20:32.040 --> 20:34.361
+You don't even know how
+your own fucking company works?
+
+20:34.440 --> 20:37.489
+All right, Mr. Hendricks, we have you
+staying one night in a deluxe double.
+
+20:37.560 --> 20:38.641
+Okay, do you have a tub in that room?
+
+20:38.720 --> 20:39.801
+Does he have a tub in that room?
+
+20:39.880 --> 20:40.927
+I don't know. There's no way of telling.
+
+20:41.000 --> 20:43.082
+You know what? Fuck it.
+I'm gonna take her to the W.
+
+20:43.160 --> 20:45.845
+She's so drunk she won't know the difference.
+See you around, Richie.
+
+20:58.160 --> 20:59.605
+<i>Hey, it's C.J.</i>
+
+20:59.680 --> 21:03.685
+<i>Listen, I'm hearing a rumor about
+some serious ugliness going on at Pied Piper.</i>
+
+21:04.600 --> 21:07.649
+<i>I've heard it from three different people now.
+You need to call me.</i>
+
+21:09.160 --> 21:10.366
+Fuck.
+
+21:11.800 --> 21:14.610
+What in God's name is the reason
+to get a higher education?
+
+21:14.680 --> 21:16.523
+You can just buy a megafreeze for 35 cents.
+
+21:16.600 --> 21:18.045
+Laurie, can I talk to you for a second?
+
+21:18.120 --> 21:20.805
+Yes, uh, Richard Hendricks,
+do you know Mark Pincus?
+
+21:20.880 --> 21:21.881
+Hello. Big fan.
+
+21:21.960 --> 21:23.928
+Oh, okay. Yes. Um...
+
+21:24.000 --> 21:25.923
+- Sorry, just one second.
+- Yes. All right.
+
+21:26.000 --> 21:30.085
+I'm sorry to cut away like this.
+We can continue discussing this.
+
+21:32.720 --> 21:36.930
+Okay, uh, look,
+I know Erlich sold you all of his shares.
+
+21:37.000 --> 21:39.970
+I'm just wondering
+exactly how that happened.
+
+21:40.040 --> 21:42.486
+Ah, yes. It was one of my finer moments.
+
+21:42.560 --> 21:46.451
+Erlich came to me with an outside offer
+to sell half of his Pied Piper shares.
+
+21:46.520 --> 21:49.444
+To Russ Hanneman for $5 million.
+Yes, I know.
+
+21:49.520 --> 21:52.649
+But somehow you ended up
+with all of his shares. How?
+
+21:52.720 --> 21:56.042
+Oh, well, as you know,
+the same onerous terms you accepted
+
+21:56.120 --> 21:57.804
+when you took Russ Hanneman's money,
+
+21:57.920 --> 21:59.684
+they transferred to me when I bought him out.
+
+21:59.760 --> 22:01.762
+These included the right
+to block any transfer of stocks
+
+22:01.880 --> 22:04.247
+with a majority vote of the board.
+A board which I control.
+
+22:05.440 --> 22:07.329
+- I don't understand.
+- Of course you do.
+
+22:07.760 --> 22:11.924
+If I have approval of any buyer,
+and I am the only buyer I approve,
+
+22:12.000 --> 22:13.764
+then I can set my own price.
+
+22:14.120 --> 22:18.011
+So I asked Mr. Bachman
+for a thorough accounting of his debts,
+
+22:18.080 --> 22:20.845
+which ran to approximately $713,000.
+
+22:20.920 --> 22:22.649
+And how much did you give him?
+
+22:22.720 --> 22:24.609
+$713,000.
+
+22:25.840 --> 22:28.207
+Jesus. So, he walked away with nothing.
+
+22:28.280 --> 22:32.683
+Oh, yes. And so as I said,
+you're the one who accepted these terms,
+
+22:32.760 --> 22:34.649
+so you're the one
+who enabled this action on my part.
+
+22:34.720 --> 22:36.768
+All credit goes to you, Richard. Excuse me.
+
+22:36.840 --> 22:38.808
+Dick. Dick Costolo. One moment.
+
+22:38.880 --> 22:40.006
+I need to speak with you.
+
+22:45.800 --> 22:47.290
+It's expensive to replant.
+
+22:47.360 --> 22:50.807
+No. The vines are bad. The soil is bad.
+
+23:01.240 --> 23:03.242
+Excuse me, what is that?
+
+23:03.360 --> 23:04.805
+That's pesca-pescatarian.
+
+23:05.160 --> 23:08.243
+- It's fish that...
+- Actually, just bring me one of those.
+
+23:08.320 --> 23:09.890
+- Me, too.
+- Yeah, waiter, I'll take one, too.
+
+23:09.960 --> 23:11.803
+- I want one.
+- I want one of those also.
+
+23:12.240 --> 23:13.890
+Wait, hey, hey, I'd like that also.
+
+23:14.640 --> 23:16.210
+Excuse me,
+if he's having one, I want one.
+
+23:16.280 --> 23:18.089
+You're getting that, I want it, too.
+Excuse me!
+
+23:20.920 --> 23:23.400
+Hey, I thought you were at the dinner.
+
+23:23.480 --> 23:24.720
+I left.
+
+23:25.200 --> 23:27.851
+Erlich never showed. Is he here?
+
+23:27.920 --> 23:30.082
+Yeah. He's hiding in the backyard.
+
+23:30.160 --> 23:31.491
+Why?
+
+23:32.280 --> 23:34.089
+Have you not seen the article?
+
+23:34.160 --> 23:35.161
+No.
+
+23:40.680 --> 23:43.684
+"Is Erlich Bachman
+the Dumbest Man in Tech"?
+
+23:43.760 --> 23:46.206
+What the hell is this?
+I never sent anything out.
+
+23:46.800 --> 23:48.529
+- Who did they talk to?
+- Erlich.
+
+23:49.000 --> 23:52.368
+This is C.J.'s blog.
+He outed himself to protect Pied Piper.
+
+23:52.440 --> 23:54.681
+Yeah, this is way harsher
+than anything you ever wrote.
+
+23:55.960 --> 23:57.849
+Plus, there's the visual component.
+
+23:57.920 --> 24:02.050
+Speaking of... Where's your jacket, Jared?
+
+24:07.200 --> 24:09.328
+That was quite a piece.
+
+24:10.240 --> 24:11.969
+Informative. Thorough.
+
+24:12.040 --> 24:14.168
+You certainly know how to make an impact.
+
+24:15.760 --> 24:18.684
+And I guess I don't have to worry about
+any rumors coming out.
+
+24:18.760 --> 24:20.046
+Those are handled.
+
+24:22.360 --> 24:26.160
+You know, Erlich, uh,
+Pied Piper still needs a head of PR.
+
+24:28.480 --> 24:30.960
+You seem to be well-versed
+in media outreach.
+
+24:31.400 --> 24:35.849
+And by your own admission in that article,
+your head is, uh, what did you say,
+
+24:36.200 --> 24:39.249
+so far up your own ass
+you can see the future.
+
+24:40.240 --> 24:41.321
+And that could be useful.
+
+24:41.400 --> 24:45.724
+If we need a pre-cog...
+
+24:46.960 --> 24:48.121
+...in away.
+
+24:48.240 --> 24:51.005
+Uh, I don't know if you're available, so...
+
+24:51.080 --> 24:53.401
+Are you offering me a job?
+
+24:53.480 --> 24:55.403
+Well, we have a good option package.
+
+24:56.120 --> 24:59.806
+It won't be quite what you had,
+but it's something.
+
+25:01.920 --> 25:03.251
+That's very generous.
+
+25:04.320 --> 25:06.971
+So things could go back
+to the way they were before.
+
+25:07.040 --> 25:10.010
+Well, no. No. Not exactly the way they were.
+
+25:10.080 --> 25:14.768
+No, no. Uh, well, this would be an actual job
+and you would have responsibilities.
+
+25:14.920 --> 25:17.207
+Would this job have a title?
+
+25:17.280 --> 25:21.126
+Something, say, Chief Evangelism Officer?
+
+25:21.200 --> 25:22.884
+So, "CEO"?
+
+25:23.000 --> 25:25.367
+- Oh, my goodness!
+- What the fuck was that?
+
+25:26.120 --> 25:28.521
+Richard.
+
+25:28.600 --> 25:31.251
+The Pied Piper app
+just got accepted into the Hooli store.
+
+25:31.320 --> 25:34.051
+What? Holy shit.
+
+25:34.120 --> 25:39.047
+Gavin Belson just presented us
+with his bare buttocks in submission.
+
+25:39.120 --> 25:41.407
+We beat him. I don't hug. No.
+
+25:41.480 --> 25:45.485
+Um, okay, hey, look, time to issue
+your first press release, right?
+
+25:45.800 --> 25:48.883
+It's very late, Richard, and I'm very high.
+
+25:48.960 --> 25:50.041
+Erlich, I don't care.
+
+25:50.200 --> 25:52.043
+You have to do it, okay? Now.
+
+25:52.120 --> 25:54.407
+- It's your job.
+- Okay.
+
+25:54.480 --> 25:55.686
+All right.
+
+26:00.720 --> 26:01.926
+C.J. Cantwell.
+
+26:02.000 --> 26:03.923
+<i>Erlich Bachman. The reason I'm calling</i>
+
+26:04.040 --> 26:08.921
+has absolutely nothing to do whatsoever
+with the fact that I own half of your blog
+
+26:09.000 --> 26:10.729
+<i>and everything to do with the fact</i>
+
+26:10.800 --> 26:15.044
+that I was just named
+Chief Evangelism Officer of Pied Piper.
+
+26:15.240 --> 26:19.086
+<i>Feel free to abbreviate that,
+whatever acronym is most economical.</i>
+
+26:19.160 --> 26:20.207
+And I have a story.
+
+26:20.280 --> 26:22.931
+<i>Well, if it's anything like this last one,
+I am all for it.</i>
+
+26:23.000 --> 26:25.606
+I am getting so many paid views
+on your tell-all.
+
+26:25.680 --> 26:27.523
+<i>Everyone in the Valley is reading it.</i>
+
+26:27.600 --> 26:30.843
+Well, that's good. For you.
+
+26:30.920 --> 26:32.445
+At my expense, I guess.
+
+26:33.960 --> 26:35.450
+Anyway, I had no choice.
+
+26:35.520 --> 26:37.409
+As you said, it was going to come out
+one way or another.
+
+26:37.480 --> 26:39.926
+Why? No one knew about any of it
+until you told me.
+
+26:40.000 --> 26:42.924
+What do you mean? You said that
+you had heard from a bunch of people
+
+26:43.000 --> 26:46.129
+that there are all these rumors
+about ugly shit going down at Pied Piper.
+
+26:46.200 --> 26:48.771
+That's literally the only reason
+that I told you any of this.
+
+26:48.840 --> 26:53.289
+What?
+Oh, yeah, three different people told me
+
+26:53.360 --> 26:55.727
+that Pied Piper had
+the ugliest jackets they'd ever seen.
+
+26:55.840 --> 26:56.807
+Jackets?
+
+26:56.880 --> 26:58.962
+I was going to do, like,
+a whole swag fail thing, you know?
+
+26:59.080 --> 27:00.491
+<i>That could have been cool, no?</i>
+
+27:00.840 --> 27:02.683
+Who the fuck cares about jackets?
+
+27:03.080 --> 27:05.287
+Hey, come on, <i>babe</i>
+
+27:05.360 --> 27:07.124
+<i>Follow me</i>
+
+27:07.200 --> 27:09.441
+<i>I'm the Pied Piper</i>
+
+27:09.520 --> 27:13.206
+<i>Follow me, I'm the Pied Piper</i>
+
+27:13.280 --> 27:17.126
+<i>And I'll show you where it's at</i>
+
+27:17.480 --> 27:18.970
+<i>Come on, babe</i>
+
+27:19.040 --> 27:20.280
+<i>Can't you see?</i>
+
+27:20.360 --> 27:24.206
+<i>I'm the Pied Piper, trust in me</i>
+
+27:24.280 --> 27:26.487
+<i>I'm the Pied Piper</i>
+
+27:26.560 --> 27:31.248
+<i>And I'll show you where it's at</i>
+
+27:32.920 --> 27:36.367
+<i>Girl, don't be scared to move</i>
+
+27:36.440 --> 27:40.206
+<i>Hey, babe, what are you tryin' to prove</i>
+
+27:40.280 --> 27:44.205
+<i>It ain't true that your life has kicked you</i>
+
+27:44.280 --> 27:49.605
+<i>It's your mind and that's all that's trickin' you</i>
+
+27:50.600 --> 27:54.366
+<i>So step in line</i>
+
+27:54.440 --> 27:58.525
+<i>Hey, come on, babe, follow me</i>
+
+27:58.600 --> 28:02.491
+<i>I'm the Pied Piper, follow me</i>
+
+28:02.560 --> 28:05.006
+<i>I'm the Pied Piper</i>
+
+28:05.120 --> 28:09.728
+<i>And I'll show you where it's at</i>
+
+28:10.560 --> 28:12.483
+<i>Come on, babe</i>
+
+28:12.560 --> 28:14.085
+<i>Can't you see?</i>
+
+28:14.160 --> 28:17.926
+<i>Come on, babe, follow me</i>
+
+28:18.000 --> 28:21.129
+<i>I'm the Pied Piper</i>

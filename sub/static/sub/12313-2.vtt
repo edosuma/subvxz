@@ -1,0 +1,3093 @@
+WEBVTT
+
+00:00.023 --> 00:01.664
+Previously on "Royal Pains"...
+
+00:01.827 --> 00:03.311
+Can we get a little help over here?
+
+00:03.336 --> 00:04.577
+Jen and Sam!
+
+00:04.602 --> 00:07.561
+Sam seems like such a great, happy kid,
+
+00:07.562 --> 00:10.432
+I don't want to cause collateral damage.
+
+00:10.442 --> 00:11.552
+I don't wanna be my dad.
+
+00:11.562 --> 00:13.442
+Sam's actually leaving next week
+
+00:13.467 --> 00:15.352
+to spend the summer in
+Idaho with his dad.
+
+00:15.392 --> 00:18.351
+- Hi. Diana Underhill.
+- Hank Lawson. Nice to meet you.
+
+00:18.352 --> 00:20.422
+I can't let anyone see me
+dealing with a medical problem.
+
+00:20.432 --> 00:21.542
+Diana, I'm sorry to tell you,
+
+00:21.552 --> 00:23.542
+you may have to consider a hysterectomy.
+
+00:23.552 --> 00:25.471
+Can I get it all done at once?
+
+00:25.472 --> 00:27.511
+You mean do the
+hysterectomy on the spot?
+
+00:27.512 --> 00:29.352
+I think I just wanna get it over with
+
+00:29.362 --> 00:31.372
+and get back to work.
+
+00:31.382 --> 00:32.551
+I have a Senate seat to win.
+
+00:32.552 --> 00:34.472
+Excuse me, we're looking for Dr. Sacani.
+
+00:34.482 --> 00:36.352
+Are we in the right place?
+
+00:36.362 --> 00:38.472
+Jeremiah, those patients over
+there are waiting for you.
+
+00:38.482 --> 00:40.481
+Those aren't patients.
+Those are my parents.
+
+00:40.482 --> 00:42.472
+I don't know why they're here,
+but I'll ask them to leave.
+
+00:42.482 --> 00:44.552
+Hospital server's down.
+No one's getting emails.
+
+00:44.562 --> 00:46.422
+I think this tech glitch
+
+00:46.432 --> 00:47.512
+is getting worse.
+
+00:47.522 --> 00:50.361
+You know that glitch? It's
+not a technical problem.
+
+00:50.362 --> 00:51.441
+So then what's the issue?
+
+00:51.442 --> 00:53.432
+We've been hacked.
+
+00:55.000 --> 01:01.074
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
+
+01:03.813 --> 01:07.803
+Thank you all for convening so quickly.
+
+01:07.813 --> 01:09.003
+All right, as department heads,
+
+01:09.013 --> 01:10.893
+I just wanna make sure
+you're fully informed
+
+01:10.903 --> 01:12.873
+about this recent data hack,
+and here with an update
+
+01:12.883 --> 01:16.115
+is our head of IT, Lewis Nardhoffer.
+Lewis?
+
+01:16.178 --> 01:17.497
+Right, uh...
+
+01:17.522 --> 01:19.442
+so we don't know who did it,
+
+01:19.600 --> 01:20.679
+but we're trying to figure it out
+
+01:20.680 --> 01:24.580
+using a single packet
+IP traceback, only...
+
+01:24.590 --> 01:25.600
+see, the router storage intervals
+
+01:25.610 --> 01:26.719
+are, like, crazy short,
+
+01:26.720 --> 01:28.719
+so cross your fingers
+that whoever it was
+
+01:28.720 --> 01:30.590
+wasn't configured to forward
+
+01:30.600 --> 01:33.550
+their DNS queries though a proxy.
+
+01:35.560 --> 01:36.620
+Of course, that's unlikely,
+
+01:36.630 --> 01:38.679
+and their source fields are
+probably spoofed anyway.
+
+01:38.680 --> 01:40.719
+Right. Got that? Cross your fingers.
+
+01:40.720 --> 01:42.660
+- Thank you, Lewis.
+- Yeah, no problem.
+
+01:42.670 --> 01:44.670
+I should have more for you
+by the end of the day.
+
+01:44.680 --> 01:46.640
+Okay, great. Now...
+
+01:46.650 --> 01:49.500
+until we know enough to address
+the situation properly,
+
+01:49.510 --> 01:51.519
+I don't want anyone discussing it, okay?
+
+01:51.520 --> 01:54.670
+With anyone. No one, and that means...
+
+01:54.680 --> 01:57.599
+everyone. Okay? Am I clear?
+
+01:57.600 --> 01:58.639
+I think not.
+
+01:58.640 --> 02:01.570
+Boris! Uh, hello. I
+wasn't expecting you.
+
+02:01.580 --> 02:02.609
+Yes.
+
+02:02.610 --> 02:03.720
+You appear to have a knack
+
+02:04.490 --> 02:06.570
+for not expecting things, Mr. Lawson.
+
+02:06.580 --> 02:08.609
+I want a letter drafted immediately
+
+02:08.610 --> 02:10.610
+alerting anyone who may have
+been affected by this...
+
+02:10.620 --> 02:14.520
+our employees, vendors,
+patients, etcetera.
+
+02:14.530 --> 02:16.630
+Their personal information
+has been compromised,
+
+02:16.640 --> 02:19.550
+and it is essential that they know that.
+
+02:19.560 --> 02:22.560
+The thing is, Boris, we don't know that.
+
+02:22.570 --> 02:24.600
+Do we?
+
+02:24.610 --> 02:26.690
+That is a syslog FTP analysis question.
+
+02:28.580 --> 02:31.490
+Evan, the situation is
+dire enough as it is.
+
+02:31.500 --> 02:32.649
+Wouldn't you agree?
+
+02:32.650 --> 02:34.520
+Concealing it or...
+
+02:34.530 --> 02:36.530
+even the appearance of concealing it
+
+02:36.540 --> 02:40.529
+can only aggravate it and me further.
+
+02:40.530 --> 02:41.659
+Am I clear?
+
+02:41.660 --> 02:43.600
+Crystal.
+
+02:48.540 --> 02:51.640
+Come on, Rosie, come on.
+Get the Frisbee.
+
+02:53.610 --> 02:56.520
+So is the coffee okay?
+
+02:56.530 --> 02:58.619
+Uh, yes. Absolutely okay.
+
+02:58.620 --> 03:01.520
+Oh, there's Divya.
+
+03:01.530 --> 03:04.490
+So off we go, and off you go.
+
+03:04.500 --> 03:06.600
+Safe travels. Good morning!
+
+03:06.610 --> 03:08.690
+Good morning. Can I offer
+you some breakfast?
+
+03:08.700 --> 03:10.700
+Oh, no, I'm fine. Thank you.
+
+03:10.710 --> 03:14.619
+Uh... did you two stay
+out here last night?
+
+03:14.620 --> 03:16.660
+Sure did. Rosie loves the beach
+
+03:16.670 --> 03:18.560
+and with a sweet ride like Bess here,
+
+03:18.570 --> 03:19.640
+why bunk in with Jerry?
+
+03:19.650 --> 03:21.659
+- Yeah, they call the RV Bess.
+- And you Jerry.
+
+03:21.660 --> 03:23.700
+Are you sure I can't get
+you something to eat?
+
+03:23.710 --> 03:25.660
+You look like you're
+eating for at least two.
+
+03:25.670 --> 03:28.660
+You are kind, but, uh, no.
+
+03:28.670 --> 03:30.669
+Jeremiah and I, we've got to get going.
+
+03:30.670 --> 03:31.670
+Same with us.
+
+03:31.680 --> 03:33.570
+Niagara Falls isn't gonna see itself.
+
+03:33.580 --> 03:36.509
+- So soon?
+- Divya, we ride to live
+
+03:36.510 --> 03:37.540
+and live to ride.
+
+03:37.550 --> 03:38.670
+But you just got here last night.
+
+03:38.680 --> 03:42.610
+And there is a HankMed barbecue tonight.
+
+03:42.620 --> 03:43.709
+I got extra buns.
+
+03:43.710 --> 03:45.700
+You know, if they're unopened,
+you can return them.
+
+03:45.710 --> 03:47.570
+Don't be silly. You're his parents.
+
+03:47.580 --> 03:49.709
+You have to stay. Don't they, Jerry?
+
+03:49.710 --> 03:52.509
+"They have to" seems
+a little imperative.
+
+03:52.510 --> 03:53.700
+But...
+
+03:53.710 --> 03:56.620
+I guess we could stay another night.
+
+03:56.630 --> 03:58.700
+Good! Good. Then we'll
+see you at the party.
+
+03:58.710 --> 04:00.630
+Great. I'll bring a cheese ball.
+
+04:00.640 --> 04:02.690
+- I'll bring her.
+- Ha ha ha!
+
+04:04.630 --> 04:06.559
+All right, bye.
+
+04:06.560 --> 04:07.630
+Bye-bye.
+
+04:07.640 --> 04:10.620
+Come on, Rosie. Get the Frisbee.
+
+04:10.630 --> 04:11.679
+Rose!
+
+04:16.680 --> 04:18.560
+But I want to go.
+
+04:18.570 --> 04:20.709
+Because the HankMed cookout
+sounds so fun to you?
+
+04:20.720 --> 04:22.560
+No, because pie.
+
+04:22.570 --> 04:24.560
+I'm sorry, I didn't mean
+to cause a problem,
+
+04:24.570 --> 04:26.719
+but it's totally casual, and you
+guys are more than welcome.
+
+04:26.720 --> 04:28.639
+Please, Mom?
+
+04:28.640 --> 04:30.710
+Okay. Because pie.
+
+04:30.720 --> 04:32.560
+Great. Nice running into you,
+
+04:32.570 --> 04:33.680
+and I'll see you later.
+
+04:33.690 --> 04:36.590
+Pro tip... show up early if
+you want more than one slice.
+
+04:36.600 --> 04:38.580
+- Can we go with Hank?
+- No, he has to go to work.
+
+04:38.590 --> 04:40.519
+- You have to go to camp.
+- Hey, you wanna trade?
+
+04:40.520 --> 04:41.679
+I'll go canoeing and you
+can make house calls?
+
+04:41.680 --> 04:43.679
+- Nah.
+- Smart move.
+
+04:43.680 --> 04:46.630
+Today looks like it's
+gonna be pretty boring.
+
+04:52.530 --> 04:53.710
+Aah!
+
+05:00.610 --> 05:02.590
+Drop to the ground and
+roll to put out the...
+
+05:04.540 --> 05:06.520
+Or... yeah... that.
+
+05:06.530 --> 05:08.600
+Okay. You're not on fire anymore.
+
+05:08.610 --> 05:10.720
+Oh... I hope they got the shot.
+
+05:11.490 --> 05:12.569
+That looked real, right?
+
+05:12.570 --> 05:13.640
+Yeah, I'd say a little too real.
+
+05:13.650 --> 05:14.640
+Are you... are you okay?
+
+05:14.650 --> 05:16.560
+Yeah. Mostly.
+
+05:18.786 --> 05:21.016
+- sync and corrections by Caio -
+- www.addic7ed.com -
+
+05:31.697 --> 05:33.847
+I'm a doctor. Your finger's dislocated.
+
+05:33.857 --> 05:36.847
+What I need to do is... that.
+
+05:36.857 --> 05:39.735
+- It happens all the time.
+- Pain amuses her.
+
+05:39.775 --> 05:41.775
+Should have seen the
+face-plant she took last week.
+
+05:41.785 --> 05:43.695
+Life of a stuntwoman.
+
+05:43.705 --> 05:45.695
+- You're making a movie?
+- Yeah, we're trying.
+
+05:45.705 --> 05:46.814
+Uh, sorry to freak you out.
+
+05:46.815 --> 05:48.805
+I'm Rachel Kepler. This
+is my brother Doug
+
+05:48.815 --> 05:50.645
+and our friend Scott.
+
+05:50.655 --> 05:52.655
+- Hey.
+- You're filming on a phone?
+
+05:52.665 --> 05:54.615
+On a phone with an anamorphic lens,
+
+05:54.625 --> 05:56.614
+a Steadicam and Filmic Pro, yeah.
+
+05:56.615 --> 05:58.735
+Please don't ask him any more
+about lenses, I beg you.
+
+05:58.745 --> 06:00.694
+So that's really how
+it's being done now.
+
+06:00.695 --> 06:01.774
+You ever hear of a movie called
+
+06:01.775 --> 06:03.774
+- "Curse of Shelter Island"?
+- They made that on a phone?
+
+06:03.775 --> 06:05.614
+No, they never made it.
+
+06:05.615 --> 06:07.765
+Our dad wrote it in 1970,
+and he turned 70 this year,
+
+06:07.775 --> 06:09.725
+so we're making it as a gift for him.
+
+06:09.735 --> 06:10.745
+That's awesome.
+
+06:10.755 --> 06:13.825
+Rachel! Are you hurt? Are you okay?
+
+06:13.835 --> 06:15.625
+I'm fine, Bree.
+
+06:15.635 --> 06:17.784
+Okay. Good.
+
+06:17.785 --> 06:19.624
+Also, I'm okay.
+
+06:19.625 --> 06:21.695
+Yeah, what's not okay
+
+06:21.705 --> 06:23.625
+is you went a little early, Rach.
+
+06:23.635 --> 06:25.685
+If I didn't have to wear
+those stupid contacts...
+
+06:25.695 --> 06:27.615
+Well, you do, I'm sorry.
+You guys have to match.
+
+06:27.625 --> 06:28.725
+We're gonna have to light you up again.
+
+06:28.735 --> 06:29.745
+Hope there's enough protective gel.
+
+06:29.755 --> 06:31.805
+- You hope?
+- Come on, Bree.
+
+06:33.665 --> 06:35.775
+So how long have you
+been a stunt person?
+
+06:35.785 --> 06:37.685
+Professionally, the last five years,
+
+06:37.695 --> 06:38.745
+but really, my whole life.
+
+06:38.755 --> 06:40.704
+I'm a dedicated adrenaline junkie.
+
+06:40.705 --> 06:43.655
+I'm familiar with the impulse.
+I used to be an ER doctor.
+
+06:43.665 --> 06:44.744
+Oh, yeah? What happened?
+
+06:44.745 --> 06:46.825
+I settled down and became
+a concierge doctor.
+
+06:46.835 --> 06:49.745
+- Now I make house calls.
+- Oh, I'm so sorry.
+
+06:49.755 --> 06:51.634
+Oh, no, don't be. I'm
+much happier this way.
+
+06:51.635 --> 06:53.625
+Guess that would never be me.
+
+06:53.635 --> 06:55.615
+I like to skate as close
+to the edge as I can get.
+
+06:55.625 --> 06:56.834
+Uh, you guys don't happen to have
+
+06:56.835 --> 06:58.754
+any medical support
+staff on this, do you?
+
+06:58.755 --> 07:03.615
+We have a dermatologist
+friend who lets us text him.
+
+07:03.625 --> 07:05.754
+Good news, Rach. Got
+enough gel for one more.
+
+07:05.755 --> 07:07.695
+Oh, okay, great.
+
+07:07.705 --> 07:09.785
+Uh, listen, I hope we
+don't need to meet again,
+
+07:09.795 --> 07:11.674
+- but just in case.
+- Okay, thanks.
+
+07:11.675 --> 07:13.605
+Yeah.
+
+07:27.755 --> 07:31.745
+So, uh... three things, actually.
+
+07:31.755 --> 07:34.635
+First, here's a draft of
+the letter you asked for
+
+07:34.645 --> 07:36.835
+disclosing the data hack.
+
+07:37.605 --> 07:39.604
+Second, Lewis tells me the
+hackers were in our system
+
+07:39.605 --> 07:40.715
+for about three hours.
+
+07:40.725 --> 07:42.675
+He thinks it could be state-sponsored,
+
+07:42.685 --> 07:45.605
+in which case we'd have
+to bring in the FBI.
+
+07:45.615 --> 07:46.684
+Unless you'd like to do that now.
+
+07:46.685 --> 07:49.705
+And the third thing?
+
+07:49.715 --> 07:52.625
+The third thing is an apology.
+
+07:52.635 --> 07:53.745
+I let you down.
+
+07:53.755 --> 07:55.644
+More importantly, I let
+the hospital down.
+
+07:55.645 --> 07:58.705
+So, uh... I'm sorry.
+
+07:58.715 --> 08:00.725
+But I'm here to make it right.
+
+08:00.735 --> 08:02.675
+You're offering to resign.
+
+08:02.685 --> 08:05.795
+What? No, I... no.
+
+08:05.805 --> 08:09.675
+I mean, I... wasn't, unless... I am.
+
+08:09.685 --> 08:11.685
+Is that what you're saying I should do?
+
+08:11.695 --> 08:14.775
+- Absolutely not.
+- Oh! Well...
+
+08:14.785 --> 08:16.655
+Wow. Thank you. Great, I mean, I...
+
+08:16.665 --> 08:17.835
+Volunteering for the guillotine
+
+08:18.605 --> 08:20.835
+is a craven gesture.
+
+08:21.605 --> 08:22.725
+If your head needs to roll,
+
+08:22.735 --> 08:25.755
+I will be the one to drop the blade.
+
+08:26.815 --> 08:28.785
+Got it.
+
+08:37.825 --> 08:39.725
+You sure you're okay to drive?
+
+08:39.735 --> 08:41.765
+I'm pregnant, not drunk!
+
+08:41.775 --> 08:43.804
+Hormones can also impair one's judgment.
+
+08:45.735 --> 08:47.685
+But you seem fine.
+
+08:50.655 --> 08:53.725
+So... why don't you want
+your parents to stay?
+
+08:53.735 --> 08:56.624
+Oh, this is just a stop-off
+on their park tour.
+
+08:56.625 --> 08:57.805
+They're not really here to see me.
+
+08:57.815 --> 09:00.664
+Of course they are.
+
+09:00.665 --> 09:03.744
+And... you ought to
+spend time with them.
+
+09:03.745 --> 09:05.815
+- Before they're gone.
+- Oh, that's years away.
+
+09:05.825 --> 09:07.815
+Barring accidents.
+
+09:09.625 --> 09:10.825
+You meant gone on their park tour.
+
+09:10.835 --> 09:12.744
+I did.
+
+09:12.745 --> 09:14.605
+We've never really been close,
+
+09:14.615 --> 09:15.815
+even when I was little.
+
+09:15.825 --> 09:18.704
+That's why they have dogs.
+
+09:18.705 --> 09:21.704
+I'm sorry, I-I don't follow.
+
+09:21.705 --> 09:25.605
+Well, growing up, I found...
+
+09:25.615 --> 09:27.784
+hugging and touching overwhelming.
+
+09:27.785 --> 09:29.744
+I-I knew they wanted that from me,
+
+09:29.745 --> 09:31.645
+but, um, I couldn't give it to them,
+
+09:31.655 --> 09:34.645
+so when I turned five,
+they got their first dog.
+
+09:34.655 --> 09:37.665
+Buddy. Part Lab, part Shepherd.
+Very affectionate.
+
+09:37.675 --> 09:40.705
+Probably the best available solution.
+
+09:40.715 --> 09:43.635
+Jeremiah, I'm sure that's not true.
+
+09:44.745 --> 09:46.765
+Why?
+
+09:54.715 --> 09:55.834
+American businesswoman
+
+09:55.835 --> 09:58.785
+and political candidate Diana Underhill
+
+09:58.795 --> 10:01.794
+is the latest high-profile
+victim of a hacking incident,
+
+10:01.795 --> 10:04.695
+this one at a New York area hospital.
+
+10:04.705 --> 10:06.754
+The news of her
+endometriosis was revealed
+
+10:06.755 --> 10:08.625
+after an unknown perpetrator
+
+10:08.635 --> 10:10.755
+was able to gain access
+to hospital computers.
+
+10:10.765 --> 10:12.755
+- Yes?
+
+10:12.765 --> 10:14.745
+Mr. Lawson.
+
+10:14.755 --> 10:16.714
+Thank you. So kind of you to visit.
+
+10:16.715 --> 10:19.635
+Uh, yes, I wish it were just for that.
+
+10:19.645 --> 10:21.605
+Uh, Ms. Underhill, I
+just wanted to apologize
+
+10:21.615 --> 10:22.755
+to you personally for
+this hacking incident.
+
+10:22.765 --> 10:24.725
+I assure you we're doing
+everything we can
+
+10:24.735 --> 10:26.675
+to seal the leak and repair the damage,
+
+10:26.685 --> 10:27.805
+and I just wanted you
+to hear it from me.
+
+10:27.815 --> 10:29.835
+Well, I appreciate that. I do,
+
+10:30.605 --> 10:33.635
+but as you can see, the
+damage has been done.
+
+10:33.645 --> 10:35.644
+Safely from her diagnosis...
+
+10:35.645 --> 10:37.705
+Well, this is just one show, right?
+
+10:37.715 --> 10:40.645
+- This once proud...
+- Political hopeful Diana...
+
+10:40.655 --> 10:42.745
+- Well, that...
+- New York Senate candidate...
+
+10:42.755 --> 10:45.725
+Again, I am so... so sorry.
+
+10:46.775 --> 10:48.724
+On the bright side, Mr. Lawson,
+
+10:48.725 --> 10:50.645
+now I have a few more campaign issues
+
+10:50.655 --> 10:51.804
+to which I intend to speak personally
+
+10:51.805 --> 10:54.644
+like privacy, cyber security,
+
+10:54.645 --> 10:56.715
+how our health care
+system is being run by
+
+10:56.725 --> 10:58.705
+marginally competent bureaucrats.
+
+10:58.715 --> 11:01.605
+That doesn't include me, right?
+
+11:03.745 --> 11:06.614
+I need to address this, Mr. Lawson,
+
+11:06.615 --> 11:08.715
+and you and your hospital
+need to be held accountable.
+
+11:08.725 --> 11:11.694
+Right, but... can you address it
+
+11:11.695 --> 11:13.735
+in general terms, like...
+
+11:13.745 --> 11:15.675
+without the human sacrifice?
+
+11:15.685 --> 11:17.654
+I could.
+
+11:17.655 --> 11:20.765
+But you know, America
+loves a good story.
+
+11:20.775 --> 11:24.694
+Especially one with a
+hero and a villain.
+
+11:24.695 --> 11:26.654
+And in this one, Mr. Lawson,
+
+11:26.655 --> 11:29.685
+I'm afraid you are the villain.
+
+11:31.825 --> 11:33.675
+Huh.
+
+11:40.719 --> 11:42.689
+First Boris tears you a new one,
+
+11:42.699 --> 11:43.809
+then Diana Underhill.
+
+11:43.819 --> 11:45.699
+It's a good thing you
+work in a hospital.
+
+11:45.709 --> 11:47.699
+Yeah. Maybe I can find
+you an empathy donor.
+
+11:47.709 --> 11:49.709
+Hey, you hear from Dad?
+
+11:49.719 --> 11:50.789
+Nope. You?
+
+11:50.799 --> 11:53.749
+Nope. Not me, not you, not Newberg.
+
+11:53.759 --> 11:55.748
+Not even his book editor.
+
+11:55.749 --> 11:58.788
+I can't even comprehend it.
+
+11:58.789 --> 12:00.849
+How does a guy just walk
+out on people like that?
+
+12:00.859 --> 12:02.909
+Practice.
+
+12:02.919 --> 12:05.828
+- This is different, though.
+- How?
+
+12:05.829 --> 12:08.708
+Because I genuinely
+thought he'd changed.
+
+12:08.709 --> 12:10.908
+Like... I don't even
+wanna find him, Henry.
+
+12:11.300 --> 12:13.130
+I feel like I'm done with him.
+
+12:13.140 --> 12:16.160
+And I feel like that's
+easier said than done.
+
+12:16.170 --> 12:18.160
+So what's with Boris
+threatening to fire you?
+
+12:18.170 --> 12:20.160
+It's not like you hacked
+into the hospital computers
+
+12:20.170 --> 12:21.229
+and stole everyone's information.
+
+12:21.230 --> 12:23.190
+Could you keep it down
+just a little bit? Thanks.
+
+12:23.200 --> 12:25.150
+I don't know... it happened on my watch.
+
+12:25.160 --> 12:26.309
+It's on me. What am I gonna do?
+
+12:26.310 --> 12:28.109
+Wallow in a Barcalounger
+
+12:28.110 --> 12:30.110
+watching "Jerry Springer"
+reruns all day?
+
+12:30.120 --> 12:32.110
+Kinda like you back in
+Brooklyn, actually.
+
+12:32.120 --> 12:33.180
+Yeah, I remember.
+
+12:35.180 --> 12:36.270
+I tell you what I'm gonna do.
+
+12:36.280 --> 12:38.189
+I'm gonna talk to Boris
+about this for you.
+
+12:38.190 --> 12:40.309
+What are... no, you won't.
+
+12:40.310 --> 12:42.180
+I'm not seven, Henry.
+
+12:42.190 --> 12:43.260
+This is not a school playground.
+
+12:43.270 --> 12:45.110
+I can battle a cybercriminal,
+a billionaire,
+
+12:45.120 --> 12:47.180
+- and a Senator on my own.
+- Okay, simmer down, "Avengers."
+
+12:47.190 --> 12:49.189
+- I'm just trying to help.
+- Well, I don't want your help.
+
+12:49.190 --> 12:51.220
+- I'm an adult.
+- Oh, well excuse me for caring.
+
+12:51.230 --> 12:53.109
+Well, maybe try caring less.
+
+12:53.213 --> 12:54.373
+You know, at the moment, I'm
+not sure I could care less.
+
+12:54.383 --> 12:56.213
+Oh, that's... That's real good.
+
+12:56.223 --> 12:57.393
+It's rich. Real rich.
+
+13:01.373 --> 13:04.373
+- See you at the barbecue.
+- Yeah, can't wait.
+
+13:04.383 --> 13:07.293
+And don't forget to bring chips!
+
+13:07.303 --> 13:09.262
+This is my floor... no, no...
+
+13:14.343 --> 13:18.262
+So... now we are not only married,
+
+13:18.263 --> 13:22.262
+but we have my daughter and his twins,
+
+13:22.263 --> 13:25.213
+and another boy or girl on the way.
+
+13:25.223 --> 13:26.253
+Which, of course, is the perfect time
+
+13:26.263 --> 13:27.382
+for me to be starting medical school.
+
+13:29.223 --> 13:31.343
+I am so sorry.
+
+13:31.353 --> 13:33.005
+I don't know why I just
+told you all of that.
+
+13:33.115 --> 13:35.606
+Oh, I have that effect on people...
+it's my gift.
+
+13:35.701 --> 13:37.721
+Sometimes my burden, but...
+
+13:37.731 --> 13:39.850
+it's my calling and it
+gives my life purpose.
+
+13:39.851 --> 13:42.761
+- Oh, so you're a...
+- Hairdresser.
+
+13:45.888 --> 13:47.559
+You and your son
+
+13:47.638 --> 13:48.677
+could not be more different.
+
+13:48.755 --> 13:49.795
+I know.
+
+13:49.805 --> 13:51.865
+Well...
+
+13:51.875 --> 13:54.865
+that quiet distance he keeps...
+
+13:54.982 --> 13:56.991
+Chuck made his peace with it long ago,
+
+13:57.055 --> 14:00.055
+long before we even knew
+that there was a...
+
+14:00.080 --> 14:02.980
+spectrum that, uh, Jerry might be on.
+
+14:02.990 --> 14:06.170
+But, you know, they
+can always talk about
+
+14:06.940 --> 14:08.950
+the weather or...
+
+14:08.960 --> 14:11.010
+a ballgame or traffic even.
+
+14:11.020 --> 14:15.050
+You know men.
+
+14:15.060 --> 14:16.989
+But a mother needs a little bit more,
+
+14:16.990 --> 14:20.110
+needs to know she's... needed.
+
+14:20.120 --> 14:22.990
+Needs to know she's loved.
+
+14:23.000 --> 14:25.069
+Needs to know she might have done
+
+14:25.070 --> 14:28.990
+something right.
+
+14:29.000 --> 14:31.070
+But, uh, you know, I...
+
+14:31.080 --> 14:33.070
+I've never gotten that from Jerry,
+
+14:33.080 --> 14:35.950
+and I don't imagine that I ever will.
+
+14:38.040 --> 14:41.140
+He may be more capable than you think.
+
+14:41.150 --> 14:43.950
+When we were roommates...
+
+14:43.960 --> 14:45.990
+Roommates?
+
+14:46.000 --> 14:47.990
+Well, I'm finding more
+about his life from you
+
+14:48.000 --> 14:50.150
+than I ever have from him.
+
+14:51.960 --> 14:54.990
+I know... that it can
+be hard to connect.
+
+14:55.000 --> 14:56.980
+But you can't give up.
+
+14:56.990 --> 14:59.140
+Oh, I won't, I won't. I just...
+
+14:59.150 --> 15:01.940
+What?
+
+15:01.950 --> 15:04.160
+I don't know, maybe I have
+given up a little bit.
+
+15:04.170 --> 15:06.959
+Maybe I need to make my peace with it.
+
+15:06.960 --> 15:09.129
+You do not strike me as
+a surrendering type.
+
+15:09.130 --> 15:12.089
+I'm not.
+
+15:12.090 --> 15:15.130
+But you know, after all these years...
+
+15:19.010 --> 15:21.070
+I'm a little defeated.
+
+15:27.980 --> 15:29.140
+Rehearsing!
+
+15:34.317 --> 15:35.366
+It's bad, isn't it?
+
+15:35.366 --> 15:37.206
+Well, it's not good, but it's...
+
+15:37.216 --> 15:39.276
+I knew it! First Rachel, now me.
+
+15:39.286 --> 15:41.146
+You know what this is, don't you?
+
+15:41.156 --> 15:42.196
+- I actu...
+- It's the curse
+
+15:42.206 --> 15:43.325
+of "The Curse of Shelter Island."
+
+15:43.326 --> 15:45.166
+It's the what of the what now?
+
+15:45.176 --> 15:46.356
+Rachel and Doug didn't tell you,
+
+15:46.366 --> 15:49.186
+but the reason their dad's
+movie never got made
+
+15:49.196 --> 15:50.335
+is because it was cursed.
+
+15:50.336 --> 15:52.236
+The director disappeared.
+
+15:52.246 --> 15:55.286
+The lead actor was in some
+mysterious car accident.
+
+15:55.296 --> 15:57.295
+And the business manager for the agent
+
+15:57.296 --> 16:00.136
+who represented the actress
+who played my role
+
+16:00.146 --> 16:03.276
+- died of scabies.
+- Scabies isn't fatal.
+
+16:03.286 --> 16:07.246
+That's how bad the curse is.
+It was disaster upon disaster
+
+16:07.256 --> 16:09.136
+until the studio had to shut it down.
+
+16:09.146 --> 16:11.135
+So what do I have?
+
+16:11.136 --> 16:13.296
+Hepatitis? Meningitis? Leprosy?
+
+16:13.306 --> 16:16.255
+No. Just a slight case of
+self-fulfilling prophecy.
+
+16:16.256 --> 16:17.335
+What?
+
+16:17.336 --> 16:20.216
+Stress weakens your immune system.
+
+16:20.226 --> 16:21.366
+A weak immune system can allow
+
+16:22.136 --> 16:24.326
+a dormant chicken pox virus to reawaken.
+
+16:24.336 --> 16:27.196
+I think your stress about the
+curse is what caused this.
+
+16:27.206 --> 16:30.215
+This being shingles. You have shingles.
+
+16:30.216 --> 16:32.136
+So... I'm sick
+
+16:32.146 --> 16:34.246
+because I was stressing
+about being sick?
+
+16:34.256 --> 16:36.265
+Hence my diagnosis of
+self-fulfilling prophecy,
+
+16:36.266 --> 16:38.136
+which also isn't fatal.
+
+16:38.146 --> 16:39.336
+So there's no curse.
+
+16:39.346 --> 16:41.216
+No curse.
+
+16:41.226 --> 16:43.296
+You're sure it's just shingles?
+
+16:43.306 --> 16:45.265
+Positive. But you can text
+your dermatologist friend
+
+16:45.266 --> 16:47.265
+if you like, or I can just go ahead
+
+16:47.266 --> 16:49.166
+and prescribe you some
+Valtrex, which is...
+
+16:49.176 --> 16:51.136
+I know what it is. Show business.
+
+16:51.146 --> 16:52.206
+Right.
+
+16:54.236 --> 16:55.326
+Whoa!
+
+16:55.336 --> 16:57.265
+That was really good.
+
+16:57.266 --> 17:00.246
+That wasn't supposed to happen.
+
+17:00.256 --> 17:01.296
+Rachel!
+
+17:01.306 --> 17:03.266
+Rachel!
+
+17:03.276 --> 17:06.336
+Rachel, hey, are you okay?
+
+17:10.346 --> 17:12.136
+I don't know.
+
+17:12.146 --> 17:13.346
+I think I passed out for a second.
+
+17:15.286 --> 17:17.236
+Did you pass out during
+that fire stunt too?
+
+17:17.246 --> 17:19.185
+Is that maybe why you went early?
+
+17:19.195 --> 17:21.175
+Maybe.
+
+17:21.185 --> 17:22.236
+Okay, listen to me.
+
+17:22.246 --> 17:24.146
+Skating close to the edge is one thing,
+
+17:24.156 --> 17:26.266
+but passing out twice for
+no reason is another.
+
+17:26.276 --> 17:28.306
+I'm taking you to the hospital.
+
+17:28.316 --> 17:31.206
+Still think there's no curse?
+
+17:40.156 --> 17:42.275
+Looks normal.
+
+17:42.276 --> 17:44.235
+Well, your EEG looks normal.
+
+17:44.236 --> 17:46.186
+So what's going on then?
+
+17:46.196 --> 17:48.226
+Can't say for sure until
+your blood work's back,
+
+17:48.236 --> 17:50.195
+but I'm concerned about seizures.
+
+17:50.196 --> 17:52.156
+Although you say this hasn't happened
+
+17:52.166 --> 17:54.195
+- outside these two instances.
+- No. Never.
+
+17:54.196 --> 17:55.245
+Okay.
+
+17:55.246 --> 17:57.356
+What about that face-plant
+your brother mentioned?
+
+17:57.366 --> 17:59.166
+That was different.
+
+17:59.176 --> 18:00.246
+I remember that whole thing
+from start to finish.
+
+18:00.256 --> 18:03.205
+Right. All right, I want
+to do an ambulatory EEG.
+
+18:03.206 --> 18:04.316
+So you'll keep the cap on,
+
+18:04.326 --> 18:06.226
+but I'll attach it to a portable monitor
+
+18:06.236 --> 18:08.325
+you'll carry with you for 24 hours.
+
+18:08.326 --> 18:10.236
+Okay, that's fine,
+
+18:10.246 --> 18:12.346
+but I can't do it till
+after the last stunt.
+
+18:12.356 --> 18:14.316
+Rachel, listen to me.
+Sometimes your body
+
+18:14.326 --> 18:16.196
+has ways of telling you
+it's time to ease up
+
+18:16.206 --> 18:17.266
+on the adrenaline.
+
+18:17.276 --> 18:19.326
+And sometimes that's a
+story you tell yourself
+
+18:19.336 --> 18:21.206
+to justify your circumstances.
+
+18:21.216 --> 18:23.205
+You talking about me?
+
+18:23.206 --> 18:25.365
+Look, adrenaline junkies don't
+just settle down, Hank.
+
+18:25.366 --> 18:28.236
+That crazy rush we get from wondering
+
+18:28.246 --> 18:29.246
+"Am I gonna make it through this?"
+
+18:29.256 --> 18:31.205
+That's what makes us feel alive.
+
+18:31.206 --> 18:33.266
+Isn't there a part of
+you that misses that?
+
+18:33.276 --> 18:36.135
+Sure, sure, sometimes,
+
+18:36.136 --> 18:38.255
+but let's deal with you first.
+You can't do the stunt.
+
+18:38.256 --> 18:40.276
+And you can say that, but
+I'm doing the stunt.
+
+18:40.286 --> 18:41.295
+- Rachel, I'm telling you...
+- Look...
+
+18:41.296 --> 18:43.246
+this is really important to me
+
+18:43.256 --> 18:45.246
+and my dad and my brother.
+
+18:45.256 --> 18:47.166
+So unless you put me
+in a straitjacket...
+
+18:47.176 --> 18:48.215
+which actually wouldn't work,
+
+18:48.216 --> 18:49.366
+'cause I know how to get out of one...
+
+18:50.136 --> 18:52.196
+I'm doing the stunt.
+
+18:52.206 --> 18:55.316
+All right. Then I'm coming with you.
+
+19:04.176 --> 19:05.366
+Oh, good.
+
+19:06.136 --> 19:07.216
+Hi.
+
+19:11.176 --> 19:13.216
+So if you press the tip
+of your middle finger
+
+19:13.226 --> 19:14.316
+to the tip of your thumb,
+
+19:14.326 --> 19:16.246
+that fleshy area right under your thumb
+
+19:16.256 --> 19:18.346
+is what medium-rare feels like.
+
+19:20.176 --> 19:22.186
+- Yeah.
+- And that one's yours now,
+
+19:22.196 --> 19:23.366
+- right?
+- Ha. Right. Yes.
+
+19:24.136 --> 19:25.146
+Leave it to a doctor
+
+19:25.156 --> 19:26.306
+to make grilling a teachable moment.
+
+19:26.316 --> 19:29.216
+What can I say? Science is everywhere.
+
+19:29.226 --> 19:31.256
+Hey, you wanna practice
+your curve ball tomorrow?
+
+19:31.266 --> 19:33.366
+Can't. I'm going to
+visit my dad, remember?
+
+19:34.136 --> 19:35.265
+Ah, right. Idaho.
+
+19:35.266 --> 19:36.345
+I'm gonna get another soda.
+
+19:36.346 --> 19:39.136
+- Okay.
+- Um...
+
+19:39.146 --> 19:40.225
+How's your curve ball?
+
+19:40.226 --> 19:42.226
+It's not so good.
+
+19:42.236 --> 19:43.225
+Which is actually why I was thinking
+
+19:43.226 --> 19:46.256
+more along the lines of, um... dinner.
+
+19:46.266 --> 19:48.265
+Maybe like a real grown-up dinner?
+
+19:48.266 --> 19:50.136
+Grown-up, huh? Does that mean
+
+19:50.146 --> 19:51.326
+we couldn't get crayons
+to color on our menus?
+
+19:51.336 --> 19:52.336
+Oh, no, we would get crayons.
+
+19:52.346 --> 19:54.206
+- Okay, I'm in.
+- Okay.
+
+19:54.216 --> 19:57.216
+I am so glad you like
+my cheese ball, Divya.
+
+19:57.226 --> 19:59.216
+Like it? I cannot stop eating it.
+
+19:59.226 --> 20:01.355
+Jeremiah.
+
+20:01.356 --> 20:04.196
+Did your mom always cook like this?
+
+20:04.206 --> 20:07.136
+Yes, food was often molded into shapes.
+
+20:07.146 --> 20:09.136
+Balls, rings, bars.
+
+20:09.146 --> 20:11.186
+Logs. Loaves. Squares.
+
+20:11.196 --> 20:13.315
+Cups. Domes. Triangles.
+
+20:13.316 --> 20:16.155
+Towers.
+
+20:16.156 --> 20:17.355
+A tower's a structure, not a shape.
+
+20:17.356 --> 20:20.156
+Wedges. Hey, Jeremiah,
+
+20:20.166 --> 20:22.146
+um... why don't you tell your parents
+
+20:22.156 --> 20:23.236
+what you're working on.
+
+20:23.246 --> 20:25.316
+Oh, I-it's rather technical.
+
+20:25.326 --> 20:28.266
+Try us. We might surprise you.
+
+20:30.236 --> 20:32.346
+Well, there are these
+things called virusomes.
+
+20:32.356 --> 20:36.146
+which are... unilamellar
+phospholipid vesicles
+
+20:36.156 --> 20:39.275
+incorporating virus-derived
+but non-infectious proteins
+
+20:39.276 --> 20:42.186
+that facilitate the delivery
+of a drug or a vaccine.
+
+20:42.196 --> 20:47.246
+I'm attempting to engineer
+a new kind of virosome.
+
+20:47.256 --> 20:49.165
+Well...
+
+20:49.166 --> 20:51.276
+that's very interesting.
+
+20:53.206 --> 20:56.205
+I hear it's supposed to rain next week.
+
+20:56.206 --> 20:57.366
+Uh, Dr. Lawson?
+
+20:58.136 --> 20:59.286
+Hi. Hi.
+
+20:59.296 --> 21:01.286
+What in the name of
+sweet Jesus are these?
+
+21:01.296 --> 21:03.266
+They're chips, per your demand.
+
+21:03.276 --> 21:05.286
+They are tortilla chips.
+
+21:05.296 --> 21:07.226
+They are generic tortilla chips.
+
+21:07.236 --> 21:08.346
+They are so generic, Henry,
+
+21:08.356 --> 21:10.325
+they don't even list ingredients...
+nothing!
+
+21:10.326 --> 21:12.356
+It's mean. Paige thinks
+so too, by the way.
+
+21:12.366 --> 21:14.276
+Oh, she's on now because of the chips?
+
+21:14.286 --> 21:16.276
+- That's ridiculous.
+- He says you're ridiculous.
+
+21:16.286 --> 21:18.236
+No, I did not. I said you're ridiculous.
+
+21:18.246 --> 21:19.325
+Why would you buy generic chips?
+
+21:19.326 --> 21:20.365
+- Everyone's happy...
+- They're tortilla chips!
+
+21:20.366 --> 21:23.215
+- Hey, hey, guys, easy.
+- Oh, my God.
+
+21:23.216 --> 21:25.196
+Save it for Thanksgiving.
+
+21:25.206 --> 21:27.326
+I have mustards to organize.
+
+21:30.176 --> 21:32.366
+Oh... what is it with families?
+
+21:33.136 --> 21:35.206
+I know... you try to help,
+and they get all insulted.
+
+21:35.216 --> 21:36.236
+You try to help,
+
+21:36.246 --> 21:38.216
+and you might as well be invisible.
+
+21:38.226 --> 21:39.316
+Whose family are you talking about?
+
+21:39.326 --> 21:41.215
+Well, Jeremiah's.
+
+21:41.216 --> 21:43.335
+They want to connect so badly,
+but they don't know how.
+
+21:43.336 --> 21:46.196
+I'm trying to facilitate,
+but it's not going so well.
+
+21:46.206 --> 21:49.135
+Well, be careful. Families
+can be like magnets.
+
+21:49.136 --> 21:50.215
+The more you try to push them together,
+
+21:50.216 --> 21:51.246
+the more they slide apart.
+
+21:51.256 --> 21:53.196
+Unless you turn them around.
+
+21:53.206 --> 21:54.256
+Hmm.
+
+21:54.266 --> 21:56.296
+Hi. I'm Barb. I'm Jerry's mom.
+
+21:56.306 --> 21:58.175
+How do you do?
+
+21:58.176 --> 22:00.295
+Boris Kuester von Jurgens-Ratenicz.
+
+22:00.296 --> 22:02.296
+Hey, there. Chuck Sacani.
+
+22:02.306 --> 22:05.226
+Sacani Motors? What do you drive?
+
+22:05.236 --> 22:08.266
+I, uh... don't.
+
+22:08.276 --> 22:10.216
+Boris, what a nice surprise.
+
+22:10.226 --> 22:11.266
+- Excuse us.
+- Pleasure.
+
+22:11.276 --> 22:13.345
+This thing over...
+
+22:13.346 --> 22:15.206
+- Yeah. Evan.
+- Ah.
+
+22:15.216 --> 22:18.256
+- Oh.
+- For you, gentlemen.
+
+22:18.266 --> 22:20.146
+Oh, nice.
+
+22:20.156 --> 22:22.336
+"1982 Calon Suger."
+
+22:22.346 --> 22:24.136
+Ségur. Yes.
+
+22:24.146 --> 22:27.256
+It... risks overwhelming
+the hamburger sandwiches,
+
+22:27.266 --> 22:29.246
+but it will be worth it.
+
+22:29.256 --> 22:32.185
+I'm just glad it's not a
+giant metaphorical axe.
+
+22:32.186 --> 22:35.266
+No. I was... overly
+severe with you earlier.
+
+22:35.276 --> 22:39.186
+- My apologies.
+- Thank you, Boris.
+
+22:39.196 --> 22:41.166
+You were upset and with good reason.
+
+22:41.176 --> 22:42.345
+Yeah, multiple reasons.
+
+22:42.346 --> 22:45.176
+Some pertaining to my
+pharmaceutical company,
+
+22:45.186 --> 22:48.226
+but primarily because I was
+forced to delay my trip
+
+22:48.236 --> 22:50.155
+to see Marisa and Carlos.
+
+22:50.156 --> 22:52.275
+Totally understood. Happy you came.
+
+22:52.276 --> 22:54.186
+I'm gonna go pop this guy open.
+
+22:54.196 --> 22:56.146
+Good.
+
+22:56.156 --> 22:57.275
+So you've been missing your family.
+
+22:57.276 --> 22:59.315
+Yeah. Very much so.
+
+22:59.316 --> 23:01.356
+Particularly because...
+
+23:01.366 --> 23:04.266
+Carlos is about to receive
+his first treatment
+
+23:04.276 --> 23:08.236
+of our new pediatric drug protocol.
+
+23:08.246 --> 23:10.216
+Pediatric drug... for what?
+
+23:10.226 --> 23:13.176
+My family's disease.
+
+23:13.186 --> 23:15.266
+He has the marker too, Hank.
+
+23:32.499 --> 23:34.538
+Hey, man, sorry it's taking so long,
+
+23:34.539 --> 23:36.459
+but I finally have some news.
+
+23:36.468 --> 23:37.617
+Good or bad?
+
+23:37.619 --> 23:40.429
+Uh... both?
+
+23:45.469 --> 23:47.439
+Hi.
+
+23:47.449 --> 23:49.459
+We need to talk.
+
+23:49.469 --> 23:51.498
+My attorneys will be
+glad to speak with you.
+
+23:51.499 --> 23:53.619
+You leaked your own medical record.
+
+23:55.609 --> 23:56.870
+What?
+
+23:57.019 --> 23:59.915
+I just found out that none of
+our patients' medical records
+
+23:59.924 --> 24:02.084
+were copied or even
+opened, for that matter.
+
+24:02.095 --> 24:06.054
+Yet somehow, right after you
+found out about the hack,
+
+24:06.055 --> 24:09.104
+your information was mysteriously...
+
+24:09.105 --> 24:11.064
+everywhere.
+
+24:11.065 --> 24:13.125
+Because you...
+
+24:13.135 --> 24:16.104
+wanted it that way.
+
+24:16.105 --> 24:19.015
+That's absurd.
+
+24:19.025 --> 24:20.085
+Is it, though?
+
+24:21.785 --> 24:22.935
+You're on every channel.
+
+24:22.945 --> 24:24.775
+You've got three new issues
+
+24:24.785 --> 24:25.904
+to which you can now speak personally,
+
+24:25.904 --> 24:27.743
+including an illness
+
+24:27.745 --> 24:29.784
+that makes people feel
+sympathy towards you.
+
+24:31.744 --> 24:32.903
+It was a shrewd move, Ms. Underhill.
+
+24:32.905 --> 24:34.825
+It was... It was very shrewd.
+
+24:34.835 --> 24:37.765
+What do you want, Mr. Lawson?
+
+24:38.945 --> 24:40.895
+Well, you know, Ms. Underhill,
+
+24:40.905 --> 24:42.944
+America loves a good story,
+
+24:42.945 --> 24:45.885
+especially one with a
+hero and a villain,
+
+24:45.895 --> 24:49.795
+but you know what I think
+they're gonna love even more?
+
+24:49.805 --> 24:52.845
+A story with... two heroes.
+
+24:57.805 --> 24:59.755
+Oh...
+
+24:59.764 --> 25:01.804
+Thank you for trusting
+us with your care.
+
+25:10.755 --> 25:11.874
+I already said good-bye to them once
+
+25:11.875 --> 25:12.975
+and then again at the cookout.
+
+25:13.745 --> 25:15.745
+It doesn't make sense
+to say it a third time.
+
+25:15.755 --> 25:17.795
+It's your family. It's not
+supposed to make sense.
+
+25:17.805 --> 25:19.925
+It's just what you do.
+
+25:23.845 --> 25:24.905
+They're not home.
+
+25:24.915 --> 25:28.785
+This is their car. They
+have to be somewhere close.
+
+25:29.915 --> 25:33.765
+Hello! Somebody! Anybody!
+
+25:33.775 --> 25:35.844
+- Hello?
+- Mom?
+
+25:35.845 --> 25:38.785
+Oh, Jerry, hi! Oh, good, come quick.
+
+25:38.795 --> 25:40.804
+Come quick. Something's
+wrong with Rosie.
+
+25:40.805 --> 25:43.765
+She started to throw up,
+and now she won't move.
+
+25:45.765 --> 25:46.875
+I'm not a vet.
+
+25:46.885 --> 25:48.924
+"First do no harm." I know the rules.
+
+25:48.924 --> 25:51.944
+We own every episode of
+"DIAGNOSIS: Murder!"
+
+26:14.975 --> 26:16.875
+Hello, I'm Dr. Sacani.
+
+26:16.885 --> 26:18.845
+I'm gonna palpate your abdomen now.
+
+26:23.815 --> 26:24.965
+Your dog isn't sick. She's in labor.
+
+26:24.975 --> 26:27.854
+That's impossible. She
+was fixed at the shelter
+
+26:27.855 --> 26:29.894
+before we even got her. We paid a fee!
+
+26:29.895 --> 26:30.974
+Then you should get a refund.
+
+26:30.975 --> 26:32.854
+Is she gonna be okay?
+
+26:32.855 --> 26:34.885
+I don't know. Maybe an
+ultrasound would help.
+
+26:34.895 --> 26:36.935
+Okay, I'll run and get it from the car.
+
+26:41.935 --> 26:44.855
+How far are you parked?
+
+26:55.825 --> 26:57.965
+She's okay to do this, right?
+
+26:57.975 --> 26:59.824
+Oh, I'd rather she didn't,
+
+26:59.825 --> 27:01.845
+but I haven't been able
+to convince her not to.
+
+27:01.855 --> 27:03.855
+And medically, she does check out.
+
+27:03.865 --> 27:05.865
+So what's gonna happen here?
+
+27:05.875 --> 27:08.824
+Car's gonna come screaming
+down the driveway,
+
+27:08.825 --> 27:10.825
+across the lawn, down the ramp,
+
+27:10.835 --> 27:12.864
+into the water, burst into flames.
+
+27:12.865 --> 27:13.925
+Why does it burst into flames
+
+27:13.935 --> 27:15.815
+if it's in the water?
+
+27:15.825 --> 27:16.965
+Because the possessed
+can telekinetically
+
+27:16.975 --> 27:18.855
+manipulate things on a molecular level.
+
+27:18.865 --> 27:20.885
+- Ah. Okay.
+- It's set up in act one.
+
+27:20.895 --> 27:22.945
+Speaking of the possessed,
+got the contacts in?
+
+27:22.955 --> 27:25.935
+Nice. I wanna go to you
+as soon as we get this.
+
+27:25.945 --> 27:27.815
+No matter how many times
+I see those things,
+
+27:27.825 --> 27:28.885
+they still creep me out.
+
+27:28.895 --> 27:30.784
+That's the idea.
+
+27:30.785 --> 27:32.925
+Rachel hates them. She's
+fine blowing herself up,
+
+27:32.935 --> 27:34.865
+but touch her eyeball, she freaks out.
+
+27:34.875 --> 27:36.815
+Huh. Can I see one of those?
+
+27:36.825 --> 27:38.745
+- Sure.
+- Thanks.
+
+27:38.755 --> 27:40.794
+Okay, let's roll.
+
+27:40.795 --> 27:41.914
+These are hard lenses.
+
+27:41.915 --> 27:44.785
+Does Rachel put these in right
+before she does a stunt?
+
+27:44.919 --> 27:46.778
+As last-minute as she can.
+
+27:48.091 --> 27:50.589
+When I said, "Let's roll," I
+didn't mean it literally.
+
+27:50.614 --> 27:53.454
+Why is she going so slow?
+
+27:54.564 --> 27:56.692
+Because of these. Rachel!
+
+27:57.184 --> 27:59.104
+Rachel!
+
+28:00.274 --> 28:03.054
+Rachel, are you okay?
+
+28:05.104 --> 28:07.234
+I can't feel a pulse.
+
+28:11.231 --> 28:13.547
+She's severely bradycardic.
+Her pulse is so low,
+
+28:13.572 --> 28:15.671
+it's barely even there.
+She needs Atropine.
+
+28:29.602 --> 28:31.502
+She's not responding.
+
+28:31.513 --> 28:33.613
+I'm gonna externally pace her.
+
+28:43.472 --> 28:45.462
+I'm afraid this is going
+to hurt quite a bit.
+
+28:45.472 --> 28:46.672
+Well, pain amuses her, remember?
+
+28:46.682 --> 28:49.462
+Yeah, well, lucky her.
+
+28:55.622 --> 28:57.602
+Ah!
+
+29:00.533 --> 29:02.513
+It happened again. Why?
+
+29:02.522 --> 29:04.602
+First, let's get these out.
+
+29:08.453 --> 29:10.523
+Okay.
+
+29:10.532 --> 29:13.542
+Now, any pain
+
+29:13.552 --> 29:16.601
+here... here...
+
+29:16.602 --> 29:19.542
+Ow! Yeah, that's from my
+face-plant last week.
+
+29:19.552 --> 29:21.622
+Okay. So is all your fainting.
+
+29:21.632 --> 29:23.592
+What?
+
+29:23.602 --> 29:25.472
+That face-plant resulted in a fracture
+
+29:25.482 --> 29:26.662
+that trapped your trigeminal nerve,
+
+29:26.672 --> 29:28.622
+so now when you put
+pressure on your eyeball,
+
+29:28.632 --> 29:30.642
+it's creating an oculocardiac reflex,
+
+29:30.652 --> 29:32.522
+dropping your heart rate.
+
+29:32.532 --> 29:34.561
+So when I put my contacts in,
+
+29:34.562 --> 29:36.512
+it slowed my heart down?
+
+29:36.522 --> 29:39.451
+Yeah. And this time, it
+almost didn't speed up again.
+
+29:39.452 --> 29:40.612
+Can you untrap the nerve?
+
+29:40.622 --> 29:42.451
+In the hospital, yeah.
+
+29:42.452 --> 29:43.632
+It's actually a pretty simple procedure.
+
+29:43.642 --> 29:44.652
+So we can finish the movie?
+
+29:44.662 --> 29:46.611
+Yeah, but not today.
+
+29:46.612 --> 29:48.592
+We'll get back to it once you're fixed.
+
+29:48.602 --> 29:50.611
+You're like our good luck charm.
+
+29:50.612 --> 29:52.451
+Well, I don't know about that,
+
+29:52.452 --> 29:53.532
+but I do think you guys
+
+29:53.542 --> 29:55.651
+ought to put this whole
+curse business to bed.
+
+29:55.652 --> 29:57.622
+There is no such thing.
+
+30:10.532 --> 30:14.472
+That's on me. Didn't put it in park.
+
+30:20.502 --> 30:22.582
+She's having trouble
+delivering the initial puppy
+
+30:22.592 --> 30:25.452
+because of its abnormal presentation...
+it's tail first.
+
+30:25.462 --> 30:26.541
+It's called dystocia.
+
+30:26.542 --> 30:28.572
+She should go to a vet.
+
+30:28.582 --> 30:31.542
+Or maybe you can manipulate
+the puppies digitally.
+
+30:31.552 --> 30:33.582
+Everything's digital now.
+
+30:33.592 --> 30:35.501
+She means using my fingers.
+But I would need you
+
+30:35.502 --> 30:37.492
+to kneel down and hold the ultrasound,
+
+30:37.502 --> 30:39.482
+which seems unlikely, in light of...
+
+30:39.492 --> 30:40.562
+your girth.
+
+30:40.572 --> 30:43.562
+I-I'm totally capable of bending over.
+
+30:49.542 --> 30:50.661
+Okay, fine. It's not happening.
+
+30:50.662 --> 30:53.461
+It's all right. I got it.
+
+30:53.462 --> 30:54.582
+- I can do it.
+- Uh...
+
+30:54.592 --> 30:56.532
+I can do this. Give it to me.
+
+30:56.542 --> 30:58.652
+- All right, um...
+- Give it to me.
+
+30:58.662 --> 31:00.542
+Hold that right against the abdomen.
+
+31:00.552 --> 31:02.592
+- Okay.
+- That's it.
+
+31:05.512 --> 31:07.502
+What's that stuff for?
+
+31:07.512 --> 31:09.512
+It's to help guide the puppy
+out of the vaginal vault.
+
+31:09.522 --> 31:11.452
+Oh, my.
+
+31:18.602 --> 31:21.591
+I just need to open the amniotic sack
+
+31:21.592 --> 31:24.472
+and cut the umbilical cord.
+
+31:24.482 --> 31:26.462
+It's a miracle!
+
+31:26.472 --> 31:28.452
+It's really more biology.
+
+31:28.462 --> 31:29.671
+No.
+
+31:29.672 --> 31:32.592
+I mean you.
+
+31:34.602 --> 31:37.502
+- Okay.
+- Oh, look at that.
+
+31:37.512 --> 31:39.471
+Just look at that.
+
+31:39.472 --> 31:41.502
+- Aw...
+- Ha ha!
+
+31:41.512 --> 31:43.532
+Here, let me have him.
+
+31:46.602 --> 31:49.481
+Ah, there you go, little guy.
+
+31:49.482 --> 31:50.522
+Hey.
+
+31:56.562 --> 31:57.632
+Oh. Here we go.
+
+31:57.642 --> 31:58.682
+Oh, another one!
+
+31:59.452 --> 32:00.681
+Look at us.
+
+32:00.682 --> 32:03.462
+- Out to dinner.
+- I know, right?
+
+32:03.472 --> 32:04.622
+God, it feels like
+this has been building
+
+32:04.632 --> 32:06.462
+since I don't know when.
+
+32:06.472 --> 32:08.502
+End of last summer. Not
+that I'm counting.
+
+32:08.512 --> 32:11.481
+Well, I'm sure it
+will be worth the wait.
+
+32:11.482 --> 32:13.602
+Definitely.
+
+32:13.612 --> 32:15.622
+And, hey, you know what
+else is worth the wait?
+
+32:15.632 --> 32:18.482
+The grilled artichokes
+with the lemon aioli.
+
+32:18.492 --> 32:21.641
+Mmm! Yeah...
+
+32:21.642 --> 32:24.521
+Oh. You... you're not a fan.
+
+32:24.522 --> 32:27.531
+It's just all that work to
+scrape a bunch of green goo
+
+32:27.532 --> 32:29.592
+onto the backs of your teeth...
+not for me!
+
+32:29.602 --> 32:31.532
+Okay!
+
+32:32.652 --> 32:34.522
+- But you should get it.
+- No!
+
+32:34.532 --> 32:35.652
+- We can get something else.
+- But you want it.
+
+32:35.662 --> 32:37.602
+Yeah, but I wouldn't be able
+to finish it on my own.
+
+32:37.612 --> 32:38.651
+Go on, get it. Don't listen to me.
+
+32:38.652 --> 32:40.491
+I... no, listen, I don't need it.
+
+32:40.492 --> 32:41.632
+We'll do something else.
+
+32:41.642 --> 32:44.611
+- Okay.
+- Okay.
+
+32:44.612 --> 32:46.571
+So Sam's in Idaho.
+
+32:46.572 --> 32:48.652
+Yeah! Yeah, he loves it there.
+
+32:48.662 --> 32:51.532
+The hunting, the fishing,
+horses, rallies.
+
+32:52.612 --> 32:54.642
+- Rallies?
+- Yeah, like road rallies.
+
+32:54.652 --> 32:56.572
+ATVs, four-by-fours, that kinda thing.
+
+32:56.582 --> 32:58.491
+Oh, oh.
+
+32:58.492 --> 32:59.651
+Whew!
+
+32:59.652 --> 33:01.612
+Why, what kind of rallies
+were you thinking?
+
+33:01.622 --> 33:03.542
+Well... it is Idaho.
+
+33:05.492 --> 33:06.571
+So you thought I sent Sam
+
+33:06.572 --> 33:08.572
+to some kind of separatist compound?
+
+33:08.582 --> 33:10.682
+No. No, of course not.
+
+33:11.452 --> 33:13.502
+Okay. Good.
+
+33:13.512 --> 33:15.621
+Yeah, no. Never.
+
+33:15.622 --> 33:17.652
+But, you know... Idaho.
+
+33:17.662 --> 33:19.682
+Let's just not talk about Sam or Idaho.
+
+33:20.452 --> 33:22.522
+Right. Of course. New topic.
+
+33:25.582 --> 33:26.682
+To us.
+
+33:27.452 --> 33:29.462
+It's bad luck to toast with water.
+
+33:29.472 --> 33:31.621
+Yeah, I know, but you
+don't really believe...
+
+33:31.622 --> 33:33.682
+Okay.
+
+33:35.472 --> 33:37.542
+So, um...
+
+33:46.662 --> 33:48.541
+You gonna get the artichoke?
+
+33:48.542 --> 33:50.582
+I think I am, yeah.
+
+33:59.662 --> 34:02.652
+You really still don't want to know.
+
+34:02.662 --> 34:04.652
+You're the one who didn't want to know.
+
+34:04.662 --> 34:06.472
+I know. I didn't want to know.
+
+34:06.482 --> 34:08.551
+But I want to know what you want,
+
+34:08.552 --> 34:10.551
+independent of what I want.
+
+34:10.552 --> 34:12.672
+The truth is, I hadn't
+looked at it that way.
+
+34:12.681 --> 34:14.670
+I was just, uh...
+
+34:14.672 --> 34:16.552
+deferring to you, I guess.
+
+34:18.512 --> 34:20.462
+Raj...
+
+34:20.472 --> 34:22.652
+I love how comforting and
+supportive you've been
+
+34:22.661 --> 34:24.612
+about everything,
+
+34:24.621 --> 34:26.492
+but for two people
+who've known each other
+
+34:26.502 --> 34:27.670
+a lifetime, we've somehow ended up
+
+34:27.672 --> 34:29.630
+in a whirlwind romance.
+
+34:29.632 --> 34:31.641
+Falling in love, getting engaged,
+
+34:31.641 --> 34:33.561
+getting married,
+
+34:33.562 --> 34:35.601
+and getting pregnant, all in a year.
+
+34:35.601 --> 34:37.521
+Mm. Ha ha.
+
+34:37.522 --> 34:39.601
+We've made some big decisions, right?
+
+34:39.601 --> 34:42.552
+Decisions that would scare most people.
+
+34:42.562 --> 34:45.592
+But I guess what's kept
+them from scaring me
+
+34:45.601 --> 34:48.482
+is knowing that we've been
+making them together.
+
+34:50.482 --> 34:53.542
+Okay. I do want to know.
+
+34:53.552 --> 34:56.641
+- Really?
+- I just can't win!
+
+34:56.641 --> 34:58.552
+Please, God, let it be a boy.
+
+35:00.512 --> 35:01.552
+Ms. Katdare?
+
+35:01.562 --> 35:03.662
+- The doctor's ready for you.
+- All right.
+
+35:06.562 --> 35:08.492
+Come on, honey.
+
+35:10.562 --> 35:12.611
+Furthermore, I would like to commend
+
+35:12.612 --> 35:14.632
+the excellent care
+
+35:14.642 --> 35:16.651
+that I have received
+here from the doctors
+
+35:16.652 --> 35:19.651
+and the nurses and the staff
+at Hamptons Heritage.
+
+35:19.652 --> 35:23.482
+You know, I gotta say, it is
+private hospitals like this
+
+35:23.492 --> 35:26.592
+that set an example of just
+what can be accomplished
+
+35:26.602 --> 35:29.632
+without government
+mandates and interference.
+
+35:29.642 --> 35:32.651
+Thank you all so very much.
+I gotta get going.
+
+35:32.652 --> 35:34.531
+Sorry, but I didn't want to interrupt.
+
+35:34.532 --> 35:36.552
+But then I thought I should.
+But then I... well...
+
+35:36.562 --> 35:37.651
+- Evan.
+- Yeah.
+
+35:37.652 --> 35:41.492
+- Get on with it.
+- Right.
+
+35:43.492 --> 35:46.512
+So, uh, Lewis finished his
+investigation into the hack.
+
+35:46.522 --> 35:48.522
+Yeah? And?
+
+35:48.532 --> 35:50.451
+How many were affected?
+
+35:50.452 --> 35:51.552
+Well, that's the thing.
+
+35:51.562 --> 35:53.572
+He says it was not a massive data grab
+
+35:53.582 --> 35:56.427
+like we assumed, but
+they were clearly after
+
+35:56.452 --> 35:58.462
+only one patient record.
+
+35:58.472 --> 36:01.652
+- Yeah?
+- Yours.
+
+36:05.462 --> 36:07.532
+I see.
+
+36:23.292 --> 36:25.737
+I don't know what we would
+have done without you.
+
+36:25.995 --> 36:27.955
+You would have taken her to a vet.
+
+36:27.965 --> 36:29.947
+Bang-up job, Jerry.
+
+36:30.065 --> 36:32.085
+Especially for a guy
+who doesn't like dogs.
+
+36:32.855 --> 36:34.025
+We learned that when
+we got Buddy for him
+
+36:34.035 --> 36:35.985
+when he was five.
+
+36:35.995 --> 36:38.075
+Uh, you got Buddy for you, not for me.
+
+36:38.085 --> 36:39.985
+What are you talking?
+
+36:39.995 --> 36:42.955
+Why would we get a dog for us?
+
+36:42.965 --> 36:45.995
+Because... the dog is capable of giving
+
+36:46.005 --> 36:47.994
+physical affection, and I wasn't.
+
+36:47.995 --> 36:51.865
+No, Jerry, we got Buddy for you
+
+36:51.875 --> 36:54.074
+so you wouldn't be alone.
+
+36:54.075 --> 36:56.855
+But I wasn't alone. I had you.
+
+36:56.865 --> 36:59.074
+Yeah, sure, but you didn't have...
+you know,
+
+36:59.075 --> 37:01.035
+other kids.
+
+37:03.075 --> 37:07.945
+Y-you got Buddy so that I would have...
+a friend?
+
+37:07.955 --> 37:10.015
+Yeah. We thought it would help.
+
+37:13.075 --> 37:18.025
+I just... I... didn't realize.
+
+37:18.035 --> 37:20.964
+all this time, I got it backward
+
+37:20.965 --> 37:23.084
+and blamed the entire canine species.
+
+37:23.085 --> 37:26.964
+Well, one of these puppies
+could be yours if you want.
+
+37:26.965 --> 37:30.005
+- Which one?
+- Whichever.
+
+37:36.045 --> 37:38.085
+You know...
+
+37:38.855 --> 37:40.924
+if you are gonna take
+one of the puppies,
+
+37:40.925 --> 37:42.075
+you'll have to come up with a name.
+
+37:42.085 --> 37:43.924
+Mandelbrot.
+
+37:43.925 --> 37:45.964
+No, no, not just any name.
+
+37:45.965 --> 37:47.884
+You want a name for a dog.
+
+37:47.885 --> 37:50.884
+Yes. Mandelbrot.
+
+37:53.055 --> 37:54.965
+It's beautiful.
+
+37:56.965 --> 37:58.995
+I thought you'd given up on me.
+
+38:00.935 --> 38:03.885
+No, Jerry.
+
+38:03.895 --> 38:05.965
+Not then.
+
+38:05.975 --> 38:09.875
+Not ever.
+
+38:26.935 --> 38:28.934
+Way to go, Doc.
+
+38:39.935 --> 38:41.855
+Yeah, I figured it was a long shot,
+
+38:41.865 --> 38:42.965
+but you are his daughter.
+
+38:42.975 --> 38:46.885
+So don't be surprised if he
+suddenly shows up on campus.
+
+38:46.895 --> 38:48.885
+Okay. Do your homework.
+
+38:48.895 --> 38:50.904
+Don't leave those term
+papers to the last min...
+
+38:50.905 --> 38:52.064
+Okay. I'll shut up now.
+
+38:52.065 --> 38:54.025
+Bye, Emma.
+
+39:02.865 --> 39:04.075
+Hello!
+
+39:09.905 --> 39:11.945
+- Hey.
+- Hi!
+
+39:11.955 --> 39:13.064
+What are you doing here?
+
+39:13.065 --> 39:15.055
+Uh, nothing, just some, you know, files
+
+39:15.065 --> 39:17.025
+and HankMed stuff. What
+are you doing here?
+
+39:17.035 --> 39:19.895
+- I live here.
+- That's a fair point.
+
+39:19.905 --> 39:20.984
+How was your date?
+
+39:20.985 --> 39:22.865
+It had its high points,
+
+39:22.875 --> 39:24.915
+which were sadly close
+to its low points.
+
+39:24.925 --> 39:26.914
+Oh. Sorry to hear that.
+
+39:26.915 --> 39:28.955
+Yeah. We put off getting
+to know each other
+
+39:28.965 --> 39:30.994
+for so long... first
+because of her issues,
+
+39:30.995 --> 39:32.874
+then because of mine...
+
+39:32.875 --> 39:34.874
+that I assumed those would
+be our only issues.
+
+39:34.875 --> 39:36.034
+Only... they weren't.
+
+39:36.035 --> 39:37.914
+- Hmm.
+- Hey, there's some
+
+39:37.915 --> 39:39.954
+leftover artichokes if you want...
+they're really good.
+
+39:39.955 --> 39:42.895
+Sure. Yeah. Who doesn't
+love leftover artichokes?
+
+39:47.875 --> 39:49.015
+Don't worry about your date.
+
+39:49.025 --> 39:50.985
+Onward and upward, right?
+
+39:50.995 --> 39:53.855
+Yeah, yeah. Onward and upward.
+
+39:53.865 --> 39:55.875
+Hey, listen...
+
+39:55.885 --> 39:57.874
+I didn't mean to treat you
+like a kid yesterday.
+
+39:57.875 --> 40:00.975
+It's just with Dad suddenly
+disappearing the way he did,
+
+40:00.985 --> 40:03.084
+I don't know... maybe it was reflex
+
+40:03.085 --> 40:05.025
+because no matter how old you get,
+
+40:05.035 --> 40:06.924
+I think there will
+always be a part of me
+
+40:06.925 --> 40:08.964
+that needs to protect my little brother.
+
+40:08.965 --> 40:11.905
+Full disclosure?
+
+40:11.915 --> 40:14.025
+Part of me doesn't always mind that.
+
+40:14.035 --> 40:16.044
+Especially with a dad as
+undependable as ours.
+
+40:16.045 --> 40:18.025
+Right.
+
+40:20.085 --> 40:22.885
+Is that... your laundry?
+
+40:25.965 --> 40:28.035
+We don't have a washer or dryer yet.
+
+40:28.045 --> 40:30.005
+So you've been sneaking it in here?
+
+40:30.015 --> 40:31.035
+Well, you found me, so technically,
+
+40:31.045 --> 40:32.044
+it's not really sneaking anymore.
+
+40:32.045 --> 40:34.965
+- Boris.
+- Gentlemen.
+
+40:34.975 --> 40:37.035
+Evan, I thought you'd
+be at the hospital.
+
+40:37.045 --> 40:39.025
+I was, and I... and I will be.
+
+40:39.035 --> 40:40.945
+- Just, uh...
+- He's just doing laundry.
+
+40:40.955 --> 40:42.965
+- Yeah.
+- Ah.
+
+40:42.975 --> 40:45.974
+How... modern.
+
+40:45.975 --> 40:47.085
+So I'll just get to it then.
+
+40:47.855 --> 40:49.015
+- All right, see you later.
+- Okay. See you later.
+
+40:49.025 --> 40:51.014
+Hank...
+
+40:51.015 --> 40:52.085
+Boris, I don't mean to pry,
+
+40:52.855 --> 40:55.934
+but Carlos... what treatment
+is he undergoing,
+
+40:55.935 --> 40:58.885
+and under whose supervision
+and for how long?
+
+40:58.895 --> 40:59.934
+All good questions,
+
+40:59.935 --> 41:02.885
+best answered in person, perhaps?
+
+41:02.895 --> 41:04.894
+I'm off to see him in the morning.
+
+41:04.895 --> 41:06.232
+If you were able to join me, I...
+
+41:06.257 --> 41:08.015
+Yeah, of course. Consider it done.
+
+41:08.025 --> 41:11.054
+Yeah? Excellent. Thank you.
+
+41:11.055 --> 41:13.934
+Perhaps at the same
+time I can also address
+
+41:13.935 --> 41:16.045
+this recent hacking incident.
+
+41:16.055 --> 41:18.934
+Yeah. So...
+
+41:18.935 --> 41:20.054
+Where is Carlos?
+
+41:20.055 --> 41:22.975
+Hong Kong.
+
+41:23.305 --> 41:29.242
+Support us and become VIP member 
+to remove all ads from www.OpenSubtitles.org

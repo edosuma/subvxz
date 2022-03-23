@@ -1,0 +1,3486 @@
+WEBVTT
+
+00:02.536 --> 00:03.804
+Hi, I'm Jeffrey Tanner.
+
+00:03.837 --> 00:04.938
+Welcome to Sophe.
+
+00:04.972 --> 00:08.042
+We all know the Internet
+changed the world.
+
+00:08.076 --> 00:10.111
+The only question is:
+into what?
+
+00:10.144 --> 00:11.545
+It can be a platform
+to bring us together
+
+00:11.579 --> 00:13.147
+or to tear us apart.
+
+00:13.181 --> 00:14.448
+I know, because I spent my life
+
+00:14.482 --> 00:16.384
+trying to turn it
+into something
+
+00:16.417 --> 00:18.486
+that would connect us all.
+Then...
+
+00:18.519 --> 00:20.521
+I love you, Dad.
+...my daughter was murdered.
+
+00:20.554 --> 00:22.423
+Nothing else mattered anymore.
+
+00:22.456 --> 00:24.458
+Everyone was sure
+they knew who did it--
+
+00:24.492 --> 00:26.260
+the police, my ex-wife--
+
+00:26.294 --> 00:28.129
+but I was convinced the
+wrong man had been convicted
+
+00:28.162 --> 00:30.064
+and the real killer
+was still out there.
+
+00:30.098 --> 00:32.100
+So together with my team,
+I built Sophe,
+
+00:32.133 --> 00:34.435
+a crowdsource
+crime solving platform
+
+00:34.468 --> 00:37.305
+powered by the smartest,
+most diverse,
+
+00:37.338 --> 00:40.374
+independent collection of
+detectives on the planet:
+
+00:40.408 --> 00:43.111
+you.
+
+00:43.144 --> 00:45.146
+Let's get to work.
+
+00:45.179 --> 00:46.680
+Previously
+on Wisdom of the Crowd...
+
+00:46.714 --> 00:49.117
+Nell DeGraf sent
+a cease-and-desist,
+
+00:49.150 --> 00:51.852
+claiming Sophe's running code
+stolen from AllSourcer.
+
+00:51.885 --> 00:55.289
+SARA: Are you saying AllSourcer
+does actually own the code?
+
+00:55.323 --> 00:57.125
+And anything that's
+a direct result of it.
+
+00:57.158 --> 00:58.626
+But that's everything.
+
+00:58.659 --> 01:00.861
+That's all of Sophe.
+Make nice with Nell.
+
+01:00.894 --> 01:03.631
+TANNER: And give her a stake
+in Sophe? No.
+
+01:03.664 --> 01:06.434
+Tell him I might know
+who killed Mia Tanner.
+
+01:06.467 --> 01:08.302
+You should've just kept
+your mouth shut about that girl.
+
+01:08.336 --> 01:10.138
+(grunting)
+
+01:20.714 --> 01:23.551
+I thought you said
+these depositions
+
+01:23.584 --> 01:25.719
+were meant to happen
+on neutral ground.
+
+01:25.753 --> 01:27.188
+This is neutral ground.
+
+01:27.221 --> 01:28.456
+You know,
+
+01:28.489 --> 01:31.259
+somewhere between
+a Renaissance fair
+
+01:31.292 --> 01:33.093
+and Henry VIII's
+favorite whorehouse.
+
+01:36.597 --> 01:39.533
+All this over 136 lines of code.
+
+01:39.567 --> 01:41.602
+And you, of course.
+
+01:41.635 --> 01:43.604
+They're ready for us, Jeffrey.
+
+01:43.637 --> 01:45.606
+Are we absolutely certain
+we don't want
+
+01:45.639 --> 01:47.475
+to just sell AllSourcer
+an interest in Sophe,
+
+01:47.508 --> 01:49.743
+and make all of this go away?
+
+01:49.777 --> 01:51.745
+Yes.
+Yes.
+
+01:51.779 --> 01:52.746
+All right.
+
+01:52.780 --> 01:55.149
+Shall we?
+
+01:55.183 --> 01:57.151
+Let's get this out of the way.
+
+01:57.185 --> 02:00.354
+Don't want to keep Cruella
+de Vil waiting any longer.
+
+02:00.388 --> 02:03.257
+Let's try and keep things civil,
+shall we, Jeffrey?
+
+02:06.327 --> 02:08.496
+Jeffrey. Always a pleasure.
+
+02:08.529 --> 02:11.165
+Although I wish it were under
+different circumstances.
+
+02:11.199 --> 02:13.367
+Which circumstances? You mean,
+the fact that you've hired
+
+02:13.401 --> 02:15.936
+this... '80s movie villain
+to hijack my ideas
+
+02:15.969 --> 02:18.306
+because you're
+constitutionally incapable
+
+02:18.339 --> 02:20.174
+of coming up with your own?
+
+02:20.208 --> 02:21.942
+Shall we begin?
+
+02:21.975 --> 02:24.178
+(clears throat)
+
+02:26.280 --> 02:27.448
+(camera beeps)
+
+02:29.283 --> 02:30.751
+Fire when ready.
+
+02:30.784 --> 02:32.953
+CONRYN: Mr. Tanner,
+in your capacity
+
+02:32.986 --> 02:34.722
+as the former CEO
+of AllSourcer,
+
+02:34.755 --> 02:37.658
+can you tell us how the company
+first came to hire Sara Morton?
+
+02:37.691 --> 02:39.393
+The company?
+
+02:39.427 --> 02:41.595
+No, the AllSourcer board
+didn't have the vision
+
+02:41.629 --> 02:43.664
+to find someone like Sara,
+much less hire her.
+
+02:43.697 --> 02:45.433
+I mean, while they
+were focus grouping
+
+02:45.466 --> 02:46.800
+which shade of navy
+
+02:46.834 --> 02:48.969
+was least offensive
+to the most amount of people,
+
+02:49.002 --> 02:51.672
+Sara was doing research
+
+02:51.705 --> 02:55.276
+that would revolutionize
+user engagement.
+
+02:55.309 --> 02:58.412
+So you didn't go through the
+usual hiring channels, then?
+
+02:58.446 --> 03:02.416
+No. Sara wasn't the usual hire.
+
+03:02.450 --> 03:04.352
+SARA:
+I have a message
+
+03:04.385 --> 03:06.520
+for the tech industry:
+
+03:06.554 --> 03:08.989
+you are doing it wrong.
+
+03:09.022 --> 03:10.691
+The future of technology
+doesn't lie
+
+03:10.724 --> 03:13.494
+in likes or shares.
+
+03:13.527 --> 03:16.297
+It lies in using
+the new global village
+
+03:16.330 --> 03:20.268
+to accomplish tasks
+no individual ever could.
+
+03:20.301 --> 03:21.469
+Important tasks.
+
+03:21.502 --> 03:24.238
+Things like determining
+how many condoms
+
+03:24.272 --> 03:27.241
+are in the student health
+center's free condom bowl.
+
+03:27.275 --> 03:28.276
+(laughter)
+
+03:29.410 --> 03:31.545
+For, uh, research purposes,
+
+03:31.579 --> 03:34.515
+I positioned myself beside
+this bowl for three days,
+
+03:34.548 --> 03:37.785
+and I asked any student
+who came by to estimate.
+
+03:37.818 --> 03:40.854
+The mean value
+of all the student estimates
+
+03:40.888 --> 03:44.325
+was 963 condoms.
+
+03:44.358 --> 03:45.493
+(beeps)
+
+03:45.526 --> 03:50.864
+The correct answer was 962.5,
+
+03:50.898 --> 03:53.734
+as one condom
+at the bottom of the bowl
+
+03:53.767 --> 03:56.337
+had been mysteriously separated
+from its packaging.
+
+03:56.370 --> 03:57.438
+(laughter)
+
+03:57.471 --> 04:02.610
+This is the magic
+of crowdsourcing.
+
+04:02.643 --> 04:05.479
+An old saying goes
+that a person is smart,
+
+04:05.513 --> 04:07.881
+but people are dumb.
+
+04:07.915 --> 04:09.883
+Well, I'm here to tell you
+that, actually,
+
+04:09.917 --> 04:12.353
+the complete opposite is true.
+
+04:12.386 --> 04:14.622
+The crowd,
+when properly motivated
+
+04:14.655 --> 04:17.758
+and sufficiently diverse
+and independent
+
+04:17.791 --> 04:19.760
+in its decision making,
+
+04:19.793 --> 04:22.730
+is far smarter than
+any individual ever could be.
+
+04:22.763 --> 04:25.899
+Now, imagine this same principle
+
+04:25.933 --> 04:27.901
+applied to agriculture,
+to flood relief,
+
+04:27.935 --> 04:29.870
+to the eradication of disease.
+
+04:29.903 --> 04:33.907
+To building better and more
+innovative businesses.
+
+04:33.941 --> 04:36.377
+The world is sitting
+on a resource
+
+04:36.410 --> 04:39.513
+of our collective wisdom.
+
+04:39.547 --> 04:42.416
+I say, let's start mining it.
+
+04:45.519 --> 04:47.087
+Hi.
+
+04:47.120 --> 04:49.089
+Excuse me. Jeffrey Tanner.
+
+04:49.122 --> 04:50.758
+I run a company
+called AllSourcer.
+
+04:50.791 --> 04:53.394
+Um, yes, I believe
+I've heard of it.
+
+04:53.427 --> 04:55.796
+Listen, um, I read
+your dissertation.
+
+04:55.829 --> 04:57.531
+Very impressive.
+
+04:57.565 --> 04:59.633
+My dissertation's three months
+from publication.
+
+04:59.667 --> 05:00.601
+What can I say? I know people.
+
+05:00.634 --> 05:02.770
+Listen, the point is,
+I want to hire you.
+
+05:04.605 --> 05:06.106
+If you can use that research
+
+05:06.139 --> 05:08.342
+and apply it to the AllSourcer
+business model,
+
+05:08.376 --> 05:10.344
+I will build you
+
+05:10.378 --> 05:12.913
+any lab you want,
+hire you any team you want.
+
+05:14.648 --> 05:15.649
+Me?
+
+05:15.683 --> 05:16.784
+Yeah.
+
+05:16.817 --> 05:19.420
+Why?
+Because you see things
+
+05:19.453 --> 05:20.954
+other people don't.
+And I don't want you
+
+05:20.988 --> 05:23.524
+seeing them for the competition.
+
+05:23.557 --> 05:25.493
+(phone buzzing)
+
+05:25.526 --> 05:27.361
+It's my daughter.
+
+05:27.395 --> 05:29.129
+Can you just give me one second?
+
+05:29.162 --> 05:31.399
+(phone continues buzzing)
+Don't go anywhere.
+
+05:31.432 --> 05:32.400
+(buzzing)
+
+05:32.433 --> 05:33.667
+(Conryn clears throat)
+
+05:33.701 --> 05:35.969
+You offered to cover
+the rest of the cost
+
+05:36.003 --> 05:38.706
+of her doctoral program,
+too, didn't you?
+Yes.
+
+05:38.739 --> 05:43.411
+Guilty. I also, uh,
+I covered dental and a 401k.
+
+05:43.444 --> 05:44.912
+Do we need to talk
+about that, as well?
+
+05:44.945 --> 05:46.447
+You know? I mean...
+
+05:46.480 --> 05:47.581
+(phone buzzing)
+(clears throat)
+
+05:47.615 --> 05:49.450
+(scoffs)
+
+05:49.483 --> 05:50.818
+Are we distracting you, Jeffrey?
+
+05:50.851 --> 05:53.387
+I'm sorry.
+I need to take this.
+
+05:57.958 --> 05:59.427
+Hello?
+
+05:59.460 --> 06:00.360
+RECORDED VOICE:
+You have a collect call
+
+06:00.394 --> 06:03.464
+from a prisoner
+at Vacaville State Prison.
+
+06:03.497 --> 06:04.732
+Will you accept the charges?
+
+06:04.765 --> 06:05.933
+Uh, yeah. I'll accept--
+
+06:05.966 --> 06:07.735
+of course I will. Yes.
+
+06:07.768 --> 06:08.936
+One moment, please.
+
+06:08.969 --> 06:10.971
+(line ringing)
+
+06:11.004 --> 06:12.005
+(line picks up)
+
+06:12.039 --> 06:13.607
+Hello?
+
+06:13.641 --> 06:15.008
+FLACO:
+Is this Tanner?
+
+06:15.042 --> 06:17.010
+Yeah, this is Jeffrey Tanner.
+Who is this?
+
+06:17.044 --> 06:18.546
+(chuckles)
+I know who shanked
+
+06:18.579 --> 06:21.014
+your daughter's boyfriend
+in prison.
+
+06:21.048 --> 06:22.683
+How about you earn
+those billable hours,
+
+06:22.716 --> 06:24.017
+and get him to see reason,
+
+06:24.051 --> 06:26.454
+while he still has something
+left to fight for.
+
+06:26.487 --> 06:28.489
+(whispers)
+
+06:28.522 --> 06:29.890
+He...
+
+06:29.923 --> 06:31.825
+Oh, you have got
+to be kidding me.
+
+06:31.859 --> 06:34.495
+Did you know your client
+just took off in a cab?
+
+06:34.528 --> 06:36.530
+(door buzzes, latch clicks)
+
+06:37.898 --> 06:41.869
+(door closes)
+
+06:41.902 --> 06:43.036
+(clears throat)
+
+06:43.070 --> 06:46.507
+So you know
+who stabbed Carlos Ochoa?
+
+06:46.540 --> 06:48.208
+Oh, yeah.
+
+06:48.241 --> 06:49.042
+(laughs)
+
+06:49.076 --> 06:50.511
+It was me.
+
+06:50.544 --> 06:51.845
+Heh, two times in the gut, man.
+
+06:51.879 --> 06:53.514
+I cranked it real hard
+on the second one.
+
+06:53.547 --> 06:55.783
+I mean, that usually
+does the trick, right?
+
+06:55.816 --> 06:58.519
+Guess the kid's a lot tougher
+than he looks.
+
+06:58.552 --> 07:02.490
+But, I'll tell you what, though,
+the question isn't who did it.
+
+07:02.523 --> 07:03.524
+It's why.
+
+07:03.557 --> 07:05.926
+Did someone put you up to this?
+
+07:05.959 --> 07:08.696
+Who?
+
+07:08.729 --> 07:10.564
+Did it have something to do
+with my daughter?
+
+07:10.598 --> 07:11.965
+Oh, there you go.
+
+07:11.999 --> 07:13.233
+Now you're thinking.
+
+07:13.266 --> 07:15.469
+Yeah.
+
+07:15.503 --> 07:17.971
+Why are you telling me this?
+
+07:18.005 --> 07:20.040
+'Cause I need that
+machine you built.
+
+07:20.073 --> 07:21.975
+I got a little niece.
+
+07:22.009 --> 07:23.944
+Real sweet girl.
+
+07:23.977 --> 07:26.880
+Cops are trying to pin a murder
+on her, but she didn't do it.
+
+07:26.914 --> 07:28.549
+How can you be sure
+that she's innocent?
+
+07:28.582 --> 07:30.484
+Because she's
+innocent, man.
+
+07:30.518 --> 07:32.252
+Okay.
+
+07:32.285 --> 07:34.988
+If they try to charge me
+with anything, I'll deny it all.
+
+07:36.590 --> 07:39.026
+But you help me get Julia off,
+
+07:39.059 --> 07:41.562
+and I'll tell you
+everything I know.
+
+07:43.096 --> 07:45.265
+JOSH:
+Julia Guerrero.
+
+07:45.298 --> 07:49.837
+Arrests for assault, grand theft
+auto, another assault.
+
+07:49.870 --> 07:51.004
+Well, that's a statement.
+
+07:51.038 --> 07:53.073
+JOSH: Ooh!
+Click the video.
+
+07:53.106 --> 07:55.075
+(mouse clicks)
+
+07:55.108 --> 07:56.644
+(people shouting)
+
+07:56.677 --> 07:58.045
+Kill this bitch!
+
+07:58.078 --> 07:59.913
+JOSH: This is not what
+I've been led to believe
+
+07:59.947 --> 08:01.549
+girl fights look like.
+
+08:01.582 --> 08:02.583
+TARIQ:
+Who did this girl kill again?
+
+08:02.616 --> 08:03.884
+TANNER:
+Hopefully, no one.
+
+08:03.917 --> 08:05.619
+Listen, Cavanaugh's
+coming in now
+
+08:05.653 --> 08:08.522
+and, uh, he's gonna
+fill us in on this case.
+
+08:08.556 --> 08:12.092
+If he asks, we got the case from
+an anonymous tip. All right?
+
+08:12.125 --> 08:13.861
+Wait, h-how did we
+pick up this case?
+
+08:13.894 --> 08:16.830
+Anonymous tip.
+
+08:16.864 --> 08:19.567
+Thanks for coming in, Detective.
+
+08:19.600 --> 08:20.634
+Sure hope I don't regret it.
+
+08:20.668 --> 08:22.636
+(chuckles)
+What do we got?
+
+08:22.670 --> 08:24.638
+The victim you asked about,
+her name is Tammy Wyland.
+
+08:24.672 --> 08:26.607
+She and Julia were roommates.
+
+08:26.640 --> 08:27.841
+On the night
+of the murder,
+
+08:27.875 --> 08:29.610
+we got a 911
+call from one
+
+08:29.643 --> 08:30.678
+of the girls'
+neighbors.
+
+08:30.711 --> 08:32.613
+Unis found Tammy
+stabbed to death.
+
+08:32.646 --> 08:34.882
+So why are you guys
+trying to pin this on Julia?
+
+08:34.915 --> 08:36.650
+Nobody's trying to pin anything
+on anybody.
+
+08:36.684 --> 08:38.619
+The cops on the
+scene found Julia
+
+08:38.652 --> 08:39.920
+in the building's
+recycling area,
+
+08:39.953 --> 08:41.889
+trying to burn a pile
+of her own bloody clothes.
+
+08:41.922 --> 08:44.792
+You know what the first
+thing she said to them was?
+
+08:44.825 --> 08:46.627
+"I didn't stab that bitch."
+
+08:46.660 --> 08:47.828
+(whistles)
+Okay.
+
+08:47.861 --> 08:49.329
+All right. Post it.
+
+08:49.362 --> 08:51.131
+Actually, you know what?
+I'm gonna post it myself.
+
+08:51.164 --> 08:53.934
+So I can make sure
+what really happened.
+
+08:53.967 --> 08:55.903
+Hold on. What "really happened"?
+
+08:55.936 --> 08:59.707
+Tanner, what is your sudden
+interest in this case, anyway?
+
+08:59.740 --> 09:01.575
+I just want to see justice done.
+
+09:01.609 --> 09:03.644
+That's funny,
+because I heard that you visited
+
+09:03.677 --> 09:07.815
+the girl's gangbanging uncle
+in prison.
+
+09:07.848 --> 09:12.052
+So you want to come again
+with this anonymous tip story?
+
+09:13.821 --> 09:16.156
+You're gonna bet your daughter's
+case on this girl?
+
+09:16.189 --> 09:17.691
+I don't have much of a choice.
+
+09:17.725 --> 09:18.926
+He-- this guy Flaco
+
+09:18.959 --> 09:20.661
+stabbed Carlos Ochoa
+to shut him up.
+
+09:20.694 --> 09:23.196
+That's a damn big "if," Tanner.
+
+09:23.230 --> 09:26.033
+More likely,
+this gangbanger needs a favor,
+
+09:26.066 --> 09:28.368
+and he figures you're desperate
+enough to give it to him.
+
+09:28.401 --> 09:30.170
+Sophe partnered
+with your department,
+
+09:30.203 --> 09:32.172
+but that partnership
+goes both ways, remember?
+
+09:32.205 --> 09:35.643
+Look, Detective,
+
+09:35.676 --> 09:38.946
+I need to know the truth,
+all right?
+
+09:38.979 --> 09:41.048
+And I think you
+do, as well.
+
+09:41.081 --> 09:43.951
+This is the biggest lead
+we've had so far
+
+09:43.984 --> 09:46.386
+in my daughter's case.
+
+09:46.419 --> 09:49.589
+Now, are you gonna help me,
+or not?
+
+09:52.159 --> 09:54.594
+*
+
+10:04.938 --> 10:07.407
+Like I told the cops
+at the scene, bitch was cray.
+
+10:07.440 --> 10:09.276
+"Cray," how?
+
+10:09.309 --> 10:11.244
+Specifically.
+
+10:11.278 --> 10:15.182
+One minute, she'd be fine, then
+all the sudden she's losing it,
+
+10:15.215 --> 10:19.252
+running around screaming
+that I stole her lingerie.
+
+10:19.286 --> 10:21.421
+Bitch is shooting up
+in the bathroom,
+
+10:21.454 --> 10:24.391
+and banging married dudes,
+and I'm the problem?
+
+10:24.424 --> 10:27.928
+Flat-ass spankies
+wouldn't even fit me.
+
+10:29.329 --> 10:32.165
+The coroner didn't find
+any drugs in Tammy's system.
+
+10:32.199 --> 10:34.167
+I've been around, okay?
+
+10:34.201 --> 10:38.739
+I know what used needles and
+puke in the bathroom adds up to.
+
+10:38.772 --> 10:41.174
+Okay, what about
+the-the married guys?
+
+10:41.208 --> 10:43.043
+Do you know any of their names?
+
+10:43.076 --> 10:46.046
+Tammy and I met
+on the Internet, okay?
+
+10:46.079 --> 10:49.783
+She needed a roommate, fast,
+I needed a cheap place to crash.
+
+10:49.817 --> 10:52.352
+We didn't exactly
+share our life stories.
+
+10:53.987 --> 10:55.956
+Yeah.
+
+10:55.989 --> 10:58.158
+I know what
+you're thinking.
+
+10:58.191 --> 11:02.029
+You see a girl like me and a
+girl like Tammy scrapping it up,
+
+11:02.062 --> 11:04.998
+you automatically swipe white.
+
+11:05.032 --> 11:07.000
+Oh, is that what I do?
+
+11:07.034 --> 11:08.435
+I swipe white, do I?
+
+11:08.468 --> 11:10.771
+(door opens)
+Come on.
+
+11:10.804 --> 11:12.239
+What's up?
+
+11:12.272 --> 11:15.008
+Can I see you in my office,
+please?
+
+11:15.042 --> 11:17.077
+Yeah.
+
+11:17.110 --> 11:18.445
+Just...
+
+11:18.478 --> 11:21.114
+relax.
+
+11:21.148 --> 11:23.016
+You tell him,
+lady cop.
+
+11:23.050 --> 11:25.118
+Dude needs to
+learn some respect!
+
+11:33.126 --> 11:34.461
+You want to explain this?
+
+11:34.494 --> 11:38.131
+It's not exactly how
+I'd have put it...
+
+11:38.165 --> 11:41.201
+Once again, your buddy Tanner
+
+11:41.234 --> 11:45.038
+is actively trying
+to undermine an SFPD case.
+
+11:45.072 --> 11:47.040
+Why are you helping him?
+
+11:50.277 --> 11:52.079
+The girl's uncle...
+
+11:52.880 --> 11:56.116
+He's a shot caller at Vacaville.
+
+11:56.149 --> 11:58.518
+Says he has intel about
+what happened to Carlos Ochoa.
+
+11:58.551 --> 12:00.120
+And you believe him?
+
+12:00.153 --> 12:01.488
+I didn't say
+I believe him.
+
+12:01.521 --> 12:03.123
+But if he's got
+something to say,
+
+12:03.156 --> 12:04.124
+hell, yeah, I want to hear it.
+
+12:04.157 --> 12:05.859
+So, look,
+you're in here
+
+12:05.893 --> 12:08.128
+because you brought in
+Mia Tanner's killer.
+
+12:08.161 --> 12:10.130
+I'm still out there
+
+12:10.163 --> 12:12.099
+because I made too much noise
+
+12:12.132 --> 12:14.201
+about how I wasn't sure
+it was Carlos Ochoa.
+
+12:14.234 --> 12:15.402
+There's a difference
+
+12:15.435 --> 12:17.137
+between having doubts
+
+12:17.170 --> 12:19.039
+and playing for Team Tanner.
+
+12:19.072 --> 12:20.407
+I'm playing for Team Me,
+all right?
+
+12:20.440 --> 12:22.275
+I need to know
+
+12:22.309 --> 12:25.145
+if I tanked my career
+for nothing.
+
+12:31.118 --> 12:33.486
+I still think
+you're being played.
+
+12:33.520 --> 12:35.555
+But...?
+
+12:35.588 --> 12:39.526
+But... you and I were partners
+on the Mia Tanner case...
+
+12:41.895 --> 12:46.066
+...which, I guess, makes us
+partners on this one, too.
+
+12:48.568 --> 12:49.502
+And in the unlikely event
+
+12:49.536 --> 12:53.073
+that this gangbanger's
+telling the truth...
+
+12:54.541 --> 12:57.144
+...we'll find it out together.
+
+12:57.177 --> 13:00.180
+Thank you.
+
+13:00.213 --> 13:01.581
+CONRYN:
+Ms. Morton.
+
+13:01.614 --> 13:03.350
+Can I assume that you'll be
+with us for the entirety
+
+13:03.383 --> 13:05.118
+of this court-mandated
+process?
+
+13:05.152 --> 13:06.153
+Yes.
+
+13:06.186 --> 13:07.888
+So, no family
+emergencies?
+
+13:07.921 --> 13:09.823
+No sudden, mysterious
+phone calls?
+
+13:09.857 --> 13:11.091
+I think you've made your point,
+
+13:11.124 --> 13:12.359
+don't you?
+
+13:12.392 --> 13:13.927
+So. Jeffrey Tanner
+hired you to build
+
+13:13.961 --> 13:15.328
+a crowdsourcing
+interface for AllSourcer.
+
+13:15.362 --> 13:16.930
+Is that correct?
+
+13:16.964 --> 13:19.499
+Jeffrey brought me
+to AllSourcer
+
+13:19.532 --> 13:21.935
+because the company was
+hemorrhaging users.
+
+13:21.969 --> 13:24.171
+Although, as I recall,
+
+13:24.204 --> 13:27.174
+he didn't much like my plan
+for bringing them back.
+
+13:33.646 --> 13:35.515
+You, uh, wanted
+to see me?
+Yeah.
+
+13:35.548 --> 13:36.950
+My security team tells me
+
+13:36.984 --> 13:38.551
+that you're responsible
+
+13:38.585 --> 13:40.954
+for the recent uptick
+in the firewall breaches?
+
+13:40.988 --> 13:44.124
+874 of them in the past week.
+
+13:44.157 --> 13:46.526
+Well, there was a vulnerability
+in the platform.
+
+13:46.559 --> 13:48.561
+I very selectively
+decreased protections
+
+13:48.595 --> 13:52.165
+so users could take a crack
+at patching it up.
+
+13:52.199 --> 13:54.868
+In other words,
+you let complete strangers
+
+13:54.902 --> 13:57.270
+paw through
+our proprietary code.
+
+13:57.304 --> 13:58.939
+That's not why
+I hired you.
+
+13:58.972 --> 14:01.174
+Actually, it is.
+
+14:01.208 --> 14:04.945
+Um, if you read the report
+I sent, you'll see that users
+
+14:04.978 --> 14:06.579
+have come up with some
+
+14:06.613 --> 14:09.182
+impressively
+innovative solutions.
+
+14:09.216 --> 14:11.184
+This... this kid,
+Josh Novak,
+
+14:11.218 --> 14:14.221
+he sent in a hashtag algorithm
+that can scramble user...
+
+14:14.254 --> 14:15.555
+We already have
+a hashtag algorithm.
+
+14:15.588 --> 14:17.190
+Uh, well, his is better.
+
+14:17.224 --> 14:18.591
+Anyway, that's not the point.
+
+14:18.625 --> 14:20.961
+Each of the users that
+I've tapped for this project
+
+14:20.994 --> 14:25.365
+has spent upwards of 23 hours
+on the site this week.
+
+14:25.398 --> 14:28.235
+23 hours?
+Mm-hmm.
+
+14:28.268 --> 14:29.937
+I double-checked the numbers.
+
+14:30.637 --> 14:32.539
+It's-it's not about
+
+14:32.572 --> 14:34.641
+solving the problem,
+it's more about...
+
+14:34.674 --> 14:37.177
+Galvanizing the users.
+
+14:37.210 --> 14:41.214
+You've been trying to get users
+to engage with AllSourcer,
+
+14:41.248 --> 14:42.215
+when you should
+have been...
+
+14:42.249 --> 14:44.384
+Empowering them to build it.
+
+14:44.417 --> 14:46.186
+Exactly.
+
+14:46.219 --> 14:49.222
+That's good work.
+
+14:49.256 --> 14:50.390
+Thank you.
+
+14:53.493 --> 14:54.995
+Oh, um...
+
+14:55.028 --> 14:56.930
+if you'd like this
+project to continue,
+
+14:56.964 --> 14:58.565
+I'm gonna need six more servers,
+
+14:58.598 --> 15:01.401
+a patent lawyer
+and a bigger hiring budget.
+
+15:01.434 --> 15:05.538
+So I can get this...
+Josh on my team.
+
+15:05.572 --> 15:06.940
+Hmm.
+
+15:08.475 --> 15:10.410
+Their lawyer
+is furious you left.
+
+15:10.443 --> 15:11.578
+Where did you disappear to?
+
+15:11.611 --> 15:13.346
+I'm sorry. It's a long story.
+
+15:13.380 --> 15:15.215
+I promise you, I'll fix it.
+
+15:15.248 --> 15:16.216
+How you holding up?
+
+15:16.249 --> 15:18.051
+Well, uh, considering
+
+15:18.085 --> 15:20.220
+I've spent the last half hour
+
+15:20.253 --> 15:22.956
+being deposed by some
+frat boy twit
+
+15:22.990 --> 15:24.591
+who wants to get me deported...
+
+15:24.624 --> 15:26.426
+(chuckles) Listen.
+It'll be fine.
+
+15:26.459 --> 15:28.028
+If you lose your visa,
+
+15:28.061 --> 15:30.230
+we'll keep you in the country
+by getting married.
+
+15:30.263 --> 15:32.232
+Married? God, no.
+
+15:33.266 --> 15:35.068
+Sorry.
+
+15:35.102 --> 15:37.470
+That, um...
+
+15:37.504 --> 15:39.472
+That didn't come out
+like I meant it to.
+
+15:39.506 --> 15:42.309
+Um... at all.
+
+15:44.377 --> 15:46.079
+Sara?
+
+15:46.113 --> 15:48.515
+Uh, they're calling
+me back inside.
+
+15:48.548 --> 15:49.649
+Uh, we'll talk about this later,
+
+15:49.682 --> 15:51.351
+all right?
+
+15:51.384 --> 15:52.552
+Yeah. Sure.
+
+15:54.521 --> 15:56.323
+Okay, then.
+
+15:56.356 --> 16:01.028
+WOMAN: That Julia,
+she was nothing but trouble.
+
+16:01.061 --> 16:03.363
+She always played that...
+what do you call that music
+
+16:03.396 --> 16:05.999
+where they shout out
+profanities?
+
+16:06.033 --> 16:07.000
+Rap?
+
+16:07.034 --> 16:10.270
+(exhales) It was so loud
+I could barely think.
+
+16:10.303 --> 16:13.406
+And Tammy, she would
+always apologize for it.
+
+16:13.440 --> 16:16.709
+But whenever I complained, that
+Julia would just curse me out.
+
+16:16.743 --> 16:18.078
+Tammy's been living
+
+16:18.111 --> 16:20.447
+in that unit up there
+since last spring.
+
+16:20.480 --> 16:23.383
+Against my better judgment,
+I let her sign Julia
+
+16:23.416 --> 16:25.485
+onto the lease
+about two months ago.
+
+16:25.518 --> 16:26.719
+But you manage
+the place?
+
+16:26.753 --> 16:29.322
+Oh, just, uh, for the free rent.
+
+16:29.356 --> 16:31.358
+I'm really in IT solutions.
+
+16:31.391 --> 16:33.526
+Julia was a total psycho.
+
+16:33.560 --> 16:35.628
+Remember, she dragged Tammy
+down the hall by her hair?
+
+16:35.662 --> 16:37.364
+You saw this happen?
+
+16:37.397 --> 16:38.398
+Well, no.
+
+16:38.431 --> 16:39.599
+But I totally heard them
+
+16:39.632 --> 16:41.301
+fighting
+all the time.
+CAVANAUGH:
+Uh-huh.
+
+16:41.334 --> 16:42.769
+What about Tammy?
+
+16:42.802 --> 16:45.138
+All right, did any of you
+ever hear about a...
+
+16:45.172 --> 16:46.773
+a drug habit?
+
+16:46.806 --> 16:48.075
+(laughs)
+Tammy?
+
+16:48.108 --> 16:49.076
+No way.
+
+16:49.109 --> 16:51.378
+She was, like, so chill.
+
+16:51.411 --> 16:52.345
+Even my parents
+liked her.
+
+16:52.379 --> 16:53.580
+What about boyfriends?
+
+16:53.613 --> 16:56.116
+Maybe one of them was married,
+jealous wife...
+
+16:56.149 --> 16:57.517
+Anything?
+
+16:57.550 --> 16:58.818
+I never saw her with any men.
+
+16:58.851 --> 17:01.688
+Not like that slut Julia.
+
+17:01.721 --> 17:05.825
+I told Tammy she shouldn't get
+a roommate off the Internet.
+
+17:05.858 --> 17:07.694
+If she'd picked
+the nice girl with the cats,
+
+17:07.727 --> 17:09.729
+she'd still be alive.
+
+17:11.431 --> 17:13.333
+Yeah.
+
+17:13.366 --> 17:15.168
+TARIQ: Look, it physically
+pains me to say this,
+
+17:15.202 --> 17:16.636
+but have we considered
+the possibility
+
+17:16.669 --> 17:18.138
+that the police
+got it right?
+
+17:18.171 --> 17:20.440
+(computer chiming)
+Maybe Julia
+really is guilty.
+
+17:20.473 --> 17:22.142
+A user wants to video chat
+with us about Tammy.
+
+17:22.175 --> 17:24.111
+Put it up.
+
+17:24.144 --> 17:25.112
+Is this... "Cecilia"?
+
+17:25.145 --> 17:26.579
+Yes.
+
+17:26.613 --> 17:29.416
+My scumbag boss, he was
+sleeping with that Tammy girl,
+
+17:29.449 --> 17:30.650
+the one that got killed?
+
+17:30.683 --> 17:33.720
+His name is Rob Forsythe,
+with an "E."
+
+17:33.753 --> 17:36.456
+He used to make me buy her
+smutty underwear
+
+17:36.489 --> 17:39.392
+and put it on the company card
+so his wife wouldn't find out.
+
+17:39.426 --> 17:41.394
+Hello, married boyfriend.
+
+17:41.428 --> 17:44.431
+Of course, it's kind of hard to
+keep your mistress under wraps
+
+17:44.464 --> 17:46.366
+when she shows up
+in the company parking lot
+
+17:46.399 --> 17:47.567
+to smash in your windshield.
+
+17:47.600 --> 17:51.438
+Anyway, the night
+that Tammy was killed,
+
+17:51.471 --> 17:53.440
+Mr. Forsythe
+went to her apartment
+
+17:53.473 --> 17:54.574
+to break it off for good.
+
+17:54.607 --> 17:56.209
+(toilet flushing)
+
+17:56.243 --> 17:58.411
+Ma'am, are you
+in the ladies' room?
+
+17:58.445 --> 18:01.648
+(whispers): It's the only place
+I have any privacy around here.
+
+18:03.783 --> 18:05.685
+I'm calling Cavanaugh.
+
+18:05.718 --> 18:08.555
+So, what? I'm the first guy
+to ever cheat on his wife?
+
+18:08.588 --> 18:10.423
+No.
+
+18:10.457 --> 18:12.525
+You're the last guy
+to see Tammy Wyland alive.
+
+18:12.559 --> 18:14.627
+We know you were
+at her apartment
+
+18:14.661 --> 18:16.163
+the night she was murdered.
+
+18:16.196 --> 18:17.897
+I was out of there
+by about 8:00,
+
+18:17.930 --> 18:19.199
+at the latest.
+
+18:19.232 --> 18:21.168
+I heard the time of death
+was, what?
+
+18:21.201 --> 18:23.136
+Around 11:00 or something,
+right?
+Maybe.
+
+18:23.170 --> 18:26.906
+So how'd you feel after Tammy
+smashed your windshield?
+
+18:26.939 --> 18:29.242
+When Tam... Oh... (chuckles)
+
+18:29.276 --> 18:31.178
+No, dude, you got
+that all wrong.
+
+18:31.211 --> 18:32.412
+Tammy didn't smash
+my windshield.
+
+18:32.445 --> 18:33.646
+My wife did.
+
+18:33.680 --> 18:35.815
+Your wife?
+Yeah.
+
+18:35.848 --> 18:37.850
+I gave Tammy the boot,
+
+18:37.884 --> 18:40.553
+but she kept calling me, begging
+to see her one last time,
+
+18:40.587 --> 18:41.721
+to get "closure."
+
+18:41.754 --> 18:44.457
+So a couple weeks ago,
+I went,
+
+18:44.491 --> 18:46.426
+and the crazy skank
+got back at me
+
+18:46.459 --> 18:49.162
+by stuffing her panties
+under my passenger seat.
+
+18:49.196 --> 18:51.164
+Of course,
+my wife found them,
+
+18:51.198 --> 18:53.600
+and the you-know-what
+hit the fan.
+
+18:53.633 --> 18:56.436
+Girl blowing up your marriage...
+
+18:56.469 --> 18:58.538
+Sounds like a decent motive
+for murder.
+
+18:58.571 --> 19:00.840
+Aw, no. You kidding me?
+
+19:00.873 --> 19:03.576
+If anything, Tammy's little
+stunt was a wake-up call.
+
+19:03.610 --> 19:06.546
+I mean, that and my
+ball-buster of a prenup.
+
+19:06.579 --> 19:09.549
+I get caught cheating again,
+my wife gets everything.
+
+19:09.582 --> 19:10.617
+Look,
+
+19:10.650 --> 19:12.252
+Tammy was bummed
+
+19:12.285 --> 19:14.287
+that she couldn't ride
+the Forsythe Express anymore,
+
+19:14.321 --> 19:16.623
+but she was totes alive
+when I left.
+
+19:18.925 --> 19:20.560
+(knock at door)
+
+19:22.695 --> 19:25.465
+Be right back.
+
+19:30.570 --> 19:32.505
+Please tell me
+you got something.
+
+19:32.539 --> 19:34.507
+He's lying.
+
+19:34.541 --> 19:35.775
+Asshat parked in
+a handicapped spot
+
+19:35.808 --> 19:37.910
+outside Tammy's apartment
+the night of the murder.
+
+19:37.944 --> 19:39.279
+This says 10:45.
+
+19:39.312 --> 19:41.748
+Well within the window
+for time of death.
+
+19:41.781 --> 19:44.751
+I'm sorry, who's
+being played?
+
+19:44.784 --> 19:46.686
+Hmm?
+
+19:46.719 --> 19:48.721
+(Ruiz exhales)
+
+19:54.361 --> 19:55.562
+Ms. Morton.
+
+19:55.595 --> 19:57.397
+In the two and a half years you
+were employed by AllSourcer,
+
+19:57.430 --> 20:01.601
+would you say the
+company treated you well?
+
+20:01.634 --> 20:03.636
+Decent salary,
+stock options...
+
+20:03.670 --> 20:05.638
+good selection of
+snacks in the kitchen?
+
+20:05.672 --> 20:07.940
+They were very
+generous, yes.
+
+20:07.974 --> 20:11.644
+So, in light of
+all that generosity
+
+20:11.678 --> 20:13.346
+from the AllSourcer family,
+
+20:13.380 --> 20:16.249
+would you say you at all
+feel guilty about jumping ship
+
+20:16.283 --> 20:17.817
+with millions of dollars'
+worth of stolen IP?
+
+20:17.850 --> 20:19.586
+The "AllSourcer family"
+wouldn't exist
+
+20:19.619 --> 20:20.853
+if Jeffrey Tanner hadn't put
+
+20:20.887 --> 20:22.622
+everything he had
+into building it.
+
+20:22.655 --> 20:24.657
+And the IP was carved out
+in the agreement.
+
+20:24.691 --> 20:27.026
+Given why he was leaving,
+
+20:27.059 --> 20:29.796
+it was too important to him
+to leave to chance.
+
+20:41.641 --> 20:42.742
+Hi.
+
+20:42.775 --> 20:44.711
+Oh, hey.
+Thanks for coming.
+
+20:52.084 --> 20:54.421
+Is this my doctoral thesis?
+
+20:54.454 --> 20:55.755
+Yeah.
+
+21:02.929 --> 21:04.931
+You ever meet her?
+
+21:06.899 --> 21:08.435
+Couple of times.
+
+21:08.468 --> 21:11.738
+She, um... she came by
+my office once
+
+21:11.771 --> 21:13.906
+on her way
+to lunch with you.
+
+21:13.940 --> 21:15.775
+And she brought me
+a cup of tea.
+
+21:15.808 --> 21:16.909
+Hmm.
+
+21:16.943 --> 21:18.345
+Yeah.
+
+21:28.888 --> 21:33.760
+Do you... really believe
+they convicted the wrong man?
+
+21:33.793 --> 21:35.928
+Carlos Ochoa?
+
+21:35.962 --> 21:38.064
+No, he didn't do it.
+
+21:42.735 --> 21:45.772
+But if that's true,
+then...
+
+21:45.805 --> 21:47.374
+The killer is still out there.
+
+21:47.407 --> 21:48.675
+Somewhere.
+
+21:48.708 --> 21:49.776
+Do you have a theory
+as to who...
+
+21:49.809 --> 21:52.078
+Not yet.
+
+21:52.111 --> 21:54.914
+But someone
+has to know something.
+
+21:54.947 --> 21:57.384
+Someone has to
+have seen something.
+
+21:57.417 --> 21:59.786
+Someone has to have
+some scrap of information
+
+21:59.819 --> 22:01.721
+they didn't know they had.
+I mean...
+
+22:01.754 --> 22:03.923
+the answers are out there,
+you know?
+
+22:03.956 --> 22:06.359
+I just need some help.
+
+22:08.961 --> 22:11.398
+A lot of help.
+
+22:11.431 --> 22:16.035
+You want to crowdsource
+a murder investigation?
+
+22:16.068 --> 22:17.770
+Am I crazy?
+
+22:19.739 --> 22:21.774
+Quite possibly, yes.
+
+22:23.843 --> 22:28.381
+But... there's only one way
+to find out for certain.
+
+22:39.492 --> 22:42.462
+(Josh typing)
+
+22:42.495 --> 22:43.996
+We got something.
+
+22:46.799 --> 22:48.000
+Users have been focusing
+
+22:48.034 --> 22:50.069
+on Tammy's weight gain,
+nausea, mood swings.
+
+22:50.102 --> 22:51.771
+First they thought
+she was pregnant.
+
+22:51.804 --> 22:53.039
+That would've shown up
+in the autopsy.
+
+22:53.072 --> 22:54.173
+Exactly, but then we posted
+
+22:54.206 --> 22:55.442
+the medical examiner's report,
+
+22:55.475 --> 22:56.809
+and another set of users
+
+22:56.843 --> 22:59.412
+noticed that Tammy had
+elevated levels of hCG.
+
+22:59.446 --> 23:00.747
+What is that?
+
+23:00.780 --> 23:02.849
+Human chorionic gonadotropin.
+
+23:02.882 --> 23:05.552
+It's a hormone found
+in pregnant women.
+JOSH: But it's also a hormone
+
+23:05.585 --> 23:08.755
+that women inject when they're
+undergoing fertility treatment.
+
+23:08.788 --> 23:10.790
+Which would explain the needles
+in the bathroom.
+
+23:10.823 --> 23:12.425
+TARIQ:
+Hey, look at this.
+
+23:12.459 --> 23:14.126
+I tracked one of Tammy's
+digital wallet purchases
+
+23:14.160 --> 23:16.763
+to a website called
+you-keep-him.com.
+
+23:16.796 --> 23:18.097
+Yeah, you heard that right.
+
+23:18.130 --> 23:19.866
+They market hCG injections
+
+23:19.899 --> 23:21.868
+as a way to fake
+a positive pregnancy test.
+
+23:21.901 --> 23:25.104
+So you can baby-trap
+your married boyfriend.
+
+23:25.137 --> 23:27.106
+I guess it didn't turn out
+as she hoped.
+
+23:27.139 --> 23:30.142
+FORSYTHE: Okay, no, I wasn't
+happy when she showed me
+
+23:30.176 --> 23:32.011
+the results of the
+pregnancy test, but I thought
+
+23:32.044 --> 23:34.013
+she just wanted some money to
+take care of it or something.
+
+23:34.046 --> 23:36.583
+Then she starts talking about
+how we could "be a family."
+
+23:36.616 --> 23:38.885
+I have a family, okay?
+
+23:38.918 --> 23:40.787
+So you killed her.
+No!
+
+23:40.820 --> 23:41.988
+God, no. No.
+
+23:42.021 --> 23:44.591
+Tammy was 100% alive
+
+23:44.624 --> 23:46.493
+when I left at 8:00,
+just like I said.
+
+23:46.526 --> 23:47.960
+CAVANAUGH:
+Then why was your car
+
+23:47.994 --> 23:50.196
+parked outside Tammy's
+apartment at 10:45?
+
+23:52.198 --> 23:54.567
+Because parking
+in the city sucks.
+
+23:54.601 --> 23:57.003
+Do you have any idea how hard
+it is to find a well-lit spot
+
+23:57.036 --> 23:59.138
+in a neighborhood like that
+after dark?
+
+24:00.907 --> 24:02.842
+All right.
+(laughs): Okay, okay.
+
+24:02.875 --> 24:05.111
+Just...
+
+24:05.144 --> 24:07.614
+I left my car at Tammy's house
+
+24:07.647 --> 24:10.049
+and then I walked
+to another friend's house.
+
+24:10.082 --> 24:11.518
+Okay?
+
+24:11.551 --> 24:13.986
+Another girlfriend.
+
+24:16.022 --> 24:19.091
+Can you please just
+not tell my wife?
+
+24:19.125 --> 24:21.561
+It's hard to look this good
+on a budget.
+
+24:22.862 --> 24:25.231
+Forsythe's story checks out.
+
+24:25.264 --> 24:27.934
+He was mixing margaritas
+with girlfriend number two
+
+24:27.967 --> 24:30.002
+when Tammy was killed.
+
+24:30.036 --> 24:32.672
+Even got him on her building's
+security camera.
+
+24:32.705 --> 24:34.674
+TANNER: What about other
+suspects? He can't be the only
+
+24:34.707 --> 24:36.075
+angry ex.
+
+24:36.108 --> 24:37.910
+Tanner.
+What?
+
+24:37.944 --> 24:39.879
+I'll run down
+every suspect we find.
+
+24:39.912 --> 24:41.914
+But if Julia Guerrero
+is guilty,
+
+24:41.948 --> 24:43.149
+I need you to know,
+
+24:43.182 --> 24:44.884
+I'm gonna put her away.
+
+24:44.917 --> 24:47.119
+Yeah, of course. Yeah.
+(evidence alert beeping)
+
+24:47.153 --> 24:48.254
+I got to go.
+
+24:50.657 --> 24:52.124
+What's up?
+
+24:52.158 --> 24:54.594
+A couple of users saw the bike
+on Julia's social media
+
+24:54.627 --> 24:55.962
+and then noticed
+that it was parked
+
+24:55.995 --> 24:57.229
+a few blocks
+from the apartment.
+
+24:57.263 --> 24:59.632
+"FutureMrsSheeran"
+and "Eowynner411."
+
+24:59.666 --> 25:01.033
+Props on the Tolkien deep cut.
+
+25:01.067 --> 25:02.669
+They want to talk.
+All right, patch them through.
+
+25:03.970 --> 25:05.972
+Hey, Sophe peeps, you're on
+
+25:06.005 --> 25:08.908
+with Donita and Rachel
+from Crestview Arts Charter.
+
+25:08.941 --> 25:10.610
+Go Sparrows!
+TARIQ: Okay,
+
+25:10.643 --> 25:12.278
+I love these kids.
+
+25:12.311 --> 25:14.113
+TANNER: Hey, girls.
+Thank you for calling in.
+
+25:14.146 --> 25:16.983
+Are you, like, somebody's dad?
+
+25:17.016 --> 25:18.918
+(laughs)
+Yeah, I'm
+Jeffrey Tanner.
+
+25:18.951 --> 25:20.319
+I'm the head "Sophe peep."
+
+25:20.352 --> 25:22.889
+I need for you to step away
+from the motorcycle
+
+25:22.922 --> 25:24.223
+and just wait for backup.
+
+25:24.256 --> 25:26.993
+Does Hermione wait for backup?
+
+25:27.026 --> 25:28.728
+Does Supergirl wait for backup?
+
+25:28.761 --> 25:31.063
+Uh, please don't
+touch anything.
+
+25:31.097 --> 25:33.966
+Just, can you just step away
+from the motorcycle...
+
+25:34.000 --> 25:36.002
+What is she doing?
+
+25:39.305 --> 25:40.973
+(gasps)
+
+25:41.007 --> 25:42.975
+Oh.
+Ooh, we might need some backup.
+
+25:43.009 --> 25:45.077
+TANNER: Put the phone down.
+I'm just calling Cavanaugh.
+
+25:45.111 --> 25:47.146
+No, no, no, no. Not until
+we know something for sure.
+
+25:47.179 --> 25:48.314
+Girls, listen, don't
+touch anything
+
+25:48.347 --> 25:51.050
+until I get there.
+
+25:52.752 --> 25:54.320
+Wait, where are you going?
+
+25:54.353 --> 25:56.689
+Listen, thank you
+little lovely ladies so much.
+
+25:56.723 --> 25:58.625
+You've done a
+wonderful job today.
+
+25:58.658 --> 26:01.928
+Great job.
+Y'all should be giving us
+some citizen detective award
+
+26:01.961 --> 26:03.963
+or something.
+That is a fantastic idea.
+
+26:03.996 --> 26:05.765
+I'm gonna get with my team,
+we're gonna get on that
+
+26:05.798 --> 26:07.033
+right away.
+Thank you, guys.
+
+26:07.066 --> 26:08.735
+Wonderful username,
+as well.
+
+26:08.768 --> 26:10.336
+The Tolkien-- I don't
+know what it means,
+
+26:10.369 --> 26:12.071
+but thank you.
+
+26:22.982 --> 26:25.351
+Damn it, Julia.
+
+26:29.789 --> 26:32.091
+*
+
+26:39.098 --> 26:41.801
+(garbled radio transmission)
+
+26:41.834 --> 26:43.670
+(siren wailing)
+
+26:45.905 --> 26:48.074
+Sorry things
+turned out like this.
+
+26:48.107 --> 26:50.176
+Yeah.
+
+26:50.209 --> 26:52.712
+Me, too.
+
+26:54.246 --> 26:57.183
+Is this your motorcycle?
+
+26:57.216 --> 26:59.686
+You know it is,
+or you wouldn't be asking.
+
+26:59.719 --> 27:03.089
+We found this...
+
+27:03.122 --> 27:04.791
+in your saddlebag.
+
+27:04.824 --> 27:07.860
+(laughs)
+
+27:07.894 --> 27:10.429
+I should have seen
+that one coming.
+
+27:10.462 --> 27:14.801
+You don't have any evidence,
+so you haul off and plant some.
+
+27:14.834 --> 27:16.202
+RUIZ:
+So are you claiming
+the knife isn't yours?
+
+27:16.235 --> 27:18.771
+I'm claiming
+I didn't kill Tammy.
+
+27:20.206 --> 27:22.441
+You know what?
+Just take me to prison.
+
+27:22.474 --> 27:25.845
+Maybe in my next life, I'll
+come back as a rich white girl.
+
+27:25.878 --> 27:28.147
+Well, I'll tell you
+right now this much...
+Julia, your uncle sent me.
+
+27:28.180 --> 27:29.782
+Uh, what the hell
+are you doing, Tanner?
+
+27:29.816 --> 27:32.251
+I run a crime solving app
+named "Sophe." Maybe
+
+27:32.284 --> 27:34.320
+you've heard of it?
+Yeah, I heard of it. Bunch of
+
+27:34.353 --> 27:36.322
+pansy-ass nerds
+playing detective.
+
+27:36.355 --> 27:37.957
+Yeah, well, last count there
+were a couple hundred thousand
+
+27:37.990 --> 27:39.792
+of those nerds on the app.
+
+27:39.826 --> 27:41.794
+If you didn't kill Tammy,
+they are
+
+27:41.828 --> 27:43.362
+your best chance
+of getting free,
+
+27:43.395 --> 27:45.364
+but only if you tell the truth.
+
+27:50.803 --> 27:52.972
+(sighs softly)
+
+27:53.005 --> 27:55.207
+The night Tammy died,
+
+27:55.241 --> 27:58.377
+I had a gig as a
+shot girl downtown.
+
+27:58.410 --> 28:01.447
+Then the damned manager fired me
+for showing up high.
+
+28:01.480 --> 28:03.315
+To pass out Jell-O shots!
+
+28:03.349 --> 28:04.851
+That's like...
+
+28:04.884 --> 28:07.386
+What do you call it,
+like, in English class?
+
+28:07.419 --> 28:09.388
+Irony.
+
+28:09.421 --> 28:12.158
+Yeah, that. Irony.
+
+28:12.191 --> 28:15.828
+Anyway, I get home, see Tammy
+
+28:15.862 --> 28:17.964
+left the front
+door open again.
+
+28:17.997 --> 28:19.866
+Do you know what would happen
+
+28:19.899 --> 28:22.902
+if a person left the front door
+open where I grew up?
+
+28:25.271 --> 28:27.406
+I mean,
+
+28:27.439 --> 28:30.877
+I guess she found out.
+
+28:30.910 --> 28:32.745
+Not gonna lie.
+
+28:32.779 --> 28:35.882
+I was high out of my mind.
+
+28:41.020 --> 28:43.890
+Then I was on the ground.
+
+28:43.923 --> 28:48.327
+At first, I couldn't figure out
+why my clothes were wet.
+
+28:50.229 --> 28:52.832
+Then I saw her.
+
+28:52.865 --> 28:55.534
+Bitch looked pretty,
+
+28:55.567 --> 28:58.370
+even all cut up with the knife
+sticking out of her.
+
+28:58.404 --> 29:00.439
+RUIZ:
+Hold on.
+
+29:00.472 --> 29:02.909
+Are you saying the murder weapon
+was in the apartment
+
+29:02.942 --> 29:04.443
+when you got there?
+
+29:04.476 --> 29:06.979
+I didn't touch
+it, either.
+
+29:07.013 --> 29:10.449
+I knew what it would look like,
+a girl like me, with my record.
+
+29:10.482 --> 29:12.985
+That's why I tried
+to burn my clothes.
+
+29:13.019 --> 29:15.021
+Then the cops
+
+29:15.054 --> 29:16.989
+showed up.
+
+29:17.023 --> 29:19.458
+Time they perp-walked me
+back through the apartment,
+
+29:19.491 --> 29:22.294
+knife was gone.
+
+29:22.328 --> 29:23.963
+I thought you guys had it.
+
+29:26.298 --> 29:28.968
+How much time was there
+between the 911 call
+
+29:29.001 --> 29:31.070
+and when the cops
+found Tammy's body?
+
+29:31.103 --> 29:33.840
+Nine minutes.
+That's plenty of time
+
+29:33.873 --> 29:36.809
+for the killer
+to come back, grab the knife.
+
+29:36.843 --> 29:38.244
+And it wouldn't
+be hard for him
+
+29:38.277 --> 29:40.479
+to plant it in the motorcycle
+after the fact.
+
+29:40.512 --> 29:44.483
+It's not likely, Tanner.
+
+29:44.516 --> 29:46.352
+But it is possible.
+
+29:46.385 --> 29:48.888
+I like possible.
+
+29:51.924 --> 29:53.993
+(phone buzzes)
+
+29:54.026 --> 29:55.995
+In his written statement,
+Mr. Tanner claimed
+
+29:56.028 --> 30:00.066
+that the Sophe prototype wasn't
+built on the AllSourcer campus.
+
+30:01.133 --> 30:03.502
+Um, it wasn't.
+
+30:03.535 --> 30:08.307
+Jeffrey acquired a new space
+to work on Sophe.
+
+30:08.340 --> 30:10.877
+So you never borrowed
+an AllSourcer mainframe?
+
+30:10.910 --> 30:12.879
+A cable? A stapler?
+
+30:12.912 --> 30:14.847
+I think we've
+covered this.
+
+30:14.881 --> 30:18.417
+If you'd seen the state of the
+place, you wouldn't be asking.
+
+30:18.450 --> 30:23.522
+The system is online,
+and... we are...
+
+30:23.555 --> 30:26.993
+live with beta.
+
+30:27.026 --> 30:28.560
+Users?
+
+30:28.594 --> 30:31.597
+Um, 1,489 volunteers from a
+variety of puzzle-solving sites.
+
+30:31.630 --> 30:33.132
+All right.
+
+30:33.165 --> 30:37.069
+Uh, what should we ask her?
+
+30:37.103 --> 30:40.072
+You decide.
+
+30:42.174 --> 30:44.576
+Um...
+
+30:44.610 --> 30:47.113
+Um...
+
+30:52.484 --> 30:54.320
+What did the...
+
+30:54.353 --> 30:56.622
+Island City company
+
+30:56.655 --> 31:00.359
+of Oakland,
+California make?
+
+31:00.392 --> 31:02.328
+(computer trills)
+
+31:09.435 --> 31:11.570
+(beep)
+
+31:11.603 --> 31:13.906
+(gasps)
+
+31:13.940 --> 31:15.641
+(both laughing)
+Oh, my God. Who knew?
+
+31:15.674 --> 31:17.443
+They knew.
+Try another one.
+
+31:19.478 --> 31:22.048
+What year did
+the Island City company open?
+
+31:22.081 --> 31:24.383
+(beeps)
+And
+
+31:24.416 --> 31:26.418
+who was the company's
+first owner?
+
+31:28.154 --> 31:31.390
+(beeping)
+
+31:31.423 --> 31:32.658
+TANNER:
+Let's try something harder.
+
+31:32.691 --> 31:34.160
+These are my grandparents.
+
+31:34.193 --> 31:36.362
+He's a... he's a
+handsome chap, isn't he?
+
+31:36.395 --> 31:38.497
+Yes, indeed.
+Indeed he is.
+
+31:38.530 --> 31:41.400
+(phone whooshes)
+
+31:41.433 --> 31:43.435
+(computer trills)
+
+31:43.469 --> 31:45.537
+(beeps, Sara laughs)
+
+31:45.571 --> 31:47.139
+Oh.
+
+31:47.173 --> 31:49.942
+SARA:
+This is amazing!
+It's working.
+
+31:49.976 --> 31:51.410
+Well, it better
+bloody work.
+
+31:51.443 --> 31:53.679
+I've spent years
+building these algorithms.
+
+31:53.712 --> 31:55.514
+I mean, years.
+
+31:55.547 --> 31:57.416
+Wow.
+
+31:57.449 --> 31:59.118
+Um...
+
+31:59.151 --> 32:00.953
+I think we
+should celebrate.
+Yes.
+
+32:00.987 --> 32:02.421
+Yes?
+Absolutely.
+
+32:02.454 --> 32:03.655
+Shall we?
+Yes.
+
+32:03.689 --> 32:05.391
+I, uh...
+(sighs)
+
+32:05.424 --> 32:06.592
+(clears throat)
+
+32:06.625 --> 32:09.128
+...I brought this,
+just in case.
+
+32:11.130 --> 32:12.498
+It's actually
+from Scotland.
+Mmm.
+
+32:12.531 --> 32:14.967
+I hope you...
+like Scotch.
+Yes.
+
+32:15.001 --> 32:17.669
+Excellent choice.
+
+32:17.703 --> 32:19.205
+Well...
+
+32:19.238 --> 32:21.407
+Let's see...
+
+32:24.543 --> 32:26.012
+(exhales)
+
+32:26.045 --> 32:28.414
+Here's to Sophe.
+
+32:30.116 --> 32:31.583
+To Sophe.
+
+32:54.140 --> 32:56.175
+Uh, the prototype worked,
+
+32:56.208 --> 33:00.746
+and the rest is...
+history.
+
+33:00.779 --> 33:02.481
+Can we have another
+break, please?
+
+33:02.514 --> 33:04.250
+(sighs)
+
+33:15.161 --> 33:16.762
+(Nell clears throat)
+
+33:16.795 --> 33:19.298
+Here's the thing.
+Everyone talks about Jeffrey
+
+33:19.331 --> 33:21.267
+as this great visionary,
+
+33:21.300 --> 33:25.204
+but we both know that Sophe
+doesn't work without you.
+
+33:25.237 --> 33:27.506
+What do you want, Nell?
+
+33:27.539 --> 33:28.674
+I want you to
+help us all out
+
+33:28.707 --> 33:30.709
+by making Jeffrey
+see reason.
+
+33:30.742 --> 33:34.513
+I think you're greatly
+overestimating my influence.
+
+33:34.546 --> 33:37.216
+What do you want
+from your career
+
+33:37.249 --> 33:39.651
+over the next, say, ten years?
+
+33:39.685 --> 33:41.487
+Do you want to continue
+
+33:41.520 --> 33:44.690
+to play Gal Friday
+to a man myopically concerned
+
+33:44.723 --> 33:46.492
+with solving a single mystery?
+
+33:46.525 --> 33:50.729
+Or would you like to be
+heir-apparent to an empire?
+
+33:53.532 --> 33:55.134
+Here's the thing.
+
+33:56.768 --> 33:58.837
+AllSourcer may have
+
+33:58.870 --> 34:01.740
+a top-tier research budget,
+
+34:01.773 --> 34:05.544
+but Sophe has the ability
+to harness the best impulses
+
+34:05.577 --> 34:07.846
+of the entire world--
+
+34:07.879 --> 34:10.582
+if, and only if,
+
+34:10.616 --> 34:14.220
+the world believes
+our motives are genuine.
+
+34:14.253 --> 34:16.622
+Sophe isn't about empire.
+
+34:16.655 --> 34:18.224
+It's about community.
+Now, if you'll excuse me...
+
+34:18.257 --> 34:20.359
+Sara...
+
+34:20.392 --> 34:23.195
+the rules aren't
+the same for us.
+
+34:23.229 --> 34:26.198
+One false move, and the whole
+world starts wondering
+
+34:26.232 --> 34:27.233
+if we got here
+
+34:27.266 --> 34:29.235
+because we're the best,
+
+34:29.268 --> 34:32.538
+or because we gave some man
+in power what he needed.
+
+34:45.651 --> 34:47.786
+Any tips on Julia's bike?
+
+34:47.819 --> 34:49.655
+Oh, we have tons of tips.
+
+34:49.688 --> 34:50.656
+"Cut me off in traffic,"
+
+34:50.689 --> 34:52.124
+"Plays loud music,"
+"Leaks oil."
+
+34:52.158 --> 34:53.325
+Is it weird that
+she's growing on me?
+
+34:53.359 --> 34:54.826
+Yes.
+Yes.
+Yes.
+
+34:56.728 --> 34:59.698
+Hey.
+Uh, nothing from the
+traffic cams in the area.
+
+34:59.731 --> 35:01.600
+Damn it.
+RUIZ:
+I mean, in order for
+
+35:01.633 --> 35:03.369
+someone other than Julia
+to have planted the knife,
+
+35:03.402 --> 35:06.205
+this person would have needed
+access to the crime scene
+
+35:06.238 --> 35:09.308
+in the nine minutes
+before SFPD got there.
+
+35:09.341 --> 35:10.576
+Like a guy who lives
+
+35:10.609 --> 35:12.411
+in the girl's building.
+
+35:12.444 --> 35:14.280
+Who parks his IT company van
+
+35:14.313 --> 35:15.714
+right across
+from Julia's bike.
+
+35:17.749 --> 35:19.418
+The building manager.
+
+35:19.451 --> 35:20.819
+Yeah.
+
+35:20.852 --> 35:23.322
+We need to pay
+this guy a visit.
+
+35:25.257 --> 35:27.326
+(cell phone ringing)
+
+35:29.861 --> 35:32.298
+Hello?
+
+35:32.331 --> 35:33.332
+WOMAN: (over phone):
+Sara Morton?
+
+35:33.365 --> 35:35.434
+Speaking.
+Who is this?
+
+35:35.467 --> 35:37.169
+Hi, Sara,
+it's Mary Beth D'Agostino
+
+35:37.203 --> 35:40.439
+from BayAreaCelebs.com.
+Do you have a moment?
+
+35:40.472 --> 35:41.840
+Um, I'm kind of busy,
+actually.
+
+35:41.873 --> 35:43.609
+Uh, what's this about?
+
+35:43.642 --> 35:46.178
+Oh, it's okay, I'll just
+text over the photographs.
+
+35:46.212 --> 35:47.879
+Let me know if you want
+to comment.
+
+35:47.913 --> 35:50.349
+I'm sure our subscribers
+would love to hear
+
+35:50.382 --> 35:51.883
+your side of the story.
+
+35:51.917 --> 35:53.319
+Story? What story?
+
+35:53.352 --> 35:55.221
+Hel...
+(phone chimes)
+
+35:55.254 --> 35:58.190
+(chiming)
+
+36:12.738 --> 36:15.741
+Officers, can I help you?
+
+36:15.774 --> 36:17.409
+I think you can.
+Can we come in?
+
+36:17.443 --> 36:19.177
+Um, okay.
+
+36:32.891 --> 36:35.427
+You take all
+these pictures?
+
+36:35.461 --> 36:38.497
+Ah, I dabble.
+You dabble.
+
+36:38.530 --> 36:41.533
+Looks like you do
+more than dabble.
+
+36:41.567 --> 36:44.370
+May I?
+That's professional grade.
+
+36:44.403 --> 36:47.273
+Almost incomprehensible
+to the layperson.
+
+36:55.981 --> 36:57.549
+You've got some pretty
+intimate images here, Kenneth.
+
+36:57.583 --> 36:59.518
+Does Tammy know you dabble
+through her window?
+
+36:59.551 --> 37:02.254
+I... I can explain.
+
+37:02.288 --> 37:03.789
+Can you?
+
+37:03.822 --> 37:06.992
+CAVANAUGH: She was gonna
+call the cops, wasn't she?
+
+37:07.025 --> 37:08.494
+(grunts)
+
+37:12.898 --> 37:15.467
+TANNER:
+"Did Sophe's Top Woman..."
+What the hell?
+
+37:15.501 --> 37:18.537
+You know that this was Nell.
+
+37:18.570 --> 37:21.540
+She hired a PI to catch me
+breaking my restraining order.
+
+37:21.573 --> 37:22.841
+I am sorry.
+
+37:22.874 --> 37:23.575
+I know this is awful.
+
+37:23.609 --> 37:25.010
+Like an idiot,
+I set myself up
+
+37:25.043 --> 37:27.012
+by sleeping with my boss.
+
+37:28.880 --> 37:30.349
+TANNER:
+It's not your fault.
+
+37:30.382 --> 37:31.450
+(Sara sighs)
+
+37:31.483 --> 37:32.751
+SARA:
+They are all reading it.
+
+37:32.784 --> 37:33.885
+aren't they?
+
+37:33.919 --> 37:36.588
+Right.
+
+37:36.622 --> 37:38.490
+Might as well
+get this over with, then.
+
+37:41.860 --> 37:43.762
+Everyone...
+
+37:43.795 --> 37:46.565
+can I have your attention
+for a moment, please?
+
+37:46.598 --> 37:52.003
+I'm sure you have all seen
+the article by now.
+
+37:52.037 --> 37:54.773
+Well, it's true.
+
+37:54.806 --> 37:57.943
+As the Internet
+so eloquently put it,
+
+37:57.976 --> 38:00.812
+Jeffery and I
+have been banging
+
+38:00.846 --> 38:02.581
+for five months now.
+
+38:02.614 --> 38:04.783
+More than banging.
+
+38:04.816 --> 38:07.819
+I'm actually...
+incredibly into her.
+
+38:09.955 --> 38:13.058
+Um, I know that this
+
+38:13.091 --> 38:15.427
+must seem surprising.
+
+38:15.461 --> 38:16.828
+TARIQ:
+Yeah, not really.
+
+38:16.862 --> 38:17.996
+Yeah, it's just that
+all the walls here
+
+38:18.029 --> 38:19.365
+are made of glass, so...
+
+38:19.398 --> 38:20.832
+We can see through
+your offices.
+
+38:20.866 --> 38:22.000
+Yeah, it's like
+a big fishbowl.
+
+38:22.033 --> 38:24.870
+Right.
+You're great
+at your job,
+
+38:24.903 --> 38:26.104
+and we love you.
+
+38:26.137 --> 38:27.606
+(laughs)
+
+38:27.639 --> 38:30.008
+Promotion for Rosie.
+
+38:30.041 --> 38:31.543
+Kidding, of course.
+
+38:31.577 --> 38:34.946
+There are performance
+reviews for that.
+
+38:34.980 --> 38:39.985
+So, anyway, thank you,
+and carry on. Good.
+
+38:46.925 --> 38:49.094
+I think they took that well.
+
+38:49.127 --> 38:50.929
+They did.
+
+38:50.962 --> 38:52.498
+They're not the ones
+I'm worried about.
+
+38:52.531 --> 38:53.899
+Look, Sara, this...
+No, wait, wait.
+
+38:53.932 --> 38:55.133
+Let me get this...
+let me get this out.
+
+38:55.166 --> 38:57.569
+Um...
+
+38:58.970 --> 39:00.906
+...about what I said earlier.
+
+39:00.939 --> 39:03.875
+The, uh...
+the marriage thing.
+
+39:05.577 --> 39:07.913
+Nope, don't remember
+any of it.
+
+39:07.946 --> 39:09.881
+None of it.
+
+39:11.717 --> 39:13.519
+It's not that I
+don't love you, Jeffrey,
+
+39:13.552 --> 39:18.690
+or that I can't picture
+a future together with you.
+
+39:18.724 --> 39:22.561
+It's... it's because
+of Melinda Gates.
+
+39:22.594 --> 39:24.663
+Melinda Gates?
+
+39:24.696 --> 39:27.032
+Do you know what
+Melinda Gates did
+
+39:27.065 --> 39:29.067
+before she married Bill?
+
+39:31.136 --> 39:32.438
+No.
+
+39:32.471 --> 39:35.106
+Neither does anyone else.
+
+39:35.140 --> 39:37.443
+After all the good
+that she's done,
+
+39:37.476 --> 39:38.544
+all that she's accomplished...
+
+39:38.577 --> 39:40.446
+The woman has
+literally saved
+
+39:40.479 --> 39:42.981
+thousands of lives,
+
+39:43.014 --> 39:45.183
+and the world will
+always remember her
+
+39:45.216 --> 39:48.153
+as Bill Gates' helpmate.
+
+39:50.989 --> 39:52.991
+I'm sorry.
+
+39:53.024 --> 39:55.594
+I truly am.
+
+39:55.627 --> 39:57.896
+(chuckles)
+
+39:57.929 --> 40:00.932
+I-I-I don't even
+know how to help.
+
+40:03.735 --> 40:06.037
+Finish the case,
+that's how.
+
+40:07.606 --> 40:12.143
+The best revenge is
+a platform that works.
+
+40:12.177 --> 40:14.913
+Well, that and a flaming
+bag of dog crap
+
+40:14.946 --> 40:16.715
+on Nell DeGraf's front porch.
+
+40:16.748 --> 40:18.750
+Now, that I can
+definitely arrange.
+
+40:18.784 --> 40:21.720
+(laughing)
+Yeah, no, I know
+just the dog.
+
+40:21.753 --> 40:23.922
+He will do such a nice job.
+
+40:26.057 --> 40:28.727
+You know, you could be
+real pretty if you wanted.
+
+40:28.760 --> 40:31.997
+A little more makeup,
+maybe some gold hoops.
+
+40:32.030 --> 40:33.465
+(chuckles)
+
+40:34.500 --> 40:38.937
+Anyway, uh,
+fight the power.
+
+40:40.606 --> 40:41.740
+Do the right thing.
+
+40:44.075 --> 40:45.777
+Think she got that?
+Probably not.
+
+40:45.811 --> 40:48.747
+(both laugh)
+Look, um,
+
+40:48.780 --> 40:51.182
+thanks for going down
+this road with me.
+
+40:51.216 --> 40:52.784
+You didn't have to.
+
+40:52.818 --> 40:55.153
+What did we say the first day
+we worked together?
+
+40:56.622 --> 40:59.090
+Partners always have
+each other's backs.
+
+40:59.124 --> 41:01.560
+Yeah.
+Even when one of them
+
+41:01.593 --> 41:03.228
+is totally being played.
+
+41:05.764 --> 41:07.766
+Really?
+
+41:07.799 --> 41:10.802
+Hey, look, man, my mom calls me
+about a month ago, right?
+
+41:10.836 --> 41:11.703
+She tells me five grand
+
+41:11.737 --> 41:14.573
+just shows up on the porch
+out of nowhere.
+
+41:14.606 --> 41:16.274
+Couple days later, some guy
+comes in here in a suit,
+
+41:16.307 --> 41:17.408
+claiming to be my lawyer.
+
+41:17.442 --> 41:19.811
+This dude knows everything
+about the porch money, right?
+
+41:19.845 --> 41:21.079
+And he tells me straight up
+
+41:21.112 --> 41:22.814
+there's a lot more
+where that came from.
+
+41:22.848 --> 41:26.718
+But all I got to do is keep
+an eye out on this new fish.
+
+41:26.752 --> 41:28.554
+Carlos Ochoa.
+Right, right.
+
+41:28.587 --> 41:31.557
+If he says anything
+about Mia Tanner's killer...
+
+41:31.590 --> 41:32.991
+"Mia Tanner's killer."
+
+41:33.024 --> 41:34.593
+That's what he said?
+
+41:34.626 --> 41:36.628
+Yeah, yeah. I mean,
+you gonna X a dude out, man,
+
+41:36.662 --> 41:38.730
+you got to be clear
+about the details, right?
+
+41:38.764 --> 41:41.099
+I hear Ochoa-- he's telling
+someone else on the phone
+
+41:41.132 --> 41:42.601
+that he might know
+who killed her.
+
+41:43.669 --> 41:44.703
+So I stuck him.
+
+41:44.736 --> 41:46.137
+Who? Who killed her?
+
+41:46.171 --> 41:48.273
+I mean, come on, come on,
+hell if I know, all right?
+
+41:48.306 --> 41:51.810
+Okay... The gu...
+the-the guy in the suit
+
+41:51.843 --> 41:53.011
+that came to see you--
+
+41:53.044 --> 41:54.312
+what was his name?
+
+41:54.345 --> 41:56.047
+What... wh-what
+did he look like?
+
+41:56.081 --> 41:57.148
+Anything.
+I don't know, man,
+
+41:57.182 --> 41:59.851
+he's just some guy
+in a suit. Oh.
+
+41:59.885 --> 42:01.219
+I'll tell you
+what I do remember.
+
+42:03.188 --> 42:05.056
+This guy came in
+on a Thursday, though.
+
+42:05.090 --> 42:06.858
+Couple weeks on the loaf,
+you know what I mean?
+
+42:06.892 --> 42:08.293
+Hey, mashed-potato Thursdays
+are better
+
+42:08.326 --> 42:10.195
+than beer and ice cream, right?
+
+42:10.228 --> 42:11.597
+Huh?
+
+42:13.098 --> 42:15.601
+Okay, I got it. Fine.
+
+42:15.634 --> 42:17.603
+The driver's license
+of our visitor was bogus.
+
+42:17.636 --> 42:19.204
+Ditto with the bar card.
+
+42:19.237 --> 42:20.839
+And now we know for sure
+there's more to the story.
+
+42:20.872 --> 42:22.841
+The cops were wrong.
+I mean, I could've
+
+42:22.874 --> 42:24.876
+told you that before, but...
+Dude, he's standing right here.
+
+42:24.910 --> 42:28.179
+Yeah, he is. And he has
+new evidence for you.
+
+42:28.213 --> 42:32.150
+So my buddy at Vacaville
+sent us the sign-in footage.
+
+42:32.183 --> 42:36.121
+Flaco's "lawyer" wasn't
+too careful with the cameras.
+
+42:38.690 --> 42:41.860
+Someone out there has to know
+something about this guy.
+
+42:41.893 --> 42:44.062
+Post it.
+
+42:47.132 --> 42:50.101
+Captioning sponsored by
+CBS
+
+42:50.135 --> 42:53.104
+and TOYOTA.
+
+42:53.138 --> 42:55.306
+Captioned by
+Media Access Group at WGBH
+access.wgbh.org

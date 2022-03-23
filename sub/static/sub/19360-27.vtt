@@ -1,0 +1,1728 @@
+WEBVTT
+
+00:07.155 --> 00:08.587
+This week on "Vice,"
+
+00:08.622 --> 00:11.023
+a deep dive into Russian hacking.
+
+00:19.783 --> 00:22.133
+Is there any personal
+information of mine
+
+00:22.169 --> 00:23.769
+that you couldn't have gotten access to?
+
+00:23.804 --> 00:27.138
+If someone wants to hack
+you, they're gonna be able to.
+
+00:27.174 --> 00:29.140
+And then, the race to stop
+
+00:29.176 --> 00:30.809
+the next global pandemic.
+
+00:30.924 --> 00:33.659
+We are walking into the Zika Forest.
+
+00:33.694 --> 00:36.061
+There are mosquitoes flying
+all around me right now.
+
+00:36.096 --> 00:37.696
+Doesn't fill me with warm and fuzzies.
+
+00:38.766 --> 00:40.832
+Outbreaks are inevitable,
+
+00:40.868 --> 00:42.701
+pandemics are optional.
+
+00:49.242 --> 00:50.542
+Go, go, go!
+
+00:53.246 --> 00:54.979
+We are not animals!
+
+00:56.000 --> 01:02.074
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
+
+01:06.526 --> 01:08.393
+Russia's been in the news a lot lately
+
+01:08.428 --> 01:12.297
+for allegedly hacking
+the 2016 US election.
+
+01:12.332 --> 01:13.665
+The Russian government pursued
+
+01:13.700 --> 01:15.600
+a multi-faceted influence campaign
+
+01:15.635 --> 01:17.134
+in the run-up to the election,
+
+01:17.170 --> 01:20.104
+including aggressive use
+of cyber-capabilities.
+
+01:20.139 --> 01:21.673
+Russian cyber-criminals
+
+01:21.708 --> 01:24.375
+have been accused of everything
+from digital bank robberies
+
+01:24.411 --> 01:26.944
+to tampering with
+critical infrastructure.
+
+01:26.979 --> 01:29.379
+So we sent Gianna Toboni to investigate
+
+01:29.415 --> 01:31.448
+the severity of this growing threat.
+
+01:46.432 --> 01:48.432
+We're about an hour
+outside of Portland, Maine.
+
+01:48.467 --> 01:50.567
+It's a pretty rural part of the state,
+
+01:50.603 --> 01:53.204
+and we're heading into
+this Sheriff's Department,
+
+01:53.239 --> 01:54.605
+because they've been hacked,
+
+01:54.640 --> 01:57.875
+along with every other police
+department in the county.
+
+01:57.910 --> 02:00.643
+This is the office where
+we received the virus.
+
+02:00.678 --> 02:03.146
+Um, it was downloaded from an e-mail,
+
+02:03.181 --> 02:05.014
+um, right here at this terminal.
+
+02:05.050 --> 02:07.483
+We didn't know anything
+had happened until, again,
+
+02:07.518 --> 02:08.818
+the system started to slow down.
+
+02:08.854 --> 02:11.988
+Files weren't accessible, we
+started getting error messages.
+
+02:12.023 --> 02:14.023
+This is a copy
+
+02:14.059 --> 02:16.793
+of the ransom information.
+
+02:16.828 --> 02:19.963
+Now, right on the top here
+it has "Cryptowall 3.0."
+
+02:19.998 --> 02:21.731
+It was a readme-type file.
+
+02:21.767 --> 02:24.200
+Um... don't ask me to explain that.
+
+02:24.236 --> 02:25.735
+Um, "What does this mean?
+
+02:25.771 --> 02:28.704
+This means that the structure
+and data within your files
+
+02:28.740 --> 02:31.074
+have been irrevocably changed,
+
+02:31.109 --> 02:33.709
+um, and you won't be
+able to work with them,
+
+02:33.745 --> 02:35.478
+read them, or see them."
+
+02:35.513 --> 02:37.580
+What did you end up
+doing after you read this?
+
+02:37.615 --> 02:40.283
+We ended up clicking on the...
+
+02:40.318 --> 02:43.286
+the IT folks went to the, um...
+
+02:43.321 --> 02:45.954
+the http address,
+
+02:45.990 --> 02:47.423
+and were able to locate
+
+02:47.458 --> 02:50.726
+the request for ransom
+
+02:50.762 --> 02:53.663
+that they were asking for in bitcoin.
+
+02:53.698 --> 02:55.130
+I'd never heard of a bitcoin...
+
+02:55.166 --> 02:57.667
+... at that point, myself.
+You know what I mean?
+
+02:57.702 --> 03:00.169
+You know, we're a law
+enforcement agency, right?
+
+03:00.204 --> 03:01.570
+And my first reaction was,
+
+03:01.606 --> 03:04.407
+"I'll be damned if I pay ransom."
+
+03:04.442 --> 03:06.509
+It's the cardinal rule,
+right? Never negotiate.
+
+03:06.544 --> 03:08.344
+We're the police, you can't ransom us.
+
+03:08.379 --> 03:12.214
+Which, uh, obviously I
+had a rude awakening there,
+
+03:12.249 --> 03:13.748
+and actually, I was really surprised
+
+03:13.784 --> 03:16.051
+when our IT folks recommended that...
+
+03:16.086 --> 03:16.985
+that we pay the ransom.
+
+03:17.021 --> 03:19.621
+We've made several changes since then,
+
+03:19.656 --> 03:21.389
+and we were not successful.
+
+03:21.425 --> 03:24.693
+Another e-mail came
+through, and low and behold,
+
+03:24.728 --> 03:27.429
+we started to experience
+the problem again.
+
+03:27.464 --> 03:28.897
+You guys paid twice.
+
+03:28.933 --> 03:31.433
+What makes you think these
+hackers won't come back again?
+
+03:31.468 --> 03:35.237
+We've been fortunate not to
+have encountered the virus again,
+
+03:35.272 --> 03:37.672
+but I'm not kidding myself.
+
+03:37.708 --> 03:39.674
+I don't believe we're a
+hundred percent immune.
+
+03:39.710 --> 03:42.978
+A cyber-attack has spread
+to every corner of the world.
+
+03:43.013 --> 03:45.647
+Lincoln County, Maine, is not alone.
+
+03:45.682 --> 03:48.416
+Across the country,
+thousands of police stations,
+
+03:48.452 --> 03:50.184
+hospitals, and businesses,
+
+03:50.220 --> 03:52.253
+have been hit by ransomware attacks.
+
+03:52.288 --> 03:53.555
+In 2016 alone,
+
+03:53.590 --> 03:55.923
+Americans paid close
+to a billion dollars
+
+03:55.959 --> 03:57.392
+in digital ransom.
+
+03:57.427 --> 03:59.193
+This massive uptick in attacks
+
+03:59.229 --> 04:01.796
+has the Department of Homeland
+Security on high alert.
+
+04:01.832 --> 04:04.212
+We went to their National Cybersecurity
+
+04:04.213 --> 04:06.200
+& Communications Integration Center
+
+04:06.236 --> 04:08.670
+to see just how dire the situation is.
+
+04:12.308 --> 04:14.075
+Thank you.
+
+04:14.110 --> 04:18.045
+So, in order to get into
+this control room here,
+
+04:18.081 --> 04:20.814
+yeah, we've got to
+leave our phones behind.
+
+04:20.850 --> 04:23.216
+Ultra secure in here.
+
+04:25.087 --> 04:26.353
+Wow.
+
+04:27.523 --> 04:29.623
+So, this is our main watch-floor
+
+04:29.658 --> 04:31.124
+for the National Cybersecurity
+
+04:31.159 --> 04:33.093
+& Communications Integration Center.
+
+04:33.128 --> 04:36.597
+And this is where we have
+our 24/7 watch operations
+
+04:36.632 --> 04:39.165
+looking for threats and incidents
+
+04:39.201 --> 04:40.701
+across the federal government
+
+04:40.736 --> 04:44.004
+and in our critical
+infrastructures domestically.
+
+04:44.039 --> 04:46.239
+- We're hearing a lot about ransomware.
+- Mm-hmm.
+
+04:46.275 --> 04:47.875
+- Are you concerned about that?
+- Yes.
+
+04:47.910 --> 04:51.745
+Ransomware has expanded significantly.
+
+04:51.781 --> 04:56.416
+Existing organizations are now
+taking advantage of the Internet.
+
+04:56.451 --> 04:58.951
+What is the nature
+of the type of hacking
+
+04:58.986 --> 05:00.386
+that we see in the US
+
+05:00.422 --> 05:02.922
+that originates in
+Russian-speaking countries?
+
+05:02.957 --> 05:06.125
+Everything from cyber-criminals,
+
+05:06.160 --> 05:10.095
+um, to more organized capabilities,
+
+05:10.131 --> 05:14.300
+and the Russian influence
+in our election process.
+
+05:14.335 --> 05:17.102
+We put out, um,
+
+05:17.138 --> 05:20.773
+what we call a joint-analysis
+report back in December.
+
+05:20.809 --> 05:23.342
+This report was the first
+time government officials
+
+05:23.377 --> 05:26.746
+published evidence of the
+2016 Russian election hack,
+
+05:26.781 --> 05:28.814
+which showed Russia's
+ability to penetrate
+
+05:28.849 --> 05:30.582
+major American networks.
+
+05:30.617 --> 05:34.153
+To understand why Russia has
+become such a hub for hacking,
+
+05:34.188 --> 05:35.687
+we traveled to Moscow.
+
+05:46.434 --> 05:49.068
+Andrei Soldatov is an
+investigative journalist
+
+05:49.103 --> 05:51.170
+who recently wrote a definitive account
+
+05:51.205 --> 05:53.138
+of Russia's cyber-espionage.
+
+05:53.174 --> 05:54.606
+Of course, it was huge news in the US
+
+05:54.641 --> 05:57.242
+when the DNC and Clinton
+campaign e-mails were hacked,
+
+05:57.278 --> 06:00.545
+but is there really any evidence
+to show that direct link?
+
+06:08.822 --> 06:10.522
+And how do we know that?
+
+06:16.096 --> 06:18.196
+So you can say with
+certainty that those hackers
+
+06:18.231 --> 06:20.632
+were working with the
+Russian government?
+
+07:22.995 --> 07:25.395
+To actually see Russian hacking at work,
+
+07:25.431 --> 07:26.664
+we went to one of the country's
+
+07:26.699 --> 07:28.699
+biggest gatherings of hackers.
+
+07:30.402 --> 07:33.203
+Welcome to Russia's biggest
+cyber-security conference.
+
+07:33.238 --> 07:36.139
+You have guys who are hacking
+into ATM machines right here,
+
+07:36.175 --> 07:38.208
+into BMWs, Teslas.
+
+07:38.243 --> 07:40.743
+The average age here is probably 25, 26.
+
+07:40.779 --> 07:44.113
+You have teenagers. Everyone
+seems to be under 30.
+
+07:46.350 --> 07:48.551
+Cyber-security expert
+and even organizer,
+
+07:48.587 --> 07:50.920
+Andrew Bershadsky, showed us around.
+
+08:13.955 --> 08:15.410
+All right, so what are
+you excited about here?
+
+08:15.411 --> 08:16.678
+Can you show me some things?
+
+09:08.998 --> 09:10.808
+So, what's their angle?
+If they attack this,
+
+09:10.809 --> 09:11.909
+what do they want to happen?
+
+09:35.757 --> 09:37.724
+We wanted to see hacking in real-time,
+
+09:37.759 --> 09:40.260
+so we asked former NSA
+hacker, Patrick Wardle,
+
+09:40.296 --> 09:42.696
+and his associate, Mikhail Sosonkin,
+
+09:42.731 --> 09:45.232
+to put my personal
+cyber-security to the test.
+
+09:45.267 --> 09:47.534
+Well, you know, this was
+your first hacker conference,
+
+09:47.570 --> 09:50.870
+and we really wanted to make
+the experience very authentic,
+
+09:50.906 --> 09:52.906
+so we decided to just
+
+09:52.941 --> 09:55.974
+hack you in as many ways as possible.
+
+09:56.010 --> 09:58.110
+While I thought our crew was
+filming background footage,
+
+09:58.145 --> 10:01.814
+they were in fact
+capturing me getting hacked.
+
+10:01.849 --> 10:04.684
+Generally, there's two
+main ways to hack people:
+
+10:04.719 --> 10:06.919
+Remotely and with physical access.
+
+10:06.954 --> 10:10.356
+Um, so we designed some
+attacks to do both of these.
+
+10:10.391 --> 10:13.058
+Basically, we set up
+wireless access points
+
+10:13.094 --> 10:16.262
+and we made it look like
+it was a hotel Wi-Fi.
+
+10:16.297 --> 10:18.063
+But it was, like, a
+little thing that suggested
+
+10:18.099 --> 10:20.032
+the correct one... it says "guest."
+
+10:20.067 --> 10:22.032
+So you probably thought
+that that's the one
+
+10:22.033 --> 10:23.803
+- you should be connecting to.
+- Oh, wow.
+
+10:23.837 --> 10:25.304
+So, when you connected to it,
+
+10:25.340 --> 10:26.639
+everything you entered in there,
+
+10:26.674 --> 10:28.741
+like your last name, your room number,
+
+10:28.776 --> 10:30.809
+we basically collected that.
+
+10:30.845 --> 10:33.612
+Hotel room numbers... it's
+kind of what hotels use
+
+10:33.647 --> 10:35.680
+- as an authentication key.
+- Oh, my God.
+
+10:35.716 --> 10:37.446
+And with that, then we were able
+
+10:37.447 --> 10:39.218
+to pull off a social engineering attack,
+
+10:39.253 --> 10:41.653
+which gave us a copy of your room key.
+
+10:42.623 --> 10:43.622
+Good afternoon.
+
+10:43.657 --> 10:46.825
+Could you print another
+key for my room, please?
+
+10:46.861 --> 10:49.862
+We needed someone to
+impersonate you, essentially,
+
+10:49.897 --> 10:52.064
+and we had my lovely wife, Diana,
+
+10:52.099 --> 10:53.698
+call up the reception and say,
+
+10:53.734 --> 10:57.202
+"Hey, can you please give
+my colleague another key?"
+
+10:57.538 --> 11:00.372
+My co-worker, Gianna,
+she's in room 2086.
+
+11:00.407 --> 11:01.811
+No other questions asked,
+
+11:01.812 --> 11:03.411
+they gave me a key to your room.
+
+11:03.477 --> 11:06.611
+Then with that, we were able
+to gain access to your room,
+
+11:06.647 --> 11:08.513
+where we installed some hidden cameras
+
+11:08.548 --> 11:11.015
+so we could see, when
+you access the safe,
+
+11:11.084 --> 11:12.584
+- what the keypad was.
+- Wow.
+
+11:12.619 --> 11:13.685
+So, even if you had put your laptop
+
+11:13.720 --> 11:15.987
+or your phone in there,
+it wouldn't have mattered,
+
+11:16.022 --> 11:17.689
+- we could have gotten in.
+- You could have gotten in.
+
+11:17.724 --> 11:22.059
+So, at this point, we kind of had
+complete access to your laptop...
+
+11:23.530 --> 11:25.497
+- There's the binary.
+- Nice.
+
+11:25.532 --> 11:27.465
+What we basically did was we installed
+
+11:27.501 --> 11:29.967
+something called a
+backdoor on your system,
+
+11:30.003 --> 11:33.271
+that would then connect out
+to a computer we controlled,
+
+11:33.307 --> 11:36.508
+allowing us to execute
+commands on your computer.
+
+11:36.543 --> 11:38.309
+So, at that point, we
+could share your screen,
+
+11:38.344 --> 11:41.044
+see exactly what you were
+looking at at all times.
+
+11:41.079 --> 11:42.946
+Uh, we could record off the webcam
+
+11:42.981 --> 11:44.981
+to watch you as you
+walked around the room,
+
+11:45.017 --> 11:47.451
+hijack your Skype sessions.
+
+11:47.486 --> 11:48.919
+So, how did you get my
+credit card information?
+
+11:48.954 --> 11:50.545
+Every time you press a button,
+
+11:50.546 --> 11:51.955
+there is an event that
+happens in the machine,
+
+11:51.990 --> 11:53.724
+and we can capture
+that. You can see here,
+
+11:53.759 --> 11:55.192
+we have your credit card information
+
+11:55.227 --> 11:57.695
+from when you were
+booking your trip to Cuba.
+
+11:57.730 --> 12:00.364
+Is there any personal
+information of mine
+
+12:00.399 --> 12:02.466
+that you couldn't have gotten access to?
+
+12:02.501 --> 12:03.667
+I don't think so.
+
+12:03.703 --> 12:06.169
+So, you could have
+hijacked my whole identity?
+
+12:06.205 --> 12:08.038
+Yeah, and you know, the
+attacks we pulled off here
+
+12:08.073 --> 12:10.574
+really weren't hyper sophisticated,
+
+12:10.609 --> 12:13.643
+so I always like to say, if
+someone wants to hack you,
+
+12:13.678 --> 12:16.078
+- they're gonna be able to.
+- Yeah.
+
+12:16.113 --> 12:18.348
+We bought you some souvenirs.
+
+12:18.383 --> 12:19.816
+This is, obviously, the flag of Russia.
+
+12:19.851 --> 12:22.952
+- Thank you very much.
+- Actually, you know, we used your credit card, so.
+
+12:22.987 --> 12:24.354
+Right.
+
+12:24.389 --> 12:26.222
+Cyber-attacks originating in Russia
+
+12:26.257 --> 12:28.057
+have become increasingly brazen,
+
+12:28.092 --> 12:32.228
+including a data breach of more
+than 500 million Yahoo Mail accounts
+
+12:32.263 --> 12:35.732
+and a scheme that stole
+160 million credit cards
+
+12:35.767 --> 12:37.367
+from American corporations.
+
+12:37.402 --> 12:41.003
+Russian cyber-security firm,
+Group IB, hunts hackers.
+
+12:41.038 --> 12:42.938
+They showed us online hacker forums
+
+12:42.974 --> 12:45.974
+filled with troves of stolen data.
+
+13:16.707 --> 13:19.573
+We're looking at websites that are D.C.,
+
+13:19.609 --> 13:21.041
+US government websites,
+
+13:21.076 --> 13:22.175
+and when we click on them,
+
+13:22.211 --> 13:24.512
+you can see the username and the login.
+
+13:24.547 --> 13:27.047
+Uh, it's all the information
+to access these accounts.
+
+13:27.082 --> 13:29.750
+So, these people may not know
+
+13:29.786 --> 13:32.953
+that her e-mail has been hacked?
+
+13:34.724 --> 13:35.823
+Wow.
+
+13:37.259 --> 13:39.293
+So, my name could be in
+there. I wouldn't even know.
+
+13:55.143 --> 13:56.242
+These cyber crimes
+
+13:56.277 --> 13:57.911
+are committed by blackhat hackers
+
+13:57.946 --> 14:01.047
+who can steal critical
+data and damage networks.
+
+14:01.082 --> 14:02.949
+They exist anonymously on the web,
+
+14:02.984 --> 14:05.618
+but we found one who
+agreed to talk to us.
+
+14:06.988 --> 14:07.921
+Hi, there.
+
+14:09.090 --> 14:11.023
+Gianna. Nice to meet you.
+
+14:11.059 --> 14:12.992
+- Gianna. Nice to meet you.
+- Hi.
+
+14:20.502 --> 14:23.202
+Though he first hesitated,
+Kostya eventually agreed
+
+14:23.237 --> 14:25.104
+to show us some of his hacks.
+
+14:59.273 --> 15:02.006
+And, so, what are you doing with
+all this personal information?
+
+15:08.548 --> 15:11.081
+And then what will they
+use that information for?
+
+15:25.631 --> 15:26.773
+What's the most amount of money
+
+15:26.774 --> 15:29.200
+you've made off of a hack like this one?
+
+15:34.707 --> 15:37.007
+Spurred by the trillions
+of dollars online
+
+15:37.043 --> 15:38.975
+and a generation raised on the Web,
+
+15:39.011 --> 15:41.311
+hacking from Russia
+and around the world,
+
+15:41.347 --> 15:42.746
+is flourishing.
+
+15:42.781 --> 15:44.781
+And increasingly, hackers are targeting
+
+15:44.816 --> 15:46.983
+the world's most lucrative market,
+
+15:47.019 --> 15:48.152
+the US.
+
+15:48.187 --> 15:49.553
+But at DHS,
+
+15:49.588 --> 15:52.789
+the first line of defense
+are hackers themselves.
+
+15:52.824 --> 15:55.192
+I hack into agencies, and then,
+
+15:55.227 --> 15:56.326
+after the hacking is done,
+
+15:56.362 --> 15:57.827
+I go in, and I teach them how we did it,
+
+15:57.863 --> 16:00.431
+so then, they can actually go
+through and fix those vulnerabilities
+
+16:00.466 --> 16:02.599
+so the actual bad guys can't get in.
+
+16:02.634 --> 16:04.568
+That's a map of 82,000
+
+16:04.603 --> 16:06.603
+critical infrastructures
+sites in the United States
+
+16:06.638 --> 16:08.539
+that are basically exposed
+directly to the Internet.
+
+16:08.574 --> 16:11.140
+- Wow.
+- We're talking about water systems,
+
+16:11.176 --> 16:13.209
+manufacturing plants,
+building automation.
+
+16:13.244 --> 16:16.746
+When you start to aggregate
+it at a scale of 82,000, right,
+
+16:16.782 --> 16:19.683
+now, intruding upon a lot
+of those systems all at once
+
+16:19.718 --> 16:21.952
+could cause, you know,
+a significant issue.
+
+16:21.987 --> 16:25.021
+How do you see
+cyber-attacks, uh, advancing,
+
+16:25.057 --> 16:26.923
+in the next 10, 20, 30 years?
+
+16:26.959 --> 16:29.926
+At a technical level, we're
+gonna be constantly evolving.
+
+16:29.962 --> 16:32.596
+As adversaries create new capabilities,
+
+16:32.631 --> 16:33.863
+we'll create new countermeasures.
+
+16:33.899 --> 16:36.365
+As we advance past their
+capabilities with countermeasures,
+
+16:36.401 --> 16:38.134
+they'll create new capabilities.
+
+16:38.169 --> 16:41.738
+It's always gonna be that kind
+of arms race type of activity.
+
+16:41.773 --> 16:44.007
+I think this problem is one that...
+
+16:44.042 --> 16:45.808
+it's certainly one that we can work on,
+
+16:45.843 --> 16:48.211
+but I don't think it's ever
+gonna completely go away.
+
+16:48.246 --> 16:50.313
+This is gonna be with us
+for a long time, I think.
+
+16:53.618 --> 16:56.852
+Since 1980, outbreaks
+of infectious diseases
+
+16:56.887 --> 16:58.554
+have more than tripled worldwide.
+
+16:58.590 --> 17:00.623
+Nearly every year,
+somewhere around the globe,
+
+17:00.658 --> 17:02.525
+a different disease has emerged,
+
+17:02.560 --> 17:05.394
+leading to varying degrees of
+infection and widespread panic.
+
+17:05.430 --> 17:09.397
+Fear of Ebola in infected
+countries and beyond, is palpable.
+
+17:09.434 --> 17:11.166
+Bird Flu has hit North America.
+
+17:11.202 --> 17:13.769
+As our world continues to
+become more interconnected,
+
+17:13.804 --> 17:15.637
+the threat of one of these outbreaks
+
+17:15.673 --> 17:17.540
+growing into a global pandemic
+
+17:17.575 --> 17:19.307
+is becoming increasingly real.
+
+17:19.343 --> 17:21.609
+To see if and how we
+can actually prevent
+
+17:21.646 --> 17:23.578
+this next pandemic from happening,
+
+17:23.614 --> 17:26.815
+we sent Suroosh Alvi to
+the Zika Forest in Uganda.
+
+17:43.034 --> 17:45.834
+So, we are walking into
+the Zika Forest right now.
+
+17:45.870 --> 17:47.235
+We're with our pals
+
+17:47.271 --> 17:50.872
+from the Uganda Virus
+Research Institute.
+
+17:50.907 --> 17:53.575
+We are gonna set up some insect traps,
+
+17:53.610 --> 17:55.677
+and discover new viruses.
+
+18:18.401 --> 18:21.570
+So, this is the very tower that was used
+
+18:21.605 --> 18:24.306
+to discover the original Zika virus?
+
+18:24.341 --> 18:26.040
+It was right here?
+
+18:26.076 --> 18:29.543
+Long before the Zika outbreak
+in Brazil caused global panic,
+
+18:29.579 --> 18:33.047
+it was first discovered
+here in Uganda in 1947.
+
+18:33.083 --> 18:35.049
+Pathogens are constantly mutating
+
+18:35.085 --> 18:36.918
+and acquiring new traits,
+
+18:36.953 --> 18:39.320
+so researchers monitor the mosquitoes
+
+18:39.355 --> 18:41.122
+to track the emerging infections
+
+18:41.157 --> 18:43.124
+that could ignite the next pandemic.
+
+18:46.930 --> 18:48.329
+Okay.
+
+18:48.364 --> 18:50.397
+There are mosquitoes flying
+all around me right now.
+
+18:50.433 --> 18:52.734
+Doesn't fill me with warm and fuzzies.
+
+18:53.837 --> 18:55.302
+Tropical forests like this
+
+18:55.338 --> 18:57.404
+are breeding grounds for new viruses.
+
+18:57.440 --> 18:59.873
+Once untouched, human populations
+
+18:59.908 --> 19:03.344
+now destroy around seven million
+hectares of forest each year,
+
+19:03.379 --> 19:06.012
+allowing diseases to have an easier time
+
+19:06.048 --> 19:08.081
+getting into human populations.
+
+19:08.117 --> 19:09.650
+There are houses right there.
+
+19:09.685 --> 19:12.052
+There's been encroachment
+upon the forest,
+
+19:12.087 --> 19:14.187
+and the airport is just past the houses.
+
+19:15.691 --> 19:17.057
+What are the implications
+
+19:17.092 --> 19:19.560
+of people living so
+close to this forest?
+
+19:32.642 --> 19:33.741
+Each year,
+
+19:33.776 --> 19:35.408
+a million people are killed
+
+19:35.443 --> 19:37.510
+by diseases transmitted from mosquitoes.
+
+19:37.545 --> 19:40.446
+And with increasing temperatures
+and population growth,
+
+19:40.482 --> 19:43.416
+that death toll is expected
+to climb in the coming years.
+
+19:43.451 --> 19:46.419
+The Zika vaccine trials
+are progressing right now,
+
+19:46.454 --> 19:49.589
+and even though it's daunting
+to vaccinate the entire world,
+
+19:49.624 --> 19:52.725
+scientists have proven
+they can eliminate threats.
+
+19:54.429 --> 19:55.795
+In 1967,
+
+19:55.830 --> 19:58.130
+the World Health Organization
+launched a campaign
+
+19:58.166 --> 20:01.467
+to eliminate one of the biggest
+killers in human history.
+
+20:01.503 --> 20:04.203
+Dr. Larry Brilliant was part of the team
+
+20:04.238 --> 20:05.638
+that eradicated smallpox
+
+20:05.674 --> 20:07.873
+using a very simple concept.
+
+20:07.909 --> 20:10.475
+Instead of gong all
+through India or Bangladesh
+
+20:10.511 --> 20:12.043
+and trying to vaccinate everybody,
+
+20:12.078 --> 20:13.345
+we got the idea
+
+20:13.380 --> 20:15.314
+that if we gave the vaccine
+
+20:15.349 --> 20:16.848
+only to those
+
+20:16.883 --> 20:19.718
+who were closest to an infected person,
+
+20:19.753 --> 20:22.621
+and you put a ring around
+every infected person,
+
+20:22.656 --> 20:24.423
+with your scarce vaccine,
+
+20:24.458 --> 20:26.291
+you would abort the epidemic,
+
+20:26.327 --> 20:27.926
+and that's what worked.
+
+20:27.961 --> 20:29.127
+We have a lot of vaccines,
+
+20:29.162 --> 20:32.096
+but the vaccines we have
+are for known viruses.
+
+20:32.132 --> 20:34.566
+When the next unknown virus
+
+20:34.601 --> 20:36.100
+jumps from an animal to a human,
+
+20:36.136 --> 20:38.670
+we're not gonna have
+a vaccine on day one.
+
+20:44.110 --> 20:45.743
+These live bird markets are prevalent
+
+20:45.778 --> 20:47.177
+throughout the developing world,
+
+20:47.213 --> 20:49.947
+and the tight quarters
+that these animals are in
+
+20:49.982 --> 20:51.315
+make it very easy
+
+20:51.351 --> 20:53.517
+for pathogens and infectious disease
+
+20:53.553 --> 20:55.753
+to spread from animals to humans.
+
+20:58.725 --> 21:02.760
+Almost 70% of human infections
+
+21:02.795 --> 21:04.562
+actually come from animals.
+
+21:04.597 --> 21:06.397
+Dr. Denis Byarugaba
+
+21:06.432 --> 21:09.233
+investigates the threat
+of avian influenza
+
+21:09.268 --> 21:11.001
+in live bird markets.
+
+21:11.036 --> 21:12.269
+- Standing there...
+- Yeah?
+
+21:12.304 --> 21:15.339
+... you could smell some
+little bit of stuff...
+
+21:15.375 --> 21:17.174
+- Yeah.
+- ... from the cages.
+
+21:17.209 --> 21:20.377
+Now, these are aerosols that
+are coming from the cages.
+
+21:20.412 --> 21:23.012
+And should there be an
+infection in those cages,
+
+21:23.047 --> 21:24.447
+you are automatically inhaling them.
+
+21:24.483 --> 21:26.683
+So, that smell that I
+was smelling over there...
+
+21:26.718 --> 21:29.118
+what you are referring to as an aerosol,
+
+21:29.153 --> 21:30.720
+is potentially really bad for us?
+
+21:30.756 --> 21:33.556
+If there was any potential pathogen
+
+21:33.592 --> 21:35.392
+that was within those poultry,
+
+21:35.427 --> 21:38.327
+the likelihood that you would
+pick it up from those aerosols,
+
+21:38.363 --> 21:41.564
+as the birds fluff their
+feathers, is very high.
+
+21:42.601 --> 21:44.534
+There is a high concentration of poultry
+
+21:44.569 --> 21:46.168
+from different regions,
+
+21:46.204 --> 21:49.506
+where they are exposed and come
+in with different infections.
+
+21:49.541 --> 21:51.908
+There is slaughtering of these birds
+
+21:51.943 --> 21:53.208
+within the markets,
+
+21:53.243 --> 21:56.278
+in very unhygienic conditions.
+
+21:57.147 --> 21:59.247
+And if these are zoonotic,
+
+21:59.283 --> 22:01.817
+then you expose and get this infection
+
+22:01.852 --> 22:03.184
+into the human population.
+
+22:03.220 --> 22:05.954
+Could you define or
+explain what zoonosis is?
+
+22:05.989 --> 22:08.323
+Zoonosis is a disease
+that is transmitted
+
+22:08.358 --> 22:10.358
+from animals to humans.
+
+22:10.394 --> 22:13.395
+The typical example is,
+for example, influenza.
+
+22:13.431 --> 22:14.996
+And they are quite many.
+
+22:17.301 --> 22:20.168
+With the population
+increases in these countries,
+
+22:20.203 --> 22:23.705
+should the world be afraid
+of a crazy bird flu pandemic
+
+22:23.741 --> 22:25.841
+at a level that we've never seen before?
+
+22:25.876 --> 22:28.476
+For now, the major threat, actually,
+
+22:28.511 --> 22:30.645
+is those diseases that we are unable
+
+22:30.680 --> 22:34.782
+to find treatment for or contain.
+
+22:34.818 --> 22:38.286
+Each zoonotic disease
+poses a unique threat.
+
+22:38.322 --> 22:40.188
+Transmitted from bodily fluids,
+
+22:40.223 --> 22:41.856
+the deadly Ebola epidemic
+
+22:41.891 --> 22:44.692
+was exacerbated by the
+poorly-developed health systems
+
+22:44.727 --> 22:47.829
+and living conditions in West Africa.
+
+22:47.864 --> 22:49.931
+The SARS outbreak was less lethal
+
+22:49.967 --> 22:52.467
+but struck wealthy
+countries as it went airborne
+
+22:52.502 --> 22:55.370
+and spread between people
+in cities and hospitals.
+
+22:55.405 --> 22:57.305
+We are truly in the middle
+
+22:57.341 --> 22:58.974
+of the evolution of an epidemic.
+
+22:59.009 --> 23:01.375
+Global health systems were unprepared
+
+23:01.410 --> 23:05.179
+as these diseases devastated
+people around the globe.
+
+23:05.214 --> 23:07.615
+But if a disease as deadly as Ebola
+
+23:07.650 --> 23:09.817
+can transmit through the air like SARS,
+
+23:09.853 --> 23:11.719
+the consequences would be dire.
+
+23:11.754 --> 23:13.554
+In the Netherlands,
+
+23:13.590 --> 23:15.556
+a scientist proved just how easily
+
+23:15.592 --> 23:17.257
+this mutation could occur.
+
+23:17.293 --> 23:19.460
+Dr. Ron Fouchier demonstrated
+
+23:19.496 --> 23:23.030
+how he genetically modified
+the H5N1 bird flu virus
+
+23:23.065 --> 23:25.399
+to transmit through the air.
+
+24:30.998 --> 24:35.468
+A deadly airborne virus is
+potentially a nightmare scenario,
+
+24:35.503 --> 24:37.002
+so why create it?
+
+24:37.038 --> 24:40.706
+To prove that the H5N1 bird flu virus
+
+24:40.741 --> 24:43.942
+could acquire the traits of
+becoming airborne transmissible.
+
+24:43.977 --> 24:46.678
+So now we can find out
+exactly what it takes
+
+24:46.713 --> 24:50.382
+for an animal virus to become airborne.
+
+24:50.417 --> 24:52.517
+Despite the breakthrough
+of his findings,
+
+24:52.553 --> 24:54.752
+Dr. Fouchier's work sent shock waves
+
+24:54.788 --> 24:56.555
+through the international community.
+
+24:56.590 --> 24:58.256
+There were a lot of concerns about
+
+24:58.292 --> 25:00.692
+your findings being out in the public.
+
+25:00.727 --> 25:04.062
+Yes. So, when we submitted
+our manuscript for publication,
+
+25:04.098 --> 25:07.332
+the US government judged
+that our manuscript
+
+25:07.367 --> 25:09.334
+could be used by people to construct
+
+25:09.369 --> 25:11.203
+biological weapons of terror.
+
+25:11.238 --> 25:14.406
+We argued that the
+information that we collected
+
+25:14.441 --> 25:16.708
+had to be sent back
+
+25:16.743 --> 25:19.043
+to the countries where
+outbreaks are occurring
+
+25:19.079 --> 25:22.346
+to inform the people about
+what to be on the lookout for.
+
+25:22.381 --> 25:24.882
+You eventually did
+publish your findings,
+
+25:24.918 --> 25:26.383
+- is that correct?
+- That's correct.
+
+25:26.419 --> 25:29.754
+We convinced the World
+Health Organization
+
+25:29.789 --> 25:31.623
+to have a meeting with the countries
+
+25:31.658 --> 25:33.324
+that were facing outbreaks,
+
+25:33.359 --> 25:36.393
+to explain why they would
+need the information.
+
+25:36.429 --> 25:38.663
+And so the people in Uganda
+
+25:38.698 --> 25:41.099
+or in Indonesia or
+China who do surveillance
+
+25:41.134 --> 25:43.267
+can be on the lookout for the mutations
+
+25:43.302 --> 25:45.169
+and the biological traits
+
+25:45.204 --> 25:47.171
+associated with increased risk.
+
+25:47.206 --> 25:48.640
+What you're doing in the lab
+
+25:48.675 --> 25:51.075
+is happening in nature all the time.
+
+25:51.111 --> 25:54.545
+Absolutely. Flu pandemics
+happen every 20, 30 years
+
+25:54.580 --> 25:56.913
+without any involvement of scientists...
+
+25:56.949 --> 25:59.049
+mad scientists or good scientists.
+
+25:59.084 --> 26:01.652
+What we did in the lab
+was nothing different
+
+26:01.687 --> 26:03.320
+from what is happening
+
+26:03.356 --> 26:05.889
+in animals around the globe every day.
+
+26:08.961 --> 26:10.427
+When an animal virus mutates
+
+26:10.463 --> 26:12.263
+and spreads into the human population,
+
+26:12.298 --> 26:14.965
+it inevitably causes chaos and panic.
+
+26:17.803 --> 26:21.372
+As the Ebola crisis spiraled
+out of control in 2014,
+
+26:21.407 --> 26:25.709
+the US government spent
+$2.4 billion in response,
+
+26:25.744 --> 26:29.245
+more than a quarter of the US's
+entire annual global health budget,
+
+26:29.281 --> 26:32.014
+pushing scientists like Dr. Brilliant
+
+26:32.050 --> 26:35.017
+to find more preemptive
+solutions for future outbreaks.
+
+26:35.053 --> 26:37.187
+We have to strengthen public health
+
+26:37.222 --> 26:40.190
+in the poorest countries
+to make ourselves safe.
+
+26:40.225 --> 26:43.226
+Human beings are only as strong
+
+26:43.261 --> 26:47.096
+as our weakest surveillance system.
+
+26:47.131 --> 26:50.166
+This is one instance
+where "America first"
+
+26:50.202 --> 26:53.236
+means working with the
+poorest countries of the world
+
+26:53.271 --> 26:55.805
+to protect them out of selfishness,
+
+26:55.840 --> 26:58.241
+our own enlightened self-interest.
+
+27:00.477 --> 27:03.746
+Uganda is now at the forefront
+of deadly disease monitoring,
+
+27:03.781 --> 27:06.882
+with a remarkably effective
+bio-surveillance system
+
+27:06.918 --> 27:10.252
+that was implemented with the
+help of American health agencies
+
+27:10.287 --> 27:11.587
+and the US Army.
+
+27:11.622 --> 27:14.356
+These motorcycle guys, there's
+a whole network of them.
+
+27:14.391 --> 27:16.525
+They ride around, they
+pick up blood samples,
+
+27:16.560 --> 27:19.661
+and they take it from the local
+clinics to the bigger hospitals.
+
+27:19.697 --> 27:21.764
+It was originally set up to deal with
+
+27:21.799 --> 27:23.398
+the HIV/AIDS epidemic.
+
+27:23.434 --> 27:26.301
+And then they had the very smart idea
+
+27:26.337 --> 27:29.205
+to piggyback the examination
+
+27:29.240 --> 27:32.074
+of the blood samples
+for other infections
+
+27:32.110 --> 27:35.110
+like Ebola, SARS, yellow fever.
+
+27:35.145 --> 27:38.479
+It's very lo-fi and
+rudimentary and cheap,
+
+27:38.514 --> 27:39.848
+but it's working.
+
+27:49.993 --> 27:51.359
+In 2007,
+
+27:51.394 --> 27:55.463
+146 people were infected by a
+small Ebola outbreak in Uganda.
+
+27:55.498 --> 27:58.566
+Since then, three
+outbreaks have emerged here,
+
+27:58.601 --> 28:01.803
+but this bio-surveillance
+system helped prevent each one
+
+28:01.838 --> 28:05.406
+from spreading beyond 25 infections.
+
+28:05.441 --> 28:07.541
+It's not just surveillance of humans,
+
+28:07.577 --> 28:09.677
+it's surveillance of animals
+
+28:09.712 --> 28:12.613
+who could carry a virus
+that we don't know about
+
+28:12.649 --> 28:15.182
+but has potential for human disease.
+
+28:16.319 --> 28:18.952
+We sample from poultry and swine,
+
+28:18.988 --> 28:20.688
+for rapid virus detection,
+
+28:20.723 --> 28:22.890
+so that immediately, we
+are able to detect it,
+
+28:22.925 --> 28:26.193
+before it spreads out
+massively to other areas.
+
+28:26.228 --> 28:30.498
+If we have good pandemic preparation,
+
+28:30.533 --> 28:32.433
+if we find outbreaks quickly,
+
+28:32.468 --> 28:35.235
+we won't have that
+pandemic. It's our option.
+
+28:36.306 --> 28:38.172
+Outbreaks are inevitable,
+
+28:38.207 --> 28:40.841
+pandemics are optional.
+
+28:43.377 --> 28:48.377
+- Synced and corrected by chamallow -
+- www.addic7ed.com -
+
+28:49.305 --> 28:55.728
+Support us and become VIP member 
+to remove all ads from www.OpenSubtitles.org

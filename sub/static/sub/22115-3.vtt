@@ -1,0 +1,3198 @@
+WEBVTT
+
+00:02.536 --> 00:04.105
+Hi, I'm Jeffrey Tanner.
+
+00:04.138 --> 00:05.506
+Welcome to Sophe.
+
+00:05.539 --> 00:08.076
+We all know the Internet
+changed the world.
+
+00:08.109 --> 00:10.244
+The only question is:
+into what?
+
+00:10.278 --> 00:11.612
+It can be a platform
+to bring us together
+
+00:11.645 --> 00:13.347
+or to tear us apart.
+
+00:13.381 --> 00:14.548
+I know, because I spent my life
+
+00:14.582 --> 00:16.484
+trying to turn it
+into something
+
+00:16.517 --> 00:18.586
+that would connect us all.
+Then...
+
+00:18.619 --> 00:20.588
+I love you, Dad.
+...my daughter was murdered.
+
+00:20.621 --> 00:22.523
+Nothing else mattered anymore.
+
+00:22.556 --> 00:24.558
+Everyone was sure
+they knew who did it--
+
+00:24.592 --> 00:26.427
+the police, my ex-wife--
+
+00:26.460 --> 00:28.229
+but I was convinced the wrong
+man had been convicted
+
+00:28.262 --> 00:30.264
+and the real killer
+was still out there.
+
+00:30.298 --> 00:32.233
+So together with my team,
+I built Sophe,
+
+00:32.266 --> 00:34.568
+a crowdsource
+crime solving platform
+
+00:34.602 --> 00:37.438
+powered by the smartest,
+most diverse,
+
+00:37.471 --> 00:40.541
+independent collection of
+detectives on the planet:
+
+00:40.574 --> 00:43.144
+you.
+
+00:43.177 --> 00:44.078
+Let's get to work.
+
+00:46.280 --> 00:48.282
+Previously on
+Wisdom of the Crowd...
+
+00:48.316 --> 00:50.418
+TANNER: I have evidence
+that leads me to believe
+
+00:50.451 --> 00:53.087
+the cops have
+incarcerated the wrong man.
+
+00:53.121 --> 00:55.156
+This is not the
+kind of distraction
+that we need right now.
+
+00:55.189 --> 00:56.457
+The more they start loving this,
+the more they're gonna
+
+00:56.490 --> 00:57.658
+start to believe
+that Jeffrey's actually right
+
+00:58.726 --> 00:59.560
+and Mia's killer
+is still out there.
+
+01:00.794 --> 01:01.495
+You've been divorced nine years,
+you don't owe him anything.
+
+01:02.230 --> 01:02.663
+TANNER:
+How can you be so sure
+
+01:03.131 --> 01:03.864
+that Carlos Ochoa
+
+01:03.897 --> 01:05.433
+wasn't the secret boyfriend?
+
+01:05.466 --> 01:07.668
+LORI:
+Because Carlos wasn't a secret.
+
+01:07.701 --> 01:09.437
+We've got something.
+About Mia?
+
+01:09.470 --> 01:11.239
+SARA:
+No, something new.
+
+01:11.272 --> 01:15.109
+"Has anyone seen
+Antoine Reddick?"
+
+01:15.143 --> 01:16.477
+Is that blood?!
+
+01:16.510 --> 01:18.246
+We don't know anything
+for sure yet.
+
+01:18.279 --> 01:20.148
+Can you please help us?
+
+01:20.181 --> 01:21.649
+People are responding.
+He's alive.
+
+01:21.682 --> 01:23.584
+We need paramedics,
+but he's alive.
+
+01:23.617 --> 01:25.686
+(all cheering, whooping)
+
+01:25.719 --> 01:27.121
+TANNER:
+Someone sent this photo.
+
+01:27.155 --> 01:28.322
+Your daughter
+with some guy
+
+01:28.356 --> 01:29.523
+who could be anybody.
+Or he could be the one
+
+01:30.591 --> 01:31.625
+walking out of her place
+the night she was murdered.
+
+01:32.760 --> 01:34.228
+I checked all the arrests
+from Berkeley that night.
+
+01:34.262 --> 01:35.563
+TANNER:
+Ryan Booth...
+
+01:35.596 --> 01:37.531
+Same shirt as in the picture.
+
+01:37.565 --> 01:39.433
+Tattoos match, too.
+
+01:39.467 --> 01:40.634
+Can I put this on Sophe?
+
+01:40.668 --> 01:42.236
+Well, that's up to you.
+
+01:45.939 --> 01:48.108
+(air blowing)
+
+01:58.486 --> 02:00.621
+Dude, you have got to
+be the most expensive
+
+02:00.654 --> 02:02.623
+data entry clerk in the Valley.
+
+02:02.656 --> 02:04.925
+It's not data entry,
+it's data translation.
+
+02:04.958 --> 02:08.362
+From what, hard copy to .txt?
+
+02:08.396 --> 02:10.231
+These are old crime stats
+from the state archives.
+
+02:10.264 --> 02:11.932
+See-- don't touch that--
+every police department
+
+02:11.965 --> 02:13.601
+reports crime data
+in a different format.
+
+02:13.634 --> 02:14.702
+Please stop.
+
+02:14.735 --> 02:17.705
+So we've got to convert
+all of it to a uniform schema.
+
+02:17.738 --> 02:20.441
+Luckily, it's something
+crowds are good at.
+
+02:20.474 --> 02:22.643
+In fact, right now,
+I've got 2,187 users
+
+02:22.676 --> 02:24.512
+helping with data
+verification...
+I take it back.
+
+02:24.545 --> 02:26.447
+...and conversion.
+You're not just a clerk.
+
+02:26.480 --> 02:28.682
+You are the king
+of all data entry.
+
+02:28.716 --> 02:31.552
+What do we need with these
+old police reports, anyway?
+
+02:31.585 --> 02:34.522
+We are bootstrapping
+Sophe's machine learning.
+
+02:34.555 --> 02:37.691
+By having her input crime data,
+her pattern-matching algorithms
+
+02:37.725 --> 02:39.693
+can analyze old cases,
+see if there's any links
+
+02:39.727 --> 02:42.363
+between Mia's murder
+and past crimes.
+
+02:42.396 --> 02:45.666
+Then we feed those links back
+into the crowd for verification.
+
+02:45.699 --> 02:48.302
+It's like a perfect, symbio...
+(computer beeping)
+
+02:48.336 --> 02:50.271
+(Josh typing)
+
+02:52.440 --> 02:55.309
+TARIQ: What?
+JOSH: It's saying these
+three cases are connected.
+
+02:55.343 --> 02:57.411
+But they don't have
+anything to do with Mia.
+
+02:59.613 --> 03:01.682
+Where's Tanner?
+
+03:01.715 --> 03:04.785
+He's dealing with something.
+
+03:07.388 --> 03:09.790
+TANNER:
+Ryan Booth.
+
+03:09.823 --> 03:14.262
+Did Mia ever mention
+anything about him to you?
+
+03:14.295 --> 03:17.331
+No, not that
+I can remember. Why...?
+
+03:17.365 --> 03:19.567
+TANNER:
+Mia's friend Lori Meyers
+
+03:19.600 --> 03:22.403
+said that Mia
+had a secret boyfriend.
+
+03:22.436 --> 03:24.372
+Someone that she was scared of.
+
+03:24.405 --> 03:26.840
+That no one knew about.
+Mm-hmm.
+
+03:26.874 --> 03:28.809
+I've gone through
+all the conversations
+
+03:28.842 --> 03:31.512
+that I've had with Mia
+a thousand times.
+
+03:31.545 --> 03:35.015
+If she had said something to me
+about a person like this,
+
+03:35.048 --> 03:37.017
+I would've told the police.
+I don't r-- I don't know
+
+03:37.050 --> 03:39.320
+who this guy is.
+Okay, what about "sports shop"?
+
+03:39.353 --> 03:41.655
+"Sports" what? I don't...
+
+03:41.689 --> 03:44.558
+Lori overheard Mia
+say that to him.
+
+03:44.592 --> 03:47.795
+It could be a-a nickname,
+a place he worked.
+
+03:47.828 --> 03:49.597
+Okay, Jeffrey.
+
+03:49.630 --> 03:50.831
+(sniffles)
+You need to stop this.
+
+03:50.864 --> 03:53.501
+Please.
+
+03:53.534 --> 03:57.371
+Listen to me, for as long
+as we've been divorced,
+
+03:57.405 --> 03:59.239
+I've always cared about you.
+
+04:00.408 --> 04:01.642
+But you're spiraling right now.
+
+04:01.675 --> 04:03.844
+I'm spiraling?
+You're s... The police
+
+04:03.877 --> 04:05.846
+have caught
+our daughter's murderer.
+
+04:05.879 --> 04:07.748
+Carlos Ochoa?
+Yeah.
+
+04:07.781 --> 04:09.750
+No. No.
+
+04:09.783 --> 04:12.486
+I looked him in the eye
+in that prison,
+
+04:12.520 --> 04:16.324
+and that is not
+how he felt about Mia.
+
+04:16.357 --> 04:19.860
+You went to visit
+Carlos Ochoa in prison?
+
+04:19.893 --> 04:21.862
+Because I needed
+to know the truth.
+
+04:21.895 --> 04:25.633
+There isn't a part of you
+that doesn't wonder?
+
+04:25.666 --> 04:27.368
+Of course there is.
+
+04:27.401 --> 04:29.770
+I miss her
+every single day.
+
+04:29.803 --> 04:31.639
+And if I thought any of this
+were true,
+
+04:31.672 --> 04:33.874
+I would... I would
+stand next to you,
+
+04:33.907 --> 04:36.510
+and I would tell the police
+they're wrong.
+
+04:36.544 --> 04:37.911
+But they're not.
+
+04:37.945 --> 04:39.913
+We looked at
+the crime scene photos.
+
+04:39.947 --> 04:41.515
+Yeah.
+
+04:41.549 --> 04:42.916
+Okay, we sat through the trial.
+
+04:42.950 --> 04:47.388
+And we had to ID our
+daughter's body together.
+
+04:47.421 --> 04:52.426
+Jeffrey, I can't keep
+reliving this anymore.
+
+04:52.460 --> 04:56.664
+I am begging you
+to stop chasing ghosts.
+
+04:56.697 --> 04:58.799
+This isn't a ghost.
+
+04:58.832 --> 05:02.770
+This is a drug addict with
+a violent criminal record,
+
+05:02.803 --> 05:04.805
+caught on camera
+assaulting our daughter.
+
+05:04.838 --> 05:06.707
+Honey...
+
+05:06.740 --> 05:09.710
+And I am gonna find him.
+
+05:14.815 --> 05:16.417
+CAVANAUGH:
+Yeah, that's right. "Booth."
+
+05:16.450 --> 05:18.852
+B-O-O-T-H.
+
+05:20.454 --> 05:21.955
+No, I'm looking
+for whatever you have.
+
+05:21.989 --> 05:24.425
+He's a person of interest
+in a case down here.
+
+05:24.458 --> 05:26.560
+So I was hoping that...
+
+05:26.594 --> 05:28.629
+Yeah. Yeah, of course I'll hold.
+
+05:28.662 --> 05:31.532
+Again.
+
+05:31.565 --> 05:32.933
+Working a case?
+
+05:32.966 --> 05:35.903
+You're a cop.
+What does the evidence say?
+
+05:35.936 --> 05:38.739
+For us? Or are you moonlighting
+for Jeffrey Tanner again?
+
+05:40.708 --> 05:42.476
+H-Hello?
+
+05:42.510 --> 05:44.845
+Th-- nothing?
+
+05:44.878 --> 05:45.946
+Really?
+
+05:45.979 --> 05:48.382
+(sighs)
+
+05:48.416 --> 05:50.350
+Yeah, thank you.
+
+05:52.185 --> 05:53.821
+Apparently, neither.
+
+05:53.854 --> 05:56.524
+You do know your job
+is to take care of the cases
+
+05:56.557 --> 05:57.891
+on your desk, right?
+
+06:00.428 --> 06:03.464
+My job, Lieutenant,
+
+06:03.497 --> 06:04.898
+is to solve crimes.
+
+06:04.932 --> 06:07.535
+And in case you forgot,
+
+06:07.568 --> 06:08.769
+Tanner's helped us take down
+
+06:08.802 --> 06:10.671
+two pretty big ones
+in the past week.
+
+06:10.704 --> 06:13.574
+Look, Tommy, I'm just trying
+to help you out, okay?
+
+06:13.607 --> 06:15.676
+If the brass catch on that
+you're helping Jeffrey Tanner
+
+06:15.709 --> 06:17.678
+undermine a closed
+murder case...
+
+06:17.711 --> 06:19.547
+Your closed murder case.
+
+06:19.580 --> 06:20.948
+Whatever.
+(phone beeps)
+
+06:20.981 --> 06:22.516
+I'm just saying.
+
+06:24.685 --> 06:26.687
+Where are you going?
+
+06:26.720 --> 06:28.956
+To do my job.
+
+06:32.993 --> 06:34.862
+It's been three days.
+
+06:34.895 --> 06:36.697
+We still have nothing
+on Ryan Booth?
+
+06:36.730 --> 06:39.667
+It takes time. If he's out
+there, we'll find him.
+
+06:39.700 --> 06:43.471
+In the meantime, you're not
+gonna believe what Sophe's done.
+
+06:43.504 --> 06:44.905
+What?
+Well...
+
+06:44.938 --> 06:46.507
+we've been building
+out the system
+
+06:46.540 --> 06:47.708
+by having Sophe
+look at links
+
+06:47.741 --> 06:51.879
+between Mia's murder
+and past crimes.
+
+06:51.912 --> 06:53.013
+And?
+
+06:53.046 --> 06:54.648
+Unfortunately,
+we didn't find any.
+
+06:54.682 --> 06:56.650
+But we did find this.
+
+06:56.684 --> 06:58.519
+Ten months ago, a
+woman named Mei Chang
+
+06:58.552 --> 06:59.853
+was murdered in an alley
+
+06:59.887 --> 07:01.622
+down in Hunters Point
+in San Francisco.
+
+07:01.655 --> 07:02.890
+Two weeks later,
+Ramon Ortiz
+
+07:02.923 --> 07:04.792
+was found in a field
+in San Bruno.
+
+07:04.825 --> 07:06.059
+A month after that,
+Olivia Medina
+
+07:06.093 --> 07:07.795
+was shot and killed
+over in Alameda.
+
+07:07.828 --> 07:10.030
+The San Bruno and Alameda
+victims were both shot.
+
+07:10.063 --> 07:12.232
+CBI linked the murders
+through ballistics,
+
+07:12.265 --> 07:15.068
+but Mei Chang, the Hunters Point
+victim, was suffocated.
+
+07:15.102 --> 07:18.572
+SFPD ruled it
+as a random act of violence.
+
+07:18.606 --> 07:21.008
+And I'm guessing that
+Sophe says otherwise.
+
+07:21.041 --> 07:23.511
+Yeah. Our cluster-weighted
+modeling engine inferred
+
+07:23.544 --> 07:25.746
+an 81% likelihood that
+all three cases are related.
+
+07:25.779 --> 07:27.014
+SARA:
+And when we put it
+
+07:27.047 --> 07:28.849
+to the crowd to eliminate
+
+07:28.882 --> 07:31.652
+any coincidental overlaps,
+the links only got stronger.
+
+07:33.621 --> 07:35.623
+Anyone notify the SFPD?
+
+07:35.656 --> 07:38.058
+SARA: I did. Cavanaugh
+should be here any minute.
+
+07:38.091 --> 07:41.562
+(whirring)
+
+07:41.595 --> 07:42.796
+(clicks, whirring stops)
+
+07:42.830 --> 07:44.598
+TANNER:
+Lemon-ginger-beet.
+
+07:44.632 --> 07:46.567
+It'll clear your head.
+You want some, Detective?
+
+07:46.600 --> 07:47.835
+I'm not a big beet guy,
+actually.
+
+07:47.868 --> 07:49.737
+All right.
+
+07:49.770 --> 07:51.805
+So what now, you guys
+are just gonna insert yourself
+
+07:51.839 --> 07:53.874
+into any open case you see fit?
+
+07:53.907 --> 07:55.509
+I thought you were
+looking for Ryan Booth.
+
+07:55.543 --> 07:56.610
+We are.
+
+07:56.644 --> 07:58.912
+But the Internet can multitask.
+
+07:58.946 --> 08:00.781
+Every case that Sophe solves
+just makes her smart...
+
+08:00.814 --> 08:02.883
+Yeah, smarter, yeah. I know.
+
+08:02.916 --> 08:04.652
+So good for Sophe,
+but I'm the one
+
+08:04.685 --> 08:06.019
+getting the dirty looks at work.
+
+08:06.053 --> 08:08.656
+This isn't about me, Detective.
+
+08:08.689 --> 08:10.691
+These victims are all
+the kinds of people
+
+08:10.724 --> 08:14.294
+who slip through the cracks:
+low income, minorities.
+
+08:14.327 --> 08:15.896
+Justice isn't just supposed
+
+08:15.929 --> 08:17.831
+to be for people
+like me, is it?
+
+08:17.865 --> 08:19.032
+Oh, here we go.
+
+08:19.066 --> 08:21.802
+Jeffrey Tanner,
+man of the people.
+
+08:21.835 --> 08:22.970
+You're a pain in my ass.
+
+08:23.003 --> 08:24.605
+I am acutely aware of that.
+
+08:24.638 --> 08:26.607
+You got the case notes
+on the Mei Chang murder?
+
+08:26.640 --> 08:28.709
+Yeah.
+
+08:28.742 --> 08:30.010
+Sure, I remember this case.
+
+08:30.043 --> 08:31.612
+The investigating detective
+
+08:31.645 --> 08:33.113
+thought that was
+a carjacking gone bad.
+
+08:33.146 --> 08:35.115
+But I remember thinking
+there was something more.
+
+08:35.148 --> 08:36.817
+Josh, will you do me a favor?
+
+08:36.850 --> 08:39.019
+Will you pull up the
+woman in, um, Alameda?
+
+08:39.052 --> 08:40.554
+(typing)
+
+08:40.588 --> 08:42.155
+JOSH:
+Okay.
+
+08:42.189 --> 08:44.725
+(typing)
+
+08:44.758 --> 08:47.127
+There. There, look.
+
+08:47.160 --> 08:48.829
+The victim's shoes were missing.
+
+08:48.862 --> 08:50.698
+Just like Mei Chang.
+
+08:50.731 --> 08:52.099
+What do you mean,
+"missing shoes"?
+
+08:52.132 --> 08:54.101
+I don't remember that from
+the official report, do you?
+
+08:54.134 --> 08:55.836
+No, it wasn't in there.
+Uh, that could've
+been held back
+
+08:55.869 --> 08:57.605
+for investigative purposes.
+
+08:57.638 --> 09:01.041
+Or possibly, whoever was typing
+it up got really lazy.
+
+09:01.074 --> 09:04.645
+People wonder why I question
+the Carlos Ochoa murder.
+
+09:04.678 --> 09:06.146
+Okay. "Missing shoes."
+
+09:06.179 --> 09:07.981
+That should close the link
+between Mei Chang
+
+09:08.015 --> 09:09.717
+and Alameda.
+
+09:10.951 --> 09:12.653
+Huh.
+
+09:12.686 --> 09:14.021
+I thought it'd be higher.
+
+09:16.824 --> 09:18.959
+CAVANAUGH:
+All right, what's happening?
+
+09:18.992 --> 09:21.161
+Detective,
+
+09:21.194 --> 09:24.364
+you don't just have three
+interconnected cases here.
+
+09:24.397 --> 09:26.566
+You've got, uh...
+Fourteen.
+
+09:27.868 --> 09:29.870
+CAVANAUGH:
+What the hell?
+
+09:29.903 --> 09:31.371
+Are you saying
+all these cases are connected?
+
+09:31.404 --> 09:33.741
+I'm not. Sophe is.
+
+09:33.774 --> 09:37.177
+Like some sort of
+serial killer.
+
+09:41.849 --> 09:43.116
+Post it.
+
+09:43.150 --> 09:45.185
+Wha-- whoa, whoa, whoa.
+Hold up, hold up.
+
+09:45.218 --> 09:47.087
+What?
+Look, if you're right,
+
+09:47.120 --> 09:49.089
+the public might freak.
+We got to think about
+how we're gonna do this.
+
+09:49.122 --> 09:50.691
+Done.
+What?
+
+09:50.724 --> 09:52.159
+Power to the people, am I right?
+
+09:52.192 --> 09:53.627
+Read 'em and weep.
+
+10:02.970 --> 10:04.938
+*
+
+10:15.015 --> 10:16.917
+What the hell, Tommy?
+
+10:16.950 --> 10:19.152
+You let Tanner take this thing
+live without vetting it first?
+
+10:19.186 --> 10:21.021
+I didn't let Tanner
+do anything. Free speech.
+
+10:21.054 --> 10:22.923
+If they want to cry
+"serial killer,"
+
+10:22.956 --> 10:24.992
+there's not a whole lot
+I can do to stop them.
+
+10:26.927 --> 10:28.929
+14 unrelated DBs?
+
+10:28.962 --> 10:30.898
+Yeah.
+
+10:30.931 --> 10:33.366
+If this had been serial,
+someone would've noticed.
+
+10:33.400 --> 10:35.035
+Actually,
+I'm not so sure.
+
+10:35.068 --> 10:38.371
+I mean, spread over eight
+jurisdictions and 11 years.
+
+10:38.405 --> 10:40.373
+I mean...
+
+10:40.407 --> 10:43.076
+what these cases have in common
+are little bits of trace,
+
+10:43.110 --> 10:45.813
+minor background details.
+
+10:45.846 --> 10:47.447
+Like the shoes,
+they must be trophies.
+
+10:47.480 --> 10:49.149
+Most cases have them,
+but some cases don't.
+
+10:49.182 --> 10:53.020
+They're all connected
+in tiny, different ways.
+
+10:53.053 --> 10:56.156
+Kind of stuff
+even good cops would miss.
+
+10:56.189 --> 10:58.892
+I know you like to obsess
+over your own cases, Tommy.
+
+10:58.926 --> 11:01.829
+Now you want to obsess
+over everyone else's?
+
+11:01.862 --> 11:03.163
+Fine.
+
+11:03.196 --> 11:05.165
+Where do we start?
+
+11:07.167 --> 11:08.969
+"We"?
+
+11:09.002 --> 11:10.838
+Deputy chief's orders.
+
+11:10.871 --> 11:13.040
+If I didn't know better,
+I'd think she didn't trust you.
+
+11:13.073 --> 11:14.241
+CAVANAUGH:
+Fine, let's start
+
+11:14.274 --> 11:15.776
+with the one
+in our jurisdiction.
+
+11:15.809 --> 11:16.944
+Mei Chang.
+
+11:16.977 --> 11:18.211
+WOMAN:
+You wouldn't even be here
+
+11:18.245 --> 11:20.180
+if it weren't for
+this Web site.
+
+11:20.213 --> 11:22.449
+CAVANAUGH: Mrs. Chang,
+I assure you that the SFPD
+
+11:22.482 --> 11:25.819
+remains committed to finding
+your daughter's killer.
+
+11:25.853 --> 11:28.756
+I was looking
+through Mei's police file
+
+11:28.789 --> 11:31.959
+and it seems as though she had
+a bit of a troubled past,
+
+11:31.992 --> 11:33.260
+a few drug busts.
+
+11:33.293 --> 11:35.162
+We did the best
+we could, but...
+
+11:35.195 --> 11:37.197
+Maybe you see trouble,
+but this was our little girl.
+
+11:37.230 --> 11:40.834
+Of course.
+
+11:40.868 --> 11:42.936
+We think she may have worked
+
+11:42.970 --> 11:46.740
+with a man named Ramon Ortiz
+
+11:46.774 --> 11:48.041
+at Daly City Produce.
+
+11:48.075 --> 11:51.779
+You know, they dated for a bit.
+
+11:51.812 --> 11:54.815
+Uh, is he a suspect now?
+
+11:54.848 --> 11:56.917
+RUIZ: Ramon Ortiz
+is dead, Mr. Chang.
+
+11:56.950 --> 11:58.485
+He was one of the victims.
+
+11:58.518 --> 12:01.021
+(sighs heavily)
+
+12:01.054 --> 12:03.857
+At the funeral,
+Ramon pulled me to the side
+
+12:03.891 --> 12:07.027
+and he said he-he might have
+an idea who killed Mei.
+
+12:07.060 --> 12:08.829
+When I never heard
+from him again,
+
+12:08.862 --> 12:12.165
+I figured he was just talking.
+
+12:15.068 --> 12:16.837
+So, what do you think?
+
+12:16.870 --> 12:18.772
+Ortiz went looking
+for the killer
+
+12:18.806 --> 12:20.540
+and that's what
+got him shot?
+
+12:20.573 --> 12:22.509
+What I think is there's
+13 more families out there
+
+12:22.542 --> 12:24.177
+just like this one.
+
+12:24.211 --> 12:27.247
+And if a low-grade banger
+can find this guy, so can we.
+
+12:29.249 --> 12:31.484
+TANNER:
+Three more unsolved murders.
+
+12:31.518 --> 12:33.120
+Yes.
+How the hell is that?
+
+12:33.153 --> 12:34.822
+User submissions.
+
+12:34.855 --> 12:36.056
+The details haven't
+been uploaded
+
+12:36.089 --> 12:37.791
+to the statewide
+database yet.
+
+12:37.825 --> 12:39.259
+Serial killer is sexy,
+
+12:39.292 --> 12:41.194
+so there is a flood
+of new registration.
+
+12:41.228 --> 12:43.063
+That's bumping up our
+user base, big time.
+
+12:43.096 --> 12:44.264
+TANNER: These have almost
+nothing in common
+
+12:44.297 --> 12:45.265
+with the first three murders.
+
+12:45.298 --> 12:47.234
+Except the killer.
+
+12:47.267 --> 12:48.969
+Uh, that's the thing
+with probabilistic graphing.
+
+12:49.002 --> 12:50.838
+We're actually more certain
+
+12:50.871 --> 12:52.940
+of their interconnectedness
+because of the commonalities
+
+12:52.973 --> 12:54.274
+with the intermediate nodes.
+
+12:54.307 --> 12:55.943
+Even I don't
+understand that.
+
+12:55.976 --> 12:57.310
+JOSH: Basically...
+The more cases come in,
+
+12:57.344 --> 12:59.346
+the stronger the links get.
+Yeah.
+
+12:59.379 --> 13:01.314
+Here's one the users found.
+There were synthetic
+
+13:01.348 --> 13:02.816
+green fibers on
+half the victims
+
+13:02.850 --> 13:04.051
+and what appears
+to be latex burns
+
+13:05.185 --> 13:06.286
+on several more.
+SARA: The challenge
+at the moment
+
+13:07.387 --> 13:08.856
+is trying to keep up
+with the rate of submissions.
+
+13:08.889 --> 13:10.190
+What is it about
+serial killers
+
+13:10.223 --> 13:12.592
+that makes everyone want
+to play along at home?
+
+13:12.625 --> 13:15.062
+Stay on it.
+
+13:15.095 --> 13:17.564
+Anything breaks,
+let me know.
+
+13:17.597 --> 13:19.099
+I will.
+
+13:19.132 --> 13:20.901
+Hear the news?
+
+13:20.934 --> 13:22.569
+I did not.
+
+13:22.602 --> 13:24.938
+Hmm.
+
+13:24.972 --> 13:29.309
+AllSourcer just named Nell
+DeGraf as their new CEO.
+
+13:29.342 --> 13:30.844
+Nell DeGraf?
+
+13:30.878 --> 13:32.279
+She's a quant.
+
+13:32.312 --> 13:34.314
+She's not a visionary.
+
+13:34.347 --> 13:38.118
+She is asking
+for a sit-down.
+
+13:38.151 --> 13:41.121
+She would like
+to pick your brain.
+
+13:41.154 --> 13:43.256
+She's been handed the keys
+to a car she can't drive.
+
+13:43.290 --> 13:45.859
+A parley with me
+isn't gonna fix it.
+
+13:45.893 --> 13:47.060
+You left AllSourcer
+
+13:47.094 --> 13:49.329
+under less than
+ideal circumstances.
+
+13:49.362 --> 13:52.332
+All right? The last thing we
+need right now is a fight.
+
+13:52.365 --> 13:54.134
+With their user base and
+their market share--
+
+13:54.167 --> 13:56.003
+thank you--
+if they decided
+
+13:56.036 --> 13:58.605
+to actually drive traffic
+away from our site,
+
+13:58.638 --> 14:00.140
+we're looking at a...
+All right,
+all right, whatever.
+
+14:00.173 --> 14:01.942
+I'll sit down.
+
+14:01.975 --> 14:05.245
+(sighs)
+
+14:05.278 --> 14:09.082
+And you'll, you'll-you'll
+promise to be pleasant?
+
+14:09.116 --> 14:11.284
+Am I ever unpleasant, Mike?
+
+14:11.318 --> 14:14.154
+Don't speak.
+
+14:20.193 --> 14:22.395
+*
+
+14:45.252 --> 14:47.955
+GUARD: Keep it moving,
+keep it moving.
+
+14:59.366 --> 15:01.101
+This is for that
+white girl.
+
+15:04.337 --> 15:07.007
+Hey, Carlos, relax.
+
+15:07.040 --> 15:08.475
+Relax. Calm down, man.
+
+15:08.508 --> 15:11.078
+Listen, you want protection
+in here, homie,
+
+15:11.111 --> 15:12.445
+you stick with your
+own kind, all right?
+
+15:12.479 --> 15:13.646
+You just stay at my car,
+
+15:13.680 --> 15:15.448
+nothing's gonna
+happen to you.
+
+15:15.482 --> 15:16.683
+I'll take care
+of you, man.
+
+15:16.716 --> 15:17.684
+Let's go.
+
+15:22.055 --> 15:23.423
+Sara.
+
+15:23.456 --> 15:24.691
+Hmm?
+
+15:24.724 --> 15:26.226
+Can I borrow you
+for a second?
+
+15:26.259 --> 15:27.694
+Sure.
+
+15:32.465 --> 15:34.234
+What do you need?
+
+15:34.267 --> 15:37.470
+What do we have on
+that sports shop clue?
+
+15:37.504 --> 15:41.241
+Um, as of this moment,
+
+15:41.274 --> 15:43.977
+836 distinct hypotheses.
+
+15:44.011 --> 15:45.445
+Give me.
+
+15:45.478 --> 15:47.114
+(exhales)
+
+15:47.147 --> 15:48.481
+What are you thinking?
+
+15:48.515 --> 15:50.117
+Well, that if you can
+Where's Waldo?
+
+15:50.150 --> 15:52.019
+a serial killer
+out of thin air...
+Mm.
+
+15:52.052 --> 15:55.455
+...you can link one of our
+sports shop clues to Ryan Booth.
+
+15:55.488 --> 15:57.424
+Let me drive.
+
+16:00.360 --> 16:03.496
+Let a professional
+take the wheel.
+
+16:03.530 --> 16:06.433
+(clears throat)
+
+16:06.466 --> 16:08.001
+What?
+
+16:08.035 --> 16:09.269
+Nothing, nothing.
+
+16:09.302 --> 16:12.005
+I just, I like
+the way you code.
+
+16:12.039 --> 16:13.240
+SARA:
+Right. (clears throat)
+
+16:13.273 --> 16:15.008
+TANNER: Yes.
+SARA: So...
+
+16:15.042 --> 16:17.277
+number one match is
+a sporting goods store
+
+16:17.310 --> 16:21.381
+called The Sport Stop,
+16 miles from Mia's apartment.
+
+16:21.414 --> 16:26.519
+Probability of connection
+to Ryan Booth is...
+
+16:26.553 --> 16:28.521
+(sighs)
+
+16:28.555 --> 16:31.358
+...0.015%.
+Oh.
+
+16:31.391 --> 16:34.561
+The next match
+is half that.
+
+16:34.594 --> 16:36.729
+This man is a ghost.
+
+16:36.763 --> 16:38.531
+Yeah, that seems to be
+the consensus.
+
+16:38.565 --> 16:40.367
+MIKE: Uh...
+(clears throat)
+
+16:40.400 --> 16:43.136
+Excuse me, guys. Um, I just
+got a call from security.
+
+16:43.170 --> 16:45.238
+There's somebody here
+you're gonna want to meet.
+
+16:45.272 --> 16:46.339
+Who's that?
+
+16:46.373 --> 16:48.375
+It's Ryan Booth's brother.
+
+16:48.408 --> 16:50.043
+MAN:
+You had no right.
+
+16:50.077 --> 16:52.145
+You had no right
+to plaster Ryan's face
+
+16:52.179 --> 16:54.514
+all over your Web site.
+All right, Mr. Booth,
+
+16:54.547 --> 16:56.749
+I understand that you want to
+protect your brother, just...
+
+16:56.783 --> 16:59.186
+(chuckles)
+Protect him?
+
+16:59.219 --> 17:02.289
+My brother sucked up
+every resource my family had.
+
+17:02.322 --> 17:04.124
+My dad took out
+a second mortgage
+
+17:04.157 --> 17:05.758
+just to send him to Grand Pines.
+
+17:05.792 --> 17:07.360
+Grand Pines?
+
+17:07.394 --> 17:09.262
+Some fancy treatment center.
+
+17:09.296 --> 17:11.198
+Look, six weeks
+after Ryan graduated,
+
+17:11.231 --> 17:13.366
+he got nailed
+for another DUI.
+
+17:13.400 --> 17:15.068
+Where is he now?
+
+17:15.102 --> 17:16.269
+I don't know.
+
+17:16.303 --> 17:18.605
+We cut contact
+after his last relapse.
+
+17:18.638 --> 17:20.173
+And you stuck your nose in
+
+17:20.207 --> 17:21.474
+and you ripped
+that wound right open.
+
+17:21.508 --> 17:23.443
+If you have any
+humanity at all,
+
+17:23.476 --> 17:27.147
+you will take his picture down
+and let this go.
+
+17:27.180 --> 17:29.149
+I can't do that.
+
+17:29.182 --> 17:31.618
+That figures.
+
+17:31.651 --> 17:33.353
+The shrink told Ryan
+
+17:33.386 --> 17:36.356
+he had narcissistic
+personality disorder.
+
+17:36.389 --> 17:40.093
+Said his brain was so consumed
+with the next fix
+
+17:40.127 --> 17:45.132
+that anybody standing in his way
+was just collateral damage.
+
+17:45.165 --> 17:47.367
+That sound like
+anyone you know?
+
+17:49.402 --> 17:51.371
+(quietly):
+All right.
+
+17:51.404 --> 17:53.373
+All right, thank
+you. Come on.
+
+18:01.414 --> 18:04.584
+I take it
+he isn't going to help.
+
+18:04.617 --> 18:07.854
+Oh, no, he-he wants me
+to die in a fire.
+
+18:07.887 --> 18:09.589
+But, on the bright side,
+
+18:09.622 --> 18:14.561
+he mentioned that his brother
+was a patient
+
+18:14.594 --> 18:16.496
+at a place called Grand Pines.
+
+18:16.529 --> 18:19.399
+Okay. Well, that's
+another potential link.
+
+18:19.432 --> 18:21.234
+It's actually
+better than that.
+
+18:21.268 --> 18:23.903
+Mia's program at Berkeley was
+affiliated with that hospital
+
+18:23.936 --> 18:27.240
+and that's how they met.
+
+18:27.274 --> 18:29.142
+It all makes sense.
+
+18:29.176 --> 18:31.544
+JOSH: ...because
+it wasn't a murder.
+
+18:31.578 --> 18:34.414
+It should be easy for you.
+You're a wizard, Harry.
+Okay, that's really cute.
+
+18:34.447 --> 18:36.449
+I'm gonna call Cavanaugh
+and let him know.
+Go ahead,
+call Cavanaugh.
+
+18:36.483 --> 18:38.618
+Let him know what?
+Uh...
+
+18:38.651 --> 18:40.653
+we have another victim.
+
+18:40.687 --> 18:43.256
+But this one's alive.
+
+18:48.795 --> 18:50.397
+I was training for a marathon.
+
+18:50.430 --> 18:53.400
+Uh, you know, bad
+breakups and whatever.
+
+18:53.433 --> 18:54.801
+Um, it was pretty late.
+
+18:54.834 --> 18:57.204
+I was working long
+hours back then.
+
+18:57.237 --> 18:59.672
+I had just finished
+my run and, uh,
+
+18:59.706 --> 19:02.209
+I ducked in to get
+a bottle of water.
+
+19:04.577 --> 19:05.845
+There was a...
+
+19:05.878 --> 19:07.914
+there used to be
+
+19:07.947 --> 19:11.684
+a convenience store
+there on the corner.
+
+19:11.718 --> 19:14.487
+But they've torn this
+whole block down.
+
+19:14.521 --> 19:16.756
+So, you come out and you head...
+
+19:16.789 --> 19:20.260
+Uh, back towards my house.
+
+19:20.293 --> 19:23.963
+And then the next thing I know,
+there's a, uh...
+
+19:23.996 --> 19:28.668
+there's a-a plastic bag
+over my head.
+
+19:28.701 --> 19:32.205
+And, um, he's trying
+to get me down on the ground.
+
+19:33.706 --> 19:36.576
+Take your time.
+
+19:36.609 --> 19:38.811
+It... it was the gloves.
+
+19:38.845 --> 19:41.748
+When I read on Sophe
+that some of the victims
+
+19:41.781 --> 19:44.551
+had friction burns
+from the latex,
+
+19:44.584 --> 19:47.287
+that's when I knew
+it was the same guy.
+
+19:47.320 --> 19:49.589
+Did you see his face?
+
+19:49.622 --> 19:51.624
+It was dark.
+
+19:51.658 --> 19:54.961
+But I remember that
+he smelled like strawberries.
+
+19:54.994 --> 19:57.764
+Not the real kind,
+
+19:57.797 --> 19:58.865
+the, um...
+
+19:58.898 --> 20:01.701
+sickly sweet medicine kind,
+
+20:01.734 --> 20:04.871
+like the... the artificial kind.
+
+20:04.904 --> 20:07.274
+Um...
+
+20:07.307 --> 20:10.643
+and then I fought him off.
+(takes deep breath)
+
+20:10.677 --> 20:11.744
+I don't know how.
+
+20:11.778 --> 20:14.013
+I kicked, I fought, I...
+
+20:14.046 --> 20:16.916
+I just ran.
+
+20:16.949 --> 20:19.952
+As tired as my legs were,
+I ran all the way home.
+
+20:21.821 --> 20:24.824
+But, you know,
+I haven't run since.
+
+20:26.058 --> 20:28.995
+Every day
+I just stare at those shoes,
+
+20:29.028 --> 20:30.963
+and...
+
+20:30.997 --> 20:33.533
+I can't.
+
+20:33.566 --> 20:35.868
+We're gonna get this guy,
+Ms. Vincent.
+
+20:35.902 --> 20:38.237
+I promise you that.
+
+20:40.773 --> 20:42.675
+Mr. Tanner,
+I've already told you
+Yes?
+
+20:42.709 --> 20:44.577
+that due to the...
+HIPPA regulation,
+I know, you already...
+
+20:44.611 --> 20:45.845
+Yes. I cannot
+divulge information
+
+20:45.878 --> 20:47.647
+regarding any patient
+who may or may not have
+
+20:47.680 --> 20:48.981
+been treated
+at this facility.
+Will you listen?
+
+20:49.015 --> 20:50.717
+We, uh, we...
+The door's right here, sir.
+
+20:50.750 --> 20:52.885
+...we both... we both know...
+Not here, not now.
+
+20:52.919 --> 20:55.722
+...that Ryan Booth was
+a patient here at this facility.
+
+20:55.755 --> 20:58.291
+Okay, I understand
+
+20:58.325 --> 21:00.026
+that you have these laws
+to protect people,
+
+21:00.059 --> 21:01.794
+and I get it
+and I respect that.
+
+21:04.063 --> 21:06.299
+My daughter was...
+was 22 years old,
+
+21:06.333 --> 21:10.670
+and she could have done whatever
+she wanted with her life.
+
+21:10.703 --> 21:14.741
+And she chose to devote herself
+to helping others.
+
+21:14.774 --> 21:16.909
+And she volunteered here.
+
+21:16.943 --> 21:18.945
+That has to account
+for something.
+
+21:18.978 --> 21:21.948
+Mr. Tanner, I am sorry
+for your loss.
+
+21:21.981 --> 21:24.784
+I truly am.
+
+21:24.817 --> 21:26.686
+But I'm afraid there
+is nothing I can do,
+
+21:26.719 --> 21:29.055
+and you must go.
+
+21:29.088 --> 21:31.290
+Have a good day, sir.
+
+21:32.825 --> 21:35.061
+Mr. Tanner.
+I'm a huge fan.
+
+21:35.094 --> 21:38.698
+I actually met my partner
+in a AllSourcer chat group--
+
+21:38.731 --> 21:40.800
+"Quidditch Quorum."
+
+21:40.833 --> 21:43.603
+Are you still looking
+for Ryan Booth?
+
+21:43.636 --> 21:44.904
+Did you know him?
+
+21:44.937 --> 21:48.641
+Oh, no, he was way
+before my time.
+
+21:48.675 --> 21:50.076
+But when I saw on Sophe
+you were looking for him,
+
+21:50.109 --> 21:52.345
+it reminded me
+of something.
+
+21:52.379 --> 21:55.615
+I found it cleaning
+out the art room.
+
+21:55.648 --> 21:58.818
+One of the other nurses said
+that Ryan Booth made it.
+
+21:58.851 --> 22:01.654
+I guess he made one
+for everybody.
+
+22:01.688 --> 22:02.989
+I was gonna write in,
+
+22:03.022 --> 22:05.324
+but I didn't want
+to get in trouble.
+
+22:06.125 --> 22:08.094
+Did I help?
+
+22:10.963 --> 22:13.966
+More than you know.
+Thank you.
+
+22:14.000 --> 22:16.035
+Yeah.
+
+22:42.795 --> 22:44.363
+(camera shutter clicks)
+
+23:03.215 --> 23:05.418
+(no audio)
+
+23:10.056 --> 23:11.824
+Zwart Schaap.
+
+23:11.858 --> 23:14.393
+(no audio)
+
+23:16.929 --> 23:18.431
+MAN'S VOICE:
+Zwart Schaap.
+
+23:23.069 --> 23:25.438
+CARLOS:
+No, he can't call me back.
+
+23:25.472 --> 23:27.440
+I told you,
+because I'm in...
+
+23:27.474 --> 23:30.042
+Never mind, just tell him
+that it's an emergency.
+
+23:32.111 --> 23:33.813
+(quietly):
+Tell him I might know
+
+23:33.846 --> 23:35.448
+who killed Mia Tanner.
+
+23:41.721 --> 23:45.191
+What's up? You, uh, get
+everything you need, or...
+
+23:45.224 --> 23:48.895
+No. Not yet.
+
+23:55.535 --> 23:57.470
+This is pointless.
+
+23:57.504 --> 23:59.472
+17 murders and
+an attempted murder,
+
+23:59.506 --> 24:00.773
+and they're all
+over the place.
+
+24:00.807 --> 24:01.941
+Physical evidence is different
+
+24:01.974 --> 24:03.976
+form victim to victim.
+
+24:04.010 --> 24:05.845
+I mean, this one had
+latex burns but no fiber.
+
+24:05.878 --> 24:07.179
+This one has fiber,
+no latex.
+
+24:07.213 --> 24:09.949
+Cause of death for most of them
+is asphyxiation,
+
+24:09.982 --> 24:12.084
+except for these three,
+they were shot.
+
+24:12.118 --> 24:13.553
+Some of the bodies are
+left at the scene,
+
+24:13.586 --> 24:15.021
+Some are traveled and dumped.
+
+24:15.054 --> 24:16.255
+And what does the smell
+of strawberries
+
+24:16.288 --> 24:17.790
+have to do with any of it?
+
+24:17.824 --> 24:19.058
+He's out there.
+
+24:19.091 --> 24:20.126
+The sick bastard
+that did all this
+
+24:20.159 --> 24:21.894
+is still out there.
+
+24:21.928 --> 24:23.162
+If it was any other case,
+we'd be looking for
+
+24:23.195 --> 24:25.832
+geographic similarities.
+
+24:25.865 --> 24:28.034
+Look at this map.
+
+24:28.067 --> 24:30.202
+Here.
+
+24:30.236 --> 24:32.772
+This is the corner where
+Miranda Vincent was attacked.
+
+24:32.805 --> 24:34.807
+Not only is the convenience
+store not there,
+
+24:34.841 --> 24:36.108
+but this alley is supposed
+to be right next to it.
+
+24:36.142 --> 24:37.810
+That's not there, either.
+
+24:37.844 --> 24:39.211
+Yeah, I know.
+The whole region has changed.
+
+24:39.245 --> 24:40.847
+Some of these maps are too old,
+but some are too new.
+
+24:40.880 --> 24:42.549
+How are we supposed
+to find similarities
+
+24:42.582 --> 24:44.283
+if we don't know what
+the area looked like
+
+24:44.316 --> 24:45.918
+when the murders went down?
+
+24:50.990 --> 24:52.992
+I have an idea.
+
+24:55.027 --> 24:57.163
+Where are you going?
+
+24:57.196 --> 25:00.032
+We are going
+down the rabbit hole.
+
+25:02.334 --> 25:04.537
+(indistinct chatter)
+
+25:06.906 --> 25:08.875
+Lieutenant Ruiz.
+
+25:08.908 --> 25:11.143
+Glad you finally figured out
+that we can help.
+
+25:11.177 --> 25:14.080
+Believe me,
+this wasn't my idea.
+
+25:14.113 --> 25:17.016
+Well, you just leave
+the ideas to us.
+
+25:17.049 --> 25:19.018
+I think those together
+would be great.
+
+25:19.051 --> 25:21.253
+Hey, so, um, it
+took a little doing,
+
+25:21.287 --> 25:24.156
+but between construction permits
+and city change orders,
+
+25:24.190 --> 25:26.292
+we managed to reconstruct
+what the neighborhoods
+
+25:26.325 --> 25:28.628
+would have been like
+at the exact date
+
+25:28.661 --> 25:30.630
+of each of
+the attacks.
+You can do that?
+
+25:30.663 --> 25:33.933
+I've always wondered, do
+police phones have buttons now
+
+25:33.966 --> 25:35.635
+or is it still that
+old rotary-dial-type...
+
+25:35.668 --> 25:36.769
+Ignore him.
+
+25:36.803 --> 25:39.939
+As I was saying, we discovered
+an interesting trend.
+
+25:39.972 --> 25:41.841
+Yes. Each of these
+neighborhoods was undergoing
+
+25:41.874 --> 25:44.243
+rapid redevelopment at the
+time these murders occurred.
+
+25:44.276 --> 25:46.312
+Can you see that?
+
+25:46.345 --> 25:49.148
+CAVANAUGH: Construction.
+TANNER: Yeah.
+Mm-hmm.
+
+25:49.181 --> 25:51.083
+It's not that
+the neighborhoods changed.
+
+25:51.117 --> 25:52.251
+It's the construction itself.
+
+25:52.284 --> 25:53.620
+Exactly.
+Precisely.
+
+25:53.653 --> 25:55.154
+At the time of
+each of the murders,
+
+25:55.187 --> 25:56.889
+there was
+an active construction site
+
+25:56.923 --> 25:58.324
+within three blocks
+of where the body was found.
+
+25:58.357 --> 26:00.927
+That might explain
+the trace minerals we found
+
+26:00.960 --> 26:02.194
+on some of the bodies.
+
+26:02.228 --> 26:03.630
+We're looking for someone
+who worked
+
+26:03.663 --> 26:04.997
+at every one of these sites.
+Mm-hmm.
+
+26:05.031 --> 26:08.134
+Find him, and you'll
+find your killer.
+
+26:13.673 --> 26:16.676
+I'll have the grass-fed wagyu,
+very rare, and no potatoes.
+Mm-hmm.
+
+26:16.709 --> 26:18.210
+Thank you.
+
+26:18.244 --> 26:20.813
+So, Jeffrey,
+I'll get right to the point.
+
+26:20.847 --> 26:22.081
+I think the board was crazy
+
+26:22.114 --> 26:23.883
+to let you walk out the door
+with Sophe.
+
+26:23.916 --> 26:25.618
+We both know
+crowdsourcing
+
+26:25.652 --> 26:27.820
+is the next evolution
+in social networks.
+
+26:27.854 --> 26:29.722
+I want AllSourcer in
+on the action.
+
+26:29.756 --> 26:31.724
+And they said
+you weren't a visionary.
+
+26:31.758 --> 26:33.159
+(Mike chuckles)
+Look at that.
+(chuckles)
+
+26:33.192 --> 26:35.094
+Right?
+I think... I think...
+I think, actually,
+
+26:35.127 --> 26:36.963
+what Jeffrey means
+is that he's looking...
+Look, uh...
+
+26:36.996 --> 26:39.065
+I-I spent the
+better part of a year
+
+26:39.098 --> 26:41.668
+trying to get Sophe
+away from AllSourcer.
+
+26:41.701 --> 26:43.670
+Why would I want to
+put her right back in?
+
+26:43.703 --> 26:48.107
+Well, I understand you're having
+some cash flow issues.
+
+26:48.140 --> 26:50.810
+Word gets around.
+
+26:50.843 --> 26:52.812
+You know, we're willing to make
+a substantial investment
+
+26:52.845 --> 26:55.748
+that will enable you
+to grow Sophe organically.
+
+26:55.782 --> 26:58.785
+And all I ask in return
+is access to Sophe's
+
+26:58.818 --> 27:00.219
+underlying I.P.
+
+27:00.252 --> 27:03.222
+The I.P. that I specifically
+carved out before I left?
+
+27:03.255 --> 27:06.225
+(chuckles) Why... No, I'm sorry,
+why would I want to do that?
+
+27:06.258 --> 27:08.127
+Or I could just wait for you
+to fail and then pick up
+
+27:08.160 --> 27:10.029
+the pieces.
+Ah, see, I thought
+
+27:10.062 --> 27:12.031
+this was gonna be
+a hostile takeover.
+
+27:12.064 --> 27:13.199
+I was completely wrong.
+
+27:13.232 --> 27:15.434
+It's a passive-aggressive one.
+
+27:15.467 --> 27:17.069
+MIKE: Look, maybe
+there's a way
+
+27:17.103 --> 27:19.906
+that we can arrange a mutually
+beneficial partnership.
+
+27:19.939 --> 27:21.974
+Look, the-the problem
+with any partnership
+
+27:22.008 --> 27:23.142
+is there are strings attached.
+
+27:23.175 --> 27:24.777
+The only way, moving forward,
+
+27:24.811 --> 27:27.146
+to make AllSourcer whole
+is to monetize Sophe.
+
+27:27.179 --> 27:29.248
+So making money
+is a problem now?
+
+27:29.281 --> 27:30.983
+What Sophe is about
+
+27:31.017 --> 27:32.885
+is people wanting to be a part
+
+27:32.919 --> 27:34.854
+of something bigger
+than themselves.
+
+27:34.887 --> 27:36.255
+Yes, I understand that, Jeffrey,
+
+27:36.288 --> 27:37.690
+but I don't think
+you understand...
+(phone chimes)
+
+27:37.724 --> 27:39.158
+...what I'm offering here.
+
+27:39.191 --> 27:40.292
+I have to take this.
+
+27:40.326 --> 27:43.062
+I got to go.
+The... You're gonna go?
+
+27:44.230 --> 27:46.699
+Jeffrey, where...
+What do you think...
+
+27:46.733 --> 27:48.067
+Jeffrey.
+
+27:49.936 --> 27:51.938
+*
+
+28:23.903 --> 28:26.005
+So, we combed
+through the official records,
+
+28:26.038 --> 28:28.174
+but we couldn't find any
+one worker who was ever
+
+28:28.207 --> 28:29.976
+at more than a few
+of the locations.
+
+28:30.009 --> 28:32.779
+But you've got subcontractors
+and off-the-book workers.
+
+28:32.812 --> 28:34.781
+Exactly. That's where
+our users come in.
+
+28:34.814 --> 28:37.083
+Yeah, we've got photographs
+and all kinds of documentation
+
+28:37.116 --> 28:38.985
+coming in on all
+17 construction sites.
+
+28:39.018 --> 28:40.887
+Uh, what's with
+all the flashing?
+
+28:40.920 --> 28:42.221
+User input.
+
+28:42.254 --> 28:44.223
+People are highlighting regions
+for analysis.
+
+28:44.256 --> 28:46.225
+SARA: They're trying to find
+common elements in the photos.
+
+28:46.258 --> 28:48.227
+So, one user selects an item,
+and then the others
+
+28:48.260 --> 28:50.296
+weigh in on whether
+it seems relevant or not.
+
+28:50.329 --> 28:52.031
+Wouldn't a computer be faster?
+
+28:52.064 --> 28:54.834
+Mm. Visual comprehension is
+actually one of those things
+
+28:54.867 --> 28:56.969
+that's better done by
+humans than by microchips.
+
+28:57.003 --> 28:59.906
+It's not elegant, but
+intuition plays a big part.
+
+28:59.939 --> 29:04.010
+(beeps)
+And we have a match.
+
+29:04.043 --> 29:07.780
+"Ever-Fresh
+Sanitation Services."
+
+29:07.814 --> 29:09.782
+How's portable outhouses
+for a link?
+
+29:09.816 --> 29:12.251
+(gasps) That
+strawberry smell.
+
+29:12.284 --> 29:14.086
+Deodorizer.
+Yeah.
+
+29:14.120 --> 29:15.988
+TARIQ: A company like this,
+they probably have
+
+29:16.022 --> 29:17.256
+a dozen open construction sites
+right now.
+
+29:17.289 --> 29:19.125
+CAVANAUGH:
+Then we better hurry.
+
+29:19.158 --> 29:21.360
+Send the address to my phone.
+We'll get it on the way.
+
+29:24.030 --> 29:26.132
+Damn it, Jeffrey,
+
+29:26.165 --> 29:28.835
+that was her asking nice, okay?
+
+29:28.868 --> 29:33.305
+The next offer is going to come
+across some lawyer's table.
+
+29:33.339 --> 29:34.941
+So just...
+
+29:34.974 --> 29:38.144
+Just... call me back.
+
+29:38.177 --> 29:39.912
+Where the hell is he?
+
+29:39.946 --> 29:41.080
+He's not with you?
+
+29:41.113 --> 29:42.882
+No. He pulled
+a Houdini on lunch.
+
+29:42.915 --> 29:44.951
+He got some text,
+then just took off.
+
+29:44.984 --> 29:46.919
+Oh, that might have been me.
+Yeah, some user in Cleveland
+
+29:46.953 --> 29:49.021
+tracked down that wire sculpture
+Tanner posted on Sophe.
+
+29:49.055 --> 29:51.290
+Said he bought one online
+a couple months ago.
+
+29:51.323 --> 29:52.959
+Return address was up in
+
+29:52.992 --> 29:54.226
+Guerneville
+somewhere.
+
+29:54.260 --> 29:55.828
+Guerneville?
+
+29:55.862 --> 29:57.329
+(engine revs)
+
+30:27.359 --> 30:29.361
+*
+
+30:55.454 --> 30:57.990
+RYAN: I didn't kill
+your daughter.
+
+30:58.024 --> 30:59.959
+I knew you were
+looking for me.
+
+30:59.992 --> 31:01.327
+I'm not a total hermit.
+
+31:01.360 --> 31:04.163
+But I'm not the guy.
+
+31:04.196 --> 31:06.933
+Not the guy
+that killed my daughter?
+
+31:06.966 --> 31:08.367
+Put the axe down.
+
+31:08.400 --> 31:10.336
+Put it down.
+
+31:17.143 --> 31:20.012
+I'm not the guy.
+
+31:20.046 --> 31:22.248
+The night Mia died,
+I was on day three
+
+31:22.281 --> 31:24.316
+of a two-week
+intensive care stay.
+
+31:24.350 --> 31:27.219
+I got a stack of bills
+inside I could show you.
+
+31:27.253 --> 31:28.687
+They're still trying
+to collect on them.
+
+31:28.720 --> 31:30.122
+Then why?
+
+31:30.156 --> 31:31.457
+Why what?
+
+31:31.490 --> 31:34.426
+Why were you grabbing
+her arm in the photo?
+
+31:43.035 --> 31:45.037
+Why don't you have a seat?
+
+31:54.180 --> 31:56.182
+Here you go.
+
+32:02.188 --> 32:04.923
+I was crazy about her.
+
+32:06.993 --> 32:10.062
+Completely unrequited,
+might I add.
+
+32:10.096 --> 32:11.430
+Hell, anyone who met her was.
+
+32:11.463 --> 32:13.499
+There was a party
+
+32:13.532 --> 32:15.134
+the night of the protest.
+
+32:15.167 --> 32:17.403
+I knew she'd be there,
+so I showed up.
+
+32:17.436 --> 32:21.440
+I was messed up by
+the time I found her.
+
+32:21.473 --> 32:25.344
+Drunk, high, whatever else
+you can think of.
+
+32:25.377 --> 32:27.413
+(laughs softly)
+
+32:27.446 --> 32:30.049
+Uh, she read me the Riot Act.
+
+32:30.082 --> 32:34.486
+Wanted me to call my sponsor,
+you know, go to a meeting.
+
+32:36.488 --> 32:38.290
+Even as mad
+as she was,
+
+32:38.324 --> 32:41.327
+she always wanted to
+do the right thing.
+
+32:43.429 --> 32:46.298
+I grabbed her.
+
+32:46.332 --> 32:48.500
+I'm not proud of that.
+
+32:50.602 --> 32:53.372
+I was just trying to convince
+her to come home with me.
+
+32:54.373 --> 32:56.608
+She didn't.
+(chuckles)
+
+32:56.642 --> 32:59.111
+You'd be proud.
+
+33:00.279 --> 33:02.381
+Man.
+
+33:02.414 --> 33:04.616
+It's a hell of a thing,
+pissing off the nicest person
+
+33:04.650 --> 33:08.254
+you ever knew.
+
+33:08.287 --> 33:12.058
+She wouldn't even let me
+visit her at work.
+
+33:12.091 --> 33:14.293
+She said that, uh,
+
+33:14.326 --> 33:15.494
+she thought it
+might be distracting
+
+33:15.527 --> 33:17.096
+if everyone knew that...
+
+33:17.129 --> 33:20.066
+she was
+Jeffrey Tanner's daughter.
+
+33:20.099 --> 33:22.468
+(chuckles)
+Yeah.
+
+33:22.501 --> 33:25.104
+Did you see much of her,
+at Grand Pines?
+
+33:25.137 --> 33:27.506
+What she was like with
+the doctors and the patients?
+
+33:27.539 --> 33:29.108
+'Cause I know
+that interning
+
+33:29.141 --> 33:31.577
+is like 90% coffee
+and paperwork,
+
+33:31.610 --> 33:34.280
+but she must have left
+an impression.
+
+33:35.447 --> 33:37.449
+Oh.
+
+33:37.483 --> 33:40.319
+Um...
+
+33:40.352 --> 33:42.054
+Mr. Tanner.
+
+33:43.289 --> 33:46.425
+Mia wasn't an intern
+at Grand Pines.
+
+33:47.626 --> 33:49.328
+She was a patient.
+
+33:51.863 --> 33:55.134
+She was... She was a what?
+
+33:55.167 --> 33:56.502
+Checked in the same day as me.
+
+33:58.204 --> 33:59.638
+She said, you know,
+he was depressed
+
+33:59.671 --> 34:01.540
+and needed to get
+her head straight.
+
+34:01.573 --> 34:04.510
+You know, otherwise,
+she'd do something she'd regret.
+
+34:22.294 --> 34:24.163
+Well...
+
+34:24.196 --> 34:27.499
+if he has any more dead bodies,
+we sure won't smell them.
+
+34:31.237 --> 34:33.239
+(creaking)
+
+34:39.145 --> 34:41.147
+Well, hello.
+
+34:41.180 --> 34:42.781
+Don't get many
+walk-ins around here.
+
+34:42.814 --> 34:44.383
+Byron O'Malley?
+
+34:44.416 --> 34:46.485
+You can call me B.J.,
+sweetheart.
+
+34:46.518 --> 34:48.720
+You, uh, want to rent
+some units?
+
+34:48.754 --> 34:50.256
+San Francisco Police.
+
+34:50.289 --> 34:51.357
+Oh.
+
+34:51.390 --> 34:53.225
+Keep your hands
+where I can see them.
+Oh, no, I...
+
+34:53.259 --> 34:55.827
+I'm not much of a threat.
+
+34:55.861 --> 34:58.230
+Come on in.
+
+34:58.264 --> 35:00.732
+(grunts)
+
+35:02.534 --> 35:03.802
+Come on.
+
+35:04.903 --> 35:06.405
+You're, uh...
+
+35:06.438 --> 35:09.775
+Y'all acting kind of
+jumpy, aren't you?
+
+35:09.808 --> 35:11.777
+Business records indicate
+that you're the sole proprietor.
+
+35:11.810 --> 35:12.911
+Is that correct?
+
+35:12.944 --> 35:14.746
+Sure.
+One of your workers
+
+35:14.780 --> 35:16.848
+might know something
+about a criminal matter.
+
+35:16.882 --> 35:18.450
+Well, you're gonna
+have to be more specific.
+
+35:18.484 --> 35:20.919
+Um, I've got guys
+coming and going all the time.
+
+35:20.952 --> 35:22.254
+CAVANAUGH: Uh, someone
+who's worked here
+
+35:22.288 --> 35:24.323
+for 12 years or more.
+
+35:24.356 --> 35:26.792
+Uh, there's only one guy
+been there that long.
+
+35:26.825 --> 35:28.260
+Don Farrel.
+
+35:28.294 --> 35:29.861
+What's Donnie done now?
+
+35:29.895 --> 35:32.431
+Well, you tell us where
+we can find him, and we'll see.
+
+35:32.464 --> 35:34.433
+Well, you're not
+gonna have to go far.
+
+35:34.466 --> 35:36.402
+He's right here.
+
+35:37.903 --> 35:39.871
+RUIZ (whispers):
+Tommy.
+
+35:39.905 --> 35:41.373
+Where's he going?
+
+35:41.407 --> 35:43.775
+CAVANAUGH:
+Police!
+
+35:47.579 --> 35:50.549
+Give yourself up, Farrel!
+
+36:10.869 --> 36:12.838
+(clattering)
+
+36:12.871 --> 36:14.406
+Police! Stop!
+
+36:14.440 --> 36:16.608
+RUIZ (over radio):
+There's a room in the back.
+
+36:16.642 --> 36:18.810
+I got him.
+
+36:24.483 --> 36:26.252
+(thudding)
+
+36:31.623 --> 36:33.225
+San Francisco Police.
+
+36:33.259 --> 36:34.293
+Show me your hands.
+
+36:36.528 --> 36:38.897
+Show me your hands now!
+
+36:40.499 --> 36:42.268
+I'd do what he says.
+
+36:44.303 --> 36:46.872
+Interlace your fingers
+behind your head.
+
+36:46.905 --> 36:48.974
+Hurry up.
+
+36:49.007 --> 36:50.976
+What took you so long?
+
+36:55.481 --> 36:57.449
+(handcuffs clicking)
+
+37:06.592 --> 37:10.962
+SARA:
+He was trying to dispose
+of the shoes in a vat of acid.
+
+37:10.996 --> 37:12.964
+Machine learning, baby.
+
+37:12.998 --> 37:15.334
+How's that
+for the power of math?
+
+37:15.367 --> 37:17.569
+TARIQ: Uh, not so fast there,
+Archimedes.
+
+37:17.603 --> 37:19.305
+My photo-matching software
+found those toilets.
+
+37:19.338 --> 37:21.473
+I broke the case. Q.E.D.,
+move, I push the button.
+
+37:21.507 --> 37:23.575
+Uh, you wouldn't have
+even known where to look
+if it weren't for Sophe.
+
+37:23.609 --> 37:25.911
+And that's not
+the correct use of "Q.E.D."
+Boys. Boys.
+
+37:25.944 --> 37:27.579
+That is the correct use
+of Q.E.D. You don't even
+know what it stands for.
+
+37:27.613 --> 37:28.714
+Calm down.
+What does it stand for?
+
+37:28.747 --> 37:30.015
+You're both pretty.
+
+37:32.451 --> 37:34.420
+Nice one.
+
+37:36.488 --> 37:39.325
+Josh.
+
+37:52.638 --> 37:54.640
+REPORTER: This seemingly
+innocent warehouse
+
+37:54.673 --> 37:56.575
+hid the secrets of a man
+police believe
+
+37:56.608 --> 37:58.009
+is responsible for 17 deaths
+
+37:58.043 --> 38:01.613
+in the Bay Area
+over the past 12 years.
+
+38:01.647 --> 38:02.648
+(camera clicking, beeping)
+
+38:03.715 --> 38:05.751
+ALEX:
+Perfect.
+
+38:05.784 --> 38:07.018
+I think we have it.
+Okay, wonderful.
+Thank you.
+
+38:07.052 --> 38:08.654
+Thank you.
+See you gentlemen soon.
+
+38:08.687 --> 38:11.089
+Can I just ask you
+to wait outside for a moment?
+
+38:11.122 --> 38:12.624
+I just need...
+
+38:15.427 --> 38:17.429
+You knew, didn't you?
+
+38:19.531 --> 38:20.666
+Knew what?
+
+38:20.699 --> 38:22.734
+About Mia's stay at Grand Pines.
+
+38:22.768 --> 38:24.102
+Jeffrey...
+
+38:24.135 --> 38:25.437
+Of course you did.
+
+38:25.471 --> 38:26.605
+You had to pay for it.
+
+38:26.638 --> 38:28.407
+What are you talking about?
+
+38:29.441 --> 38:31.510
+I found Ryan Booth.
+
+38:31.543 --> 38:32.644
+He didn't kill her.
+
+38:32.678 --> 38:35.947
+But he and Mia
+were patients together
+
+38:35.981 --> 38:37.383
+at Grand Pines.
+Wait a minute.
+
+38:37.416 --> 38:39.084
+Unbeknownst to me...
+Okay, hold on a second.
+
+38:39.117 --> 38:40.652
+That's what this whole thing
+is about, Jeffrey?
+So-- yes.
+
+38:40.686 --> 38:42.621
+Why didn't you tell me?
+
+38:42.654 --> 38:44.390
+I couldn't tell you, Jeffrey.
+
+38:44.423 --> 38:46.725
+Mia was an adult at the time;
+she was 20 years old.
+
+38:46.758 --> 38:48.994
+And she didn't want
+anyone to know.
+
+38:49.027 --> 38:51.029
+She didn't want
+you to know.
+I could've helped her.
+
+38:51.062 --> 38:52.764
+No, you couldn't have.
+
+38:54.099 --> 38:56.067
+Jeffrey.
+
+38:56.101 --> 38:59.771
+I'm not even...
+I'm not even mad at you.
+
+38:59.805 --> 39:04.042
+I'm mad at myself because
+I keep getting sucked in.
+
+39:04.075 --> 39:05.076
+Just a moment.
+
+39:06.678 --> 39:09.114
+It's just...
+(sighs)
+
+39:16.054 --> 39:17.523
+You're gonna kill me
+
+39:17.556 --> 39:19.591
+if you don't
+let this go.
+
+39:19.625 --> 39:23.462
+And you're gonna end up
+killing yourself.
+
+39:28.500 --> 39:30.802
+TANNER:
+What if we never find him?
+
+39:30.836 --> 39:35.173
+What-what if I am
+just, really...
+
+39:35.206 --> 39:37.175
+chasing ghosts?
+
+39:37.208 --> 39:40.479
+Then we'll learn that together.
+
+39:40.512 --> 39:43.482
+Okay?
+
+39:43.515 --> 39:45.150
+The tech works.
+
+39:45.183 --> 39:47.052
+I mean, an hour ago,
+we just pulled
+
+39:47.085 --> 39:49.621
+a serial killer off the street.
+
+39:51.657 --> 39:53.124
+Yeah.
+
+39:53.158 --> 39:55.727
+We're gonna find
+the truth about Mia.
+
+39:55.761 --> 39:57.796
+Okay?
+
+40:00.766 --> 40:03.502
+Hey, hey, hey, hey.
+
+40:06.805 --> 40:10.075
+We solved AllSourcer's
+reboot algorithm
+
+40:10.108 --> 40:12.177
+with 12 hours...
+Mm-hmm.
+
+40:12.210 --> 40:14.780
+...a whiteboard, and,
+from what I remember,
+
+40:14.813 --> 40:17.115
+was contaminated moo shu pork.
+(laughs)
+
+40:17.148 --> 40:18.484
+Yeah.
+
+40:18.517 --> 40:21.219
+It was disgusting.
+It was.
+
+40:21.252 --> 40:22.821
+We've got this. Okay?
+
+40:22.854 --> 40:24.790
+Yeah.
+
+40:48.647 --> 40:50.816
+(metal door clattering, closing)
+
+40:52.217 --> 40:54.219
+(water running)
+
+40:58.690 --> 41:00.659
+(grunts)
+
+41:00.692 --> 41:02.661
+(water stops running)
+
+41:02.694 --> 41:05.564
+(exhales)
+
+41:05.597 --> 41:07.666
+Man, I thought they was gonna
+throw down back there, man.
+
+41:07.699 --> 41:08.834
+(scoffs)
+
+41:11.236 --> 41:12.804
+I told you.
+
+41:12.838 --> 41:16.141
+You stick with us,
+you stay protected.
+
+41:17.275 --> 41:20.111
+Man, thanks, homie.
+
+41:20.145 --> 41:22.113
+(slices)
+(Carlos grunts)
+
+41:26.918 --> 41:28.820
+You should've just
+
+41:28.854 --> 41:30.822
+kept your mouth shut
+about that girl.
+
+41:35.260 --> 41:38.129
+(wheezing)
+
+41:39.230 --> 41:41.733
+(labored breathing)
+
+41:45.270 --> 41:48.239
+Captioning sponsored by
+CBS
+
+41:48.273 --> 41:51.309
+and TOYOTA.
+
+41:51.342 --> 41:54.279
+Captioned by
+Media Access Group at WGBH
+access.wgbh.org

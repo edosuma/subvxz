@@ -1,0 +1,3524 @@
+WEBVTT
+
+00:02.603 --> 00:04.105
+Hi, I'm Jeffrey Tanner.
+
+00:04.138 --> 00:05.506
+Welcome to Sophe.
+
+00:05.539 --> 00:08.109
+We all know the Internet
+changed the world.
+
+00:08.142 --> 00:10.311
+The only question is:
+into what?
+
+00:10.344 --> 00:11.645
+It can be a platform
+to bring us together
+
+00:11.679 --> 00:13.381
+or to tear us apart.
+
+00:13.414 --> 00:14.582
+I know, because I spent my life
+
+00:14.615 --> 00:16.550
+trying to turn it
+into something
+
+00:16.584 --> 00:18.652
+that would connect us all.
+Then...
+
+00:18.686 --> 00:20.654
+I love you, Dad.
+...my daughter was murdered.
+
+00:20.688 --> 00:22.590
+Nothing else mattered anymore.
+
+00:22.623 --> 00:24.592
+Everyone was sure
+they knew who did it--
+
+00:24.625 --> 00:26.494
+the police, my ex-wife--
+
+00:26.527 --> 00:28.262
+but I was convinced the
+wrong man had been convicted
+
+00:28.296 --> 00:30.331
+and the real killer
+was still out there.
+
+00:30.364 --> 00:32.333
+So together with my team,
+I built Sophe,
+
+00:32.366 --> 00:34.602
+a crowdsource
+crime solving platform
+
+00:34.635 --> 00:37.505
+powered by the smartest,
+most diverse,
+
+00:37.538 --> 00:40.608
+independent collection of
+detectives on the planet:
+
+00:40.641 --> 00:43.177
+you.
+
+00:43.211 --> 00:45.146
+Let's get to work.
+
+00:45.179 --> 00:46.414
+Previously on
+Wisdom of the Crowd...
+
+00:46.447 --> 00:48.616
+AllSourcer just named
+
+00:48.649 --> 00:51.185
+Nell DeGraf as their new CEO.
+
+00:51.219 --> 00:54.388
+I understand you're having
+some cash flow issues.
+
+00:54.422 --> 00:57.291
+You knew that Mia wanted to keep
+this private. I told you that.
+
+00:57.325 --> 01:00.294
+I did not post anything
+about Grand Pines on Sophe.
+
+01:00.328 --> 01:06.167
+As of today, I promise
+complete transparency.
+
+01:06.200 --> 01:07.701
+I'm putting everything
+that I have
+
+01:07.735 --> 01:10.571
+about my daughter on Sophe.
+
+01:10.604 --> 01:14.175
+Tell them I might know
+who killed Mia Tanner.
+
+01:14.208 --> 01:16.144
+You should've just kept your
+mouth shut about that girl.
+
+01:16.177 --> 01:17.711
+Carlos Ochoa was
+attacked in prison.
+
+01:17.745 --> 01:20.214
+He was stabbed.
+
+01:21.315 --> 01:24.252
+(heart monitor beeping steadily)
+
+01:24.285 --> 01:26.620
+WOMAN:
+His vitals have stabilized,
+which is a good sign,
+
+01:26.654 --> 01:29.190
+but neurological functions
+may have been compromised,
+
+01:29.223 --> 01:31.559
+and the longer he's unconscious,
+the worse his chances get.
+
+01:31.592 --> 01:34.128
+I'm sorry.
+
+01:34.162 --> 01:35.663
+I wish I could
+tell you more.
+
+01:35.696 --> 01:38.166
+Thank you.
+
+01:38.199 --> 01:40.100
+Thank you, Doctor.
+
+01:42.503 --> 01:44.172
+Damn it.
+
+01:45.573 --> 01:47.475
+We even know who did this?
+
+01:47.508 --> 01:49.277
+No.
+
+01:49.310 --> 01:52.480
+TANNER:
+It's my fault.
+
+01:52.513 --> 01:54.648
+Sophe put a target
+on his back.
+
+01:54.682 --> 01:56.550
+No.
+
+01:56.584 --> 01:59.220
+When you walk into prison, you
+have a target on your back.
+
+01:59.253 --> 02:01.589
+Tanner, I know
+you don't like hearing this,
+
+02:01.622 --> 02:05.226
+but some things
+are out of your control.
+
+02:05.259 --> 02:06.760
+You're right.
+
+02:06.794 --> 02:09.463
+I don't like hearing that.
+
+02:15.803 --> 02:18.339
+Leaving already?
+
+02:18.372 --> 02:20.208
+Dude, I have a date.
+
+02:20.241 --> 02:22.210
+You should try it
+sometime.
+
+02:22.243 --> 02:24.578
+Yeah, that's not gonna work.
+That app's a waste of time.
+
+02:24.612 --> 02:26.680
+Anything that brings me closer
+to Ann the lawyer
+
+02:26.714 --> 02:28.482
+is not a waste of my time.
+
+02:28.516 --> 02:29.750
+Ann the lawyer?
+
+02:29.783 --> 02:31.552
+If she's a lawyer,
+I'm an astronaut.
+
+02:31.585 --> 02:33.387
+You guys will have
+nothing common.
+
+02:33.421 --> 02:35.689
+We both swiped right.
+We have that in common.
+
+02:35.723 --> 02:37.458
+That matching
+function's based on
+
+02:37.491 --> 02:38.592
+a one-dimensional
+hotness score.
+
+02:38.626 --> 02:40.461
+Here we go.
+It can't capture
+
+02:40.494 --> 02:42.530
+the multidimensional
+complexity of attractiveness...
+Mm.
+
+02:42.563 --> 02:44.765
+...or take into account your
+personal preference vector.
+
+02:44.798 --> 02:46.400
+So there's really
+no reason to think
+
+02:46.434 --> 02:47.668
+she'll like
+anything about you.
+
+02:47.701 --> 02:50.404
+Other than my rugged good looks.
+
+02:50.438 --> 02:52.273
+I'm just saying,
+the algorithms
+
+02:52.306 --> 02:54.408
+are outdated and
+kind of shallow.
+
+02:54.442 --> 02:56.377
+Shallow. That works for me.
+
+02:56.410 --> 02:57.778
+Enjoy your monitor.
+All right.
+
+02:57.811 --> 02:59.447
+Adios.
+Adios.
+
+02:59.480 --> 03:00.781
+Big man.
+
+03:00.814 --> 03:01.815
+Bring it in, son.
+
+03:01.849 --> 03:03.251
+Cool, cool, cool.
+
+03:09.623 --> 03:10.824
+(knocks)
+Got a minute?
+
+03:10.858 --> 03:12.726
+Why even knock?
+
+03:12.760 --> 03:14.528
+(clears throat)
+
+03:14.562 --> 03:16.764
+Sara, you remember our
+general counsel, Greg Stavros?
+
+03:16.797 --> 03:19.567
+(sighs)
+What's this about?
+
+03:19.600 --> 03:21.435
+Nell DeGraf sent
+
+03:21.469 --> 03:23.637
+a cease and desist,
+claiming Sophe's running code
+
+03:23.671 --> 03:25.406
+stolen from AllSourcer.
+
+03:25.439 --> 03:26.840
+Well, that's ridiculous.
+
+03:26.874 --> 03:30.311
+We carved out
+all the code necessary
+
+03:30.344 --> 03:32.646
+to run Sophe when we left.
+Yes.
+
+03:32.680 --> 03:34.615
+But that was a rudimentary
+version of Sophe.
+
+03:34.648 --> 03:37.318
+You're building new capabilities
+all the time, writing new code
+
+03:37.351 --> 03:38.352
+to run them.
+
+03:38.386 --> 03:39.853
+Yeah, Nell's saying the
+new code was developed
+
+03:39.887 --> 03:41.322
+while you were
+still at AllSourcer.
+
+03:41.355 --> 03:42.623
+I would never...
+
+03:42.656 --> 03:44.292
+Do you review
+all of your team's work
+
+03:44.325 --> 03:45.426
+before it goes live?
+
+03:45.459 --> 03:47.328
+God, no.
+That would be impossible.
+
+03:47.361 --> 03:50.631
+I hire good people,
+and I trust them
+
+03:50.664 --> 03:53.301
+to do their job.
+So, theoretically,
+
+03:53.334 --> 03:55.669
+one of your engineers
+could have used code
+
+03:55.703 --> 03:57.671
+from AllSourcer
+without your knowledge?
+
+03:57.705 --> 04:00.408
+MIKE:
+Okay.
+
+04:00.441 --> 04:02.610
+Greg and his team need
+access to all of our code,
+
+04:02.643 --> 04:05.346
+and they're gonna need to
+do a side-by-side audit
+
+04:05.379 --> 04:08.416
+to see if any
+of this sticks.
+
+04:08.449 --> 04:10.318
+What'll happen
+if they're right?
+
+04:10.351 --> 04:12.320
+Best-case scenario?
+
+04:12.353 --> 04:13.887
+You'll have to shut it down
+
+04:13.921 --> 04:15.856
+until you can rebuild
+using clean code.
+
+04:15.889 --> 04:17.458
+And if we can't...
+
+04:17.491 --> 04:20.594
+rebuild using clean code?
+
+04:20.628 --> 04:22.330
+Then AllSourcer's got
+
+04:22.363 --> 04:25.466
+a claim to ownership of Sophe.
+
+04:30.938 --> 04:33.341
+(phone ringing)
+
+04:33.374 --> 04:36.577
+They're saying we stole I.P.
+
+04:36.610 --> 04:38.746
+What?! Well, did we?
+
+04:38.779 --> 04:40.348
+No.
+
+04:40.381 --> 04:42.616
+I don't know.
+
+04:42.650 --> 04:44.818
+I might have screwed up,
+Jeffrey.
+
+04:44.852 --> 04:46.520
+I'm so sorry.
+
+04:46.554 --> 04:48.389
+(sighs) All right, listen.
+
+04:48.422 --> 04:49.823
+Don't worry about it.
+We'll figure it out.
+
+04:49.857 --> 04:51.625
+Can you just get back here,
+please?
+
+04:51.659 --> 04:52.860
+I'm on my way.
+
+04:54.495 --> 04:56.497
+DISPATCHER:
+Attention, all officers.
+
+04:56.530 --> 04:59.500
+We have a 187
+at 1026 Northridge.
+
+04:59.533 --> 05:01.702
+All units
+and frequencies stand by.
+
+05:01.735 --> 05:03.437
+Victim is Derek Walsh.
+
+05:03.471 --> 05:07.341
+Repeat: 187 victim is
+retired officer Derek Walsh.
+
+05:08.876 --> 05:11.779
+This is one-X-ray-17,
+responding code three.
+
+05:12.846 --> 05:14.382
+Sorry.
+
+05:14.415 --> 05:15.816
+We got to make a stop first.
+
+05:15.849 --> 05:18.586
+(siren wailing)
+
+05:18.619 --> 05:21.455
+(urgent chatter)
+
+05:21.489 --> 05:22.723
+(siren wailing)
+
+05:26.894 --> 05:28.796
+Stay here.
+
+05:31.999 --> 05:33.601
+CAVANAUGH:
+Hey.
+
+05:33.634 --> 05:35.936
+Ruiz, what do you got?
+
+05:35.969 --> 05:39.407
+Three shots at close range.
+
+05:39.440 --> 05:40.741
+My guess is
+the assailant pulled up
+
+05:40.774 --> 05:42.443
+next to Derek
+at that stop sign.
+
+05:42.476 --> 05:45.446
+CAVANAUGH: All right,
+so Derek loses consciousness,
+
+05:45.479 --> 05:47.448
+and the car crashes here.
+
+05:47.481 --> 05:49.650
+(audio distorted)
+
+05:52.853 --> 05:54.354
+(echoing):
+Hey! Hey!
+
+05:58.426 --> 05:59.927
+Hey, sir, I need
+you to stay back.
+
+05:59.960 --> 06:00.861
+Is that my daughter?
+
+06:00.894 --> 06:02.663
+Back up.
+
+06:02.696 --> 06:04.465
+Is that my daughter?!
+Hey, sir, sir...
+
+06:04.498 --> 06:07.501
+Sir, I need you
+to step back.
+
+06:12.840 --> 06:17.478
+Survives 15 years on the force,
+even gets shot on the job,
+
+06:17.511 --> 06:19.580
+just to go out like this?
+
+06:19.613 --> 06:20.648
+(tires screech)
+
+06:24.552 --> 06:26.654
+Shelly. Shelly.
+
+06:26.687 --> 06:28.456
+Hey, no. Stand back.
+Derek? Derek?
+
+06:28.489 --> 06:29.490
+Derek?
+Tommy, don't.
+
+06:29.523 --> 06:30.458
+SHELLY:
+Oh, no.
+
+06:30.491 --> 06:31.892
+(crying):
+Oh, no. No.
+
+06:31.925 --> 06:32.793
+Tommy.
+
+06:34.562 --> 06:36.697
+(crying):
+No.
+
+06:36.730 --> 06:39.733
+You're too
+close to this.
+
+06:39.767 --> 06:42.570
+Go home. I got it.
+
+06:42.603 --> 06:44.037
+Go.
+
+06:44.071 --> 06:46.674
+That's an order.
+
+06:49.610 --> 06:52.012
+We're gonna get 'em.
+We're gonna get 'em.
+(crying)
+
+06:53.947 --> 06:56.049
+Let's go.
+
+06:56.083 --> 06:58.018
+(Shelly continues crying)
+
+07:06.827 --> 07:08.796
+(indistinct
+police radio chatter)
+
+07:17.671 --> 07:19.673
+Look, I-I don't mean to pry.
+
+07:19.707 --> 07:22.810
+Then don't.
+
+07:22.843 --> 07:25.012
+Look, it-it... you...
+
+07:25.045 --> 07:27.981
+It seems like
+you want this case.
+
+07:28.015 --> 07:29.850
+A cop is dead, Tanner.
+
+07:29.883 --> 07:32.052
+Nobody wants this case.
+
+07:32.085 --> 07:34.488
+You want to figure out
+who did it.
+
+07:36.757 --> 07:38.592
+Your deputy chief said
+
+07:38.626 --> 07:40.961
+she wants the department
+to work with Sophe, right?
+
+07:40.994 --> 07:43.964
+Yeah, she said that.
+
+07:43.997 --> 07:46.734
+Where do we start?
+
+07:55.609 --> 07:57.678
+*
+
+08:10.658 --> 08:13.160
+RUIZ: Let's just start
+with the basics, okay?
+
+08:13.193 --> 08:15.629
+How was Derek
+handling retirement?
+
+08:17.698 --> 08:21.234
+Um... it was tough,
+to be honest.
+
+08:21.268 --> 08:23.804
+Getting sh-shot
+in the line of duty.
+
+08:23.837 --> 08:27.808
+No one expects their career
+to end that way.
+
+08:27.841 --> 08:30.243
+And he wa... he wa...
+he was still in pain,
+
+08:30.277 --> 08:31.912
+um, still going to therapy
+
+08:31.945 --> 08:34.682
+for his hip.
+
+08:34.715 --> 08:37.851
+But we...
+but we were dealing with it.
+
+08:41.288 --> 08:42.956
+(sniffles) I'm sorry.
+
+08:42.990 --> 08:44.792
+Shell, it's okay.
+It's all right.
+
+08:44.825 --> 08:46.794
+No, you can keep going.
+
+08:46.827 --> 08:49.162
+So, um, were there any problems
+
+08:49.196 --> 08:52.265
+with any family or friends,
+anything like that?
+
+08:52.299 --> 08:54.735
+Uh, no, nothing like that.
+
+08:56.236 --> 08:59.539
+And how were things at home?
+
+09:01.609 --> 09:04.277
+I've been married for 15 years.
+
+09:04.311 --> 09:06.313
+I-I know it's not easy.
+
+09:06.346 --> 09:08.982
+Things were fine.
+
+09:09.016 --> 09:12.853
+So, no marital disputes
+or money issues, anything?
+
+09:12.886 --> 09:14.855
+Seriously?
+
+09:14.888 --> 09:17.658
+I know that the wife is
+always a suspect, but come on.
+
+09:17.691 --> 09:18.992
+I'm just trying to
+do my job, Shelly.
+
+09:19.026 --> 09:20.661
+I know you would do the same.
+
+09:20.694 --> 09:22.362
+Well, then, let's just
+cut the crap, okay?
+
+09:22.395 --> 09:25.232
+We both know that
+
+09:25.265 --> 09:27.735
+things weren't always right
+with my marriage.
+
+09:27.768 --> 09:30.704
+We went through a rough patch,
+we separated.
+
+09:30.738 --> 09:35.275
+But when Derek got hurt,
+I cut things off with Tommy.
+
+09:35.308 --> 09:37.945
+I got transferred to Northern,
+
+09:37.978 --> 09:40.213
+Derek and I
+went to counseling.
+
+09:40.247 --> 09:41.982
+We were working on it.
+
+09:45.052 --> 09:48.622
+I haven't talked to Tommy
+in two years,
+
+09:48.656 --> 09:50.924
+and there hasn't been
+any other man since.
+
+09:50.958 --> 09:54.628
+But if you want to
+do things by the book,
+
+09:54.662 --> 09:56.263
+go ahead...
+
+09:58.331 --> 10:00.968
+...test my service weapon.
+
+10:01.001 --> 10:04.337
+(phone ringing, vibrating)
+
+10:04.371 --> 10:05.906
+Where are we at?
+
+10:05.939 --> 10:08.776
+We are officially launched
+as of three hours ago,
+
+10:08.809 --> 10:09.977
+which probably means
+the department already knows
+
+10:10.010 --> 10:11.111
+you're working this case.
+
+10:11.144 --> 10:13.814
+They can take me off the case,
+but they can't stop me
+
+10:13.847 --> 10:15.048
+from doing my job.
+What do you got?
+
+10:15.082 --> 10:16.049
+SARA:
+Well, we've uploaded
+
+10:16.083 --> 10:17.651
+all the case information
+
+10:17.685 --> 10:19.953
+and asked users to posit
+potential theories
+
+10:19.987 --> 10:21.655
+and vote on their likelihood.
+
+10:21.689 --> 10:23.356
+"Random act of violence"
+is in first position,
+
+10:23.390 --> 10:25.893
+followed by "retribution
+from someone Derek arrested."
+
+10:25.926 --> 10:27.327
+Though the newest theory
+gaining momentum
+
+10:27.360 --> 10:29.329
+is suggesting that the killer
+was a jealous lover.
+
+10:29.362 --> 10:31.865
+Jealous-- what?
+Hold on, wh-what?
+
+10:31.899 --> 10:33.033
+SARA:
+Yeah, so, a creative user
+
+10:33.066 --> 10:35.068
+managed to access
+public records.
+
+10:35.102 --> 10:38.839
+Two years ago, Shelly and Derek
+were living in separate homes.
+
+10:38.872 --> 10:41.709
+Marital problems then
+could mean marital problems now.
+
+10:41.742 --> 10:44.712
+Yeah, but that theory's
+only at eight percent.
+
+10:44.745 --> 10:46.013
+CAVANAUGH:
+PD's already working
+
+10:46.046 --> 10:47.781
+the random act of violence
+angle.
+
+10:47.815 --> 10:49.282
+They're looking into
+Derek's old cases, too.
+
+10:49.316 --> 10:50.951
+Could be a connection.
+
+10:50.984 --> 10:53.821
+The thing is, going through
+all those files could take days.
+
+10:53.854 --> 10:56.056
+Days for them.
+Sophe works fast.
+
+10:56.089 --> 10:58.358
+Analyzing troves of data
+is a crowd specialty.
+
+10:58.391 --> 11:00.694
+CAVANAUGH:
+Whoa, wait a minute.
+
+11:00.728 --> 11:03.296
+There's some sensitive
+information in those files.
+
+11:03.330 --> 11:04.898
+Yeah, but Josh
+can run an algorithm
+
+11:04.932 --> 11:06.033
+and just redact
+anything you want.
+
+11:06.066 --> 11:07.968
+We just need those files.
+
+11:08.001 --> 11:11.371
+I know a clerk in the file room.
+She'll help.
+
+11:11.404 --> 11:13.807
+But files were only digitized
+the last six years.
+
+11:13.841 --> 11:15.843
+The rest you'll have to scan
+in person.
+
+11:15.876 --> 11:17.845
+Well, I know just the man
+for the job.
+
+11:17.878 --> 11:20.047
+All right. I'll get back to you.
+
+11:23.951 --> 11:25.719
+(line ringing)
+
+11:25.753 --> 11:27.721
+(phone ringing, vibrating)
+
+11:27.755 --> 11:29.122
+You need something else?
+
+11:29.156 --> 11:31.391
+No. I was just, uh...
+
+11:31.424 --> 11:33.126
+I was wondering
+how you're doing.
+
+11:33.160 --> 11:35.763
+How I'm doing?
+
+11:35.796 --> 11:38.031
+You know, I...
+with-with everything else.
+
+11:38.065 --> 11:40.801
+You called back to ask that?
+
+11:40.834 --> 11:43.003
+Well... yeah.
+
+11:45.072 --> 11:46.840
+I'm fine. Thank you.
+
+11:46.874 --> 11:48.341
+And good-bye.
+
+11:53.480 --> 11:55.015
+Knock, knock.
+
+11:55.048 --> 11:59.019
+(sighs) This is the budget
+from the lawyers.
+
+11:59.052 --> 12:03.356
+Almost 200,000 lines of code
+that need to be audited.
+
+12:03.390 --> 12:05.325
+That takes a lot of manpower.
+
+12:06.960 --> 12:09.029
+All this could've been avoided.
+
+12:09.062 --> 12:10.163
+Please tell me
+you're not gonna give me
+
+12:10.197 --> 12:11.231
+the "I told you so" speech.
+
+12:11.264 --> 12:13.867
+I am gonna give you
+the "I told you so" speech.
+
+12:13.901 --> 12:15.903
+Because all you had to do
+was play nice with Nell.
+
+12:15.936 --> 12:17.771
+And give her a stake in Sophe?
+
+12:17.805 --> 12:19.172
+No. These users are here
+
+12:19.206 --> 12:20.974
+because they want to be
+
+12:21.008 --> 12:22.109
+a part of something.
+
+12:22.142 --> 12:24.111
+I can't just monetize it.
+
+12:24.144 --> 12:25.979
+I know you don't want
+to think about it,
+
+12:26.013 --> 12:28.081
+but we need
+a long-term strategy.
+
+12:28.115 --> 12:29.449
+Where are we headed?
+
+12:29.482 --> 12:30.784
+What happens after
+you catch Mia's killer?
+
+12:30.818 --> 12:31.518
+Then what do we do?
+
+12:32.319 --> 12:33.453
+We don't have to go
+down this road.
+
+12:33.486 --> 12:34.888
+Make nice with Nell.
+
+12:34.922 --> 12:37.057
+Negotiate now,
+and we'll get a better deal.
+
+12:37.090 --> 12:39.392
+I can't. I can't do that, Mike.
+I'm sorry.
+
+12:39.426 --> 12:40.894
+I can't.
+
+12:40.928 --> 12:43.196
+There is one more option.
+
+12:43.230 --> 12:46.199
+Uh...
+
+12:46.233 --> 12:48.101
+AllSourcer
+can't take this to court
+
+12:48.135 --> 12:49.536
+without the board voting on it.
+
+12:49.569 --> 12:51.104
+Alex has a lot of power.
+
+12:51.138 --> 12:52.906
+She's the last super voter.
+
+12:52.940 --> 12:54.441
+I am in no position
+
+12:54.474 --> 12:56.910
+to ask Alex for a favor
+right now, Mike.
+
+12:56.944 --> 12:58.445
+All right. Okay.
+
+12:58.478 --> 12:59.913
+But if Nell wins,
+
+12:59.947 --> 13:02.816
+you need to be prepared
+for the worst.
+
+13:05.853 --> 13:07.821
+NELL: We're in the middle
+of negotiating
+
+13:07.855 --> 13:09.957
+for an ownership
+stake in Sophe.
+
+13:09.990 --> 13:12.492
+I can't imagine
+that's going very well.
+
+13:12.525 --> 13:14.061
+Well, it's already
+getting messy,
+
+13:14.094 --> 13:16.496
+which is why I'm here.
+Now, listen.
+
+13:16.529 --> 13:19.232
+I want nothing to do with this,
+nor do I want to have
+
+13:19.266 --> 13:21.201
+anything to do with Jeffrey--
+you know that.
+
+13:21.234 --> 13:23.236
+You have the only
+super voter shares left.
+
+13:23.270 --> 13:26.840
+As long as you hold on to them,
+you have a virtual veto power.
+
+13:26.874 --> 13:28.842
+But I don't want to have
+anything to do with this.
+
+13:28.876 --> 13:29.943
+But I can abstain
+from voting.
+
+13:29.977 --> 13:31.611
+I can.
+Yeah, you could, Alex.
+
+13:31.644 --> 13:34.514
+But what Jeffrey's tapped
+into here, it's the future
+
+13:34.547 --> 13:37.084
+of social computing.
+It is incredibly valuable.
+
+13:37.117 --> 13:38.585
+If we bring Sophe
+back to AllSourcer,
+
+13:38.618 --> 13:40.888
+your shares
+will be worth twice as much.
+
+13:40.921 --> 13:42.255
+Nell, this is not about money.
+
+13:42.289 --> 13:44.024
+No, of course it's not.
+
+13:44.057 --> 13:45.458
+But remember,
+
+13:45.492 --> 13:46.927
+if I have a controlling
+stake in Sophe,
+
+13:46.960 --> 13:49.129
+I have say over how
+Jeffrey uses it
+
+13:49.162 --> 13:51.865
+and what he can post.
+
+13:51.899 --> 13:53.967
+Or is it not about that, either?
+
+13:55.969 --> 13:57.137
+So, do I have your support?
+
+14:05.678 --> 14:08.148
+That's the rest
+of Detective Walsh's case files.
+
+14:08.181 --> 14:11.018
+Human trafficking,
+illegal gambling,
+
+14:11.051 --> 14:12.552
+prostitution...
+
+14:12.585 --> 14:14.154
+all my faves.
+
+14:14.187 --> 14:15.455
+Appreciate it.
+
+14:17.157 --> 14:20.560
+I, uh, I think we have
+everything we need, so...
+
+14:20.593 --> 14:21.995
+Thank you.
+
+14:22.029 --> 14:23.563
+Can I tell you something?
+
+14:23.596 --> 14:25.098
+But I haven't told anyone
+at work,
+
+14:25.132 --> 14:26.666
+so you need to keep it secret.
+
+14:26.699 --> 14:29.169
+Okay.
+
+14:29.202 --> 14:30.971
+(whispering):
+I'm a Sophe user.
+
+14:31.004 --> 14:32.940
+DearPrudence95.
+
+14:32.973 --> 14:34.174
+Wait, you're DearPrudence95?
+
+14:34.207 --> 14:36.009
+You're in our top five percent
+of users.
+
+14:36.043 --> 14:36.910
+You just got your
+platinum star.
+
+14:36.944 --> 14:39.312
+Yeah, I was all over Sophe
+from the start.
+
+14:39.346 --> 14:42.082
+But don't tell that
+to anyone here.
+
+14:42.115 --> 14:44.317
+They're threatened,
+understandably.
+
+14:44.351 --> 14:45.518
+Of course.
+
+14:46.486 --> 14:47.320
+Hey, is it true that
+your distributed DBMS
+
+14:47.354 --> 14:50.590
+is built entirely on
+open-source tools?
+
+14:50.623 --> 14:52.192
+A-Actually, yeah.
+
+14:52.225 --> 14:54.661
+It kind of matches
+our crowdsourcing philosophy.
+
+14:54.694 --> 14:56.596
+Don't want to be a hater, but...
+
+14:56.629 --> 14:58.598
+have you considered
+a blockchain implementation?
+
+14:58.631 --> 15:00.100
+Decentralization
+might help
+
+15:00.133 --> 15:02.302
+push a lot of the
+storage to the cloud.
+
+15:02.335 --> 15:04.337
+That's actually
+a really good idea.
+
+15:04.371 --> 15:06.273
+I'll bring that up
+at our next staff meeting.
+
+15:06.306 --> 15:09.009
+Whoa, don't sound so surprised.
+
+15:09.042 --> 15:11.011
+Women can have good ideas, too.
+
+15:11.044 --> 15:13.213
+No. No, no, no, no.
+I-I didn't mean it like that.
+
+15:13.246 --> 15:15.082
+I'm sorry. Didn't...
+
+15:15.115 --> 15:17.217
+God, you Silicon Valley bros
+are all alike, aren't you?
+
+15:17.250 --> 15:18.651
+No, no. My boss is a woman.
+
+15:18.685 --> 15:20.653
+I love women. Women are fan--
+my mom's a woman.
+
+15:20.687 --> 15:22.122
+(sighs)
+
+15:23.991 --> 15:25.592
+You're a little too easy.
+
+15:28.061 --> 15:29.929
+You're cute, though.
+
+15:31.264 --> 15:33.100
+Uh, thanks.
+
+15:39.139 --> 15:41.141
+(siren wailing)
+
+15:46.346 --> 15:48.281
+Hey.
+
+15:48.315 --> 15:50.283
+Hey.
+
+15:52.285 --> 15:54.654
+Look, I'm really
+sorry about Derek.
+
+15:54.687 --> 15:57.390
+He was a good guy.
+
+15:57.424 --> 16:00.027
+Thanks, Tommy.
+
+16:02.429 --> 16:04.998
+So, any progress?
+
+16:05.032 --> 16:07.567
+Oh, I'm not
+working this one.
+
+16:09.436 --> 16:12.139
+Fine.
+
+16:12.172 --> 16:14.707
+We don't have
+anything solid yet.
+
+16:14.741 --> 16:17.144
+But I will find out
+who did this.
+
+16:17.177 --> 16:19.279
+Thank you.
+
+16:25.118 --> 16:27.020
+So, h-how you been?
+
+16:27.054 --> 16:29.122
+You don't need to ask about me.
+
+16:29.156 --> 16:31.358
+You got enough going on.
+
+16:31.391 --> 16:33.693
+Wasn't fair.
+
+16:33.726 --> 16:36.029
+What I did.
+No, Shelly, Shelly, no, no.
+
+16:36.063 --> 16:38.031
+I didn't want to leave
+things like...
+
+16:38.065 --> 16:40.700
+Look, you did what
+you had to do, okay?
+
+16:40.733 --> 16:44.437
+No, I know
+I did, but...
+
+16:44.471 --> 16:47.407
+there's some things
+we should talk about.
+
+16:49.442 --> 16:51.744
+I didn't mean for it...
+
+16:51.778 --> 16:53.146
+to hurt you.
+
+16:54.447 --> 16:56.449
+Hey.
+
+16:56.483 --> 16:58.185
+Hey, um,
+
+16:58.218 --> 17:00.087
+Tommy, could you give us
+a minute alone, please?
+
+17:00.120 --> 17:02.189
+No, no, no, whatever you got,
+Tommy can hear it.
+
+17:02.222 --> 17:04.324
+I'm gonna tell him anyway.
+
+17:04.357 --> 17:09.396
+Okay. Um, did you know
+that Derek was on fentanyl?
+
+17:11.231 --> 17:14.367
+He had a prescription, you know,
+for the pain, for the injury.
+
+17:14.401 --> 17:18.338
+But... no, the doctors
+weaned him off that last year.
+
+17:18.371 --> 17:21.208
+Okay. Well, the M.E.
+found it in his system.
+
+17:21.241 --> 17:22.709
+And it wasn't from
+any prescription.
+
+17:22.742 --> 17:25.478
+It was cut with levamisole
+and chloroquine.
+
+17:25.512 --> 17:26.813
+Street level.
+
+17:26.846 --> 17:29.216
+SHELLY:
+So, what are you saying?
+
+17:29.249 --> 17:31.184
+That Derek was an addict?
+
+17:31.218 --> 17:32.352
+No, he wasn't.
+
+17:32.385 --> 17:34.187
+I lived with him.
+I would know.
+
+17:34.221 --> 17:37.090
+Blood work doesn't lie, Shelly.
+I'm sorry.
+
+17:47.434 --> 17:49.269
+Fentanyl? You think it's
+connected to the murders?
+
+17:49.302 --> 17:52.672
+In my experience,
+when a drug addict is killed,
+
+17:52.705 --> 17:55.275
+it's usually because of
+the fact he's a drug addict.
+
+17:55.308 --> 17:58.378
+Derek had 400 micrograms
+in his system, which is a lot.
+
+17:58.411 --> 18:00.647
+It must've taken him forever
+to build up that tolerance.
+
+18:00.680 --> 18:02.282
+(chuckles)
+I'm not even gonna ask.
+
+18:02.315 --> 18:03.816
+JOSH: All right,
+I think we have something.
+
+18:03.850 --> 18:06.286
+We uploaded all of Derek's
+old case files.
+
+18:06.319 --> 18:08.121
+Appropriately redacted,
+of course.
+
+18:08.155 --> 18:09.689
+But now that I entered
+the fentanyl information,
+
+18:09.722 --> 18:13.126
+users have honed in on six cases
+they think could be related
+
+18:13.160 --> 18:14.327
+to his murder.
+TANNER: I told you.
+
+18:15.462 --> 18:16.829
+When you have thousands of
+eyes, things move quickly.
+
+18:18.030 --> 18:19.799
+So, the six cases they're
+focused on are all drug busts.
+
+18:19.832 --> 18:22.169
+And they're all involving
+prescription painkillers.
+
+18:22.202 --> 18:23.670
+JOSH:
+And Derek used the same
+
+18:23.703 --> 18:25.305
+confidential informant
+in each one.
+
+18:25.338 --> 18:28.308
+C.I. number 52914.
+
+18:28.341 --> 18:29.442
+Looks like he
+was a dealer.
+
+18:29.476 --> 18:31.311
+SARA: So, the theory is
+that his C.I.
+
+18:31.344 --> 18:33.246
+might have been his supplier.
+
+18:33.280 --> 18:34.681
+Or maybe even his killer.
+
+18:34.714 --> 18:35.848
+You know who this C.I. is?
+
+18:35.882 --> 18:38.751
+No. But I can find out.
+
+18:39.786 --> 18:41.288
+(knocks)
+
+18:42.422 --> 18:43.856
+Got a sec?
+
+18:43.890 --> 18:44.857
+One.
+
+18:44.891 --> 18:46.359
+I got a lead
+on Derek's case,
+
+18:46.393 --> 18:48.828
+but I need a name
+of one of his old C.I.s.
+
+18:48.861 --> 18:51.264
+I know it'll take you a minute
+to get the request cleared,
+
+18:51.298 --> 18:53.333
+and I was hoping we'd get
+the ball rolling tonight.
+
+18:53.366 --> 18:55.202
+Now, why would
+you need that
+
+18:55.235 --> 18:57.437
+when you're not even supposed
+to be working this case?
+
+18:57.470 --> 19:00.273
+Yeah, well, I put
+a couple feelers out there.
+
+19:00.307 --> 19:01.874
+Yeah, I know you did, on Sophe.
+
+19:01.908 --> 19:04.711
+I know you don't want me
+on this case.
+
+19:04.744 --> 19:06.279
+But I also know that
+
+19:06.313 --> 19:08.315
+you want to solve it
+as bad as I do.
+
+19:08.348 --> 19:10.783
+So why not use
+all the resources you have?
+
+19:10.817 --> 19:13.686
+Because, Tommy,
+
+19:13.720 --> 19:16.389
+having you on this case
+is a bad idea.
+
+19:16.423 --> 19:19.426
+I saw what it did to you when
+Shelly went back to Derek.
+
+19:19.459 --> 19:22.829
+I was your partner, remember?
+
+19:22.862 --> 19:25.732
+So forgive me if I don't want
+to send you back there.
+
+19:25.765 --> 19:27.334
+You think staying off this case
+
+19:27.367 --> 19:29.236
+is gonna keep me
+from thinking about her?
+
+19:29.269 --> 19:32.171
+I just don't want to see you
+get hurt again.
+
+19:34.807 --> 19:37.944
+All right, so, look,
+I appreciate it.
+
+19:37.977 --> 19:40.247
+But this is not about me.
+
+19:40.280 --> 19:41.714
+It's not about Shelly.
+
+19:41.748 --> 19:43.383
+It's about Derek.
+
+19:43.416 --> 19:46.919
+He was a good cop
+and we owe him this.
+
+19:46.953 --> 19:48.488
+So let me help.
+
+19:50.490 --> 19:51.891
+Please.
+
+19:55.828 --> 20:00.733
+* Misty feelings
+in a city of sin *
+
+20:00.767 --> 20:03.736
+* I've got no money,
+just time and thoughts... *
+
+20:03.770 --> 20:07.840
+You want to talk about it?
+
+20:07.874 --> 20:10.810
+* If you want to waste...
+
+20:10.843 --> 20:13.380
+Listen, don't worry.
+You're gonna be okay.
+
+20:13.413 --> 20:15.482
+Please don't tell me
+to stop worrying, Jeffrey.
+
+20:15.515 --> 20:18.485
+There is an entire firm
+
+20:18.518 --> 20:21.454
+of lawyers reviewing my code
+as we speak.
+
+20:21.488 --> 20:23.490
+We might lose Sophe,
+and it's my fault.
+
+20:23.523 --> 20:24.891
+It's not your fault.
+
+20:24.924 --> 20:27.427
+Look, I was a mess
+when I left AllSourcer.
+
+20:27.460 --> 20:28.761
+I wasn't thinking clearly.
+
+20:28.795 --> 20:31.564
+I should've been
+more meticulous.
+
+20:31.598 --> 20:33.566
+We should've been
+more meticulous.
+
+20:33.600 --> 20:34.967
+We made Sophe.
+
+20:35.001 --> 20:36.269
+Mm-hmm.
+
+20:36.303 --> 20:37.470
+I've spent years
+
+20:37.504 --> 20:38.538
+working on that platform,
+
+20:39.506 --> 20:40.873
+so please stop acting
+like it's all yours.
+
+20:40.907 --> 20:42.008
+You know that's not
+what I meant.
+
+20:42.041 --> 20:44.511
+No, I don't, actually,
+because sometimes it seems like
+
+20:44.544 --> 20:46.413
+you're the only one
+with a stake in this.
+
+20:46.446 --> 20:47.480
+And you're not.
+
+20:47.514 --> 20:48.881
+Do you understand?
+
+20:48.915 --> 20:50.817
+* And I'm feeling all right
+
+20:50.850 --> 20:52.419
+(phone chimes, vibrates)
+
+20:52.452 --> 20:55.788
+* As soon as she comes,
+she's out of sight... *
+
+20:55.822 --> 20:57.324
+The lawyers have finished
+their audit.
+
+20:57.357 --> 20:58.591
+Mike's on his way.
+
+20:58.625 --> 21:03.530
+* And I'm a sucker
+for your bed of charms. *
+
+21:03.563 --> 21:05.332
+MIKE:
+Our lawyers found
+
+21:05.365 --> 21:09.602
+5,123 lines of code
+that are identical
+
+21:09.636 --> 21:12.605
+or substantially similar
+to AllSourcer's code.
+
+21:12.639 --> 21:14.841
+It's a side-by-side
+comparison.
+
+21:14.874 --> 21:17.610
+Oh, my God.
+
+21:17.644 --> 21:19.479
+Did you file our response?
+
+21:19.512 --> 21:21.881
+Sara needs to
+review the audit first.
+
+21:21.914 --> 21:23.983
+We need you to
+provide proof
+
+21:24.016 --> 21:26.319
+that the initial use of the code
+
+21:26.353 --> 21:28.388
+did not occur
+at AllSourcer.
+
+21:28.421 --> 21:31.424
+And what if I can't
+provide proof?
+
+21:33.560 --> 21:35.362
+Okay.
+
+21:35.395 --> 21:37.029
+I'd better get to work.
+
+21:37.063 --> 21:38.030
+You need some help?
+
+21:38.064 --> 21:39.966
+No, I've got it.
+
+21:39.999 --> 21:42.502
+MIKE:
+Jeffrey?
+
+21:42.535 --> 21:44.837
+This is bad.
+
+21:44.871 --> 21:48.941
+I know that you don't want to,
+but you have to talk to Alex.
+
+21:56.549 --> 21:59.886
+Hey, how you guys doing?
+Looking to start a membership?
+
+21:59.919 --> 22:03.623
+No. Uh, we're looking for one of
+your trainers, Gerard Rigelow.
+
+22:03.656 --> 22:05.024
+Me, too, man.
+
+22:05.057 --> 22:06.125
+He hasn't been
+to work in days.
+
+22:06.158 --> 22:07.460
+Actually, you know what?
+
+22:07.494 --> 22:08.928
+His girlfriend
+might know where he is.
+
+22:08.961 --> 22:10.129
+Hey, Nicole!
+
+22:10.162 --> 22:11.364
+They're looking for Gerry.
+
+22:12.965 --> 22:14.901
+Nicole!
+Stop! Police!
+
+22:14.934 --> 22:16.969
+Police!
+
+22:23.576 --> 22:24.544
+(toilet flushes)
+
+22:27.880 --> 22:29.482
+Hey!
+
+22:29.516 --> 22:31.984
+(grunting)
+
+22:35.922 --> 22:37.657
+This doesn't look
+suspicious at all, Nicole.
+
+22:39.526 --> 22:41.661
+So the girlfriend
+had fentanyl, too?
+
+22:41.694 --> 22:43.696
+Yeah. We think she and Gerard
+were dealing together.
+
+22:43.730 --> 22:45.665
+Well, she have any idea
+where he is?
+
+22:45.698 --> 22:47.967
+She's not talking,
+and no one's seen him
+
+22:48.000 --> 22:49.702
+since around the time
+of Derek's death.
+
+22:49.736 --> 22:52.605
+So he officially promoted
+himself to prime suspect.
+
+22:52.639 --> 22:53.706
+We'll find him.
+
+22:53.740 --> 22:55.575
+We'll put it up on Sophe.
+
+22:55.608 --> 22:58.110
+Listen, there's something else
+that I want to tell you.
+
+22:58.144 --> 23:00.447
+What's that?
+After I got off
+the phone with you,
+
+23:00.480 --> 23:02.649
+I started thinking about
+Mia's death and how everyone
+
+23:02.682 --> 23:05.685
+was calling me and asking me
+if I was okay, and I--
+
+23:05.718 --> 23:08.455
+uh, it made me feel awkward
+and angry, so I just want
+
+23:08.488 --> 23:09.489
+to let you know that
+I'm not gonna do that.
+
+23:09.522 --> 23:11.123
+You mean again?
+
+23:11.157 --> 23:12.425
+Exactly.
+
+23:12.459 --> 23:14.461
+I appreciate it.
+No problem.
+
+23:14.494 --> 23:16.696
+Are you okay?
+No, I'm just kidding.
+
+23:16.729 --> 23:17.730
+Oh, man.
+
+23:17.764 --> 23:18.998
+Talk to you later.
+
+23:19.031 --> 23:20.967
+All right.
+
+23:23.636 --> 23:25.705
+Are you having a personal life?
+
+23:25.738 --> 23:27.974
+Who said it's personal?
+
+23:28.007 --> 23:32.178
+So you're just sending lonely
+messages out into the void?
+
+23:32.211 --> 23:35.014
+Prudence? Oh, God.
+It's too easy, isn't it?
+
+23:35.047 --> 23:36.616
+I-I actually don't know
+where to start.
+
+23:36.649 --> 23:38.451
+I'm actually crippled
+by decision fatigue.
+
+23:38.485 --> 23:39.919
+You're a child.
+This must be love.
+
+23:41.153 --> 23:43.155
+No, seriously. Where'd you meet
+her? Did you change your mind
+
+23:43.189 --> 23:43.990
+about the dating apps?
+Did I inspire you?
+
+23:45.224 --> 23:46.626
+Ann has been amazing, by the
+way. We have so much in common.
+
+23:46.659 --> 23:48.060
+We met in real life,
+
+23:48.094 --> 23:49.629
+if you must know.
+IRL?
+
+23:49.662 --> 23:51.531
+Yeah.
+That's impressive, dude.
+
+23:51.564 --> 23:53.232
+Did you ask her out yet?
+No, no. It's not like that.
+
+23:53.265 --> 23:54.701
+She's just, you know,
+interested in Sophe.
+
+23:54.734 --> 23:56.536
+I don't even know
+if she's single
+
+23:56.569 --> 23:58.170
+or if she's into me
+or into dudes at all.
+
+23:58.204 --> 23:59.506
+TARIQ:
+Well, we're gonna find out.
+
+23:59.539 --> 24:01.207
+Dude. Do not--
+Give it back to me.
+
+24:01.240 --> 24:02.509
+Don't. Come on, man.
+
+24:02.542 --> 24:04.243
+That's not cool.
+Want it back?
+
+24:04.276 --> 24:05.778
+Here you go.
+
+24:05.812 --> 24:08.681
+You invited her here?
+
+24:08.715 --> 24:10.983
+She's gonna be mad impressed.
+(evidence alert blaring)
+
+24:11.017 --> 24:13.219
+Check it out.
+Someone found Gerard's car.
+
+24:16.188 --> 24:18.224
+Uh, so when did
+the car show up?
+
+24:18.257 --> 24:20.059
+Uh, about
+three days ago.
+
+24:20.092 --> 24:21.794
+You know, they found it
+abandoned at some pay lot
+
+24:21.828 --> 24:23.195
+in Daly City.
+
+24:23.229 --> 24:25.532
+So... hold a sec.
+(flies buzzing)
+
+24:25.565 --> 24:28.167
+Might want to stand back here.
+
+24:34.541 --> 24:35.775
+Go ahead.
+
+24:35.808 --> 24:38.010
+(groans)
+
+24:38.044 --> 24:39.245
+(flies buzzing)
+
+24:39.278 --> 24:41.213
+Oh, man!
+
+24:44.551 --> 24:46.252
+That's our guy.
+
+24:51.691 --> 24:53.025
+I'm sorry, Alex,
+but I need your help.
+
+24:53.059 --> 24:55.928
+Let me guess, with Nell.
+
+24:55.962 --> 24:57.530
+How did you know?
+
+24:57.564 --> 24:58.931
+Well, she beat you
+to the punch.
+
+24:58.965 --> 25:02.301
+Guess you're losing a step.
+
+25:02.334 --> 25:04.070
+She's trying to destroy
+everything that I built.
+
+25:04.103 --> 25:07.540
+I don't care. You and Nell
+have to duke it out.
+
+25:07.574 --> 25:09.642
+Okay, fine. We will
+figure out a way
+
+25:09.676 --> 25:11.944
+to put your shares
+in a trust.
+
+25:11.978 --> 25:13.680
+They'll still retain
+their voter rights.
+
+25:13.713 --> 25:14.681
+Jeffrey,
+
+25:14.714 --> 25:16.649
+I sold my shares.
+
+25:16.683 --> 25:18.885
+What do you mean?
+
+25:18.918 --> 25:20.553
+Listen to me.
+I'm using the money
+
+25:20.587 --> 25:21.854
+to start a foundation
+in Mia's name.
+
+25:21.888 --> 25:24.757
+You know, the thing about
+the super voter rights,
+
+25:24.791 --> 25:28.094
+they expire the moment
+you transfer them, and...
+
+25:28.127 --> 25:30.529
+My voting bloc is gone.
+
+25:32.364 --> 25:34.867
+I'm sorry.
+
+25:34.901 --> 25:38.571
+So, M.E. puts Gerard Rigelow's
+time of death at four days ago.
+
+25:38.605 --> 25:40.106
+Two days before
+Derek got shot.
+
+25:40.139 --> 25:42.341
+So then Gerard's
+not the guy.
+
+25:42.374 --> 25:45.978
+The thing is
+the ballistics also came back.
+
+25:46.012 --> 25:48.581
+The .45 used to kill Gerard
+
+25:48.615 --> 25:50.883
+is the same gun
+that killed Derek.
+
+25:50.917 --> 25:52.785
+It's the same killer.
+
+25:52.819 --> 25:54.721
+But that doesn't make sense.
+
+25:54.754 --> 25:56.723
+I mean, th-there's lots
+of reasons
+
+25:56.756 --> 25:58.090
+a drug dealer gets killed,
+
+25:58.124 --> 26:00.126
+but what does that
+have to do with Derek?
+
+26:00.159 --> 26:03.362
+What else do you know about
+his relationship with Gerard?
+
+26:03.395 --> 26:06.866
+I didn't know Gerard existed.
+
+26:06.899 --> 26:09.035
+What are you thinking, Tommy?
+
+26:12.171 --> 26:14.741
+Look, I hate saying this.
+
+26:14.774 --> 26:16.643
+But is there a chance
+
+26:16.676 --> 26:19.011
+that Derek and Gerard
+were working together?
+
+26:19.045 --> 26:21.881
+You, uh, you think
+Derek was dealing?
+
+26:21.914 --> 26:23.616
+I know, I know.
+But Derek spent
+
+26:23.650 --> 26:26.653
+a lot of time undercover,
+on drug cases.
+
+26:26.686 --> 26:27.954
+That changes you.
+
+26:27.987 --> 26:30.122
+Throw in the fact
+that he was using,
+
+26:30.156 --> 26:32.892
+who knows what's possible,
+Shelly?
+
+26:32.925 --> 26:34.160
+Derek kept things to himself.
+
+26:34.193 --> 26:36.095
+It made him great at his job.
+
+26:36.128 --> 26:38.064
+Made him not so great
+at being a husband.
+
+26:38.097 --> 26:39.632
+It's why we separated.
+
+26:39.666 --> 26:41.100
+When I went
+back to him,
+
+26:41.133 --> 26:43.369
+after he got hurt,
+I-I thought maybe
+
+26:43.402 --> 26:47.774
+that would bring us closer,
+but never happened.
+
+26:47.807 --> 26:50.609
+Things were as bad
+as they ever were.
+
+26:54.413 --> 26:59.151
+I gave you up because I thought
+I-I was doing the right thing.
+
+26:59.185 --> 27:02.021
+And I know I hurt you.
+
+27:02.054 --> 27:03.422
+Tommy, I...
+
+27:03.455 --> 27:06.693
+I never stopped
+thinking about you.
+
+27:10.763 --> 27:12.398
+Sorry. Uh...
+(clears throat)
+
+27:12.431 --> 27:13.933
+I should go.
+
+27:13.966 --> 27:15.101
+Talk later?
+Mm.
+
+27:17.870 --> 27:19.906
+(Cavanaugh sighs)
+
+27:23.910 --> 27:26.946
+Nicole.
+
+27:26.979 --> 27:29.749
+We know that you're trying
+to cover for your boyfriend.
+
+27:29.782 --> 27:31.450
+But he's gone now.
+
+27:31.483 --> 27:34.721
+CAVANAUGH:
+Help us out,
+
+27:34.754 --> 27:36.188
+and maybe we talk to the D.A.,
+
+27:36.222 --> 27:38.858
+get him to cut you a deal
+on the fentanyl charges.
+
+27:38.891 --> 27:42.862
+Unless you had
+something to do with this.
+
+27:42.895 --> 27:44.964
+Who, me?
+
+27:44.997 --> 27:46.733
+What do you want to know?
+
+27:46.766 --> 27:48.034
+RUIZ: Anything you
+can tell us about
+
+27:48.067 --> 27:49.468
+Gerard and Derek.
+
+27:49.501 --> 27:51.103
+What were they
+involved in together?
+
+27:51.137 --> 27:52.839
+Together? Nothing.
+
+27:52.872 --> 27:54.240
+They weren't in business?
+
+27:54.273 --> 27:56.909
+Gerard and Derek?
+
+27:56.943 --> 27:58.978
+No. Derek bought from us.
+
+27:59.011 --> 28:00.947
+Yeah, he was a client,
+but that's all.
+
+28:00.980 --> 28:02.481
+RUIZ:
+Well, the same person
+
+28:02.514 --> 28:04.016
+that killed Derek
+also killed Gerard,
+
+28:04.050 --> 28:05.785
+so there's got
+to be a reason.
+
+28:05.818 --> 28:07.119
+What is it?
+
+28:07.153 --> 28:09.889
+Look, Gerard didn't come home
+Monday night,
+
+28:09.922 --> 28:11.824
+and I knew that
+something bad happened.
+
+28:11.858 --> 28:13.492
+I didn't know
+what else to do,
+
+28:13.525 --> 28:16.128
+so I asked Derek for help.
+
+28:16.162 --> 28:18.798
+What kind of help?
+
+28:18.831 --> 28:21.167
+Well, Derek used to be
+a cop, right?
+
+28:21.200 --> 28:23.903
+I mean, I just thought that
+maybe he could find Gerard.
+
+28:23.936 --> 28:27.139
+Derek starts investigating...
+
+28:27.173 --> 28:29.275
+And whatever he finds
+gets him killed.
+
+28:29.308 --> 28:32.078
+Gerard was being stupid.
+
+28:32.111 --> 28:34.914
+Okay, he started selling
+to a lot of new people.
+
+28:34.947 --> 28:36.749
+Like people
+he didn't know.
+
+28:36.783 --> 28:38.951
+And when you do that,
+other dealers get angry.
+
+28:38.985 --> 28:40.920
+RUIZ: Okay, so you're
+talking about a turf war.
+
+28:40.953 --> 28:43.089
+So what other dealers
+should we be looking at?
+
+28:44.891 --> 28:46.826
+Nicole, who is it?
+
+28:46.859 --> 28:49.028
+Nicole...
+
+28:49.061 --> 28:51.197
+we won't let anything
+happen to you.
+
+28:51.230 --> 28:54.033
+You... you don't know.
+
+28:54.066 --> 28:55.267
+This guy,
+
+28:55.301 --> 28:57.536
+he's dangerous.
+
+28:57.569 --> 28:59.205
+Like really, really dangerous.
+
+29:01.273 --> 29:04.777
+The 5,123
+disputed lines of code.
+
+29:04.811 --> 29:05.744
+Now...
+
+29:07.213 --> 29:09.782
+Close the door, please.
+
+29:09.816 --> 29:11.784
+Look at the first 3,056.
+
+29:11.818 --> 29:14.120
+Each and every
+one of these
+
+29:14.153 --> 29:16.789
+is in the public domain.
+
+29:16.823 --> 29:18.257
+Then there's
+the next 1,411,
+
+29:18.290 --> 29:20.559
+which are certainly similar
+to AllSourcer's,
+
+29:20.592 --> 29:22.061
+but not similar enough
+
+29:22.094 --> 29:23.963
+as to cross the copyright
+infringement threshold.
+
+29:23.996 --> 29:25.197
+MIKE:
+Let's hope a judge
+
+29:25.231 --> 29:26.966
+agrees with you.
+
+29:26.999 --> 29:28.567
+What does that leave,
+like, six hundred and...?
+
+29:28.600 --> 29:29.568
+Fifty-six.
+
+29:29.601 --> 29:32.238
+656 lines of code
+
+29:32.271 --> 29:33.906
+which are not in
+the public domain,
+
+29:33.940 --> 29:35.074
+which are
+similar enough
+
+29:35.107 --> 29:36.943
+to AllSourcer's
+as to be identical
+
+29:36.976 --> 29:40.947
+and... that all originated from
+my grad work at Stanford.
+
+29:42.581 --> 29:45.852
+That is my code, not theirs.
+
+29:45.885 --> 29:47.854
+We're in the clear. Right?
+
+29:47.887 --> 29:50.823
+I'll-I'll let Stavros know
+to stand down.
+
+29:50.857 --> 29:53.860
+You should smile more, Mike.
+It's good for the digestion.
+
+29:55.094 --> 29:56.896
+What is it?
+
+29:56.929 --> 29:58.865
+Uh, it's nothing.
+
+29:58.898 --> 29:59.966
+Uh, nothing.
+We're good.
+
+29:59.999 --> 30:01.800
+Good. Nice work, Sara.
+
+30:07.139 --> 30:08.875
+Wow.
+
+30:08.908 --> 30:11.143
+We okay?
+
+30:14.246 --> 30:16.883
+Come here. Please.
+
+30:20.152 --> 30:22.121
+Look.
+
+30:25.324 --> 30:29.261
+I know that I can be a little
+self-involved sometimes.
+
+30:29.295 --> 30:31.597
+Really?
+I hadn't noticed.
+
+30:31.630 --> 30:33.265
+It used to be cute.
+
+30:33.299 --> 30:34.400
+Mm.
+It was never cute.
+
+30:34.433 --> 30:36.969
+Ever, ever cute.
+
+30:37.003 --> 30:39.972
+When I... when I heard
+that we could lose it all,
+
+30:40.006 --> 30:41.874
+all I could think about was Mia.
+
+30:41.908 --> 30:45.311
+And I know how hard you've
+worked, and I'm sorry
+
+30:45.344 --> 30:47.279
+that I lost sight of that.
+
+30:53.652 --> 30:55.654
+You're forgiven.
+
+30:55.687 --> 30:57.089
+(cell phone ringing)
+
+30:59.258 --> 31:00.960
+(clears throat)
+
+31:00.993 --> 31:02.661
+(phone beeps)
+
+31:02.694 --> 31:04.931
+Give me something
+good, Detective.
+
+31:04.964 --> 31:06.632
+How about a name?
+
+31:06.665 --> 31:09.335
+Luis Gregorian.
+
+31:09.368 --> 31:11.037
+Yeah, according to
+Gerard's girlfriend,
+
+31:11.070 --> 31:13.139
+he was looking for Gerard
+the day he died.
+
+31:13.172 --> 31:16.642
+Threatened one of her friends
+to get Gerard's address.
+
+31:16.675 --> 31:19.946
+Yeah, I'm-a e-mail you
+Gregorian's stats right now.
+
+31:19.979 --> 31:22.148
+He's a person of interest
+in half a dozen murders.
+
+31:22.181 --> 31:24.050
+All drug-related.
+
+31:24.083 --> 31:25.351
+They never stick.
+
+31:25.384 --> 31:27.153
+All right, we'll
+put it up on Sophe.
+
+31:27.186 --> 31:28.921
+You read my mind.
+
+31:28.955 --> 31:31.057
+I'm getting good at that.
+We'll get back to you.
+
+31:31.090 --> 31:33.059
+Yeah.
+
+31:33.092 --> 31:34.660
+TARIQ: Look, I love
+that Detective Cavanaugh--
+
+31:34.693 --> 31:36.162
+real handsome dude,
+stand-up guy--
+
+31:36.195 --> 31:38.064
+but I think he's wrong
+about this one.
+
+31:38.097 --> 31:39.365
+"Drug turf war"
+is on the list,
+
+31:39.398 --> 31:41.367
+but it's only
+clocking in at 11%.
+
+31:41.400 --> 31:42.434
+Fentanyl sells mostly online.
+
+31:43.502 --> 31:45.204
+Probably not much fighting
+over it on the streets.
+
+31:45.237 --> 31:46.939
+So where does
+that leave us?
+
+31:46.973 --> 31:48.107
+Put up everything you have
+on Gregorian.
+
+31:48.140 --> 31:49.241
+Maybe that'll
+give us some answers.
+
+31:50.642 --> 31:52.178
+GREGORIAN: You guys don't know
+what you're talking about.
+
+31:52.211 --> 31:55.948
+I had nothing
+to do with this.
+
+31:55.982 --> 31:58.484
+Forgive me if I don't
+take you at your word.
+
+31:58.517 --> 32:01.954
+You should get to know me.
+
+32:01.988 --> 32:04.156
+I'm really an honorable guy.
+
+32:04.190 --> 32:06.192
+So, Luis, can we stop
+playing games?
+
+32:06.225 --> 32:07.426
+I know you threatened an addict
+
+32:07.459 --> 32:11.964
+to get Gerard's address,
+the day he died.
+
+32:11.998 --> 32:14.400
+Wait.
+
+32:14.433 --> 32:17.103
+How do you know that?
+
+32:17.136 --> 32:19.371
+And then,
+a few days later,
+
+32:19.405 --> 32:23.409
+Derek Walsh came by
+looking for evidence.
+
+32:23.442 --> 32:25.744
+Now, he was onto you.
+
+32:25.777 --> 32:28.080
+It was only
+a matter of time.
+
+32:28.114 --> 32:30.949
+So he had to go, too, didn't he?
+
+32:32.218 --> 32:34.320
+There's no way out of this, man.
+
+32:34.353 --> 32:35.721
+You killed a cop,
+
+32:35.754 --> 32:37.156
+retired or not.
+
+32:37.189 --> 32:40.226
+No. I did not.
+
+32:40.259 --> 32:44.196
+Luis, I got people at your place
+right now searching it.
+
+32:44.230 --> 32:45.531
+You're gonna sit there
+
+32:45.564 --> 32:47.466
+and pretend
+they won't find anything?
+
+32:47.499 --> 32:52.538
+Listen, man, if you come clean
+now, I can help you out of this.
+
+32:52.571 --> 32:54.040
+All right?
+
+32:54.073 --> 32:56.008
+I'll walk you through it.
+
+33:01.280 --> 33:03.982
+(laughing)
+
+33:06.118 --> 33:08.020
+You almost had me.
+
+33:08.054 --> 33:09.555
+I swear, you-you almost did.
+
+33:09.588 --> 33:11.157
+(laughs)
+
+33:11.190 --> 33:13.359
+But then I
+remembered.
+
+33:13.392 --> 33:16.528
+If you actually had
+anything solid on me,
+
+33:16.562 --> 33:19.265
+you wouldn't be
+talking about it.
+
+33:19.298 --> 33:21.167
+You'd be showing it.
+
+33:21.200 --> 33:23.369
+(laughs)
+
+33:25.304 --> 33:28.174
+How about that lawyer, huh?
+
+33:28.207 --> 33:30.042
+(laughs)
+
+33:30.076 --> 33:31.443
+RUIZ: We searched
+Gregorian's house up and down.
+
+33:31.477 --> 33:32.511
+It's clean.
+
+33:33.479 --> 33:35.314
+Don't tell me
+we got to let this fool go.
+
+33:35.347 --> 33:36.582
+Well, unless some magical
+evidence shows up,
+
+33:36.615 --> 33:37.449
+we're not gonna
+have a choice.
+
+33:38.484 --> 33:40.152
+But we're gonna make a
+case, and until then...
+
+33:40.186 --> 33:40.819
+(phone ringing, vibrating)
+
+33:40.852 --> 33:43.589
+Hold that thought.
+
+33:43.622 --> 33:46.592
+Hey. Please tell us
+you got something.
+
+33:46.625 --> 33:48.494
+This wasn't over
+a turf war.
+
+33:48.527 --> 33:50.829
+It's all about
+a drug overdose.
+
+33:50.862 --> 33:52.164
+You're gonna have
+to elaborate.
+
+33:52.198 --> 33:53.399
+SARA: Okay, so
+users created
+
+33:53.432 --> 33:56.468
+a sidebar conversation
+about fentanyl overdoses,
+
+33:56.502 --> 33:58.570
+which are at record levels.
+
+33:58.604 --> 34:00.106
+Okay. So?
+
+34:01.207 --> 34:02.208
+So, some of our users
+thought it might be relevant
+
+34:02.241 --> 34:03.375
+to the case.
+
+34:03.409 --> 34:05.411
+And when we put in
+Gregorian's info,
+
+34:05.444 --> 34:08.280
+everything pointed to a guy
+named David Kemp,
+
+34:08.314 --> 34:10.416
+who is a sophomore
+at Cal State East Bay.
+
+34:10.449 --> 34:12.284
+Or at least, he used to be.
+
+34:12.318 --> 34:14.286
+He's Gregorian's nephew.
+
+34:14.320 --> 34:17.189
+He died last week
+of a fentanyl overdose.
+
+34:17.223 --> 34:19.225
+And according
+to the M.E.'s report,
+
+34:19.258 --> 34:22.294
+it was cut with a mixture
+of levamisole and chloroquine.
+
+34:22.328 --> 34:25.231
+Gerard sold Gregorian's nephew
+the drug that killed him.
+
+34:25.264 --> 34:28.300
+And that, my friend, is motive.
+
+34:28.334 --> 34:30.202
+Well, that is great,
+and very helpful,
+
+34:30.236 --> 34:31.403
+but we're still
+gonna need
+
+34:31.437 --> 34:33.105
+a little something
+called evidence.
+
+34:33.139 --> 34:34.206
+Wait a minute.
+
+34:34.240 --> 34:35.507
+Maybe not.
+
+34:35.541 --> 34:37.276
+We'll call you back.
+
+34:47.186 --> 34:49.221
+You still want that
+lawyer, right?
+
+34:49.255 --> 34:52.291
+Just have a seat.
+We'll get you a phone.
+
+34:59.165 --> 35:01.267
+The hell my sister doing here?
+
+35:01.300 --> 35:03.502
+Just protocol.
+You know.
+
+35:03.535 --> 35:07.473
+RUIZ:
+Must've been so hard for her,
+
+35:07.506 --> 35:08.840
+when her son passed away.
+
+35:10.842 --> 35:12.844
+CAVANAUGH:
+Young man like that,
+
+35:12.878 --> 35:14.780
+in the prime of his life.
+
+35:14.813 --> 35:17.216
+Had to be hard on everyone
+in the family.
+
+35:17.249 --> 35:19.451
+I mean, I get it.
+
+35:19.485 --> 35:21.420
+A mother wanting revenge?
+
+35:21.453 --> 35:22.554
+Eye for an eye.
+
+35:22.588 --> 35:24.190
+No.
+
+35:24.223 --> 35:26.392
+She's not like that.
+
+35:26.425 --> 35:29.861
+But the thing is, if your sister
+knew what you were gonna do
+
+35:29.895 --> 35:31.430
+and she didn't
+say anything,
+
+35:31.463 --> 35:32.831
+then that still makes
+her an accomplice.
+
+35:32.864 --> 35:35.167
+And that is prison time.
+
+35:35.201 --> 35:36.835
+(clicks tongue)
+Oh.
+
+35:36.868 --> 35:39.505
+She's right.
+I never thought of that.
+RUIZ: Yeah.
+
+35:39.538 --> 35:42.174
+Yeah, right. Whatever.
+
+35:42.208 --> 35:45.444
+Right. You're close, hmm?
+
+35:45.477 --> 35:48.180
+I mean, family's important.
+
+35:48.214 --> 35:49.915
+That's why you did what you did.
+
+35:49.948 --> 35:53.819
+RUIZ: I'm sure
+she appreciates you for that.
+
+35:53.852 --> 35:55.454
+And you're a good big brother.
+
+35:55.487 --> 35:57.589
+Well, although
+a good big brother
+
+35:57.623 --> 36:00.226
+wouldn't let his sister
+go down for this.
+
+36:02.428 --> 36:04.263
+CAVANAUGH:
+So let me be clear.
+
+36:04.296 --> 36:06.965
+This...
+
+36:06.998 --> 36:09.601
+it is a one-time offer, Luis.
+
+36:09.635 --> 36:13.572
+Admit what you did,
+and we let your sister
+
+36:13.605 --> 36:15.574
+go home right now.
+
+36:15.607 --> 36:17.876
+Back to her family.
+
+36:17.909 --> 36:21.313
+She has
+two other kids, right?
+
+36:21.347 --> 36:26.385
+Be a shame for them to lose
+their brother and their mother.
+
+36:26.418 --> 36:28.954
+Come on, Luis.
+
+36:33.992 --> 36:37.195
+Don't make this any harder
+than it has to be.
+
+36:44.035 --> 36:45.871
+CAVANAUGH:
+So we got a full confession.
+
+36:45.904 --> 36:48.374
+We got him.
+
+36:48.407 --> 36:50.409
+Derek had his problems,
+but at the end,
+
+36:50.442 --> 36:51.877
+he was doing
+something decent.
+
+36:51.910 --> 36:53.512
+You need to know that.
+
+36:53.545 --> 36:56.315
+Thank you.
+
+36:56.348 --> 36:59.585
+Look, Shelly, you know, I'm
+always here for you, right?
+
+36:59.618 --> 37:01.387
+Yeah. I do.
+
+37:01.420 --> 37:02.854
+You do?
+Yeah.
+
+37:02.888 --> 37:05.657
+So am I ever gonna
+see you again?
+
+37:05.691 --> 37:08.660
+Probably not for a while.
+
+37:08.694 --> 37:11.663
+I need some time.
+
+37:11.697 --> 37:14.366
+I get that.
+
+37:14.400 --> 37:16.302
+(engine starts)
+
+37:20.339 --> 37:22.608
+But yeah, you'll see me again.
+
+37:22.641 --> 37:24.576
+Take care of yourself.
+
+37:27.879 --> 37:29.848
+Bye, Tommy.
+
+37:37.456 --> 37:38.990
+*
+
+37:50.469 --> 37:53.372
+Don't you have
+anywhere else to be?
+
+37:53.405 --> 37:55.006
+I just, you know,
+wanted to come down...
+
+37:55.040 --> 37:56.442
+See if I'm okay. Yeah.
+
+37:56.475 --> 37:58.944
+No, no, definitely
+not that.
+
+37:58.977 --> 38:00.679
+(laughs)
+
+38:00.712 --> 38:02.581
+You know what?
+
+38:02.614 --> 38:05.351
+I could use a drink.
+You want to have a drink?
+
+38:05.384 --> 38:07.453
+You want, you want
+to get a drink with me?
+
+38:07.486 --> 38:09.421
+Well, you're here.
+
+38:09.455 --> 38:11.423
+You know a place?
+
+38:11.457 --> 38:12.458
+Oh, I know a place.
+
+38:12.491 --> 38:14.059
+Really?
+Oh, yeah.
+
+38:14.092 --> 38:16.395
+You let your hair down?
+You don't seem like the type.
+
+38:19.431 --> 38:21.433
+So this is The Hive.
+
+38:23.469 --> 38:24.636
+Whoa.
+
+38:24.670 --> 38:26.472
+Right?
+
+38:26.505 --> 38:28.540
+Oh, my God.
+
+38:28.574 --> 38:29.975
+(both laugh)
+
+38:30.008 --> 38:31.977
+TARIQ: Our little
+boy's growing up.
+
+38:32.010 --> 38:34.346
+SARA:
+They're so cute.
+
+38:34.380 --> 38:36.515
+That's it.
+I need a closer look.
+
+38:39.651 --> 38:42.053
+Games, ping pong.
+You know, we got it all.
+
+38:43.689 --> 38:45.757
+This place is so cool.
+
+38:45.791 --> 38:48.394
+Yeah. Some parts
+are better than others.
+
+38:48.427 --> 38:49.695
+You must be Prudence.
+
+38:49.728 --> 38:51.463
+I am.
+
+38:51.497 --> 38:53.499
+And I have no idea
+who you must be.
+
+38:53.532 --> 38:56.101
+I'm Tariq. Josh must
+have raved about me.
+Okay.
+
+38:56.134 --> 38:58.103
+Weren't you leaving?
+I was.
+
+38:58.136 --> 39:00.138
+I have a date, too.
+Ann. She's super hot.
+
+39:00.171 --> 39:02.073
+(purrs, laughs)
+
+39:02.107 --> 39:03.074
+But we should do this
+again sometime.
+
+39:03.108 --> 39:04.075
+How about a double date?
+
+39:04.943 --> 39:06.344
+Don't answer that.
+Just think about it.
+
+39:08.480 --> 39:10.416
+I'm-I'm really sorry
+about that.
+
+39:10.449 --> 39:13.118
+Look, I-I know this wasn't like
+a date date or anything, so...
+
+39:13.151 --> 39:16.555
+Oh. Well, that's awkward,
+because I thought it was.
+
+39:18.657 --> 39:20.492
+You-you did?
+
+39:22.193 --> 39:24.630
+You coming?
+
+39:24.663 --> 39:26.965
+Y-Yeah. Def-definitely.
+
+39:32.504 --> 39:34.105
+Let me guess.
+
+39:34.139 --> 39:37.008
+It's not good news.
+
+39:37.042 --> 39:38.444
+God, I hate it when I'm right.
+
+39:38.477 --> 39:39.545
+Uh, excuse me, everyone.
+
+39:39.578 --> 39:41.447
+Can you all just
+take five minutes?
+
+39:41.480 --> 39:42.714
+Sure.
+Thank you.
+I need the floor.
+
+39:46.718 --> 39:50.456
+When Jeffrey recruited
+you from Stanford,
+
+39:50.489 --> 39:52.424
+did AllSourcer pay off
+your student loans?
+
+39:52.458 --> 39:53.592
+Yes.
+
+39:53.625 --> 39:55.561
+It was part of my contract.
+
+39:55.594 --> 39:58.196
+They also paid
+for my final year of tuition,
+
+39:58.229 --> 40:00.198
+they gave me facilities
+to work at, they...
+
+40:00.231 --> 40:01.567
+Exactly.
+
+40:01.600 --> 40:03.134
+(sighs)
+
+40:03.168 --> 40:06.572
+Which puts this
+clause into play.
+
+40:06.605 --> 40:07.773
+It's the one that
+grants AllSourcer
+
+40:07.806 --> 40:09.675
+rights to all
+of your work,
+
+40:09.708 --> 40:12.611
+if you were being compensated
+for it in any way at the time.
+
+40:12.644 --> 40:15.146
+Ironically, that clause
+was Jeffrey's idea.
+
+40:15.180 --> 40:18.049
+I, um, I don't understand.
+
+40:18.083 --> 40:21.853
+Are you saying AllSourcer
+does actually own the code?
+
+40:21.887 --> 40:25.591
+Yes. And the rights to anything
+that's a direct result of it.
+
+40:25.624 --> 40:26.858
+But that's everything.
+
+40:26.892 --> 40:28.527
+That's all of Sophe.
+
+40:28.560 --> 40:29.761
+Yes.
+
+40:31.630 --> 40:34.600
+They're also saying that
+you violated a non-compete.
+
+40:34.633 --> 40:37.135
+That's not really valid here in
+California, but your contract
+
+40:37.168 --> 40:39.204
+specifies Massachusetts law.
+
+40:39.237 --> 40:41.106
+Another Jeffrey idea.
+
+40:41.139 --> 40:43.141
+Uh, sorry, Mike, I don't
+understand what you're saying.
+
+40:43.174 --> 40:46.645
+What I'm saying is that it's not
+really about the code anymore.
+
+40:46.678 --> 40:49.481
+They're coming after you.
+At least, what's in your head.
+
+40:49.515 --> 40:51.883
+Which is what makes
+this whole place run.
+
+40:51.917 --> 40:55.687
+They can't force me
+to work for AllSourcer.
+
+40:55.721 --> 40:57.556
+No.
+
+40:57.589 --> 40:59.658
+But they can stop you from
+working anywhere else.
+
+40:59.691 --> 41:02.460
+Including here.
+
+41:03.662 --> 41:05.497
+I'm sorry, Sara.
+
+41:05.531 --> 41:07.232
+Yeah.
+
+41:13.872 --> 41:16.675
+(rock music playing
+over speakers)
+
+41:16.708 --> 41:19.578
+I didn't know cop bars
+actually existed.
+
+41:19.611 --> 41:22.514
+Where else is the team gonna go
+after a big game?
+
+41:22.548 --> 41:23.682
+Wait a minute,
+are you actually saying
+
+41:23.715 --> 41:24.850
+that we're on the same team
+right now?
+
+41:24.883 --> 41:26.618
+Whoa.
+
+41:26.652 --> 41:29.721
+What I'm saying is,
+you're not that bad.
+
+41:29.755 --> 41:32.758
+That's literally the nicest
+thing you've ever said to me.
+
+41:32.791 --> 41:34.526
+Good.
+(phone ringing, vibrating)
+
+41:34.560 --> 41:36.828
+(clears throat)
+
+41:36.862 --> 41:38.597
+I got to take this.
+
+41:38.630 --> 41:39.731
+All right.
+
+41:39.765 --> 41:41.166
+Yeah.
+
+41:44.335 --> 41:46.538
+Having that bad
+of a day, huh?
+
+41:46.572 --> 41:47.539
+Hey.
+
+41:47.573 --> 41:48.640
+Um...
+
+41:48.674 --> 41:50.542
+Oh, come on.
+
+41:50.576 --> 41:52.744
+He's having a drink with me,
+not the other way around.
+
+41:52.778 --> 41:55.547
+Seriously, are you okay?
+
+41:55.581 --> 41:58.550
+Yeah. It is what it is.
+
+41:58.584 --> 42:00.285
+All right.
+
+42:01.753 --> 42:03.722
+Just checking.
+
+42:13.732 --> 42:15.233
+What?
+
+42:15.266 --> 42:17.869
+That was Carlos Ochoa's lawyer.
+
+42:17.903 --> 42:19.838
+What did he want?
+
+42:19.871 --> 42:23.809
+Ochoa left a message
+the day that he was stabbed.
+
+42:23.842 --> 42:25.811
+Wanted to get in touch with me.
+
+42:25.844 --> 42:28.279
+Said that he might know
+something after all.
+
+42:28.313 --> 42:30.682
+About Mia's murder?
+Yeah.
+
+42:30.716 --> 42:34.252
+So what if that's why
+someone was trying to kill him?
+
+42:35.854 --> 42:38.657
+(clears throat) Hear yourself,
+Tanner. All right?
+
+42:38.690 --> 42:41.793
+You're talking about a cover-up
+around your daughter's murder,
+
+42:41.827 --> 42:43.829
+that reaches inside
+a maximum security prison?
+
+42:43.862 --> 42:45.997
+What if there is?
+
+42:46.031 --> 42:49.000
+Captioning sponsored by
+CBS and TOYOTA.
+
+42:49.034 --> 42:51.737
+Captioned by
+Media Access Group at WGBH
+access.wgbh.org
