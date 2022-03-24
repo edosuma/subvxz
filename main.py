@@ -31,7 +31,7 @@ ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/
 ssl_context = ssl.SSLContext(ssl.PROTOCOL_TLS_CLIENT)
 ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
-fldr = "sub/static/sub/"
+fldr = "sub/"
 
 
 async def id_generator():
