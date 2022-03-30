@@ -89,12 +89,14 @@ def get_all_source(tp, did, ses, eps):
 
 def down_rabbit(url, mid, epid):
     docs = parse_rabbit(urlparse(url).path.rpartition('/')[2])
+    xfl = fldr+str(mid)+"-"+str(epid)+".vtt"
     if not docs or len(docs) < 1:
+        open(xfl, 'w').close()
         return
     for x in docs:
         if 'default' in x:
             r = requests.get(x['file'], stream=True)
-            with open(fldr+str(mid)+"-"+str(epid)+".vtt", 'wb') as fl:
+            with open(xfl, 'wb') as fl:
                 for chunk in r.iter_content(chunk_size=1024):
                     fl.write(chunk)
             return x['file']
