@@ -27,7 +27,7 @@ udb2 = 'QGNsdXN0ZXIwLjB6Z2dlLm1vbmdvZGIubmV0L3ZveHplcj9yZXRyeVdyaXRlcz10cnVlJnc9
 client = MongoClient(base64.b64decode(udb1).decode("utf-8") + base64.b64decode(udb2).decode("utf-8"))
 db = client['voxzer']
 rcap = 'https://www.google.com/recaptcha/api2/anchor'
-ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0"
+ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
 ssl_context = ssl.SSLContext(ssl.PROTOCOL_TLS_CLIENT)
 ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
@@ -46,7 +46,7 @@ async def id_generator():
 def parse_rabbit(did):
     try:
         sid = asyncio.run(id_generator())
-        token = reCaptchaV3(rcap + '?ar=1&k=6LeWLCYeAAAAAL1caYzkrIY-M59Vu41vIblXQZ48&co=aHR0cHM6Ly9yYWJiaXRzdHJlYW0ubmV0OjQ0Mw..&hl=en&v=_exWVY_hlNJJl2Abm8pI9i1L&size=invisible&cb=p439o7lwsbdy')
+        token = reCaptchaV3(rcap + '?ar=1&k=6LfTNiYeAAAAAGfLceajE7TdU20LLZXUM3_pqyh1&co=aHR0cHM6Ly9yYWJiaXRzdHJlYW0ubmV0OjQ0Mw..&hl=en&v=4rwLQsl5N_ccppoTAwwwMrEN&size=invisible&cb=fskmfzw6jx3s')
         headers = {
             "Referer": "https://rabbitstream.net/",
             "User-Agent": ua
@@ -62,7 +62,7 @@ def parse_rabbit(did):
 
 def test_rul(did):
     try:
-        token = reCaptchaV3(rcap+'?ar=1&k=6LdBfTkbAAAAAL25IFRzcJzGj9Q-DKcrQCbVX__t&co=aHR0cHM6Ly93d3cuMmVtYmVkLnJ1OjQ0Mw..&hl=en&v=_exWVY_hlNJJl2Abm8pI9i1L&size=invisible&cb=x165kl7995fw')
+        token = reCaptchaV3(rcap+'?ar=1&k=6LdBfTkbAAAAAL25IFRzcJzGj9Q-DKcrQCbVX__t&co=aHR0cHM6Ly93d3cuMmVtYmVkLnJ1OjQ0Mw..&hl=en&v=4rwLQsl5N_ccppoTAwwwMrEN&size=invisible&cb=xtpi2vrltjqs')
         uri = "https://www.2embed.ru/ajax/embed/play"
         params = {'id': did, '_token': token}
         req = requests.get(uri, params=params)
@@ -169,11 +169,11 @@ def main():
             print("No data found")
         sys.stdout.flush()
     time.sleep(1)
-    os.system('git add .')
-    time.sleep(1)
-    os.system('git commit -am "Make it better"')
-    time.sleep(1)
-    os.system('git push origin master --force')
+    #os.system('git add .')
+    #time.sleep(1)
+    #os.system('git commit -am "Make it better"')
+    #time.sleep(1)
+    #os.system('git push origin master --force')
     print("Task done")
     sys.stdout.flush()
 

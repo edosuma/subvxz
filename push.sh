@@ -1,5 +1,6 @@
 #!/bin/bash
 
+python main.py
 git config --global user.email "edosetiabudi2@protonmail.com"
 git config --global user.name "ApiX"
 git add .
