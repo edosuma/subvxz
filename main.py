@@ -68,7 +68,7 @@ def get_all_source(tp, did, ses, eps):
     params = {'id': did, 's': ses, 'e': eps}
     req = requests.get(uri+tp, params=params)
     if req.status_code != 200 or 'show-name' not in req.text:
-        return
+        return ["https://rabbitstream.net/embed-5/7o2sq5dyDA6y?z="]
     soup = BeautifulSoup(req.text, 'html.parser')
     uid = []
     for eid in soup.find_all('a', {"class": "dropdown-item item-server"}):
