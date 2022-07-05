@@ -53,7 +53,7 @@ def parse_rabbit(did):
 def test_rul(did):
     try:
         token = reCaptchaV3(rcap+'?ar=1&k=6LdBfTkbAAAAAL25IFRzcJzGj9Q-DKcrQCbVX__t&co=aHR0cHM6Ly93d3cuMmVtYmVkLnJ1OjQ0Mw..&hl=en&v=_exWVY_hlNJJl2Abm8pI9i1L&size=invisible&cb=x165kl7995fw')
-        uri = "https://www.2embed.ru/ajax/embed/play"
+        uri = "https://www.2embed.to/ajax/embed/play"
         params = {'id': did, '_token': token}
         req = requests.get(uri, params=params)
         if req.status_code != 200 or 'sources' not in req.text:
@@ -64,7 +64,7 @@ def test_rul(did):
 
 
 def get_all_source(tp, did, ses, eps):
-    uri = "https://www.2embed.ru/embed/tmdb/"
+    uri = "https://www.2embed.to/embed/tmdb/"
     params = {'id': did, 's': ses, 'e': eps}
     req = requests.get(uri+tp, params=params)
     if req.status_code != 200 or 'show-name' not in req.text:
