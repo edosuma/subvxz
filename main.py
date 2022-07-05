@@ -36,7 +36,7 @@ fldr = "sub/"
 
 def parse_rabbit(did):
     try:
-        token = reCaptchaV3(rcap + '?ar=1&k=6LcVMSYeAAAAAJavZ1p7pYMGEZg4oPvYS5NsC1QF&co=aHR0cHM6Ly9yYWJiaXRzdHJlYW0ubmV0OjQ0Mw..&hl=en&v=4rwLQsl5N_ccppoTAwwwMrEN&size=invisible&cb=ujqaou9yfufy')
+        token = reCaptchaV3(rcap + '?ar=1&k=6Lf2aYsgAAAAAFvU3-ybajmezOYy87U4fcEpWS4C&co=aHR0cHM6Ly93d3cuMmVtYmVkLnRvOjQ0Mw..&hl=en&v=4rwLQsl5N_ccppoTAwwwMrEN&size=invisible&cb=k2m0eora3en8')
         headers = {
             "Referer": "https://rabbitstream.net/",
             "User-Agent": ua
@@ -52,7 +52,7 @@ def parse_rabbit(did):
 
 def test_rul(did):
     try:
-        token = reCaptchaV3(rcap+'?ar=1&k=6LcVMSYeAAAAAJavZ1p7pYMGEZg4oPvYS5NsC1QF&co=aHR0cHM6Ly9yYWJiaXRzdHJlYW0ubmV0OjQ0Mw..&hl=en&v=4rwLQsl5N_ccppoTAwwwMrEN&size=invisible&cb=ujqaou9yfufy')
+        token = reCaptchaV3(rcap+'?ar=1&k=6Lf2aYsgAAAAAFvU3-ybajmezOYy87U4fcEpWS4C&co=aHR0cHM6Ly93d3cuMmVtYmVkLnRvOjQ0Mw..&hl=en&v=4rwLQsl5N_ccppoTAwwwMrEN&size=invisible&cb=k2m0eora3en8')
         uri = "https://www.2embed.to/ajax/embed/play"
         params = {'id': did, '_token': token}
         req = requests.get(uri, params=params)
