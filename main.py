@@ -138,15 +138,17 @@ def get_season(ttl):
 
 def cleaner():
     os.chdir(fldr)
-    fileList=glob.glob("*.srt")
+    fileList=glob.glob("*.vtt")
     
     for filename in fileList:
         if os.stat(filename).st_size < 2:
             os.remove(filename)
+    
+    return "Done"
 
 
 def main():
-    cleaner()
+    # print(cleaner())
     vids = get_null()
     if not vids:
         print("TMDB id not found")
