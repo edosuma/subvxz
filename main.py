@@ -34,14 +34,24 @@ ssl_context.verify_mode = ssl.CERT_NONE
 fldr = "sub/"
 
 
+async def id_generator():
+    url = "wss://ws12.rabbitstream.net/socket.io/?EIO=4&transport=websocket"
+    async with websockets.connect(url, ssl=ssl_context) as websocket:
+        await websocket.recv()
+        await websocket.send("40")
+        doc = await websocket.recv()
+        return json.loads(doc[2:])['sid']
+
+
 def parse_rabbit(did):
+    sid = asyncio.run(id_generator())
     try:
-        token = reCaptchaV3(rcap + '?ar=1&k=6Lf2aYsgAAAAAFvU3-ybajmezOYy87U4fcEpWS4C&co=aHR0cHM6Ly93d3cuMmVtYmVkLnRvOjQ0Mw..&hl=en&v=4rwLQsl5N_ccppoTAwwwMrEN&size=invisible&cb=k2m0eora3en8')
+        token = reCaptchaV3(rcap + '?ar=1&k=6LfTNiYeAAAAAGfLceajE7TdU20LLZXUM3_pqyh1&co=aHR0cHM6Ly9yYWJiaXRzdHJlYW0ubmV0OjQ0Mw..&hl=en&v=4rwLQsl5N_ccppoTAwwwMrEN&size=invisible&cb=xrxmrb5bqkim')
         headers = {
             "Referer": "https://rabbitstream.net/",
             "User-Agent": ua
         }
-        params = {'id': did, '_token': token, '_number': 3}
+        params = {'id': did, '_token': token, '_number': 3, 'sId': sid}
         req = requests.get("https://rabbitstream.net/ajax/embed-5/getSources", headers=headers, params=params)
         if req.status_code != 200 or 'index.m3u8' not in req.text:
             return
@@ -52,7 +62,7 @@ def parse_rabbit(did):
 
 def test_rul(did):
     try:
-        token = reCaptchaV3(rcap+'?ar=1&k=6Lf2aYsgAAAAAFvU3-ybajmezOYy87U4fcEpWS4C&co=aHR0cHM6Ly93d3cuMmVtYmVkLnRvOjQ0Mw..&hl=en&v=4rwLQsl5N_ccppoTAwwwMrEN&size=invisible&cb=k2m0eora3en8')
+        token = reCaptchaV3(rcap+'?ar=1&k=6Lf2aYsgAAAAAFvU3-ybajmezOYy87U4fcEpWS4C&co=aHR0cHM6Ly93d3cuMmVtYmVkLnRvOjQ0Mw..&hl=en&v=4rwLQsl5N_ccppoTAwwwMrEN&size=invisible&cb=pth5h7nxje35')
         uri = "https://www.2embed.to/ajax/embed/play"
         params = {'id': did, '_token': token}
         req = requests.get(uri, params=params)
