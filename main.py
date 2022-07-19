@@ -5,6 +5,7 @@ import os
 import ssl
 import sys
 import time
+import glob
 from urllib.parse import urlparse
 
 try:
@@ -135,7 +136,17 @@ def get_season(ttl):
     return s[-1]
 
 
+def cleaner():
+    os.chdir(fldr)
+    fileList=glob.glob("*.srt")
+    
+    for filename in fileList:
+        if os.stat(filename).st_size < 2:
+            os.remove(filename)
+
+
 def main():
+    cleaner()
     vids = get_null()
     if not vids:
         print("TMDB id not found")
