@@ -1,0 +1,3095 @@
+WEBVTT
+
+00:08.967 --> 00:10.552
+Movies are special effects.
+
+00:11.428 --> 00:13.263
+They've always been special effects.
+
+00:16.224 --> 00:19.519
+<i>From Méliès, to Harryhausen...</i>
+
+00:19.811 --> 00:21.104
+(MAN SHOUTS)
+
+00:21.771 --> 00:23.440
+<i>...to</i> 2001...
+
+00:25.859 --> 00:26.860
+(WOMAN SCREAMING)
+
+00:26.943 --> 00:30.030
+<i>...visual effects create the magic</i>
+
+00:31.322 --> 00:33.450
+<i>that makes people want</i>
+<i>to go to the movies.</i>
+
+00:34.951 --> 00:37.537
+<i>Because they can see things they can't see</i>
+
+00:37.620 --> 00:38.621
+any other way.
+
+00:46.004 --> 00:47.297
+Take a look.
+
+00:48.423 --> 00:50.383
+BARRY JENKINS:
+<i>We all start with an empty frame</i>
+
+00:51.176 --> 00:52.802
+and anything is possible.
+
+00:54.888 --> 00:58.725
+<i>But how can we create the thing the</i>
+<i>audience sees that wasn't actually there?</i>
+
+01:03.688 --> 01:07.734
+As audiences get smarter, wiser,
+sort of see through the illusion,
+
+01:09.819 --> 01:11.738
+<i>that bar just raises.</i>
+
+01:11.821 --> 01:14.657
+So how do we do this now?
+How do we make this look great?
+
+01:16.826 --> 01:18.661
+I leave it to the geniuses at ILM.
+
+01:19.204 --> 01:20.705
+(BELLOWING)
+
+01:26.586 --> 01:28.755
+Most places are a little bit
+like <i>The Wizard of Oz,</i>
+
+01:28.838 --> 01:31.132
+where you pull back the curtain,
+you're like, "Oh!"
+
+01:31.800 --> 01:34.511
+<i>But Industrial Light & Magic</i>
+<i>is that rare magic trick</i>
+
+01:34.594 --> 01:37.514
+<i>where the technique is</i>
+<i>as good as the illusion.</i>
+
+01:43.812 --> 01:47.357
+<i>It is this hive of</i>
+<i>creativity and brilliance</i>
+
+01:47.440 --> 01:52.028
+<i>and also incredible</i>
+<i>groundbreaking technical wizardry.</i>
+
+01:56.032 --> 01:59.077
+They're pushing technology forward
+and exploring it.
+
+02:01.454 --> 02:05.125
+They keep making it even more exciting,
+more realistic, more magical.
+
+02:06.751 --> 02:07.752
+(GRUNTS)
+
+02:26.229 --> 02:28.398
+It's right there
+in the name of the company.
+
+02:28.481 --> 02:29.858
+<i>Industrial</i>
+
+02:30.692 --> 02:31.776
+Light
+
+02:32.986 --> 02:33.987
+& Magic.
+
+02:36.739 --> 02:37.866
+(ROARS)
+
+02:41.828 --> 02:43.830
+(THEME MUSIC PLAYING)
+
+03:27.373 --> 03:28.374
+MAN: <i>Conrad.</i>
+
+03:28.625 --> 03:30.293
+Pick up 601, please.
+
+03:30.376 --> 03:33.046
+Conrad, pick up 601.
+
+03:33.129 --> 03:35.465
+-WOMAN: Pull in your seat a little bit?
+-This way?
+
+03:36.299 --> 03:37.300
+Like that?
+
+03:37.383 --> 03:40.553
+WOMAN: Yeah, there was a reflection on
+your glasses. So we might actually...
+
+03:40.637 --> 03:41.888
+Right. Um...
+
+03:41.971 --> 03:45.850
+Well, the history of ILM goes way back.
+
+03:46.226 --> 03:49.187
+And when we started the first film,
+
+03:49.270 --> 03:54.651
+I investigated all of the optical houses
+and special effects people,
+
+03:55.318 --> 04:00.156
+and realized there was nobody around and
+no company around that could really do
+
+04:00.240 --> 04:02.951
+the things that I wanted
+to do on that picture.
+
+04:03.034 --> 04:05.954
+So, I realized that I was gonna
+have to start a company
+
+04:06.704 --> 04:08.748
+and put together a whole group of people
+
+04:08.831 --> 04:12.043
+that would just be specifically
+for making <i>Star Wars.</i>
+
+04:14.003 --> 04:16.756
+NARRATOR: <i>Luke Skywalker</i>
+<i>was just a farm boy,</i>
+
+04:16.839 --> 04:20.468
+<i>until he received a mysterious message</i>
+<i>from a princess.</i>
+
+04:20.551 --> 04:22.387
+<i>Help me, Obi-Wan Kenobi.</i>
+
+04:22.470 --> 04:24.806
+-She's beautiful.
+-Here's where the fun begins.
+
+04:25.807 --> 04:27.809
+NARRATOR: <i>Twentieth Century Fox presents</i>
+
+04:27.892 --> 04:31.187
+<i>the most extraordinary</i>
+<i>motion picture of all time...</i>
+
+04:31.271 --> 04:32.272
+Got him!
+
+04:32.855 --> 04:33.898
+...Star Wars.
+
+04:33.982 --> 04:35.358
+Here they come.
+
+04:35.483 --> 04:38.403
+NARRATOR: <i>May the force be with you</i>
+<i>in</i> Star Wars.
+
+04:41.823 --> 04:43.700
+GEORGE: <i>When I was writing</i> Star Wars,
+
+04:45.118 --> 04:46.786
+<i>I spent two years</i>
+
+04:46.869 --> 04:49.622
+<i>trying to find the story,</i>
+<i>trying to find the script.</i>
+
+04:52.542 --> 04:57.547
+I thought spaceships, dogfights in space,
+that's a great idea.
+
+05:03.761 --> 05:07.098
+I said, I want to do that.
+Only I want to do it like a space opera.
+
+05:07.974 --> 05:09.976
+<i>Like Buck Rogers and Flash Gordon.</i>
+
+05:10.351 --> 05:12.979
+<i>But it will really have movement,</i>
+<i>it will be kinetic.</i>
+
+05:13.396 --> 05:15.690
+I'm an energetic filmmaker.
+
+05:20.695 --> 05:21.738
+I like speed.
+
+05:27.535 --> 05:31.331
+At the time, the last real science
+fiction film was <i>2001.</i>
+
+05:33.791 --> 05:37.211
+<i>Which is brilliant, and the way</i>
+<i>it was made was brilliant.</i>
+
+05:38.004 --> 05:42.342
+But the shots were all long takes
+and very slow.
+
+05:43.217 --> 05:47.013
+<i>So I looked around for special effects</i>
+<i>houses, visual effects houses,</i>
+
+05:47.138 --> 05:50.099
+<i>and nobody could do</i>
+<i>what I wanted to do for</i> Star Wars.
+
+05:50.683 --> 05:54.228
+So the big question was,
+"How are we going to do the effects?"
+
+05:58.107 --> 05:59.859
+<i>I met John Dykstra.</i>
+
+06:01.069 --> 06:05.198
+<i>He was working with visual effects,</i>
+<i>mostly on commercials.</i>
+
+06:06.616 --> 06:13.247
+And I realized that there was a little
+cabal of secret special effects people.
+
+06:14.665 --> 06:17.168
+<i>Some of them worked in commercials,</i>
+
+06:17.251 --> 06:21.464
+<i>some of them were just wishing,</i>
+<i>some of them were making home movies,</i>
+
+06:22.840 --> 06:24.384
+<i>but they all knew each other.</i>
+
+06:25.968 --> 06:28.930
+So and so can do that,
+and I know somebody can do this.
+
+06:29.013 --> 06:32.850
+<i>And it really was this</i>
+<i>kind of gang of outsiders.</i>
+
+06:35.603 --> 06:38.815
+<i>And so through John Dykstra</i>
+<i>we tapped into that world.</i>
+
+06:40.525 --> 06:42.110
+ANCHORWOMAN: <i>Good morning, America.</i>
+
+06:42.193 --> 06:45.863
+In the world of film and television,
+even our fantasies have been modernized.
+
+06:45.947 --> 06:49.450
+Instead of wizards and magicians,
+the people who make our dreams come true
+
+06:49.534 --> 06:51.619
+are now called special effects designers.
+
+06:52.203 --> 06:56.207
+<i>These new wizards use computers,</i>
+<i>calculators, and special cameras.</i>
+
+06:56.707 --> 07:00.545
+<i>With these tools and a generous supply</i>
+<i>of good, old-fashioned imagination,</i>
+
+07:00.920 --> 07:04.757
+<i>John Dykstra created the fantastic</i>
+<i>effects scenes for</i> Star Wars.
+
+07:05.842 --> 07:10.012
+John. No one says "One day I'm going to be
+a special effects designer."
+
+07:10.721 --> 07:11.973
+What led up to this?
+
+07:12.056 --> 07:13.724
+Oh, a lot of fooling around.
+
+07:27.196 --> 07:31.033
+JOHN: <i>I am definitely involved with</i>
+<i>machines. I like machines a lot.</i>
+
+07:32.034 --> 07:34.579
+<i>I always played with cars</i>
+<i>and things like that.</i>
+
+07:34.662 --> 07:35.705
+<i>I like physics.</i>
+
+07:36.456 --> 07:37.665
+<i>Always liked photography.</i>
+
+07:37.748 --> 07:40.209
+<i>So it was sort of a situation</i>
+<i>where I just brought</i>
+
+07:40.293 --> 07:42.753
+<i>all of my favorite things together,</i>
+<i>all of my hobbies,</i>
+
+07:42.837 --> 07:44.505
+<i>and made one big hobby out of it.</i>
+
+07:45.173 --> 07:49.093
+Explain to me how you take a scene
+from your mind to the screen.
+
+07:51.721 --> 07:53.431
+I'm basically a lucky guy.
+
+07:53.514 --> 07:54.515
+(LAUGHS)
+
+07:56.058 --> 07:59.395
+When I signed up for college,
+I didn't have a major.
+
+07:59.479 --> 08:02.231
+I just was going to school
+because they had accepted me.
+
+08:03.608 --> 08:07.403
+<i>The counselor who I was assigned</i>
+<i>based on my last name</i>
+
+08:07.487 --> 08:10.656
+turned out to be the head
+of the industrial design department.
+
+08:11.532 --> 08:15.328
+So I went to school
+in industrial design, truly a fluke.
+
+08:16.454 --> 08:20.249
+<i>From school I had a friend</i>
+<i>who was working with Doug Trumbull,</i>
+
+08:20.750 --> 08:25.129
+<i>who had done visual effects</i>
+<i>for</i> 2001: A Space Odyssey.
+
+08:26.464 --> 08:29.133
+<i>And Doug was looking for model makers</i>
+
+08:29.217 --> 08:31.052
+and people who could do design work.
+
+08:31.135 --> 08:36.682
+So I segued from school
+to going to work at Trumbull Film Effects.
+
+08:38.017 --> 08:39.393
+<i>I started on</i> Silent Running.
+
+08:40.561 --> 08:43.147
+<i>I drew designs for the ships,</i>
+
+08:43.231 --> 08:45.441
+<i>then built the models for the ships</i>
+
+08:45.525 --> 08:48.110
+<i>and then photographed</i>
+<i>the models for the ships.</i>
+
+08:48.819 --> 08:52.198
+<i>It was an intense, immersive education.</i>
+
+08:53.908 --> 08:55.117
+<i>Coming to work was fun.</i>
+
+08:56.911 --> 09:02.667
+Then I was approached by Gary Kurtz,
+who was a producer for George Lucas,
+
+09:03.417 --> 09:07.004
+<i>and he wanted to talk about</i>
+<i>the visual effects for a movie.</i>
+
+09:14.428 --> 09:16.556
+<i>I was given the script,</i>
+
+09:16.639 --> 09:20.393
+and I go, "How bad can this be?
+It's a dogfight in space, right?"
+
+09:22.186 --> 09:23.980
+<i>So I came to their offices,</i>
+
+09:24.689 --> 09:29.610
+did a lot of hand flying,
+did a lot of talking about moving camera
+
+09:29.902 --> 09:34.490
+<i>because I'm a pilot and I love speed</i>
+<i>and I've been strapping cameras</i>
+
+09:34.574 --> 09:37.535
+<i>onto airplanes and stuff</i>
+<i>like that for a long time.</i>
+
+09:38.327 --> 09:40.913
+So it was like all these things
+fell into place.
+
+09:42.039 --> 09:44.166
+<i>George had the vision.</i>
+
+09:45.042 --> 09:49.297
+<i>George knew what the images had to convey.</i>
+
+09:52.049 --> 09:53.801
+And I understood the movie.
+
+09:53.884 --> 09:55.886
+(AIRPLANE DRONING)
+
+10:02.143 --> 10:06.314
+<i>But at the time George was involved</i>
+<i>with all of the pre-production work</i>
+
+10:06.397 --> 10:09.984
+he was doing for the photography
+they were going to do in Britain.
+
+10:10.067 --> 10:12.445
+GEORGE: <i>I was going back and forth</i>
+<i>all the time.</i>
+
+10:12.528 --> 10:17.950
+We had one foot in the door with John,
+and he said he needed
+
+10:18.034 --> 10:20.578
+<i>to build the equipment</i>
+<i>in order to get the shots.</i>
+
+10:20.661 --> 10:24.749
+So they basically said,
+"Okay, you go do this."
+
+10:27.043 --> 10:31.589
+<i>I went and found an empty warehouse</i>
+<i>in Van Nuys, near the Van Nuys Airport.</i>
+
+10:33.507 --> 10:35.217
+<i>And I walked into the place,</i>
+
+10:35.301 --> 10:37.887
+they installed the phone,
+didn't even have furniture.
+
+10:37.970 --> 10:41.557
+I sat on the carpet on the floor
+in the office that I was going to use,
+
+10:41.641 --> 10:46.687
+and I started calling people that I wanted
+to bring in to work on the project.
+
+10:50.191 --> 10:52.360
+RICHARD: <i>One day I got this call</i>
+<i>from John,</i>
+
+10:52.943 --> 10:57.948
+"Richard, I'd like to talk to you
+about maybe the photography
+
+10:58.032 --> 11:01.118
+"of this sci-fi movie
+for Twentieth Century Fox."
+
+11:02.620 --> 11:04.288
+I said, "I'll be right there."
+
+11:04.372 --> 11:05.414
+(CHUCKLES)
+
+11:05.498 --> 11:10.711
+I had finished the program
+in the industrial design department
+
+11:10.920 --> 11:13.047
+<i>from Cal State Long Beach,</i>
+
+11:13.130 --> 11:16.133
+<i>where Dykstra had graduated</i>
+<i>a couple years before.</i>
+
+11:17.677 --> 11:21.013
+I didn't graduate because
+I got a job in Malibu,
+
+11:22.640 --> 11:24.308
+<i>and the commute was killing me.</i>
+
+11:24.600 --> 11:26.727
+<i>I went back to school on a Saturday.</i>
+
+11:27.395 --> 11:32.024
+<i>And I see this flyer taped to the door</i>
+<i>of the industrial design department,</i>
+
+11:32.149 --> 11:37.113
+and it said, "We are looking for
+artists, model builders,
+
+11:37.238 --> 11:40.616
+"painters, draftsmen for a..."
+
+11:40.783 --> 11:42.952
+I think they said it was a space movie.
+
+11:44.036 --> 11:46.747
+And there was a phone number
+and address there, so...
+
+11:46.831 --> 11:48.332
+I got out the Thomas Guide,
+
+11:48.416 --> 11:52.128
+<i>which at the time was the only way</i>
+<i>you could find your way around LA.</i>
+
+11:55.423 --> 12:00.636
+I took my ruler and I figured out
+I could save an hour off my commute.
+
+12:02.012 --> 12:06.142
+So I jumped in my Volkswagen,
+zipped out to Belgian Avenue
+
+12:06.225 --> 12:08.144
+<i>and met with John and Gary Kurtz.</i>
+
+12:09.520 --> 12:12.940
+<i>John had this big desk.</i>
+<i>It was like the size of a pool table,</i>
+
+12:13.649 --> 12:14.942
+and we were sitting across.
+
+12:15.025 --> 12:17.069
+Both had beards, you know,
+
+12:17.528 --> 12:20.322
+and Gary Kurtz had his Quaker beard,
+you know.
+
+12:22.491 --> 12:26.912
+The original job offer was for
+six weeks doing storyboards.
+
+12:28.831 --> 12:32.752
+<i>John asked me if I could do storyboards,</i>
+<i>and I said, "Yeah, of course I can."</i>
+
+12:32.835 --> 12:34.962
+I had no idea what a storyboard was.
+
+12:35.921 --> 12:39.717
+I came across a guy who I went
+to college with and lived in Seal Beach
+
+12:39.925 --> 12:43.304
+and he said, "Oh, Lorne,
+you'd be perfect for the job.
+
+12:43.387 --> 12:46.766
+<i>"We're working on this science fiction</i>
+<i>movie out in the valley,</i>
+
+12:46.849 --> 12:48.476
+<i>"and we need model makers."</i>
+
+12:49.143 --> 12:50.978
+<i>We all came from different schools,</i>
+
+12:51.061 --> 12:53.147
+and a lot of people
+were friends of friends.
+
+12:53.230 --> 12:56.859
+This guy that I was working with
+was was older, and he said,
+
+12:56.942 --> 12:59.278
+"Well, I got a buddy that
+I was in the Navy with,
+
+12:59.361 --> 13:01.572
+"who's doing some kind
+of a science fiction show,
+
+13:01.655 --> 13:03.240
+<i>"and I know you're interested in that.</i>
+
+13:03.365 --> 13:06.076
+"He's looking for people.
+So here's his number.
+
+13:06.160 --> 13:08.204
+"Give him a call.
+His name is Richard Edlund."
+
+13:08.287 --> 13:11.207
+And it turns out he's looking
+for camera people,
+
+13:11.290 --> 13:15.294
+which I'm not,
+and so I gave them Dennis' number.
+
+13:18.547 --> 13:20.466
+DENNIS: <i>Until</i> Star Wars <i>came along,</i>
+
+13:20.758 --> 13:24.178
+I've never felt that there was going to be
+any place for me in the business
+
+13:24.261 --> 13:27.348
+or there was any way
+to make any money doing visual effects.
+
+13:30.601 --> 13:34.021
+<i>But it was maybe the only</i>
+<i>thing I was interested in.</i>
+
+13:35.439 --> 13:36.565
+<i>It's in my DNA.</i>
+
+13:38.359 --> 13:41.028
+<i>And I had a group of friends my own age,</i>
+
+13:41.111 --> 13:42.988
+that were also effects fans.
+
+13:46.367 --> 13:52.373
+I've always wondered why I locked
+into wanting to do this so early.
+
+13:56.252 --> 13:58.879
+I was watching movies like <i>King Kong.</i>
+
+13:59.880 --> 14:05.761
+The films of my hero, Ray Harryhausen,
+and something just clicked.
+
+14:05.845 --> 14:07.847
+(ROARING)
+
+14:09.056 --> 14:13.018
+When I was about five years old,
+<i>King Kong</i> came on television,
+
+14:13.102 --> 14:16.313
+and that just kind of changed my life.
+
+14:16.397 --> 14:18.399
+-(KING KONG GROWLING)
+-(ANN SCREAMING)
+
+14:19.275 --> 14:23.153
+And then in 1958, <i>The 7th Voyage of Sinbad</i>
+came out, Ray Harryhausen.
+
+14:23.237 --> 14:24.530
+(GROWLING)
+
+14:24.864 --> 14:26.240
+To the boat!
+
+14:29.201 --> 14:31.412
+I saw Ray Harryhausen's
+<i>The 7th Voyage of Sinbad</i>
+
+14:31.495 --> 14:33.581
+like eight times the first week
+it came out.
+
+14:33.664 --> 14:36.458
+The <i>7th Voyage of Sinbad</i>
+just melted my brain.
+
+14:36.542 --> 14:38.210
+That kind of sealed the deal.
+
+14:38.294 --> 14:39.920
+<i>It was like struck by lightning.</i>
+
+14:40.796 --> 14:41.922
+I went nuts.
+
+14:42.006 --> 14:43.007
+(SCREAMING)
+
+14:43.465 --> 14:47.177
+I was just mystified by how it was done.
+
+14:47.553 --> 14:48.554
+(SINBAD GRUNTING)
+
+14:50.973 --> 14:54.393
+I didn't even understand, of course,
+as a kid, how movies were made.
+
+14:54.476 --> 14:57.396
+<i>But my mom liked films,</i>
+<i>and she took me to see</i>
+
+14:57.563 --> 15:01.233
+<i>one of Ray Harryhausen's first films,</i>
+The Beast from 20,000 Fathoms.
+
+15:01.317 --> 15:02.318
+(MAN SCREAMING)
+
+15:03.986 --> 15:06.447
+DENNIS: <i>I asked my mom,</i>
+<i>"Do you know how this is done?"</i>
+
+15:07.114 --> 15:11.327
+<i>She said, "Yeah, it's just a lot</i>
+<i>of separate pictures of a model,</i>
+
+15:11.702 --> 15:14.955
+<i>"and they're moved a little bit</i>
+<i>between each frame of film."</i>
+
+15:15.998 --> 15:18.167
+I have no idea how my mother knew that.
+
+15:18.250 --> 15:20.586
+I didn't even know
+movies were frames of film.
+
+15:21.837 --> 15:25.257
+<i>But from a very young age</i>
+<i>I was attracted to visuals.</i>
+
+15:26.050 --> 15:28.677
+This spectacle that
+I couldn't see in real life.
+
+15:29.887 --> 15:34.934
+It was compelling to be able to see
+some sort of giant creature of some sort
+
+15:35.017 --> 15:37.978
+that I couldn't walk
+out of the theater and see
+
+15:38.062 --> 15:41.023
+and I just wanted to,
+I wanted to see those things for real.
+
+15:42.483 --> 15:45.527
+<i>In those days, you couldn't repeat</i>
+<i>a movie over and over again.</i>
+
+15:45.611 --> 15:48.322
+<i>There were no DVDs</i>
+<i>or streaming or anything for them.</i>
+
+15:48.989 --> 15:51.241
+<i>So I just wanted to recreate in my mind,</i>
+
+15:51.367 --> 15:54.036
+<i>these memories</i>
+<i>of what I see in the theater,</i>
+
+15:54.119 --> 15:56.997
+<i>and there was no way to</i>
+<i>unless you did it yourself.</i>
+
+15:57.081 --> 16:02.836
+I was actually making home movies
+when I was in the 6th grade...
+
+16:06.090 --> 16:09.051
+<i>with this Kodak movie camera.</i>
+
+16:10.970 --> 16:14.306
+<i>I think we actually bought it</i>
+<i>with Blue Chip Stamps.</i>
+
+16:14.390 --> 16:16.058
+(LAUGHS)
+
+16:19.687 --> 16:22.272
+KEN: <i>It was how it started,</i>
+<i>how to invent stuff</i>
+
+16:22.356 --> 16:25.985
+<i>without knowing a damn thing</i>
+<i>about what you're doing, but feeling it.</i>
+
+16:26.402 --> 16:29.113
+<i>And I guess I absorbed it</i>
+<i>from seeing so many movies.</i>
+
+16:32.366 --> 16:35.744
+Watching movies really precipitated
+the interest in prehistoric life
+
+16:35.828 --> 16:39.331
+and dinosaurs and kind of became
+an amateur paleontologist.
+
+16:42.793 --> 16:47.089
+I didn't have any kind of a social life,
+I just spent all my time alone
+
+16:47.172 --> 16:49.216
+drawing and painting and sculpting.
+
+16:50.551 --> 16:53.053
+<i>For Christmas, my parents would buy me</i>
+
+16:53.137 --> 16:58.308
+<i>these playsets that had a bunch of</i>
+<i>army men or dinosaurs and whatnot.</i>
+
+16:58.392 --> 17:00.644
+<i>And so, you would create these scenarios</i>
+
+17:00.728 --> 17:03.397
+(LAUGHING) <i>with World War II characters</i>
+<i>and dinosaurs.</i>
+
+17:03.856 --> 17:08.485
+<i>You know? And that was that was a big part</i>
+<i>of exercising the imagination.</i>
+
+17:09.403 --> 17:12.322
+<i>I would mow lawns and get an 8mm camera</i>
+
+17:12.406 --> 17:15.701
+<i>and set up in my bedroom</i>
+<i>and push clay around.</i>
+
+17:18.454 --> 17:21.915
+<i>When G.I. Joes came out,</i>
+<i>I would steal them from Sears</i>
+
+17:21.999 --> 17:23.709
+<i>because I didn't have enough money.</i>
+
+17:23.792 --> 17:26.170
+(LAUGHS) <i>You know,</i>
+<i>I could like fashion them.</i>
+
+17:27.838 --> 17:30.841
+<i>You know, all the gears started to turn.</i>
+
+17:33.218 --> 17:36.847
+And we tried so many hard things
+that we should never have attempted,
+
+17:36.930 --> 17:38.140
+<i>but we pulled off some of it.</i>
+
+17:39.975 --> 17:43.270
+<i>And you'd go, you'd put it</i>
+<i>into the drugstore to be developed.</i>
+
+17:43.395 --> 17:44.980
+<i>You'd wait. You get it back.</i>
+
+17:45.105 --> 17:46.523
+<i>You put it on the projector.</i>
+
+17:47.274 --> 17:49.860
+<i>And if it worked</i>
+<i>or even came close to working,</i>
+
+17:49.943 --> 17:53.405
+<i>that feeling of excitement,</i>
+<i>it's hard to describe.</i>
+
+17:55.949 --> 17:59.536
+The goal was to please myself.
+
+18:03.499 --> 18:06.585
+And there were a few of us
+that got to know each other
+
+18:06.877 --> 18:10.714
+<i>through this magazine,</i>
+Famous Monsters of Filmland.
+
+18:13.383 --> 18:15.969
+It was a Christmastime down in San Diego,
+
+18:16.053 --> 18:19.056
+where they used to have newsstands,
+and there it was.
+
+18:20.099 --> 18:25.062
+I had no idea where the magazine came from
+that day or what it was.
+
+18:25.312 --> 18:27.189
+But there were photos from effects film.
+
+18:29.441 --> 18:30.859
+<i>So I could look at the photo</i>
+
+18:30.943 --> 18:33.487
+<i>and start to understand</i>
+<i>how it was being done.</i>
+
+18:35.322 --> 18:37.825
+KEN: <i>Forrest J. Ackerman was the editor,</i>
+
+18:37.908 --> 18:42.538
+and I think Forry really influenced
+an awful lot of people doing this work.
+
+18:43.747 --> 18:45.582
+PHIL: <i>Forry was very strange,</i>
+
+18:45.666 --> 18:49.586
+kind of a quizzical Vincent Price.
+
+18:49.670 --> 18:51.380
+(CHUCKLING) And he did stuff like,
+
+18:51.463 --> 18:53.966
+if you'd knock on the door
+to his Ackermansion,
+
+18:54.049 --> 18:58.053
+he called it, and the door would creep
+open and his hand would come out,
+
+18:58.512 --> 19:03.517
+and on his hand was Bela Lugosi's
+Dracula ring from the movie.
+
+19:03.642 --> 19:09.398
+Good evening, I am Doctor Ackcula
+and I bid you welcome.
+
+19:10.524 --> 19:13.610
+Follow me if you dare.
+
+19:14.153 --> 19:17.739
+That looked like a regular house on the
+outside, and you walk inside and
+
+19:17.823 --> 19:21.869
+all there were, were books and photos
+and props and paintings.
+
+19:22.452 --> 19:23.996
+I was flabbergasted.
+
+19:24.413 --> 19:27.332
+There's actual models
+from the original Kong.
+
+19:28.333 --> 19:31.336
+You know, and you learn more
+about how movies are made.
+
+19:32.337 --> 19:34.923
+I still remember when I first went
+to Forry's place,
+
+19:35.007 --> 19:38.177
+there's a group of people there,
+and we met Jon Berg.
+
+19:39.136 --> 19:45.017
+<i>And Jon invited us to go to Cascade</i>
+<i>Pictures of California, where he worked.</i>
+
+19:45.726 --> 19:48.687
+MAN: <i>We're at Cascade Studios</i>
+<i>in Hollywood, California.</i>
+
+19:49.188 --> 19:51.315
+<i>And here's Phil Kellison, the director.</i>
+
+19:51.607 --> 19:54.902
+Phil Kellison was the head of the
+effects department at Cascade.
+
+19:54.985 --> 19:57.613
+He moved up the street I lived on,
+
+19:57.696 --> 20:01.742
+<i>and drove by and saw this sign</i>
+<i>from this like museum</i>
+
+20:01.992 --> 20:03.827
+<i>some kids and I put on,</i>
+
+20:03.911 --> 20:07.497
+<i>but it was just our collection</i>
+<i>of movie props and photos, said,</i>
+
+20:07.581 --> 20:10.834
+The Museum of Science Fiction
+and Fantasy Movies,
+
+20:11.168 --> 20:14.046
+and he thought, "What the heck is that?"
+and stopped by.
+
+20:14.129 --> 20:15.130
+(INAUDIBLE)
+
+20:15.214 --> 20:17.925
+DENNIS: <i>Eventually,</i>
+<i>Phil invited me up to Cascade.</i>
+
+20:18.508 --> 20:21.470
+He said, "You want to do some animation?"
+and I said, "Why, sure."
+
+20:22.638 --> 20:25.349
+The commercial was this sheet
+that had just been washed
+
+20:25.432 --> 20:28.393
+<i>that had come off of a clothesline</i>
+<i>and walked by itself.</i>
+
+20:28.894 --> 20:32.898
+<i>I was actually doing the stop motion the</i>
+<i>walking, the sheets and all that stuff.</i>
+
+20:33.774 --> 20:35.859
+I was probably like 17 or so.
+
+20:35.943 --> 20:36.944
+(BELL DINGS)
+
+20:37.027 --> 20:39.571
+<i>The effects department at Cascade began</i>
+
+20:39.655 --> 20:42.616
+<i>when the industry was exploding</i>
+<i>in the early '60s.</i>
+
+20:43.492 --> 20:44.493
+(CHILD GIGGLES)
+
+20:44.910 --> 20:45.953
+(CHUCKLES)
+
+20:46.036 --> 20:48.538
+And so many great people worked there.
+
+20:50.123 --> 20:52.542
+That's where I met Ken Ralston...
+
+20:53.835 --> 20:55.128
+<i>and Dennis Muren.</i>
+
+20:56.380 --> 20:58.006
+It was kind of an amazing group.
+
+21:00.425 --> 21:01.760
+DENNIS: <i>Cascade closed up</i>
+
+21:02.469 --> 21:05.973
+because suddenly visual effects
+weren't fashionable anymore.
+
+21:06.473 --> 21:10.018
+<i>There were some effects departments</i>
+<i>still in the big studios,</i>
+
+21:10.102 --> 21:11.395
+<i>but they were closing up.</i>
+
+21:11.812 --> 21:14.064
+<i>So it was all going</i>
+<i>to kind of come to an end.</i>
+
+21:15.857 --> 21:18.277
+<i>I realized I would have to grow up</i>
+
+21:19.236 --> 21:20.737
+<i>and get a real job.</i>
+
+21:22.489 --> 21:25.617
+But then eventually I started hearing
+that George Lucas,
+
+21:25.701 --> 21:27.202
+<i>who did</i> American Graffiti...
+
+21:27.327 --> 21:32.165
+<i>-Hey. You got a bitchin' car.</i>
+<i>-Hell yeah, I know.</i>
+
+21:32.332 --> 21:34.001
+<i>...was going to do a space movie.</i>
+
+21:34.126 --> 21:35.919
+(CAR ENGINE REVVING)
+
+21:38.797 --> 21:44.219
+When I read the script for <i>Star Wars,</i>
+I just thought, "This is impossible."
+
+21:47.222 --> 21:50.392
+Honestly, I was worried
+about the script at first
+
+21:50.475 --> 21:52.227
+<i>because, I mean, it was like,</i>
+
+21:53.603 --> 21:56.481
+<i>it was like a teenage script in a sense,</i>
+
+21:56.565 --> 22:00.319
+<i>"trust in the force" lines</i>
+<i>and those kind of things, you know?</i>
+
+22:01.361 --> 22:03.864
+I mean, who was going to do this,
+Brando? You know?
+
+22:03.947 --> 22:05.866
+And so I was worried about that.
+
+22:06.366 --> 22:09.244
+For what George was trying to do
+with the space battles...
+
+22:09.911 --> 22:11.455
+<i>this will take forever.</i>
+
+22:11.830 --> 22:14.708
+<i>There's no way he's going</i>
+<i>to get this done in a year.</i>
+
+22:15.208 --> 22:17.586
+I don't even know how to do
+a lot of the shots.
+
+22:18.587 --> 22:21.214
+I have to say I was a little bit confused.
+
+22:22.758 --> 22:26.011
+<i>There was a lot of stuff</i>
+<i>that didn't make perfect sense to me,</i>
+
+22:26.470 --> 22:28.930
+but then again, I wasn't
+a movie person, you know?
+
+22:29.097 --> 22:31.850
+In fact, it was probably
+the first script I'd ever read.
+
+22:33.602 --> 22:35.312
+KEN: <i>I remember I was in...</i>
+
+22:35.395 --> 22:37.689
+I want to say it was
+in Jon Berg's car with Dennis
+
+22:37.773 --> 22:42.027
+and we had the script and it was like,
+"Wow, this has a lot of cool stuff in it."
+
+22:43.236 --> 22:46.239
+And it was like a lot of movies
+we wanted to make personally,
+
+22:46.323 --> 22:48.533
+full of stuff that no
+studio wanted to make.
+
+22:53.372 --> 22:54.456
+(INAUDIBLE)
+
+23:00.587 --> 23:06.009
+JOE: <i>John Dykstra wanted to hire people</i>
+<i>who could do a lot of different things.</i>
+
+23:06.093 --> 23:08.970
+-No, it's long.
+-No, we want it over normal height.
+
+23:09.096 --> 23:11.556
+And most of the people
+were not movie people.
+
+23:12.391 --> 23:14.810
+<i>They were from all</i>
+<i>different walks of life.</i>
+
+23:15.936 --> 23:19.064
+KEN: <i>The group on the first</i> Star Wars
+<i>some of it was very green.</i>
+
+23:19.147 --> 23:22.859
+They were basically machinists,
+guys who worked on motorcycles.
+
+23:23.527 --> 23:27.906
+<i>But John was there to guide them</i>
+<i>into what was necessary, what to build,</i>
+
+23:28.115 --> 23:31.785
+to use the skills that they had to do
+what was necessary for the movie.
+
+23:36.415 --> 23:41.837
+JOHN: <i>They all kind of were experts</i>
+<i>in different things</i>
+
+23:41.920 --> 23:44.131
+<i>that they couldn't get paid for.</i>
+
+23:45.424 --> 23:47.384
+And I brought those people together.
+
+23:51.012 --> 23:55.475
+But to be honest with you,
+this was a long shot.
+
+23:56.601 --> 24:00.605
+<i>We were departing from convention</i>
+<i>in several different ways,</i>
+
+24:01.148 --> 24:05.819
+and if any one of them failed,
+it could have been a disaster.
+
+24:07.737 --> 24:10.407
+RICHARD: <i>It was the opportunity</i>
+<i>to really go for it.</i>
+
+24:11.575 --> 24:13.952
+You know, it's like
+when you're a ski jumper,
+
+24:14.035 --> 24:17.998
+you're standing on the top of the jump
+and you know that you can do it,
+
+24:18.081 --> 24:20.459
+and everybody had that attitude.
+
+24:21.751 --> 24:23.837
+<i>But we had to school each other.</i>
+
+24:27.007 --> 24:29.759
+JOE: <i>George wasn't there</i>
+<i>an awful lot in the beginning,</i>
+
+24:29.885 --> 24:33.388
+but I think he wanted a bunch of pioneers
+
+24:33.472 --> 24:36.892
+who maybe weren't
+quite sure what they were doing.
+
+24:39.686 --> 24:44.274
+<i>He wanted a bunch of guys</i>
+<i>who didn't know what was impossible.</i>
+
+24:45.442 --> 24:47.777
+-We've got to do some practicing.
+-Yeah. Yeah.
+
+24:47.861 --> 24:49.779
+They're gonna fire at the bottom.
+
+24:49.863 --> 24:52.616
+So, I mean, from the camera,
+it'll look like you've cut it.
+
+24:52.699 --> 24:53.783
+Yeah. Cut it. Yeah, yeah.
+
+24:53.867 --> 24:57.537
+And then they're gonna fire the top
+once your sword is about halfway through.
+
+24:57.621 --> 24:59.706
+Running. Speed.
+
+25:00.290 --> 25:02.292
+(MAN SPEAKING INDISTINCTLY)
+
+25:04.169 --> 25:05.170
+GEORGE: Action!
+
+25:05.253 --> 25:06.546
+(FOOTSTEPS APPROACHING)
+
+25:11.009 --> 25:12.427
+-Okay, cut.
+-Cut it!
+
+25:19.392 --> 25:22.062
+JOHN: <i>I mean, who knows what</i>
+<i>was going on in England.</i>
+
+25:22.145 --> 25:26.066
+But George had left us his material
+
+25:26.191 --> 25:31.947
+that he had cut from World War II movies
+and, you know, gun camera stuff,
+
+25:32.030 --> 25:36.034
+<i>for what he thought he wanted to have</i>
+<i>happened in the battle for the Death Star.</i>
+
+25:36.952 --> 25:38.620
+(EXPLOSION)
+
+25:39.704 --> 25:43.708
+So we used that as a template
+for what we needed to build.
+
+25:44.459 --> 25:47.003
+<i>I approach it from the point of view</i>
+<i>of what would I get</i>
+
+25:47.087 --> 25:50.382
+<i>if I bolted a camera onto this ship</i>
+<i>and went to space and did it?</i>
+
+25:51.383 --> 25:55.554
+<i>I wanted to make this stuff</i>
+<i>indistinguishable from reality.</i>
+
+25:57.597 --> 25:59.766
+<i>And that required motion control.</i>
+
+26:00.725 --> 26:07.399
+Motion control is the ability
+to record the movement of the camera
+
+26:07.816 --> 26:10.777
+<i>through space,</i>
+<i>forward and backward, side to side,</i>
+
+26:10.902 --> 26:13.071
+<i>rotation up and down.</i>
+
+26:13.530 --> 26:15.782
+<i>It makes a record of that movement,</i>
+
+26:16.116 --> 26:19.160
+<i>and then you can repeat that move</i>
+<i>as many times as necessary.</i>
+
+26:20.495 --> 26:24.583
+<i>I had worked with a prototype</i>
+<i>motion control system years before.</i>
+
+26:25.375 --> 26:31.172
+<i>I had been at the University of Berkeley</i>
+<i>on a project about perception.</i>
+
+26:32.924 --> 26:36.886
+<i>The idea was to build a miniature</i>
+<i>of a portion of Marin County</i>
+
+26:36.970 --> 26:39.139
+<i>and photograph it with a camera</i>
+
+26:39.639 --> 26:44.227
+<i>and then compare responses from people</i>
+<i>who viewed that film of the miniature</i>
+
+26:44.519 --> 26:48.773
+<i>with people who were put in a car</i>
+<i>and driven through the same environment.</i>
+
+26:51.568 --> 26:54.738
+<i>At Berkeley, I met Al Miller</i>
+<i>and Jerry Jeffress,</i>
+
+26:55.655 --> 26:58.617
+<i>and they had built a very early</i>
+<i>motion control system</i>
+
+26:58.950 --> 27:03.079
+<i>to move the camera around the miniature</i>
+<i>and to be able to repeat the moves.</i>
+
+27:04.706 --> 27:09.002
+I got together with them and we conceived
+the motion control systems for <i>Star Wars,</i>
+
+27:10.003 --> 27:13.965
+<i>because most of the images</i>
+<i>were built up of multiple elements.</i>
+
+27:14.341 --> 27:16.343
+<i>We'd do matts on one pass.</i>
+
+27:16.426 --> 27:21.097
+<i>We'd do engines on another pass</i>
+<i>and the camera had to be able</i>
+
+27:21.181 --> 27:23.767
+<i>to duplicate the move exactly, precisely.</i>
+
+27:24.142 --> 27:26.269
+So that when we put
+those elements together
+
+27:26.353 --> 27:28.521
+<i>in the sandwich we call optical printing,</i>
+
+27:29.022 --> 27:31.483
+all of the pieces were
+in sync with one another.
+
+27:32.317 --> 27:36.488
+<i>Berkeley had been</i>
+<i>a perfect proving ground for the idea,</i>
+
+27:36.571 --> 27:39.157
+<i>but we needed to build new equipment.</i>
+
+27:42.243 --> 27:47.082
+Now, you've got to understand
+I had to be nuts
+
+27:47.165 --> 27:50.585
+to think that the studio was
+going to agree to me going,
+
+27:50.669 --> 27:52.253
+"I'm going to build all of this stuff,
+
+27:52.337 --> 27:55.256
+"and then I'm going to make
+the visual effects for the movie."
+
+27:55.340 --> 27:56.341
+But they did.
+
+27:58.218 --> 28:01.179
+<i>We designed cameras</i>
+<i>and constructed them from scratch</i>
+
+28:01.346 --> 28:04.724
+<i>and then doing the motion control system</i>
+<i>with all that entails.</i>
+
+28:05.141 --> 28:06.643
+<i>We had to build the computers.</i>
+
+28:06.726 --> 28:09.396
+<i>We had to build all of the hardware</i>
+<i>that was necessary</i>
+
+28:09.479 --> 28:12.732
+<i>to make the camera</i>
+<i>a numerically repeatable device.</i>
+
+28:12.941 --> 28:14.234
+Phew!
+
+28:14.317 --> 28:15.527
+Darn it, broke my finger.
+
+28:15.610 --> 28:16.653
+(MAN CHUCKLES)
+
+28:16.736 --> 28:19.155
+RICHARD: <i>We had two</i>
+<i>motion control cameras.</i>
+
+28:19.823 --> 28:21.616
+<i>One was Dykstraflex.</i>
+
+28:24.744 --> 28:28.164
+It was probably just a nickname.
+
+28:28.373 --> 28:30.500
+RICHARD: <i>And then the other one</i>
+<i>is the Rama.</i>
+
+28:32.001 --> 28:36.339
+<i>Which was a Technorama camera</i>
+<i>that was like a cubic foot</i>
+
+28:36.423 --> 28:39.050
+and it weighed about 150 pounds.
+
+28:39.551 --> 28:43.513
+We had to build a follow focus
+system for it. 400-foot magazine.
+
+28:43.596 --> 28:48.017
+<i>So it would be as low profile as could be.</i>
+<i>I mean, it was fantastic.</i>
+
+28:48.435 --> 28:51.855
+We were all extreme photography nerds,
+you know.
+
+28:51.938 --> 28:54.107
+We're experimenting in different areas.
+
+28:54.190 --> 28:58.695
+We were using a format that was obsolete,
+VistaVision format.
+
+28:58.778 --> 29:03.450
+<i>We were able to acquire equipment</i>
+<i>that had been used to do VistaVision work,</i>
+
+29:03.533 --> 29:06.244
+<i>and then had to modify it</i>
+<i>for our purposes.</i>
+
+29:06.327 --> 29:09.456
+RICHARD: <i>Paramount had all this</i>
+<i>VistaVision equipment</i>
+
+29:09.539 --> 29:12.625
+<i>that hadn't been used</i>
+<i>since</i> The Ten Commandments.
+
+29:12.751 --> 29:15.253
+Behold His mighty hand.
+
+29:18.214 --> 29:20.216
+(PEOPLE CLAMORING)
+
+29:20.300 --> 29:23.052
+(LAUGHING) We Frankensteined it
+back to life.
+
+29:23.970 --> 29:28.224
+RICHARD: <i>That was a classic,</i>
+<i>perfect format for</i> Star Wars.
+
+29:28.892 --> 29:34.022
+JOHN: <i>The larger negative allowed us to</i>
+<i>make duplicates without generational loss.</i>
+
+29:34.189 --> 29:36.483
+And it was in this great
+big magazine on top
+
+29:36.566 --> 29:38.318
+and we're going to undersling the camera.
+
+29:38.401 --> 29:40.945
+So the camera is going to be
+hanging from the boom.
+
+29:41.070 --> 29:45.825
+<i>Made the camera low profile so I could</i>
+<i>fly the camera right close to the models.</i>
+
+29:47.702 --> 29:51.372
+Somewhere in there, I just thought,
+"You know, I want to learn this stuff.
+
+29:51.456 --> 29:53.917
+"This is new technology I've heard about."
+
+29:54.000 --> 29:56.920
+<i>So I made a point of</i>
+<i>contacting John about it</i>
+
+29:57.212 --> 29:59.255
+<i>and ended up getting a job on the show.</i>
+
+30:00.423 --> 30:05.386
+John Dykstra was the head honcho,
+and I like John a lot, big guy,
+
+30:05.470 --> 30:08.807
+and he knew how to take over a room
+and get things done.
+
+30:08.890 --> 30:13.895
+The brilliance of John Dykstra
+was that he could do everybody's job.
+
+30:13.978 --> 30:17.398
+<i>He would come into the model shop</i>
+<i>sometimes to blow off steam</i>
+
+30:17.482 --> 30:19.442
+<i>or something like that,</i>
+<i>and he's making models,</i>
+
+30:19.526 --> 30:21.444
+<i>or he was a filmmaker.</i>
+
+30:21.528 --> 30:24.072
+<i>He could process film,</i>
+<i>all that kind of stuff.</i>
+
+30:24.614 --> 30:26.741
+All those people,
+they were all jack of all trades.
+
+30:26.825 --> 30:28.326
+I had no idea what to think.
+
+30:28.451 --> 30:31.538
+<i>John was always this big,</i>
+<i>outgoing guy and fun,</i>
+
+30:32.205 --> 30:34.332
+<i>and a motorcycle guy and a car racer.</i>
+
+30:34.958 --> 30:37.043
+<i>Which is as far from me as you could get.</i>
+
+30:38.044 --> 30:40.713
+<i>And Richard was more of a kind</i>
+<i>of a laid back kind of guy,</i>
+
+30:40.797 --> 30:43.341
+<i>but into the technology</i>
+<i>and the cameras and precision,</i>
+
+30:43.424 --> 30:45.552
+<i>and I didn't understand much of that.</i>
+
+30:46.094 --> 30:49.222
+JOHN: <i>Richard loved to build equipment.</i>
+
+30:49.806 --> 30:51.140
+<i>That's what he lived for.</i>
+
+30:51.474 --> 30:53.601
+<i>He liked thinking about</i>
+<i>mechanical problems,</i>
+
+30:53.685 --> 30:56.229
+<i>solving mechanical problems</i>
+<i>for photography.</i>
+
+30:57.313 --> 31:00.108
+So, it was an ideal place for him.
+
+31:01.526 --> 31:03.152
+All right. I'm ready.
+
+31:03.987 --> 31:05.154
+(CAMERA SHUTTER CLICKS)
+
+31:06.114 --> 31:08.992
+RICHARD: <i>I don't have</i>
+<i>a classical education.</i>
+
+31:10.034 --> 31:12.370
+<i>I read a lot and I experimented a lot.</i>
+
+31:12.787 --> 31:17.041
+<i>Took metal shop, printing,</i>
+<i>electric shop, mechanical drawing.</i>
+
+31:17.333 --> 31:20.503
+I didn't take auto shop,
+but I was working on my car at home.
+
+31:21.004 --> 31:23.798
+<i>In high school,</i>
+<i>I got interested in photography.</i>
+
+31:24.132 --> 31:29.012
+I was the photographer for the <i>LA Examiner</i>
+already, and I was like a young Weegee.
+
+31:29.888 --> 31:34.642
+<i>One of my last gigs was to photograph</i>
+<i>this "Day in the Navy" event</i>
+
+31:34.726 --> 31:36.936
+<i>to hype young kids to join the Navy.</i>
+
+31:37.145 --> 31:40.273
+<i>We got a tour below deck,</i>
+<i>they fired the five-inch guns.</i>
+
+31:40.356 --> 31:42.692
+The submarine came by and fired a torpedo.
+
+31:42.775 --> 31:47.405
+They were firing at it with twin .50s.
+They asked us how we wanted our eggs,
+
+31:47.488 --> 31:49.240
+you know, I mean, it worked for me.
+
+31:49.324 --> 31:51.910
+I enlisted in the Navy within a week.
+
+31:52.744 --> 31:56.289
+I flew to Tachikawa in Japan,
+started studying the language.
+
+31:56.372 --> 31:57.624
+I had a Chinese buddy.
+
+31:57.707 --> 32:01.461
+The calligraphy expert taught me
+how to write with a brush,
+
+32:01.544 --> 32:03.212
+<i>and I was in a photo lab.</i>
+
+32:03.796 --> 32:06.674
+<i>We had every kind of photographic</i>
+<i>equipment known to man,</i>
+
+32:06.799 --> 32:09.969
+and so I started shooting movies
+and I thought,
+
+32:10.053 --> 32:12.430
+"God, what a fascinating
+career this must be."
+
+32:13.765 --> 32:17.477
+<i>After I got out of the Navy,</i>
+<i>I started bloodying my knuckles</i>
+
+32:17.560 --> 32:18.978
+<i>on the doors of Hollywood.</i>
+
+32:19.062 --> 32:22.023
+<i>And Joe Westheimer somehow</i>
+<i>got ahold of my résumé,</i>
+
+32:22.148 --> 32:25.318
+<i>and I was with Joe for four years</i>
+<i>and I was the crew.</i>
+
+32:25.443 --> 32:30.365
+<i>I was the operator, the assistant,</i>
+<i>the grip gaffer, lab run, swept up.</i>
+
+32:30.698 --> 32:34.369
+I did everything. I did
+the hand lettering for title shows.
+
+32:34.494 --> 32:41.376
+I actually designed the <i>Star Trek</i> alphabet
+that they still use. That... You know.
+
+32:41.542 --> 32:43.544
+<i>(STAR TREK</i> THEME MUSIC PLAYING)
+
+32:45.129 --> 32:47.465
+I never got a nickel extra for that,
+but...
+
+32:48.549 --> 32:52.345
+<i>My hair started growing and then</i>
+<i>I became a rock 'n roll photographer.</i>
+
+32:52.720 --> 32:53.888
+(CAMERA SHUTTER CLICKS)
+
+32:55.848 --> 32:57.850
+(CAMERA SHUTTER CLICKING)
+
+32:58.643 --> 33:00.895
+<i>And I decided,</i>
+<i>"I'm going to get myself a guitar,"</i>
+
+33:00.979 --> 33:03.272
+because I played the ukulele
+since I was a kid
+
+33:03.356 --> 33:06.651
+and I took guitar lessons
+and accordion lessons at one point.
+
+33:07.193 --> 33:10.530
+<i>So I bought this guitar,</i>
+<i>I had a Sam Ash amplifier</i>
+
+33:10.613 --> 33:13.825
+<i>that hummed like, it was really loud,</i>
+<i>and I thought...</i>
+
+33:14.742 --> 33:17.620
+<i>I can make a portable</i>
+<i>guitar amp for my guitar.</i>
+
+33:18.788 --> 33:20.039
+<i>It sounded great.</i>
+
+33:20.581 --> 33:24.669
+<i>This little Pignose was like a big hit</i>
+<i>amongst the famous guitarists.</i>
+
+33:26.379 --> 33:27.755
+<i>And we got it to everyone.</i>
+
+33:28.798 --> 33:32.552
+<i>I mean Eric Clapton,</i>
+<i>George Harrison, Keith Richards.</i>
+
+33:33.094 --> 33:34.345
+Frank Zappa loved them.
+
+33:34.429 --> 33:36.764
+Plug it in here.
+Turn on the giant amplifier.
+
+33:37.348 --> 33:39.392
+(GUITAR MUSIC PLAYING)
+
+33:39.976 --> 33:43.730
+RICHARD: <i>The first year, I think we built</i>
+<i>more than 15,000 Pignoses.</i>
+
+33:44.063 --> 33:47.734
+Anyway, about that time,
+I decided to leave LA
+
+33:47.817 --> 33:51.696
+and went back to San Francisco,
+drove cable cars for a year.
+
+33:54.115 --> 33:56.826
+<i>You know, I had a bunch</i>
+<i>of more life experience</i>
+
+33:56.909 --> 33:58.786
+<i>than a lot of these other people did.</i>
+
+34:08.671 --> 34:12.133
+DENNIS: <i>When I first came on to</i> Star Wars,
+<i>didn't know any of the people.</i>
+
+34:12.216 --> 34:15.178
+I didn't even know the jobs
+because it was done by a factory
+
+34:15.261 --> 34:17.847
+with all these departments,
+like five departments,
+
+34:17.930 --> 34:20.433
+<i>in different areas</i>
+<i>of this big, empty building.</i>
+
+34:21.184 --> 34:23.936
+<i>The world I came from was,</i>
+<i>you used equipment</i>
+
+34:24.062 --> 34:26.606
+<i>that literally was built</i>
+<i>40 and 50 years earlier,</i>
+
+34:26.856 --> 34:29.358
+<i>and there was no money</i>
+<i>for anything any different.</i>
+
+34:29.692 --> 34:32.945
+Nobody was going to put any money
+into reinvent the wheel.
+
+34:33.154 --> 34:34.572
+We already have a wheel.
+
+34:34.655 --> 34:40.912
+But these guys had this confidence
+and had no connection to the past.
+
+34:41.579 --> 34:44.373
+<i>They were prepared to do anything</i>
+<i>to make this work,</i>
+
+34:44.457 --> 34:48.086
+including building equipment,
+and they would just say, "We're doing it."
+
+34:48.920 --> 34:53.341
+We were building an entire system
+from the beginning to the end.
+
+34:53.508 --> 34:56.928
+<i>Cameras were being built at the same time</i>
+<i>the miniatures were being built.</i>
+
+34:57.011 --> 35:00.431
+<i>At the same time, the stage technology</i>
+<i>was going to be built.</i>
+
+35:01.390 --> 35:04.519
+It all had to come together
+to make the first piece of film.
+
+35:05.561 --> 35:08.481
+LORNE: <i>You couldn't buy that stuff</i>
+<i>off the shelf, you know.</i>
+
+35:08.564 --> 35:10.942
+<i>Every gear and every welded piece</i>
+
+35:11.025 --> 35:13.361
+had to be made for these cameras that were
+
+35:13.444 --> 35:15.738
+absolutely earth-shattering
+in what they could do.
+
+35:15.822 --> 35:18.449
+I was there when the
+original camera was brought in
+
+35:18.533 --> 35:22.078
+<i>and they didn't have the boom</i>
+<i>to move the camera up or down yet.</i>
+
+35:22.161 --> 35:23.746
+<i>You know, it seemed like some of it</i>
+
+35:23.830 --> 35:26.582
+<i>they were trying to figure out</i>
+<i>as they were going along,</i>
+
+35:26.666 --> 35:28.960
+<i>I don't know if they really</i>
+<i>decided they needed a boom</i>
+
+35:29.043 --> 35:32.004
+until they got the camera first set up
+and it was on the pedestal.
+
+35:32.088 --> 35:35.258
+And they said, "Well, it might be nice
+to have a boom arm also."
+
+35:36.300 --> 35:40.054
+RICHARD: <i>We were up against the wall</i>
+<i>in a lot of cases in terms of coming up</i>
+
+35:40.138 --> 35:43.474
+<i>with something that was going to work</i>
+<i>that hadn't been done before.</i>
+
+35:44.016 --> 35:46.060
+<i>And we think that this</i>
+<i>is going to work this way.</i>
+
+35:46.227 --> 35:48.896
+And then about two-thirds
+of the way through, you say,
+
+35:48.980 --> 35:53.109
+"Jeez, if I'd only thought of this,
+we could have done it this way."
+
+35:55.486 --> 35:59.240
+JOE: <i>We were sort of flying by the seat</i>
+<i>of our pants in a lot of situations.</i>
+
+35:59.740 --> 36:03.077
+But it's okay if you make mistakes
+and it's okay if you fail.
+
+36:03.786 --> 36:07.832
+The next time you do it,
+maybe you won't make the same mistake.
+
+36:09.458 --> 36:10.918
+DENNIS: <i>At the beginning,</i>
+
+36:11.002 --> 36:14.297
+one of the guys I saw that really grabbed
+my eye was Joe Johnston.
+
+36:15.882 --> 36:17.133
+<i>And Joe was an artist.</i>
+
+36:18.467 --> 36:22.138
+I thought.
+But then I saw him building a model.
+
+36:22.930 --> 36:26.434
+<i>And then the next time I'd see him,</i>
+<i>he was like painting something or other.</i>
+
+36:26.559 --> 36:28.978
+<i>Or I'd see him over here</i>
+<i>and he was doing a storyboard.</i>
+
+36:30.730 --> 36:32.648
+And he was really multi-skilled.
+
+36:34.984 --> 36:37.820
+JOE: <i>At the same time that I started</i>
+<i>doing the storyboards,</i>
+
+36:38.112 --> 36:42.533
+we knew that we had to change the design
+on Colin Cantwell's ships.
+
+36:44.076 --> 36:50.208
+<i>He had designed a Y-wing,</i>
+<i>and the X-wing and the TIE fighters,</i>
+
+36:50.291 --> 36:54.045
+but they needed to
+fall into these worlds of,
+
+36:54.128 --> 36:58.049
+the Empire stuff looks like this,
+and the Rebel stuff looks like this.
+
+36:58.132 --> 37:00.134
+(CAR ENGINE REVVING)
+
+37:01.260 --> 37:06.307
+JOE: <i>George always saw the Rebel fleet</i>
+<i>as essentially hotrods.</i>
+
+37:06.641 --> 37:10.311
+<i>These guys had acquired this stuff used</i>
+<i>and it was beat up</i>
+
+37:10.394 --> 37:13.648
+<i>and they'd patched together</i>
+<i>and supercharged the engines.</i>
+
+37:13.731 --> 37:15.608
+<i>And they were basically little hotrods.</i>
+
+37:16.317 --> 37:19.195
+And the Empire stuff
+is right off the factory floor.
+
+37:21.113 --> 37:25.284
+(LAUGHING) So we can outrun
+the Imperial ships
+
+37:25.368 --> 37:27.078
+because we've hot-rodded ours.
+
+37:28.204 --> 37:31.457
+<i>And so I started sort of changing</i>
+<i>the designs around a little bit.</i>
+
+37:32.625 --> 37:37.088
+<i>And that sort of led from,</i>
+<i>"I'm doing storyboards over here,"</i>
+
+37:37.922 --> 37:40.091
+<i>to "And now I'm going</i>
+<i>to take all this stuff</i>
+
+37:40.174 --> 37:43.469
+<i>"to my other drawing table</i>
+<i>and start changing these designs."</i>
+
+37:46.222 --> 37:50.184
+I don't remember if it was because
+something needed to be done
+
+37:50.268 --> 37:54.105
+and there wasn't anybody there to do it,
+but one day, George said,
+
+37:54.772 --> 37:56.899
+<i>"You know, we need</i>
+<i>a new ship for Han Solo,</i>
+
+37:57.108 --> 37:58.401
+"and we need it fast."
+
+38:00.027 --> 38:03.990
+Space: 1999 <i>came out and they had a ship</i>
+
+38:04.532 --> 38:10.079
+<i>that was roughly the same shape</i>
+<i>as the original Han Solo ship.</i>
+
+38:11.539 --> 38:13.457
+<i>George didn't want to copy anybody.</i>
+
+38:13.582 --> 38:16.502
+<i>He didn't want anything on TV</i>
+<i>that looked like one of his ships.</i>
+
+38:16.585 --> 38:18.504
+<i>So we were not going to use that ship.</i>
+
+38:20.381 --> 38:22.842
+He says, "We can use that as
+the blockade runner.
+
+38:22.925 --> 38:25.594
+"But Han Solo needs his own ship."
+
+38:27.346 --> 38:31.225
+<i>I went home and I had this mental block</i>
+
+38:31.642 --> 38:34.353
+because George had sent me off
+to design a new ship.
+
+38:34.437 --> 38:38.983
+They wanted it right away,
+but the original ship was nearly finished.
+
+38:39.650 --> 38:42.320
+<i>Grant McCune had already</i>
+<i>finished the cockpit,</i>
+
+38:42.945 --> 38:45.489
+<i>and he had finished the radar dish.</i>
+
+38:45.906 --> 38:48.951
+<i>So he said, "Do me a favor</i>
+<i>and use this radar dish,</i>
+
+38:49.952 --> 38:51.078
+<i>"and use the cockpit."</i>
+
+38:51.996 --> 38:53.664
+<i>I said, "Okay, I can do that."</i>
+
+38:54.332 --> 38:57.418
+So I'm sitting there,
+I'm looking around the room at stuff,
+
+38:57.543 --> 39:01.088
+you know, trying to find shapes that,
+"Maybe that could be cool."
+
+39:01.172 --> 39:06.302
+And I look over in the kitchen area
+and there's this stack of dirty dishes
+
+39:07.094 --> 39:10.014
+and I'm thinking,
+"What if you took this dish
+
+39:10.097 --> 39:13.100
+"and put another one on top of it
+like this. That's cool."
+
+39:13.184 --> 39:14.560
+Well, it's a flying saucer.
+
+39:16.645 --> 39:20.649
+<i>But you can give it direction</i>
+<i>by putting an engine on the back,</i>
+
+39:21.692 --> 39:25.363
+<i>you know, somehow,</i>
+<i>and putting something in the front</i>
+
+39:25.446 --> 39:27.156
+<i>that gives it sort of a direction.</i>
+
+39:28.783 --> 39:30.618
+But I had this cockpit I had to use,
+
+39:30.743 --> 39:33.704
+<i>so I put the cockpit in</i>
+<i>all different positions,</i>
+
+39:33.788 --> 39:37.792
+<i>on top, and underneath, then out front.</i>
+
+39:38.542 --> 39:43.047
+I said, "You know, if I'm driving a car,
+I'm going to be sitting on one side,
+
+39:43.130 --> 39:45.591
+<i>"so I'm going to put the cockpit</i>
+<i>out on one side."</i>
+
+39:50.012 --> 39:52.598
+But I don't want it to look
+like an American car,
+
+39:52.932 --> 39:55.101
+so I put the cockpit
+over on the right side.
+
+39:55.184 --> 39:58.396
+<i>It will make it a right-hand-drive thing.</i>
+
+39:58.479 --> 40:01.941
+<i>Then I put the radar dish on the</i>
+<i>opposite side to balance the cockpit.</i>
+
+40:02.566 --> 40:06.112
+<i>I did about six sketches,</i>
+<i>and I brought them to George</i>
+
+40:06.195 --> 40:09.073
+<i>and I knew right away</i>
+<i>before I even put them on the table,</i>
+
+40:09.156 --> 40:12.827
+he's going to like the one where
+it's eccentric and off to the side and...
+
+40:13.285 --> 40:17.123
+something that you know
+he hadn't seen before, which he did.
+
+40:20.960 --> 40:23.045
+Its nickname was the "Pork Burger."
+
+40:24.088 --> 40:25.840
+<i>Because it looked like a hamburger.</i>
+
+40:27.383 --> 40:29.718
+JOE: <i>By the time I came back</i>
+<i>with those drawings,</i>
+
+40:29.844 --> 40:31.971
+and George said,
+"Yeah, start building it,"
+
+40:32.346 --> 40:33.431
+it was underway.
+
+40:35.224 --> 40:40.312
+<i>So instead of designing it on paper,</i>
+<i>I hung out in the model shop.</i>
+
+40:40.938 --> 40:43.607
+<i>We just... We did it practically</i>
+<i>instead of on paper.</i>
+
+40:45.526 --> 40:47.403
+LORNE: <i>George wanted a used universe.</i>
+
+40:48.154 --> 40:50.948
+You know, he didn't want that
+shiny Flash Gordon look.
+
+40:52.533 --> 40:56.996
+You weren't supposed to think of it like
+an incredibly massive piece of aluminum,
+
+40:57.121 --> 40:59.748
+<i>that was somehow floated in</i>
+<i>and put together.</i>
+
+41:00.666 --> 41:02.710
+This had to be put together and riveted.
+
+41:04.086 --> 41:05.713
+<i>Everything had to have a reason.</i>
+
+41:05.796 --> 41:09.008
+<i>So even if you looked at it close,</i>
+<i>if there was a box,</i>
+
+41:09.133 --> 41:11.635
+<i>it had to have tubes</i>
+<i>that went to a planum box</i>
+
+41:11.719 --> 41:14.805
+<i>that then went to something else</i>
+<i>and had electrical wires</i>
+
+41:14.889 --> 41:16.891
+<i>that then connected into something else.</i>
+
+41:17.099 --> 41:19.560
+<i>It had to have some kind of</i>
+<i>mechanical connection.</i>
+
+41:20.769 --> 41:24.064
+We adopted the phrase
+"boilerplate technology."
+
+41:24.231 --> 41:28.569
+The model builders were working
+off sketches for a lot of it.
+
+41:28.819 --> 41:31.947
+<i>But for some of the minute detail,</i>
+<i>they were just finding parts</i>
+
+41:32.031 --> 41:36.035
+<i>from model kits that looked like, "This</i>
+<i>is a mechanical thing, this'll look good."</i>
+
+41:36.118 --> 41:37.495
+LORNE: <i>We called this kit bashing.</i>
+
+41:37.828 --> 41:41.373
+<i>And we would buy German tanks,</i>
+<i>airplanes, guns,</i>
+
+41:41.540 --> 41:45.294
+World War II equipment, just to provide
+an incredible amount of good parts.
+
+41:45.377 --> 41:48.631
+JOE: <i>We were limited somewhat</i>
+<i>by the model kits that we could get,</i>
+
+41:48.714 --> 41:53.636
+because if we had to build 10 X-wings,
+we had to find 10 of those kits.
+
+41:54.303 --> 41:56.680
+<i>So we'd buy these kits by the pound.</i>
+
+41:58.682 --> 42:00.768
+LORNE: <i>I was working on the Sandcrawler,</i>
+
+42:01.977 --> 42:05.606
+and the treads on the Sandcrawler...
+There's about 280 treads.
+
+42:05.689 --> 42:07.274
+<i>And I said to Bob Shepherd,</i>
+
+42:07.358 --> 42:10.319
+<i>"Oh, my God, if I had a little injection</i>
+<i>molding machine,</i>
+
+42:10.402 --> 42:11.862
+<i>"I could do these in no time."</i>
+
+42:11.946 --> 42:15.115
+He said, "Well, how much would a machine
+like that cost?"
+
+42:15.491 --> 42:17.785
+I said, "I can get one for about
+$1,500, $1,800."
+
+42:17.868 --> 42:22.248
+He said, "Oh, my God, $1,500, $1,800?
+Go get it. Get the truck and go get it."
+
+42:22.331 --> 42:27.044
+All of a sudden, the light went on like,
+"Oh, my God, $1,500 is a pee in the pot
+
+42:27.127 --> 42:31.465
+"compared to this multi-million dollar
+movie they were making in England
+
+42:32.007 --> 42:34.218
+<i>"that has to be out by 1977."</i>
+
+42:37.054 --> 42:38.806
+(GEORGE SPEAKING)
+
+42:42.518 --> 42:43.602
+(GUNSHOT)
+
+42:44.562 --> 42:46.105
+I was just getting over there.
+
+42:46.188 --> 42:47.189
+(GEORGE SPEAKING)
+
+43:03.289 --> 43:04.290
+Right-o.
+
+43:04.873 --> 43:06.208
+(FOOTSTEPS APPROACHING)
+
+43:06.292 --> 43:07.459
+(MAN SPEAKING INDISTINCTLY)
+
+43:07.543 --> 43:08.961
+And action!
+
+43:09.044 --> 43:11.338
+(CLANKING)
+
+43:11.422 --> 43:13.799
+Didn't lock. Didn't lock.
+Doesn't lock, does it?
+
+43:22.308 --> 43:23.892
+We'll get there somewhat quick.
+
+43:25.144 --> 43:28.606
+LORNE: <i>George was still in England,</i>
+<i>but we weren't producing film yet.</i>
+
+43:29.231 --> 43:31.734
+Designing and building
+everything from scratch
+
+43:31.817 --> 43:36.655
+<i>was much harder and more time-consuming</i>
+<i>than could have been anticipated.</i>
+
+43:37.698 --> 43:40.576
+<i>Jon Erland and I</i>
+<i>were originally hired for two months,</i>
+
+43:40.659 --> 43:46.123
+<i>but the industrial processes</i>
+<i>that we knew were incredibly valuable.</i>
+
+43:46.832 --> 43:49.835
+I noticed that the way that
+they were making the spaceships
+
+43:49.918 --> 43:51.420
+<i>is that they would find a part</i>
+
+43:51.503 --> 43:54.465
+<i>and then they would mix five-minute epoxy,</i>
+<i>put it on the back side,</i>
+
+43:54.548 --> 43:57.217
+<i>and then they'd put masking tape</i>
+<i>and hold it in place.</i>
+
+43:57.343 --> 43:58.969
+<i>And then they'd go to the next part</i>
+
+43:59.053 --> 44:01.764
+and, you know, masking tape
+and five-minute epoxy.
+
+44:01.847 --> 44:04.725
+<i>You couldn't buy superglue</i>
+<i>in hardware stores.</i>
+
+44:05.100 --> 44:06.644
+It was called Eastman 910.
+
+44:06.852 --> 44:09.980
+<i>But Jon Erland and I</i>
+<i>could buy things industrially</i>
+
+44:10.064 --> 44:12.066
+<i>that regular human beings couldn't get.</i>
+
+44:12.399 --> 44:16.362
+So I said, "All of you other guys,
+the five other model-makers,
+
+44:16.445 --> 44:19.365
+"I want you to stop and watch
+what I am doing here for a minute."
+
+44:19.448 --> 44:21.950
+I held one quarter of a pencil
+
+44:22.451 --> 44:25.371
+on the edge of the table,
+I put a little drop of superglue
+
+44:25.454 --> 44:30.668
+and I moved my hand and the pencil
+remained cantilevered out over the table.
+
+44:30.959 --> 44:34.421
+And they were all like,
+"Oh, my God, how did you do that?"
+
+44:38.217 --> 44:42.805
+<i>Well, after that, no one ever mentioned</i>
+<i>that we were only hired for two months.</i>
+
+44:44.723 --> 44:48.394
+JOHN: <i>Everybody had a broad range</i>
+<i>of skills that overlapped.</i>
+
+44:48.477 --> 44:50.562
+<i>So the guys who were building the models</i>
+
+44:50.646 --> 44:53.982
+<i>knew what the guy who was going to</i>
+<i>photograph it was going to need.</i>
+
+44:54.066 --> 44:57.277
+<i>So where I was going to mount it,</i>
+<i>whether it would cast a shadow,</i>
+
+44:57.361 --> 44:59.822
+<i>what are the reflective</i>
+<i>qualities of the surfaces,</i>
+
+45:00.030 --> 45:02.324
+and that amalgam, whatever it is,
+
+45:02.449 --> 45:06.662
+that synthesis is greater
+than the sum of its parts.
+
+45:08.831 --> 45:10.374
+RICHARD: <i>We were a family.</i>
+
+45:10.457 --> 45:13.502
+I'd wake up in the morning,
+I was ready to go.
+
+45:13.585 --> 45:16.880
+I mean, I enjoyed it so much
+that I'd just stay there until
+
+45:16.964 --> 45:19.133
+9:00. 10:00, 11:00 at night, you know.
+
+45:19.216 --> 45:23.345
+People lived there.
+I mean, we were there 18 hours a day.
+
+45:23.429 --> 45:25.264
+<i>Most of us were all in our 20s.</i>
+
+45:25.389 --> 45:27.641
+<i>Very few had children</i>
+<i>or other commitments.</i>
+
+45:28.600 --> 45:30.477
+They let us do what we wanted to do.
+
+45:30.978 --> 45:34.398
+<i>You could come in at noon</i>
+<i>and work till midnight if you wanted to.</i>
+
+45:34.898 --> 45:37.151
+RICHARD: <i>And it was like 100 degrees plus.</i>
+
+45:37.234 --> 45:40.028
+It was a tin building, right,
+with no air conditioning.
+
+45:40.446 --> 45:44.491
+There was a military Air Force
+surplus store across the street,
+
+45:44.825 --> 45:47.286
+<i>and one of the guys came back</i>
+<i>with a shipping case</i>
+
+45:47.369 --> 45:49.496
+<i>so we would fill it up with cold water</i>
+
+45:49.580 --> 45:51.665
+<i>and then everybody would dunk in it</i>
+
+45:52.082 --> 45:53.542
+<i>and then go back in to work.</i>
+
+45:59.882 --> 46:05.929
+JOE: <i>My dad had bought an aircraft</i>
+<i>escape chute at a surplus place.</i>
+
+46:06.430 --> 46:07.931
+We used it as a slip and slide.
+
+46:08.015 --> 46:10.017
+You just push the button and it...
+(MIMICS WHOOSHING)
+
+46:16.315 --> 46:18.692
+What else are you going
+to do with it, right?
+
+46:18.776 --> 46:20.652
+You can't use it to...
+
+46:21.779 --> 46:23.197
+escape your airplane.
+
+46:24.990 --> 46:26.825
+HARRISON: <i>I would go there at night,</i>
+
+46:26.909 --> 46:32.331
+so I didn't get to participate
+in lunch hours in the hot tub,
+
+46:32.414 --> 46:33.457
+(CHUCKLING) so...
+
+46:34.875 --> 46:39.880
+<i>I was still working at Disney</i>
+<i>when I was moonlighting on</i> Star Wars.
+
+46:41.131 --> 46:46.428
+Going from Disney Studios during the day
+
+46:47.429 --> 46:51.099
+<i>over to this rather unkempt,</i>
+
+46:51.183 --> 46:55.103
+(CHUCKLING) <i>dusty warehouse,</i>
+
+46:56.230 --> 46:59.191
+was literally night and day.
+
+47:01.819 --> 47:07.157
+<i>I grew up being surrounded</i>
+<i>by filmmakers and creative people.</i>
+
+47:08.700 --> 47:11.745
+<i>My father was a matte painter at Disney.</i>
+
+47:12.204 --> 47:14.039
+Disney was Disney.
+
+47:14.540 --> 47:15.916
+It was iconic.
+
+47:17.709 --> 47:19.211
+<i>I was enchanted.</i>
+
+47:20.754 --> 47:22.798
+<i>My father was one of the chosen ones.</i>
+
+47:28.345 --> 47:33.433
+<i>For years, I was known</i>
+<i>because I was the son of Peter Ellenshaw.</i>
+
+47:36.645 --> 47:40.482
+<i>I didn't want to follow</i>
+<i>in my father's footsteps,</i>
+
+47:41.942 --> 47:43.235
+<i>fill his shoes.</i>
+
+47:43.318 --> 47:45.320
+(AUDIENCE APPLAUDING)
+
+47:47.197 --> 47:48.907
+Who could possibly do that?
+
+47:49.992 --> 47:54.413
+I took one course in freehand drawing
+and I got a C.
+
+47:54.955 --> 48:00.502
+<i>But my father said, "I know</i>
+<i>you're not that interested in doing it,</i>
+
+48:00.919 --> 48:06.466
+<i>"but the Disney Matte Department is having</i>
+<i>a really difficult time hiring people."</i>
+
+48:07.092 --> 48:08.969
+And he said, "Give it six months."
+
+48:11.430 --> 48:14.516
+<i>So now I'm working at Disney,</i>
+
+48:15.100 --> 48:19.313
+and after about six years, I got a call
+
+48:19.605 --> 48:23.233
+kind of out of the blue, from Jim Nelson,
+
+48:23.692 --> 48:27.988
+<i>one of the producers on a film</i>
+<i>called the</i> Star Wars.
+
+48:29.573 --> 48:30.616
+He was clever.
+
+48:31.116 --> 48:35.203
+He brought over
+Ralph McQuarrie's sketches.
+
+48:36.204 --> 48:37.915
+<i>They were intimidating,</i>
+
+48:39.166 --> 48:42.753
+<i>but at the same time inspiring.</i>
+
+48:47.507 --> 48:48.717
+<i>That's all it took.</i>
+
+48:51.136 --> 48:55.641
+At Disney, I was one of the
+youngest people. I was a kid.
+
+48:55.724 --> 48:58.143
+<i>At ILM, I was an old guy.</i>
+
+48:59.478 --> 49:05.484
+I almost expected people to come
+and ask me what it was like before sound.
+
+49:06.360 --> 49:08.737
+<i>They'd never seen a matte painting.</i>
+
+49:09.821 --> 49:14.952
+<i>A matte painting</i>
+<i>is the painted piece of scenery</i>
+
+49:15.035 --> 49:18.288
+<i>that goes together with</i>
+
+49:18.372 --> 49:22.167
+actors on a location, on a set.
+
+49:22.292 --> 49:24.836
+You wouldn't see me get rid of it
+anyway, would you?
+
+49:24.962 --> 49:30.008
+<i>In</i> Star <i>Wars, the shot with Obi-Wan Kenobi</i>
+
+49:30.175 --> 49:34.304
+<i>turning off the tractor beam,</i>
+<i>that was a matte shot.</i>
+
+49:35.681 --> 49:41.019
+<i>Alec Guinness was standing six feet</i>
+<i>off the stage floor,</i>
+
+49:41.520 --> 49:45.857
+but I, in my matte painting,
+replaced the stage floor
+
+49:46.191 --> 49:49.486
+with a shaft that goes down to infinity,
+
+49:50.070 --> 49:53.073
+<i>which creates a certain amount of tension.</i>
+
+49:55.242 --> 49:56.952
+In fact, a lot of tension.
+
+49:58.161 --> 50:01.832
+<i>Here's this old guy</i>
+<i>who's dressed like a monk</i>
+
+50:01.915 --> 50:08.088
+going around something that goes way down
+and he could fall off.
+
+50:08.171 --> 50:12.509
+Well, why didn't they put the switch
+over next to the bridge?
+
+50:12.592 --> 50:14.886
+(CHUCKLING) It doesn't...
+
+50:14.970 --> 50:16.138
+But you're loving it.
+
+50:16.221 --> 50:18.432
+You're just going,
+"What's he going to do? Oh!"
+
+50:18.849 --> 50:22.310
+So to get that product,
+you've got to put this,
+
+50:23.395 --> 50:28.775
+<i>together with this,</i>
+<i>onto one piece of film.</i>
+
+50:32.029 --> 50:33.655
+MAN 1: <i>You seen that new BT-16?</i>
+
+50:33.739 --> 50:36.324
+MAN 2: <i>Yeah, some of the other guys</i>
+<i>were telling me about it.</i>
+
+50:36.408 --> 50:38.285
+<i>They say it's quite a thing to see.</i>
+
+50:40.912 --> 50:42.789
+LUKE: <i>I think we took a wrong turn.</i>
+
+50:42.873 --> 50:44.624
+PRINCESS LEIA: <i>They're coming through!</i>
+
+50:44.708 --> 50:46.126
+MAN: (OVER PA) <i>316, report to control.</i>
+
+50:46.209 --> 50:47.461
+HAN: <i>This is not gonna work.</i>
+
+50:47.586 --> 50:50.964
+LUKE: <i>Why didn't you say so before?</i>
+HAN: <i>I did say so before.</i>
+
+50:53.383 --> 50:56.720
+HAN: <i>Hey, Luke. May the Force be with you.</i>
+
+50:58.013 --> 51:00.682
+(DRAMATIC SCORE MUSIC PLAYING)
+
+51:02.476 --> 51:06.521
+HARRISON: <i>I was set up</i>
+<i>on the second floor.</i>
+
+51:06.897 --> 51:10.108
+Being on the second floor is not good
+
+51:10.275 --> 51:13.445
+because people slam doors and it vibrates.
+
+51:13.528 --> 51:14.529
+(DOOR SLAMS)
+
+51:14.613 --> 51:18.450
+Eventually, John Dykstra or Richard Edlund
+came up with the idea,
+
+51:18.867 --> 51:21.495
+"Okay, we'll put a red light
+
+51:21.661 --> 51:25.791
+"that you'll turn on when you're shooting
+so people don't come in the door."
+
+51:26.875 --> 51:29.461
+Nobody paid attention to the red light.
+(CHUCKLES)
+
+51:29.795 --> 51:30.796
+(MACHINERY WHIRRING)
+
+51:32.964 --> 51:35.759
+JOHN: <i>After probably six months,</i>
+
+51:35.842 --> 51:39.304
+<i>we'd gotten the first</i>
+<i>of our prototypes done,</i>
+
+51:39.387 --> 51:43.183
+but we weren't producing
+a single piece of finished film.
+
+51:43.809 --> 51:46.812
+We built this violin,
+and now had to learn how to play it.
+
+51:50.232 --> 51:52.567
+You know, the equipment
+wasn't just all coming together,
+
+51:52.651 --> 51:54.653
+and George was coming back from England.
+
+51:55.028 --> 51:57.155
+And so there was this pressure to get done
+
+51:57.239 --> 51:59.491
+<i>what we could done</i>
+<i>to get some pieces of film.</i>
+
+52:01.535 --> 52:06.248
+<i>I think Grant came up with the idea</i>
+<i>that we could do the escape pod</i>
+
+52:06.331 --> 52:09.584
+<i>falling out of the bay</i>
+<i>on the princess's ship.</i>
+
+52:10.168 --> 52:13.255
+<i>And one of the guns</i>
+<i>on the surface of the Death Star.</i>
+
+52:13.338 --> 52:16.007
+Because neither one of them
+were motion control shots.
+
+52:16.091 --> 52:17.759
+They weren't using the equipment.
+
+52:17.926 --> 52:20.262
+<i>Jon Erland and I built this bay</i>
+<i>with solenoids,</i>
+
+52:20.345 --> 52:25.308
+<i>so the pod was set in that and then</i>
+<i>the camera was put up on a forklift,</i>
+
+52:25.392 --> 52:28.603
+<i>and then we had black velvet</i>
+<i>stretched out like a big net.</i>
+
+52:28.937 --> 52:31.857
+I put mica dust
+in all the little solenoids.
+
+52:32.315 --> 52:36.069
+<i>So when the solenoids pull back,</i>
+<i>it's as if bolts are blowing it out,</i>
+
+52:36.153 --> 52:38.446
+<i>and then it creates</i>
+<i>all these little sparkles.</i>
+
+52:38.738 --> 52:41.408
+<i>If you look really closely,</i>
+<i>you don't see any stars.</i>
+
+52:45.203 --> 52:49.833
+So we did that shot, and then we did the
+Death Star gun that you know...
+
+52:49.916 --> 52:50.917
+(MIMICS GUNSHOTS)
+
+52:55.088 --> 52:58.884
+But I know George probably had
+hopes of a lot more than that.
+
+53:02.554 --> 53:04.681
+Okay, here we are, running the camera.
+
+53:06.892 --> 53:08.977
+This whole business is one big test.
+
+53:11.521 --> 53:17.194
+<i>Special effects in general</i>
+<i>is one nonstop continuous test,</i>
+
+53:18.528 --> 53:22.199
+<i>because you always have</i>
+<i>to rely on some other trick</i>
+
+53:22.282 --> 53:26.328
+<i>that you pull out of your sleeve</i>
+<i>to solve some ridiculous problems,</i>
+
+53:26.411 --> 53:28.914
+<i>and you just test it till you get it.</i>
+(CHUCKLES)
+
+53:28.997 --> 53:31.291
+JOHN: <i>With traditional visual</i>
+<i>effects photography,</i>
+
+53:31.374 --> 53:34.085
+<i>the subject would be moving</i>
+<i>and the camera follows it.</i>
+
+53:35.754 --> 53:37.839
+In our world, the camera's moving.
+
+53:43.345 --> 53:47.224
+<i>This is because we needed to light</i>
+<i>the model with a static light source,</i>
+
+53:47.307 --> 53:48.725
+<i>which was supposed to be the sun.</i>
+
+53:48.808 --> 53:52.312
+So we wanted the light source
+and the model relative to one another
+
+53:52.395 --> 53:53.605
+to stay in one place.
+
+53:53.813 --> 53:55.857
+The model rotating,
+the shadows would change.
+
+53:55.941 --> 53:58.360
+<i>The model panning,</i>
+<i>the shadows would change.</i>
+
+53:58.443 --> 54:00.654
+<i>But if we had moved</i>
+<i>the model towards camera,</i>
+
+54:00.737 --> 54:02.614
+<i>the light would have had to go on with it,</i>
+
+54:02.697 --> 54:04.366
+<i>otherwise, the light would</i>
+<i>change on the model.</i>
+
+54:04.449 --> 54:05.659
+<i>So we moved the camera.</i>
+
+54:07.702 --> 54:10.580
+<i>We put the chosen model on a device</i>
+
+54:10.664 --> 54:13.625
+which is also controlled
+by the motion control system
+
+54:13.708 --> 54:17.128
+<i>so the model can slide back and forth,</i>
+<i>go up and down, or rotate.</i>
+
+54:18.088 --> 54:19.673
+<i>Then you had to figure out</i>
+
+54:19.756 --> 54:24.052
+<i>what kind of camera move</i>
+<i>results in the proper subject move.</i>
+
+54:25.637 --> 54:27.597
+Invariably the producer comes and says,
+
+54:27.681 --> 54:30.100
+"I'd like something
+like I've never seen before."
+
+54:30.350 --> 54:32.727
+<i>We're always faced with a problem</i>
+<i>of trying to figure out</i>
+
+54:32.811 --> 54:35.689
+<i>how to get a camera someplace</i>
+<i>where it hasn't been before,</i>
+
+54:35.772 --> 54:37.732
+<i>or give you a different point of view</i>
+
+54:37.816 --> 54:39.734
+<i>than you've ever had before</i>
+<i>in that same place.</i>
+
+54:39.818 --> 54:42.654
+<i>The thing that they buy</i>
+<i>when they come for your talent</i>
+
+54:42.737 --> 54:46.032
+<i>is your ingenuity, your ability</i>
+<i>to give what you say you can give,</i>
+
+54:46.116 --> 54:50.245
+especially when they don't understand it.
+They hope you do... (CHUCKLES) basically.
+
+55:24.571 --> 55:27.741
+I was not happy.
+
+56:09.616 --> 56:13.411
+MAN: <i>Eastman 910 adhesive,</i>
+<i>now available at local stores.</i>
