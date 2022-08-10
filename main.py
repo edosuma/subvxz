@@ -148,7 +148,7 @@ def cleaner():
 
 
 def main():
-    # print(cleaner())
+    print(cleaner())
     vids = get_null()
     if not vids:
         print("TMDB id not found")
