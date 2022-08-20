@@ -6,6 +6,7 @@ import ssl
 import sys
 import time
 import glob
+from pathlib import Path
 from urllib.parse import urlparse
 
 try:
@@ -32,7 +33,8 @@ ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox
 ssl_context = ssl.SSLContext(ssl.PROTOCOL_TLS_CLIENT)
 ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
-fldr = "sub/"
+scr_loc = Path(__file__).absolute().parent
+fldr = str(scr_loc)+"\\sub\\"
 
 
 async def id_generator():
@@ -45,8 +47,8 @@ async def id_generator():
 
 
 def parse_rabbit(did):
-    sid = asyncio.run(id_generator())
     try:
+        sid = asyncio.run(id_generator())
         token = reCaptchaV3(rcap + '?ar=1&k=6LfTNiYeAAAAAGfLceajE7TdU20LLZXUM3_pqyh1&co=aHR0cHM6Ly9yYWJiaXRzdHJlYW0ubmV0OjQ0Mw..&hl=en&v=4rwLQsl5N_ccppoTAwwwMrEN&size=invisible&cb=xrxmrb5bqkim')
         headers = {
             "Referer": "https://rabbitstream.net/",
@@ -141,14 +143,14 @@ def cleaner():
     fileList=glob.glob("*.vtt")
     
     for filename in fileList:
-        if os.stat(filename).st_size < 2:
+        if os.stat(filename).st_size < 10:
             os.remove(filename)
     
     return "Done"
 
 
 def main():
-    print(cleaner())
+    cleaner()
     vids = get_null()
     if not vids:
         print("TMDB id not found")
@@ -182,11 +184,11 @@ def main():
             print("No data found")
         sys.stdout.flush()
     time.sleep(1)
-    #os.system('git add .')
-    #time.sleep(1)
-    #os.system('git commit -am "Make it better"')
-    #time.sleep(1)
-    #os.system('git push origin master --force')
+    os.system('git add .')
+    time.sleep(1)
+    os.system('git commit -am "Make it better"')
+    time.sleep(1)
+    os.system('git push origin master --force')
     print("Task done")
     sys.stdout.flush()
 
