@@ -77,17 +77,20 @@ def test_rul(did):
 
 
 def get_all_source(tp, did, ses, eps):
-    uri = "https://www.2embed.to/embed/tmdb/"
-    params = {'id': did, 's': ses, 'e': eps}
-    req = requests.get(uri+tp, params=params)
-    if req.status_code != 200 or 'show-name' not in req.text:
-        return ["https://rabbitstream.net/embed-5/7o2sq5dyDA6y?z="]
-    soup = BeautifulSoup(req.text, 'html.parser')
-    uid = []
-    for eid in soup.find_all('a', {"class": "dropdown-item item-server"}):
-        urx = test_rul(eid['data-id'])
-        uid.append(urx)
-    return uid
+    try:
+        uri = "https://www.2embed.to/embed/tmdb/"
+        params = {'id': did, 's': ses, 'e': eps}
+        req = requests.get(uri+tp, params=params)
+        if req.status_code != 200 or 'show-name' not in req.text:
+            return ["https://rabbitstream.net/embed-5/7o2sq5dyDA6y?z="]
+        soup = BeautifulSoup(req.text, 'html.parser')
+        uid = []
+        for eid in soup.find_all('a', {"class": "dropdown-item item-server"}):
+            urx = test_rul(eid['data-id'])
+            uid.append(urx)
+        return uid
+    except:
+        return
 
 
 def down_rabbit(url, mid, epid):
@@ -98,11 +101,14 @@ def down_rabbit(url, mid, epid):
         return
     for x in docs:
         if 'default' in x:
-            r = requests.get(x['file'], stream=True)
-            with open(xfl, 'wb') as fl:
-                for chunk in r.iter_content(chunk_size=1024):
-                    fl.write(chunk)
-            return x['file']
+            try:
+                r = requests.get(x['file'], stream=True)
+                with open(xfl, 'wb') as fl:
+                    for chunk in r.iter_content(chunk_size=1024):
+                        fl.write(chunk)
+                return x['file']
+            except:
+                return
     return
 
 
