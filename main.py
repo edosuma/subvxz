@@ -48,15 +48,16 @@ async def id_generator():
 
 def parse_rabbit(did):
     try:
-        sid = asyncio.run(id_generator())
-        token = reCaptchaV3(rcap + '?ar=1&k=6LfTNiYeAAAAAGfLceajE7TdU20LLZXUM3_pqyh1&co=aHR0cHM6Ly9yYWJiaXRzdHJlYW0ubmV0OjQ0Mw..&hl=en&v=4rwLQsl5N_ccppoTAwwwMrEN&size=invisible&cb=xrxmrb5bqkim')
+        #sid = asyncio.run(id_generator())
+        #token = reCaptchaV3(rcap + '?ar=1&k=6Lf2aYsgAAAAAFvU3-ybajmezOYy87U4fcEpWS4C&co=aHR0cHM6Ly93d3cuMmVtYmVkLnRvOjQ0Mw..&hl=en&v=pn3ro1xnhf4yB8qmnrhh9iD2&size=invisible&cb=n4ry8rlvxw4u')
         headers = {
             "Referer": "https://rabbitstream.net/",
             "User-Agent": ua
         }
-        params = {'id': did, '_token': token, '_number': 3, 'sId': sid}
+        params = {'id': did}
         req = requests.get("https://rabbitstream.net/ajax/embed-5/getSources", headers=headers, params=params)
-        if req.status_code != 200 or 'index.m3u8' not in req.text:
+        print(req.text)
+        if req.status_code != 200 or 'captions' not in req.text:
             return
         return req.json()['tracks']
     except:
@@ -65,7 +66,7 @@ def parse_rabbit(did):
 
 def test_rul(did):
     try:
-        token = reCaptchaV3(rcap+'?ar=1&k=6Lf2aYsgAAAAAFvU3-ybajmezOYy87U4fcEpWS4C&co=aHR0cHM6Ly93d3cuMmVtYmVkLnRvOjQ0Mw..&hl=en&v=4rwLQsl5N_ccppoTAwwwMrEN&size=invisible&cb=pth5h7nxje35')
+        token = reCaptchaV3(rcap+'?ar=1&k=6Lf2aYsgAAAAAFvU3-ybajmezOYy87U4fcEpWS4C&co=aHR0cHM6Ly93d3cuMmVtYmVkLnRvOjQ0Mw..&hl=en&v=pn3ro1xnhf4yB8qmnrhh9iD2&size=invisible&cb=n4ry8rlvxw4u')
         uri = "https://www.2embed.to/ajax/embed/play"
         params = {'id': did, '_token': token}
         req = requests.get(uri, params=params)
@@ -101,6 +102,7 @@ def down_rabbit(url, mid, epid):
         return
     for x in docs:
         if 'default' in x:
+            print("TRy:", x['file'])
             try:
                 r = requests.get(x['file'], stream=True)
                 with open(xfl, 'wb') as fl:
