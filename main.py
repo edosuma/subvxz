@@ -28,8 +28,13 @@ fldr = str(scr_loc) + "\\sub\\"
 
 def parse_vtt(did):
     try:
-        headers = {'user-agent': ua, 'referer': 'https://dokicloud.one/'}
-        urx = 'https://dokicloud.one/ajax/embed-5/getSources?id='
+        headers = {
+        'Host': 'dokicloud.one',
+        'User-Agent': ua,
+        'Referer': 'https://dokicloud.one/embed-4/' + did + '?z=',
+        'X-Requested-With': 'XMLHttpRequest'
+        }
+        urx = 'https://dokicloud.one/ajax/embed-4/getSources?id='
         req = requests.get(urx + did, headers=headers)
         if req.status_code != 200 or 'captions' not in req.text:
             return
@@ -46,7 +51,7 @@ def down_rabbit(url, mid, epid):
         return
     for x in docs:
         if 'default' in x:
-            print("Try:", x['file'])
+            print("Try:", x['file'], flush=True)
             try:
                 r = requests.get(x['file'], stream=True)
                 with open(xfl, 'wb') as fl:
@@ -102,27 +107,24 @@ def main():
     cleaner()
     vids = get_null()
     if not vids:
-        print("Data not found")
-        sys.stdout.flush()
+        print("Data not found", flush=True)
         sys.exit()
-    print(len(vids))
+    print(len(vids), flush=True)
     for vid in sorted(vids, key=lambda d: d["data_id"], reverse=True):
         mid = vid['data_id']
         epid = vid['data']['ep_id']
         vido = vid['data']['sv_8']
-        print(mid, epid, vido)
+        print(mid, epid, vido, flush=True)
         if not os.path.isfile(fldr + str(mid) + "-" + str(epid) + ".vtt"):
             task = get_source(vido)
             if task:
                 doc = down_rabbit(task, mid, epid)
                 if doc and len(str(doc)) > 20:
-                    print(doc)
+                    print(doc, flush=True)
                 else:
-                    print("Subtitle not available")
-                    sys.stdout.flush()
+                    print("Subtitle not available", flush=True)
     time.sleep(1)
-    print("Task done")
-    sys.stdout.flush()
+    print("Task done", flush=True)
 
 
 if __name__ == '__main__':
