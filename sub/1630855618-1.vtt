@@ -1,0 +1,5456 @@
+WEBVTT
+
+01:10.809 --> 01:12.115
+It's Friday,
+
+01:12.115 --> 01:15.423
+and it is, of course,
+the Muslim prayer day.
+
+01:15.423 --> 01:18.513
+Everyone's off,
+except for the skeleton staff
+
+01:18.513 --> 01:20.645
+at the Bangladeshi Bank,
+
+01:20.645 --> 01:24.562
+including Zubair Bin Huda,
+who is the duty manager.
+
+01:27.870 --> 01:31.395
+He's part of
+the elite team of employees
+
+01:31.395 --> 01:35.095
+who run
+the SWIFT banking system,
+
+01:35.095 --> 01:38.663
+which is a highly secure
+banking system
+
+01:38.663 --> 01:41.318
+that sends money
+around the world.
+
+01:43.538 --> 01:47.281
+Now, Bin Huda goes,
+as he does every day,
+
+01:47.281 --> 01:49.152
+to the SWIFT printer
+
+01:49.152 --> 01:53.374
+to check up on the transactions
+from the day before.
+
+01:53.374 --> 01:56.159
+There are usually printouts
+
+01:56.159 --> 01:58.422
+of transactions
+that came in overnight.
+
+01:58.422 --> 02:02.774
+The SWIFT software would print
+out a ledger every single day,
+
+02:02.774 --> 02:06.952
+an audit trace of every single
+transaction that occurred
+
+02:06.952 --> 02:08.693
+on paper.
+
+02:08.693 --> 02:11.392
+But when they came in
+on February 5th morning,
+
+02:11.392 --> 02:12.871
+as they usually do,
+
+02:12.871 --> 02:15.744
+they found there were
+no SWIFT messages at all.
+
+02:15.744 --> 02:20.009
+In fact, the printer's
+shut down. It won't work.
+
+02:20.009 --> 02:21.358
+They try and turn it on.
+
+02:21.358 --> 02:25.188
+Nothing will kick it
+back into life.
+
+02:25.188 --> 02:28.148
+He assumes it was simply
+a technical error,
+
+02:28.148 --> 02:30.193
+shrugs, goes home for the night,
+
+02:30.193 --> 02:32.282
+comes back in
+on Saturday morning
+
+02:32.282 --> 02:34.502
+to check the system again.
+
+02:35.677 --> 02:36.939
+The next day,
+
+02:36.939 --> 02:40.160
+they somehow manually
+get the printer to work.
+
+02:40.160 --> 02:42.466
+This deputy head manager
+walks in the room,
+
+02:42.466 --> 02:46.122
+the printer starts working, and
+these weird messages come out.
+
+02:46.122 --> 02:49.560
+The printer
+starts spewing out
+
+02:49.560 --> 02:51.736
+all of these transactions,
+
+02:51.736 --> 02:56.306
+including individual requests
+to the Fed in New York
+
+02:56.306 --> 02:59.353
+for $1 billion.
+
+03:01.268 --> 03:04.880
+At that moment,
+it's panic stations.
+
+03:44.789 --> 03:50.230
+When I was growing up,
+the biggest crime in Britain
+
+03:50.230 --> 03:52.319
+ever recorded
+was the Great Train Robbery.
+
+03:52.319 --> 03:56.366
+It was an extraordinary thing.
+They stole about £2.5 million.
+
+03:56.366 --> 03:58.760
+That's about $4 million.
+
+03:58.760 --> 04:04.244
+And that story
+ran literally for 30 years.
+
+04:05.245 --> 04:06.768
+Four million dollars.
+
+04:07.856 --> 04:10.293
+What you're about to hear
+
+04:10.293 --> 04:14.036
+is the story of an attempt
+to steal...
+
+04:15.037 --> 04:17.518
+a billion dollars
+
+04:18.475 --> 04:20.434
+It's told by world-leading
+
+04:20.434 --> 04:23.959
+cybersecurity and legal experts
+and journalists:
+
+04:23.959 --> 04:26.309
+the very people
+who uncovered the facts
+
+04:26.309 --> 04:27.919
+and threaded them together
+
+04:27.919 --> 04:32.489
+to reveal how dangerous the
+world of cybercrime is today.
+
+04:49.898 --> 04:53.336
+So, there are four big threats
+
+04:53.336 --> 04:57.471
+to the world
+and to the human race.
+
+04:57.471 --> 04:59.603
+One of them
+we've just experienced,
+
+04:59.603 --> 05:01.736
+that's the pandemic.
+
+05:01.736 --> 05:04.826
+Then you've got weapons
+of mass destruction.
+
+05:04.826 --> 05:08.220
+You've got climate change.
+
+05:08.220 --> 05:13.965
+But barrelling down towards us
+before those is cyber.
+
+05:24.498 --> 05:25.934
+This is the possibility
+
+05:25.934 --> 05:30.068
+of our overdependency
+on network technologies
+
+05:30.068 --> 05:34.943
+being undermined, either by
+malfunctioning of the system...
+
+05:34.943 --> 05:36.597
+New problems are emerging
+
+05:36.597 --> 05:39.164
+the day after an Amazon
+web service outage.
+
+05:39.164 --> 05:42.254
+Massive and mysterious,
+a global outage...
+
+05:42.254 --> 05:45.214
+...or by a targeted attack.
+
+05:45.214 --> 05:47.129
+More than a thousand companies
+
+05:47.129 --> 05:49.305
+have been crippled
+by this attack so far.
+
+05:49.305 --> 05:52.264
+Sounds like we're looking
+at a 2022 with more hacks,
+
+05:52.264 --> 05:53.570
+more lost money.
+
+05:59.924 --> 06:04.233
+So, when I started hunting
+hackers in the early 1990s...
+
+06:05.452 --> 06:07.671
+our enemy was really simple.
+
+06:07.671 --> 06:10.152
+All the malware,
+all the viruses,
+
+06:10.152 --> 06:13.111
+all the attacks were
+done by teenage boys.
+
+06:13.111 --> 06:15.462
+What will your parents think?
+
+06:17.594 --> 06:20.815
+I've been doing this job
+for two decades now.
+
+06:24.253 --> 06:25.472
+When we first started,
+
+06:25.472 --> 06:27.909
+the people writing viruses
+and malware
+
+06:27.909 --> 06:29.476
+were doing it for fun,
+
+06:29.476 --> 06:32.392
+to get their name in lights,
+to say, "Look what I can do."
+
+06:32.392 --> 06:34.655
+No flash, please.
+
+06:34.655 --> 06:37.788
+When I started analysing
+viruses, they looked like this.
+
+06:37.788 --> 06:41.052
+Malware was still spread
+on floppy disks.
+
+06:41.052 --> 06:44.708
+They were spreading at the speed
+of people travelling the world
+
+06:44.708 --> 06:47.102
+and carrying the viruses
+with them.
+
+06:47.102 --> 06:50.540
+Michelangelo has
+proven less harmful than feared.
+
+06:50.540 --> 06:53.108
+All the stuff you've got
+in there you may really want,
+
+06:53.108 --> 06:54.414
+it's just gone?
+
+06:54.414 --> 06:56.459
+Then the internet came around,
+and suddenly,
+
+06:56.459 --> 06:59.331
+malware outbreaks could
+go around the world in seconds.
+
+06:59.331 --> 07:00.942
+For the last 36 hours,
+
+07:00.942 --> 07:04.685
+the ILOVEYOU virus has been
+creating havoc around the world.
+
+07:04.685 --> 07:08.166
+Experts have reason to worry.
+The first attack, July 19th,
+
+07:08.166 --> 07:11.648
+infected about 300,000
+systems in nine hours.
+
+07:11.648 --> 07:14.129
+First of all, the guys who
+make a living doing security
+
+07:14.129 --> 07:16.044
+and are trying to protect themselves
+
+07:16.044 --> 07:19.569
+are scared shitless of you,
+because you can just ruin 'em.
+
+07:19.569 --> 07:20.875
+After the period of time
+
+07:20.875 --> 07:22.529
+where hackers
+were just doing things for fun,
+
+07:22.529 --> 07:26.010
+some of them realised that they
+could use it to make money.
+
+07:28.535 --> 07:31.668
+Prior to, like, the 2000s...
+
+07:31.668 --> 07:35.716
+cyber was primarily around
+a disruption of websites...
+
+07:36.630 --> 07:38.893
+defacement of a webpage.
+
+07:38.893 --> 07:42.505
+Just as we got around 2000,
+the dot-com boom, the explosion,
+
+07:42.505 --> 07:44.376
+we started into
+what would become
+
+07:44.376 --> 07:46.161
+financially motivated hackers.
+
+07:46.161 --> 07:49.033
+This really flourished,
+especially in Eastern European,
+
+07:49.033 --> 07:53.124
+Russia, CIS bloc countries.
+
+07:53.124 --> 07:55.953
+This was the time
+of gangster capitalism,
+
+07:55.953 --> 08:00.001
+when everyone's world in Eastern
+Europe was falling apart,
+
+08:00.001 --> 08:02.612
+where organised crime and...
+
+08:02.612 --> 08:05.528
+former members of
+the intelligence services
+
+08:05.528 --> 08:09.314
+were taking hold
+of the economy.
+
+08:10.881 --> 08:14.276
+So you had a lot of young people
+in the 1990s
+
+08:14.276 --> 08:17.932
+who were very good
+mathematicians, physicists,
+
+08:17.932 --> 08:20.282
+computer scientists,
+
+08:20.282 --> 08:23.503
+who simply took
+the logic and the morality
+
+08:23.503 --> 08:26.593
+of gangster capitalism online.
+
+08:30.074 --> 08:32.163
+Virus writers
+were writing viruses
+
+08:32.163 --> 08:33.817
+to infect Windows computers,
+
+08:33.817 --> 08:36.951
+and those computers were then
+sold to email spammers,
+
+08:36.951 --> 08:39.954
+who were using those machines
+to send Viagra spam
+
+08:39.954 --> 08:42.652
+or what have you,
+basically making money.
+
+08:42.652 --> 08:44.436
+And that changed everything.
+
+08:48.789 --> 08:51.574
+People at that time
+began to use online banking,
+
+08:51.574 --> 08:54.621
+and they began to steal people's
+online banking credentials,
+
+08:54.621 --> 08:57.275
+from there, also get
+credit card numbers,
+
+08:57.275 --> 08:59.408
+and use that
+to basically transfer funds.
+
+08:59.408 --> 09:02.672
+Just in hundreds of dollars at
+a time from these individuals.
+
+09:02.672 --> 09:05.893
+They eventually realised
+that going after individuals
+
+09:05.893 --> 09:07.198
+was much more difficult
+
+09:07.198 --> 09:10.288
+than just going after
+the banks themselves.
+
+09:10.288 --> 09:11.942
+Get into databases,
+
+09:11.942 --> 09:14.423
+those databases held
+credit card numbers.
+
+09:14.423 --> 09:17.600
+Take those numbers and then
+sell them on the black market.
+
+09:19.341 --> 09:23.345
+Originally, the internet
+was set up at the Pentagon...
+
+09:25.042 --> 09:29.003
+just to be able to share
+resources between computers.
+
+09:32.136 --> 09:35.226
+And it was really never
+designed to have
+
+09:35.226 --> 09:38.490
+banking attached to it,
+
+09:38.490 --> 09:41.711
+critical infrastructure
+attached to it.
+
+09:41.711 --> 09:44.366
+It was really designed
+for availability.
+
+09:44.366 --> 09:47.108
+It was never designed
+for security.
+
+09:48.500 --> 09:50.502
+Whereas in the early 1990s
+
+09:50.502 --> 09:53.505
+when there was only 30,000
+people connected to it
+
+09:53.505 --> 09:56.813
+and several hundred systems,
+we've moved to a system
+
+09:56.813 --> 09:59.947
+which essentially is the
+backbone of global finance.
+
+10:01.339 --> 10:04.560
+The fact that
+it's able to do that...
+
+10:04.560 --> 10:07.432
+the fact that it's able
+to sustain currently between
+
+10:07.432 --> 10:10.392
+15 and 20 percent
+of GDP globally
+
+10:10.392 --> 10:12.742
+tells us something about
+just how important
+
+10:12.742 --> 10:14.918
+this infrastructure is.
+
+10:14.918 --> 10:17.094
+Why did people move
+into the internet
+
+10:17.094 --> 10:18.661
+to seek economic opportunity?
+
+10:18.661 --> 10:21.621
+Because that's where the
+economic opportunity was,
+
+10:21.621 --> 10:23.579
+untethered by norms,
+
+10:23.579 --> 10:25.799
+untethered
+by national boundaries,
+
+10:25.799 --> 10:28.497
+and essentially limited
+only by the creativity
+
+10:28.497 --> 10:30.194
+that these individuals had.
+
+10:40.814 --> 10:43.817
+The user nagged
+the Federal Reserve Bank
+
+10:43.817 --> 10:48.386
+with 35 payment instructions
+worth $951 million.
+
+10:48.386 --> 10:50.867
+We'd just never heard
+of such a thing before.
+
+10:50.867 --> 10:53.043
+We'd been investigating cybercrime
+
+10:53.043 --> 10:55.567
+for a couple of decades
+at that point.
+
+10:55.567 --> 10:57.700
+You see cyber criminals go in,
+
+10:57.700 --> 11:01.748
+and they try to transfer a few
+hundred thousands of dollars,
+
+11:01.748 --> 11:05.055
+maybe a million,
+a couple of million.
+
+11:05.055 --> 11:09.059
+But conducting a cyber-attack
+to try to steal one billion?
+
+11:09.059 --> 11:13.020
+That was an order of magnitude
+that we had never seen before.
+
+11:13.020 --> 11:14.674
+It was clear from early on
+
+11:14.674 --> 11:18.112
+that it was one of the biggest
+cyber heists in the world.
+
+11:18.112 --> 11:20.505
+When we first started
+hearing rumours
+
+11:20.505 --> 11:23.813
+about something affecting
+SWIFT network,
+
+11:23.813 --> 11:26.424
+I didn't understand
+how big it was.
+
+11:26.424 --> 11:28.122
+But when we started realising
+
+11:28.122 --> 11:30.646
+this is at a completely
+different scale,
+
+11:30.646 --> 11:32.561
+it just blew my mind.
+
+11:46.314 --> 11:47.445
+Once they realised
+
+11:47.445 --> 11:49.578
+that the money actually
+was really gone,
+
+11:49.578 --> 11:51.623
+then the panic began to set in.
+
+11:51.623 --> 11:56.890
+They lost $81 million instantly
+to a bank in the Philippines.
+
+11:56.890 --> 11:59.980
+They see the $81 million
+has already gone
+
+11:59.980 --> 12:05.855
+and that nearly $900 million
+extra has been requested.
+
+12:08.815 --> 12:13.254
+They basically try to figure out
+what to do next.
+
+12:13.254 --> 12:15.865
+They have no idea what to do.
+
+12:15.865 --> 12:19.129
+They hunted for ways to contact
+the New York Fed.
+
+12:20.957 --> 12:23.655
+Desperate calls are made
+by them.
+
+12:27.834 --> 12:29.749
+And it goes
+to an answering machine.
+
+12:29.749 --> 12:31.751
+<i>You've reached
+the Federal Reserve Bank...</i>
+
+12:31.751 --> 12:33.622
+Because it's Saturday
+in New York,
+
+12:33.622 --> 12:36.016
+and nobody's picking
+up the phone.
+
+12:36.016 --> 12:39.106
+<i>- Please call back...</i>
+- It's a complete shitshow.
+
+12:39.106 --> 12:43.153
+Total disorganisation,
+at both ends, I would stress.
+
+12:45.503 --> 12:49.246
+<i>The New York Times Magazine</i>
+was planning a true-crime issue,
+
+12:49.246 --> 12:50.421
+and my editor came to me
+
+12:50.421 --> 12:52.902
+and asked I was interested
+in doing it.
+
+12:54.251 --> 12:55.600
+I looked into it a bit.
+
+12:55.600 --> 12:58.125
+There definitely were
+some intriguing elements,
+
+12:58.125 --> 12:59.779
+and made me pay attention.
+
+13:02.129 --> 13:04.435
+The Federal Reserve
+has pretty much
+
+13:04.435 --> 13:07.177
+depended on the SWIFT
+banking system,
+
+13:07.177 --> 13:11.878
+and since there has rarely
+been a hack, if ever,
+
+13:11.878 --> 13:14.837
+of the SWIFT banking system...
+
+13:14.837 --> 13:18.058
+the Federal Reserve
+has never instituted
+
+13:18.058 --> 13:20.800
+any sort of 24-7 hotline.
+
+13:22.540 --> 13:26.501
+Eventually, they get
+hold of somebody at SWIFT,
+
+13:26.501 --> 13:28.155
+and SWIFT says,
+
+13:28.155 --> 13:29.765
+"Just shut the whole lot down
+
+13:29.765 --> 13:32.507
+until we know
+what's going on here."
+
+13:32.507 --> 13:36.163
+Badrul Khan decides before he
+can actually make that decision,
+
+13:36.163 --> 13:39.166
+he has to talk to the deputy
+governor of the bank,
+
+13:39.166 --> 13:40.820
+which he does.
+
+13:40.820 --> 13:43.823
+Deputy governor doesn't want to
+take the decision upon himself,
+
+13:43.823 --> 13:47.435
+so he talks to the governor.
+And guess what.
+
+13:47.435 --> 13:50.655
+The governor says,
+"It's probably a mistake.
+
+13:50.655 --> 13:52.614
+We won't shut it down."
+
+13:56.009 --> 13:58.750
+Work week begins
+at the Bangladesh Bank
+
+13:58.750 --> 14:00.187
+on Sunday morning,
+
+14:00.187 --> 14:02.972
+and it's then that the general
+manager of the bank
+
+14:02.972 --> 14:05.845
+comes in and begins to take
+stock of what had happened.
+
+14:05.845 --> 14:07.411
+They're running out of options.
+
+14:07.411 --> 14:11.111
+They're not sure what to do.
+Fed is still closed in New York.
+
+14:11.111 --> 14:13.200
+They go through
+all the SWIFT material,
+
+14:13.200 --> 14:16.072
+discover that most of
+the money has gone
+
+14:16.072 --> 14:18.205
+to the bank in Manila.
+
+14:18.205 --> 14:21.164
+And these desperate
+messages are sent out:
+
+14:21.164 --> 14:22.600
+"Stop the transactions.
+
+14:22.600 --> 14:25.168
+Hold that money. Do not
+allow it to be withdrawn.
+
+14:25.168 --> 14:27.127
+It's our money.
+It's been stolen."
+
+14:28.650 --> 14:30.260
+But there's a problem.
+
+14:30.260 --> 14:32.219
+Five, four,
+
+14:32.219 --> 14:35.135
+three, two, one!
+
+14:35.135 --> 14:37.920
+Happy New Year!
+
+14:41.924 --> 14:43.795
+It's Chinese New Year,
+
+14:43.795 --> 14:46.929
+and the Rizal Commercial Bank
+is closed.
+
+14:51.673 --> 14:56.199
+The thieves chose
+a sequence of days...
+
+14:56.199 --> 15:00.638
+from Friday, Saturday,
+Sunday and Monday,
+
+15:00.638 --> 15:03.815
+when one or another
+of the three countries
+
+15:03.815 --> 15:06.557
+that would be communicating
+with one another
+
+15:06.557 --> 15:09.169
+was shut down for a holiday.
+
+15:15.566 --> 15:17.612
+You've got to hand it
+to these guys.
+
+15:17.612 --> 15:19.005
+They knew it.
+
+15:19.005 --> 15:21.703
+They knew that if they did it
+over that weekend,
+
+15:21.703 --> 15:23.966
+with the Friday,
+the Muslim holiday,
+
+15:23.966 --> 15:27.187
+the Sunday and the Saturday,
+everything closed in New York,
+
+15:27.187 --> 15:30.538
+and the Monday,
+Chinese New Year.
+
+15:32.322 --> 15:37.110
+They've got four days
+to get the heist done.
+
+15:37.110 --> 15:39.373
+This is really classy planning.
+
+15:41.375 --> 15:45.422
+In that respect,
+it was really an ingenious plan.
+
+15:45.422 --> 15:49.426
+It's kind of like a great film
+director in a malevolent way,
+
+15:49.426 --> 15:53.082
+planning out, you know,
+a very complex film.
+
+15:56.433 --> 15:58.131
+The country of Bangladesh
+
+15:58.131 --> 16:01.873
+is the 170th poorest country
+in the world.
+
+16:01.873 --> 16:04.267
+One billion dollars
+is huge to them.
+
+16:04.267 --> 16:06.356
+When we talk
+about cyber-attacks,
+
+16:06.356 --> 16:08.054
+they're not just zeros and ones.
+
+16:08.054 --> 16:10.186
+We're not just talking
+about people
+
+16:10.186 --> 16:13.755
+moving around zeros and ones,
+deleting zeros and ones.
+
+16:15.539 --> 16:18.107
+One billion dollars
+to Bangladesh
+
+16:18.107 --> 16:21.545
+potentially means that people
+starve in the country.
+
+16:21.545 --> 16:25.245
+These things have potential
+serious repercussions.
+
+16:27.725 --> 16:30.206
+The Bangladesh Bank
+heist was significant
+
+16:30.206 --> 16:34.297
+because it showed how fragile
+global banking was as a whole.
+
+16:36.169 --> 16:40.260
+Banks don't just operate
+as single isolated entities.
+
+16:40.260 --> 16:42.784
+They're part of a system.
+
+16:42.784 --> 16:45.482
+And that system is vulnerable.
+
+16:47.702 --> 16:52.402
+The US Federal Reserve holds
+trillions of dollars in accounts
+
+16:52.402 --> 16:55.579
+kept by central banks
+all around the world.
+
+16:55.579 --> 16:59.279
+Its computer security systems
+are state of the art, making it
+
+16:59.279 --> 17:03.587
+one of the most difficult
+financial institutions to hack.
+
+17:07.287 --> 17:10.551
+The criminals realise
+that it can't get into
+
+17:10.551 --> 17:14.076
+the network system of the Fed,
+
+17:14.076 --> 17:17.906
+but the Fed has to talk
+to other central banks
+
+17:17.906 --> 17:19.777
+around the world,
+
+17:19.777 --> 17:23.390
+and this is
+where they find a flaw.
+
+17:25.305 --> 17:27.437
+The criminals turn
+their attention
+
+17:27.437 --> 17:30.440
+to the banks'
+communication systems.
+
+17:31.963 --> 17:35.402
+Every day, the Fed places
+thousands of transactions
+
+17:35.402 --> 17:39.058
+on behalf of the central banks
+that hold US dollar reserves
+
+17:39.058 --> 17:40.320
+at the Fed.
+
+17:40.320 --> 17:42.757
+The Federal Reserve
+has pretty much depended
+
+17:42.757 --> 17:45.107
+on the SWIFT banking system
+
+17:45.107 --> 17:48.067
+to get its instructions
+about transfers.
+
+17:48.067 --> 17:51.026
+SWIFT sends money
+around the world
+
+17:51.026 --> 17:52.941
+to thousands of member banks.
+
+17:52.941 --> 17:57.946
+It's the main way that banks
+dispatch money to one another.
+
+17:59.165 --> 18:01.602
+SWIFT allows you
+to transfer money
+
+18:01.602 --> 18:02.777
+from one bank to another,
+
+18:02.777 --> 18:04.561
+no matter where you are
+in the world.
+
+18:04.561 --> 18:07.347
+Make international
+wire transfers.
+
+18:07.347 --> 18:11.568
+The whole banking system
+is integrated,
+
+18:11.568 --> 18:15.659
+and they depend
+above all else on SWIFT,
+
+18:15.659 --> 18:21.143
+the international transaction
+mechanisms, to work.
+
+18:21.143 --> 18:23.319
+What it means is,
+all it takes
+
+18:23.319 --> 18:28.803
+is a single weak link
+to bring down the whole network.
+
+18:30.370 --> 18:33.373
+So although the target
+is the Fed,
+
+18:33.373 --> 18:37.725
+they are looking for a bank
+with which the Fed communicates,
+
+18:37.725 --> 18:42.338
+which holds a lot
+of its reserves in New York.
+
+18:42.338 --> 18:44.123
+But it's a long way away,
+
+18:44.123 --> 18:48.562
+in a distant time zone
+from the Fed,
+
+18:48.562 --> 18:51.304
+and it's likely to have
+
+18:51.304 --> 18:56.396
+patchy security systems in place
+in its computer network.
+
+18:58.963 --> 19:00.791
+My colleagues in Dhaka,
+
+19:00.791 --> 19:04.012
+they were chasing it
+for a long time.
+
+19:04.012 --> 19:07.450
+It was a robbery of a scale
+that we hadn't heard of.
+
+19:09.235 --> 19:11.585
+The first thought
+that came to my mind was,
+
+19:11.585 --> 19:14.631
+because it was the
+Bangladeshi Central Bank,
+
+19:14.631 --> 19:17.243
+I thought the hackers found it
+
+19:17.243 --> 19:19.549
+somehow easier to target it.
+
+19:19.549 --> 19:21.377
+Because it was Bangladesh,
+
+19:21.377 --> 19:24.424
+I suspected they would
+be more vulnerable
+
+19:24.424 --> 19:26.774
+to cyber-attacks as such.
+
+19:28.515 --> 19:31.344
+"Hmm. A Bangladeshi bank.
+
+19:31.344 --> 19:33.998
+Probably doesn't have
+the same level of security
+
+19:33.998 --> 19:36.218
+and if they do,
+it's probably one or two people,
+
+19:36.218 --> 19:40.222
+not a team of 6,000
+working on it.
+
+19:41.136 --> 19:42.355
+Let's go for it."
+
+19:42.355 --> 19:44.661
+These attackers
+weren't just skilled
+
+19:44.661 --> 19:45.923
+in breaching networks,
+
+19:45.923 --> 19:47.838
+figuring out how
+to get into an organisation.
+
+19:47.838 --> 19:52.016
+They had to study that
+SWIFT software deeply.
+
+19:52.016 --> 19:55.194
+This attack happened
+well before that February 5th,
+
+19:55.194 --> 19:56.847
+when the bank employee walked in
+
+19:56.847 --> 19:59.894
+and saw that printer hadn't
+printed out the audit jobs
+
+19:59.894 --> 20:01.939
+and couldn't figure out
+what was going on.
+
+20:01.939 --> 20:04.812
+This attack started more
+than a year prior to that.
+
+20:04.812 --> 20:07.293
+These attackers had been
+working for months
+
+20:07.293 --> 20:09.120
+in the build-up until that day.
+
+20:09.120 --> 20:11.253
+It is a mistake
+for people to think
+
+20:11.253 --> 20:13.560
+that this was something
+that happened overnight.
+
+20:13.560 --> 20:15.649
+It is a mistake
+for people to think
+
+20:15.649 --> 20:18.956
+that this happened in a month,
+or two months or three months.
+
+20:18.956 --> 20:21.394
+It is a slow,
+methodical approach,
+
+20:21.394 --> 20:25.528
+because it's a business,
+all right? You build it.
+
+20:32.274 --> 20:35.146
+Bank robberies used to be
+something that happened
+
+20:35.146 --> 20:37.497
+in the real world.
+
+20:37.497 --> 20:40.630
+Now they only happen
+in the online world.
+
+20:42.806 --> 20:46.767
+If you would try to steal
+$100 million in banknotes,
+
+20:46.767 --> 20:49.160
+that would be, like,
+ten trucks full of notes.
+
+20:49.160 --> 20:51.511
+If you drive ten trucks
+full of notes out of the bank,
+
+20:51.511 --> 20:54.035
+someone would notice.
+
+20:54.035 --> 20:57.299
+But when you do the same thing
+online, no one notices anything.
+
+20:57.299 --> 21:01.042
+Every movie you've ever seen
+of them breaking into a bank
+
+21:01.042 --> 21:03.436
+is them doing it
+over a bank holiday
+
+21:03.436 --> 21:05.394
+or something of that nature.
+
+21:05.394 --> 21:07.222
+Same concept here.
+
+21:12.096 --> 21:15.361
+This isn't Matthew Broderick
+sitting in front of a computer,
+
+21:15.361 --> 21:17.450
+like <i>War Games</i>
+back in the 1980s,
+
+21:17.450 --> 21:19.321
+some kid in their basement.
+
+21:21.105 --> 21:24.370
+These are
+criminal organisations.
+
+21:24.370 --> 21:26.023
+Each person has a skill set.
+
+21:26.023 --> 21:29.070
+It's kind of like that
+<i>Ocean's Eleven</i>-type thing.
+
+21:30.593 --> 21:33.074
+You know,
+"This guy could crack the bank,
+
+21:33.074 --> 21:35.337
+this guy could do
+the surveillance cameras,
+
+21:35.337 --> 21:37.774
+this is the getaway,
+this is the conman."
+
+21:37.774 --> 21:39.559
+You all have a role to play,
+
+21:39.559 --> 21:42.301
+and you need everybody
+to execute their role
+
+21:42.301 --> 21:44.085
+to the best of their abilities
+
+21:44.085 --> 21:46.870
+for you to be
+successful and get it out.
+
+21:48.742 --> 21:53.007
+So how do you pull off
+a heist of this magnitude?
+
+21:53.007 --> 21:58.317
+It takes the right crew of
+highly skilled specialists.
+
+21:58.317 --> 22:03.191
+And it all starts not with ones
+and zeros, but with people.
+
+22:07.151 --> 22:10.590
+Cybercrime is about
+gaining credentials
+
+22:10.590 --> 22:12.635
+to gain access,
+
+22:12.635 --> 22:15.421
+stealing the keys.
+
+22:15.421 --> 22:19.816
+The social engineer
+is critical to a hack.
+
+22:19.816 --> 22:22.253
+It's how you get in,
+and you get in
+
+22:22.253 --> 22:26.388
+not through digital means,
+you get in through human means.
+
+22:26.388 --> 22:28.956
+It's to do with psychology.
+
+22:31.306 --> 22:35.528
+The criminals have to ensnare
+one of the employees
+
+22:35.528 --> 22:38.052
+of the Bangladeshi Bank,
+
+22:38.052 --> 22:41.882
+beginning by going through
+their social media profiles
+
+22:41.882 --> 22:44.711
+and looking
+for suitable targets.
+
+22:45.929 --> 22:48.932
+Our relationship
+with the computer
+
+22:48.932 --> 22:51.848
+is one of perceived intimacy;
+
+22:51.848 --> 22:54.373
+that when we're using
+a computer,
+
+22:54.373 --> 22:57.767
+no one else can see
+what we're doing, we believe,
+
+22:57.767 --> 23:00.379
+and it's just us and the screen.
+
+23:02.119 --> 23:05.819
+And if we were to read
+an email from a friend,
+
+23:05.819 --> 23:08.909
+we tend to believe it
+at face value.
+
+23:12.216 --> 23:15.219
+They found
+close to three dozen employees.
+
+23:15.219 --> 23:18.832
+And they constructed
+a simple spear-phish email:
+
+23:18.832 --> 23:21.748
+an email message that pretended
+to be from a guy
+
+23:21.748 --> 23:24.446
+named Rasal Alam.
+
+23:24.446 --> 23:26.056
+And Rasal Alam said,
+
+23:26.056 --> 23:28.581
+"Hey, I just wanna
+work at your company.
+
+23:28.581 --> 23:31.410
+Here's a résumé attached.
+Have a look."
+
+23:31.410 --> 23:34.108
+And it turned out
+that they mailed that
+
+23:34.108 --> 23:36.893
+to about 36 different employees,
+and three of them
+
+23:36.893 --> 23:39.722
+opened that attachment
+connected to that email.
+
+23:40.984 --> 23:42.333
+It was a zip file,
+
+23:42.333 --> 23:44.640
+and the zip file contained
+just a document inside.
+
+23:44.640 --> 23:47.295
+They opened up the document
+and it was his résumé.
+
+23:47.295 --> 23:50.733
+It was a résumé for Rasel Ahlam,
+who wanted to work at the bank,
+
+23:50.733 --> 23:52.996
+but unbeknownst
+to those individuals,
+
+23:52.996 --> 23:56.826
+also contained
+malicious code inside.
+
+23:56.826 --> 23:58.741
+We can look at any data breach,
+
+23:58.741 --> 24:01.222
+and the root cause
+has either been
+
+24:01.222 --> 24:03.311
+a technical problem
+
+24:03.311 --> 24:05.400
+or a people problem.
+
+24:05.400 --> 24:08.229
+And the technical problems
+can be really hard
+
+24:08.229 --> 24:10.536
+and really expensive
+and really slow to fix,
+
+24:10.536 --> 24:12.581
+but at least we can fix them.
+
+24:12.581 --> 24:16.150
+But in the end, we have
+no patch for human brains.
+
+24:17.804 --> 24:22.243
+There's no way to fix the people
+who do stupid mistakes.
+
+24:22.243 --> 24:23.723
+When attackers try to send
+
+24:23.723 --> 24:27.030
+these spear-phishing emails,
+they try to do two things.
+
+24:27.030 --> 24:30.512
+They try to look very normal.
+It was just a résumé.
+
+24:30.512 --> 24:31.818
+They try to fly under the radar,
+
+24:31.818 --> 24:33.515
+to look as legitimate
+as possible.
+
+24:33.515 --> 24:37.476
+And the second is they often
+try to use enticing techniques.
+
+24:43.612 --> 24:47.050
+New dangers tonight from
+the Love Bug computer virus,
+
+24:47.050 --> 24:49.966
+this time disguised
+as a friendlier email.
+
+24:49.966 --> 24:53.579
+The first internet virus
+that went around the world
+
+24:53.579 --> 24:57.887
+in less than 48 hours was
+called the ILOVEYOU virus.
+
+24:57.887 --> 25:00.499
+And already,
+business interruption costs
+
+25:00.499 --> 25:03.676
+are estimated at more than
+a billion dollars.
+
+25:03.676 --> 25:06.592
+You would be sitting
+there working away,
+
+25:06.592 --> 25:08.507
+and then suddenly,
+in your inbox,
+
+25:08.507 --> 25:12.554
+you get an email which says,
+"I love you."
+
+25:12.554 --> 25:15.252
+And it could well be
+that this is a person
+
+25:15.252 --> 25:17.820
+who you've always
+held a torch for.
+
+25:17.820 --> 25:20.344
+And so, of course,
+you're very excited,
+
+25:20.344 --> 25:24.087
+and you press on the link,
+and then you're doomed.
+
+25:24.087 --> 25:26.873
+What happens is,
+the virus infects your machine
+
+25:26.873 --> 25:29.963
+and proceeds to email everyone
+you've ever emailed.
+
+25:29.963 --> 25:32.618
+The end result of that
+is the mail servers
+
+25:32.618 --> 25:33.706
+get bogged down,
+
+25:33.706 --> 25:36.143
+and the only way
+to solve the problem
+
+25:36.143 --> 25:39.276
+is to shut the servers down,
+hence the interruption.
+
+25:39.276 --> 25:42.323
+The ILOVEYOU virus
+was one of the first viruses
+
+25:42.323 --> 25:45.065
+that had really
+worldwide impact.
+
+25:47.110 --> 25:49.722
+It was still a virus
+written by a guy
+
+25:49.722 --> 25:52.594
+that just wanted to get
+his name in lights.
+
+25:52.594 --> 25:53.813
+He wanted to see his virus
+
+25:53.813 --> 25:55.597
+travel around the world
+a little bit
+
+25:55.597 --> 25:57.381
+and maybe get
+in the news somewhere,
+
+25:57.381 --> 25:59.819
+and then him be able to say,
+"Oh, I wrote that."
+
+25:59.819 --> 26:03.083
+Mr de Guzman hardly
+seemed to comprehend the chaos
+
+26:03.083 --> 26:05.041
+inflicted on
+the world's computers.
+
+26:05.041 --> 26:08.610
+But what happened was, it
+spread so quickly and so fast,
+
+26:08.610 --> 26:11.265
+it brought down email
+all over the world,
+
+26:11.265 --> 26:13.920
+and having email go down
+was monumental.
+
+26:13.920 --> 26:17.358
+Experts say that the ILOVEYOU
+virus could end up costing
+
+26:17.358 --> 26:21.580
+the world economy $10 billion
+in lost work time.
+
+26:21.580 --> 26:25.627
+It became the first sign to show
+that we relied on the internet.
+
+26:25.627 --> 26:29.196
+The internet was the basis for
+our financial transactions,
+
+26:29.196 --> 26:31.154
+for the way we do business.
+
+26:32.460 --> 26:33.635
+I would talk to people
+
+26:33.635 --> 26:35.332
+and remind them
+and educate them and say,
+
+26:35.332 --> 26:36.899
+"Look, you can't just click
+
+26:36.899 --> 26:39.380
+on any attachment
+that comes to you in an email."
+
+26:39.380 --> 26:42.818
+I remember talking to a guy
+about the Anna Kournikova virus
+
+26:42.818 --> 26:45.995
+that purported to be nude
+pictures of Anna Kournikova.
+
+26:45.995 --> 26:48.955
+And he told me, he said,
+"Yeah, I knew it was a virus.
+
+26:48.955 --> 26:52.088
+I thought it was probably
+a virus. But what if it wasn't?
+
+26:52.088 --> 26:53.960
+What if it really was
+nude pictures?
+
+26:53.960 --> 26:55.788
+So I double-clicked on it."
+
+26:56.919 --> 26:58.399
+People just don't realise
+
+26:58.399 --> 27:02.055
+what clicking on that
+attachment means.
+
+27:02.055 --> 27:06.102
+Cyber criminals and hackers
+realised a long time ago
+
+27:06.102 --> 27:09.018
+that your username and password,
+
+27:09.018 --> 27:11.804
+particularly to
+your email account,
+
+27:11.804 --> 27:15.285
+could get them into your
+stock brokerage account,
+
+27:15.285 --> 27:18.201
+to your online
+banking account,
+
+27:18.201 --> 27:23.903
+to send phishing emails
+to other contacts.
+
+27:23.903 --> 27:27.994
+If you protect
+yourself properly,
+
+27:27.994 --> 27:31.214
+the chances are
+you won't be a victim
+
+27:31.214 --> 27:35.218
+of what one would call
+"drive-by hacking".
+
+27:35.218 --> 27:39.483
+If, however, you're being
+specifically targeted
+
+27:39.483 --> 27:42.965
+by a hacking group,
+they will follow that trace.
+
+27:43.879 --> 27:45.533
+And they will get you.
+
+27:48.449 --> 27:53.280
+Now, we know that at least three
+members of the Bangladeshi Bank
+
+27:53.280 --> 27:56.587
+were targeted by this after
+the social engineer
+
+27:56.587 --> 27:58.981
+had scanned
+all of their social media,
+
+27:58.981 --> 28:00.722
+and at least three of them
+
+28:00.722 --> 28:04.073
+opened the letter
+and took the bait.
+
+28:04.073 --> 28:06.249
+Once that code
+began executing
+
+28:06.249 --> 28:08.295
+on those bank employees'
+computers,
+
+28:08.295 --> 28:10.906
+it would reach out back
+to the attackers
+
+28:10.906 --> 28:13.866
+and tell them that
+these machines are now infected
+
+28:13.866 --> 28:15.302
+and give them full control,
+
+28:15.302 --> 28:18.044
+as if they were sitting
+in front of the keyboard,
+
+28:18.044 --> 28:21.134
+just like those employees.
+
+28:21.134 --> 28:23.745
+There was malware
+in the system
+
+28:23.745 --> 28:26.574
+that was actually
+copying screenshots,
+
+28:28.358 --> 28:33.450
+copying keystrokes of employees,
+and no one knew.
+
+28:33.450 --> 28:35.801
+They've got
+their foot in the door.
+
+28:35.801 --> 28:38.760
+This is the essential
+first step.
+
+28:38.760 --> 28:42.677
+The first layer of security
+has been breached.
+
+28:48.639 --> 28:52.339
+And the digger, the person who
+is getting deeper and deeper
+
+28:52.339 --> 28:54.558
+into the computer network,
+
+28:54.558 --> 28:58.258
+has to be a very
+advanced hacker.
+
+28:58.258 --> 29:02.958
+This is when you need
+a real professional.
+
+29:02.958 --> 29:05.656
+They're like ghosts.
+Nobody can see them,
+
+29:05.656 --> 29:10.009
+but they're mapping every
+single bit of that network.
+
+29:11.967 --> 29:13.577
+In the Bank of Bangladesh,
+
+29:13.577 --> 29:16.145
+you had computers that are all
+interconnected to each other,
+
+29:16.145 --> 29:19.279
+and they're connected
+using what's called a switch.
+
+29:19.279 --> 29:23.022
+In your average bank, that has
+a good security program,
+
+29:23.022 --> 29:25.676
+those switches are
+what's called segmented.
+
+29:25.676 --> 29:27.591
+So each of those switches
+only allow
+
+29:27.591 --> 29:30.290
+a certain number of computers
+to talk to each other
+
+29:30.290 --> 29:32.814
+rather than every computer
+to talk to each other.
+
+29:32.814 --> 29:35.382
+But in the case of
+the Bank of Bangladesh,
+
+29:35.382 --> 29:38.559
+in the back-office network, they
+were using these very cheap,
+
+29:38.559 --> 29:42.084
+literally $10 switches
+that didn't do any segmentation.
+
+29:42.084 --> 29:45.348
+Every computer was potentially
+connected to each other.
+
+29:45.348 --> 29:48.308
+Basically,
+it's a cost-cutting exercise.
+
+29:48.308 --> 29:53.530
+But that cost-cutting exercise
+was what the digger needed.
+
+29:53.530 --> 29:55.489
+Those attackers
+began to do
+
+29:55.489 --> 29:58.231
+what we call a lateral traverse
+across the network,
+
+29:58.231 --> 30:01.147
+search for other computers
+to infect,
+
+30:01.147 --> 30:03.062
+look for credentials.
+
+30:04.585 --> 30:06.848
+Whenever you log
+into a computer,
+
+30:06.848 --> 30:08.676
+your credentials are cached.
+
+30:08.676 --> 30:11.331
+They're put into the memory
+of the computer.
+
+30:11.331 --> 30:14.290
+Attackers are able
+to filter through that memory
+
+30:14.290 --> 30:16.640
+and find used usernames
+and passwords.
+
+30:16.640 --> 30:19.469
+They don't always know
+what they're for,
+
+30:19.469 --> 30:22.385
+so they try to collect as many
+credentials as they can
+
+30:22.385 --> 30:25.432
+and see, "What computers can
+I see from this computer?",
+
+30:25.432 --> 30:27.608
+and just begin to use them
+over and over again
+
+30:27.608 --> 30:28.652
+and just try them.
+
+30:31.264 --> 30:32.613
+Eventually, they hop on
+
+30:32.613 --> 30:35.050
+and are able to connect
+to another computer.
+
+30:35.050 --> 30:36.312
+They get onto that one.
+
+30:36.312 --> 30:38.271
+It's still not what
+they're interested in,
+
+30:38.271 --> 30:40.664
+but they're able to find more
+usernames and passwords
+
+30:40.664 --> 30:42.405
+and try those
+on all the other computers
+
+30:42.405 --> 30:44.190
+they can see
+from that advantage point.
+
+30:44.190 --> 30:48.020
+That's how they move across
+the network over and over again.
+
+30:48.020 --> 30:50.544
+They would delete
+all traces of themselves
+
+30:50.544 --> 30:52.894
+as they moved
+across the network,
+
+30:52.894 --> 30:55.636
+ultimately jumping from
+computer to computer
+
+30:55.636 --> 30:57.681
+until they found
+the SWIFT terminal,
+
+30:57.681 --> 31:00.815
+their ultimate goal in order
+to make wire transfers
+
+31:00.815 --> 31:02.817
+out of the Bank of Bangladesh.
+
+31:04.993 --> 31:06.777
+It takes a long time.
+
+31:06.777 --> 31:10.172
+They're there for months.
+This is an ongoing process.
+
+31:10.172 --> 31:14.220
+If at any moment they're
+discovered to be in there,
+
+31:14.220 --> 31:18.137
+then the whole
+operation is finished.
+
+31:22.141 --> 31:24.056
+With the Bangladeshi Bank heist,
+
+31:24.056 --> 31:27.276
+you basically have two
+operations running in parallel.
+
+31:27.276 --> 31:29.670
+You have an offline operation
+going on,
+
+31:29.670 --> 31:32.238
+which is to do with
+the money laundering.
+
+31:36.895 --> 31:38.940
+It's the fence's responsibility
+
+31:38.940 --> 31:43.902
+to set up
+the recipient accounts.
+
+31:43.902 --> 31:46.382
+They're gonna end up
+with cold, hard cash,
+
+31:46.382 --> 31:48.080
+and they need individuals
+on the ground
+
+31:48.080 --> 31:50.909
+to pick up that cash
+and move it.
+
+31:53.172 --> 31:54.434
+And so, in May of 2015,
+
+31:54.434 --> 31:56.871
+before they'd even got
+into the SWIFT terminal,
+
+31:56.871 --> 31:59.656
+they were able to recruit
+a Chinese individual
+
+31:59.656 --> 32:03.312
+to go to the Philippines and
+open up four bank accounts there
+
+32:03.312 --> 32:05.227
+at a bank called RCBC.
+
+32:05.227 --> 32:08.883
+You have to make sure
+those people inside the bank
+
+32:08.883 --> 32:10.711
+in the Philippines
+
+32:10.711 --> 32:12.974
+have been properly corrupted
+
+32:12.974 --> 32:17.674
+and properly instructed
+as to what their role is.
+
+32:17.674 --> 32:20.068
+The fence opens up
+these accounts,
+
+32:20.068 --> 32:22.592
+puts $500 in each of them,
+
+32:22.592 --> 32:25.726
+and then they just go to sleep
+for nine months.
+
+32:28.598 --> 32:31.950
+These attackers were
+inside the Bank of Bangladesh
+
+32:31.950 --> 32:34.822
+for a full year,
+which is incredible.
+
+32:41.307 --> 32:43.265
+They actually got
+onto that SWIFT terminal
+
+32:43.265 --> 32:44.788
+exactly one year later...
+
+32:47.617 --> 32:50.229
+on January 29th, 2016.
+
+32:55.495 --> 32:58.019
+In any bank,
+you have different employees.
+
+32:58.019 --> 33:01.414
+You have back-office employees,
+administrative employees,
+
+33:01.414 --> 33:04.330
+but you also have computers
+that are connected
+
+33:04.330 --> 33:07.159
+directly to
+financial transactions.
+
+33:07.159 --> 33:11.076
+And only users who have specific
+access to those machines
+
+33:11.076 --> 33:12.555
+are allowed to use them.
+
+33:12.555 --> 33:15.036
+When we talk about the case of
+the Bank of Bangladesh,
+
+33:15.036 --> 33:18.605
+there was a single computer
+that had credentials
+
+33:18.605 --> 33:20.085
+from a shared employee.
+
+33:20.085 --> 33:23.218
+You had an employee that
+would use that SWIFT terminal,
+
+33:23.218 --> 33:26.830
+but also had their own computer
+in the normal back-office area.
+
+33:26.830 --> 33:29.355
+Once they got onto
+that employee's computer,
+
+33:29.355 --> 33:31.052
+they were able to jump across.
+
+33:31.052 --> 33:34.969
+They waited. They basically
+did a recon on the system.
+
+33:34.969 --> 33:36.579
+They crawled around.
+
+33:36.579 --> 33:39.756
+They looked and tried to fully
+understand how this worked,
+
+33:39.756 --> 33:43.804
+how SWIFT worked, how each bank
+employee would make a request
+
+33:43.804 --> 33:47.155
+into the SWIFT system,
+where it would go,
+
+33:47.155 --> 33:49.244
+how to direct that to branches
+
+33:49.244 --> 33:52.117
+where they had set up
+these accounts.
+
+33:52.117 --> 33:55.729
+And in this case, it was just
+very simple and very clever.
+
+33:58.166 --> 34:00.342
+The thief is
+not so much someone
+
+34:00.342 --> 34:03.302
+who is physically
+taking out the money
+
+34:03.302 --> 34:05.695
+and stuffing it into a bag.
+
+34:05.695 --> 34:07.610
+They're making sure
+
+34:07.610 --> 34:12.572
+that every bit on the system
+is coordinated.
+
+34:12.572 --> 34:16.228
+There are all sorts of things
+to get right
+
+34:16.228 --> 34:21.494
+before that fatal moment
+when the request is made.
+
+34:21.494 --> 34:24.105
+Everything has to be
+
+34:24.105 --> 34:26.716
+really, really
+precisely coordinated
+
+34:26.716 --> 34:29.937
+to get all the timing right.
+You've got four days.
+
+34:29.937 --> 34:31.547
+You can't afford a slip-up.
+
+34:31.547 --> 34:34.333
+When the attackers
+got into the SWIFT terminal
+
+34:34.333 --> 34:38.728
+on January 29th of 2016,
+they paused for about five days
+
+34:38.728 --> 34:41.079
+to get their malicious
+software ready
+
+34:41.079 --> 34:43.168
+that allowed them
+to cover their tracks
+
+34:43.168 --> 34:45.257
+when they were on
+that SWIFT terminal.
+
+34:45.257 --> 34:48.173
+They decided to wait
+until February 4th.
+
+34:48.173 --> 34:49.826
+And this is no accident.
+
+34:52.960 --> 34:55.702
+They have chosen
+a long weekend
+
+34:55.702 --> 34:58.574
+due to holidays in different
+parts of the world.
+
+34:58.574 --> 35:01.186
+That means,
+instead of the usual two days
+
+35:01.186 --> 35:02.535
+they have to get away with it
+
+35:02.535 --> 35:04.841
+before alarms
+start going off everywhere,
+
+35:04.841 --> 35:07.931
+they've got four days.
+It's brilliant.
+
+35:09.498 --> 35:11.935
+February 4th, 2016,
+was a Thursday.
+
+35:11.935 --> 35:14.634
+That's the last day of
+the working week in Bangladesh.
+
+35:14.634 --> 35:16.940
+In Bangladesh, they work
+from Sunday to Thursday.
+
+35:16.940 --> 35:19.421
+So, at some point late
+in the afternoon,
+
+35:19.421 --> 35:22.685
+the SWIFT transaction operator
+in the Bangladeshi Bank
+
+35:22.685 --> 35:24.687
+logs off his terminal.
+
+35:28.778 --> 35:30.476
+But three hours later,
+
+35:30.476 --> 35:33.435
+the thief logs into
+that terminal
+
+35:33.435 --> 35:35.829
+and starts to impersonate him.
+
+35:35.829 --> 35:38.919
+They logged into that SWIFT
+terminal at 8:36 p.m.,
+
+35:38.919 --> 35:41.051
+after they believed,
+or really knew,
+
+35:41.051 --> 35:44.403
+that all the bank employees
+had gone home for the weekend.
+
+35:44.403 --> 35:48.233
+And they put forward
+35 different wire transactions
+
+35:48.233 --> 35:52.280
+from that SWIFT terminal,
+totalling $951 million,
+
+35:52.280 --> 35:55.631
+almost $1 billion,
+completely unheard of.
+
+35:58.678 --> 36:02.029
+Ten hours
+behind Bangladesh,
+
+36:02.029 --> 36:03.813
+New York is waking up.
+
+36:04.945 --> 36:07.252
+The first thing
+that the Fed sees
+
+36:07.252 --> 36:09.297
+is 35 requests
+
+36:09.297 --> 36:13.214
+for almost the entire holdings
+of the Bangladeshi Bank.
+
+36:13.214 --> 36:17.523
+Usually, it's figures of sort
+of $300,000, $500,000.
+
+36:17.523 --> 36:19.525
+They want almost a billion!
+
+36:19.525 --> 36:23.746
+The operator, perhaps
+unsurprisingly, rejects it,
+
+36:23.746 --> 36:26.488
+sends it back to Bangladesh.
+
+36:26.488 --> 36:28.751
+But he rejects it not because
+
+36:28.751 --> 36:32.581
+this is an absolutely crazy
+amount of money,
+
+36:32.581 --> 36:36.585
+but because the requests
+are wrongly formatted.
+
+36:36.585 --> 36:39.153
+As much research
+that they had done,
+
+36:39.153 --> 36:41.851
+they didn't really understand
+how to fill out
+
+36:41.851 --> 36:43.331
+those SWIFT transfers.
+
+36:43.331 --> 36:45.942
+They were missing what's called
+an intermediate bank.
+
+36:45.942 --> 36:48.162
+New York Federal Reserve
+replied to them,
+
+36:48.162 --> 36:50.469
+via the SWIFT system,
+back to their computer
+
+36:50.469 --> 36:52.688
+that they were sitting
+in front of, virtually,
+
+36:52.688 --> 36:56.475
+saying, "Hey, these transactions
+are missing information."
+
+36:56.475 --> 36:58.520
+They think on their feet.
+
+36:58.520 --> 37:02.829
+They reformat the requests,
+send them back...
+
+37:02.829 --> 37:06.006
+and hold their breath
+to see what happens.
+
+37:06.006 --> 37:08.574
+They ultimately corrected
+34 of them.
+
+37:08.574 --> 37:09.879
+They had forgotten one.
+
+37:09.879 --> 37:12.230
+The one did have
+the intermediate bank
+
+37:12.230 --> 37:13.448
+went to Deutsche Bank.
+
+37:13.448 --> 37:15.581
+That order was for $20 million
+
+37:15.581 --> 37:19.802
+to a charity called the Shalika
+Foundation in Sri Lanka.
+
+37:19.802 --> 37:22.109
+But they had made
+a typo as well,
+
+37:22.109 --> 37:25.417
+and they had misspelled
+"foundation" as "fandation".
+
+37:25.417 --> 37:27.680
+And so Deutsche Bank
+saw that typo
+
+37:27.680 --> 37:29.856
+and questioned it and, again,
+
+37:29.856 --> 37:32.293
+held that transaction
+due to that typo.
+
+37:34.643 --> 37:36.863
+We use that
+as the poster child
+
+37:36.863 --> 37:40.083
+for why you need
+to learn how to spell.
+
+37:40.083 --> 37:43.783
+Otherwise, you can lose
+$20 million.
+
+37:43.783 --> 37:47.265
+Ultimately, when
+they return the other 34...
+
+37:48.570 --> 37:50.268
+Bingo.
+
+37:50.268 --> 37:52.487
+The operator approves them.
+
+37:52.487 --> 37:55.795
+Four of them went through.
+
+37:55.795 --> 38:00.495
+The green light is given.
+The heist is on.
+
+38:00.495 --> 38:03.629
+Those four went through
+to those bank accounts
+
+38:03.629 --> 38:06.066
+in the Philippines
+that had been opened
+
+38:06.066 --> 38:07.589
+more than six months earlier.
+
+38:07.589 --> 38:10.636
+And they were able
+to transfer out $81 million
+
+38:10.636 --> 38:12.638
+to the bank in the Philippines.
+
+38:34.181 --> 38:37.837
+Ultimately, they were about
+to transfer $1 billion
+
+38:37.837 --> 38:39.534
+from the Bank of Bangladesh,
+
+38:39.534 --> 38:42.494
+but they didn't want
+anyone to find out.
+
+38:47.847 --> 38:51.459
+They began to cover
+their tracks.
+
+38:51.459 --> 38:53.200
+Normally, as a bank employee,
+
+38:53.200 --> 38:55.071
+you'll load up
+the SWIFT software,
+
+38:55.071 --> 38:57.944
+you'll see on the screen
+all the latest transactions,
+
+38:57.944 --> 38:59.598
+you can make transactions.
+
+38:59.598 --> 39:04.342
+And so the attackers deleted all
+records of those transactions.
+
+39:07.083 --> 39:08.563
+But it's not just digital.
+
+39:08.563 --> 39:13.002
+In the world of finance,
+everything must be a hard copy.
+
+39:13.002 --> 39:16.005
+And the attackers
+knew that as well.
+
+39:20.575 --> 39:23.622
+Every SWIFT transaction
+that takes place
+
+39:23.622 --> 39:28.975
+is immediately printed out
+locally in the Bangladeshi Bank.
+
+39:28.975 --> 39:31.978
+So that printer cannot
+be working
+
+39:31.978 --> 39:34.676
+when the heist is going on.
+
+39:34.676 --> 39:37.549
+The attackers hijacked
+all of those print jobs,
+
+39:37.549 --> 39:40.421
+replaced all of those
+print jobs with zeros
+
+39:40.421 --> 39:43.555
+so that nothing would
+come out of the printer.
+
+39:43.555 --> 39:48.516
+Now, the other 30
+wire transactions sat around.
+
+39:48.516 --> 39:51.867
+And, ultimately,
+the attackers waited,
+
+39:51.867 --> 39:54.261
+and they waited...
+
+39:54.261 --> 39:58.874
+And they logged out at
+3:59 a.m. Bangladesh time.
+
+39:58.874 --> 40:01.442
+Potentially, they thought
+that in New York,
+
+40:01.442 --> 40:03.096
+the business day ended
+at five p.m.,
+
+40:03.096 --> 40:04.924
+and they weren't gonna hear
+any more.
+
+40:04.924 --> 40:06.882
+The New York Fed
+had actually stopped
+
+40:06.882 --> 40:08.449
+the rest of the transactions,
+
+40:08.449 --> 40:11.931
+because the address for
+the bank in the Philippines
+
+40:11.931 --> 40:15.804
+was on Jupiter Street.
+J-U-P-I-T-E-R.
+
+40:15.804 --> 40:20.853
+Right, now this is when
+the story gets really weird.
+
+40:20.853 --> 40:24.857
+In a totally unrelated incident
+two years earlier,
+
+40:24.857 --> 40:28.469
+we have a Greek shipping
+magnate, Dimitris Cambis,
+
+40:28.469 --> 40:32.038
+and he is buying eight tankers.
+
+40:32.038 --> 40:35.258
+What Dimitris knew,
+but not many other people,
+
+40:35.258 --> 40:39.872
+was that the money
+for these eight oil tankers
+
+40:39.872 --> 40:41.917
+came from Iran,
+
+40:41.917 --> 40:45.660
+and Iran was under US sanctions.
+
+40:45.660 --> 40:48.358
+Someone in the US
+caught wind of the fact
+
+40:48.358 --> 40:51.710
+that the Iranians were
+financing Mr Cambis.
+
+40:51.710 --> 40:55.017
+His company was put on
+the sanctions watch list,
+
+40:55.017 --> 40:58.325
+and his company
+was called Jupiter Seaways.
+
+41:00.675 --> 41:02.590
+It was just their bad luck
+
+41:02.590 --> 41:05.201
+that they designated
+the money transfers
+
+41:05.201 --> 41:11.338
+to go to the Jupiter branch
+of the Rizal Bank in Manila.
+
+41:11.338 --> 41:15.211
+As the transfers were being sent
+out from the New York Reserve
+
+41:15.211 --> 41:16.996
+to the Philippines,
+
+41:16.996 --> 41:20.956
+the Jupiter name was caught
+by the computer system.
+
+41:20.956 --> 41:23.916
+It halted these transactions.
+
+41:23.916 --> 41:26.484
+The Fed had to take
+a second look.
+
+41:26.484 --> 41:28.790
+They stopped it
+because they realised,
+
+41:28.790 --> 41:31.184
+"Wait, we have somewhere
+in the order 35 transactions
+
+41:31.184 --> 41:33.229
+coming from
+the Bank of Bangladesh,
+
+41:33.229 --> 41:37.407
+adding up to $1 billion?
+You know, this isn't usual."
+
+41:37.407 --> 41:40.062
+So they held them
+and sent a message back,
+
+41:40.062 --> 41:41.890
+asking for confirmation.
+
+41:44.589 --> 41:47.766
+Had the attackers waited
+just one more hour,
+
+41:47.766 --> 41:50.595
+they could have replied to them
+via the SWIFT system,
+
+41:50.595 --> 41:53.206
+saying these transactions
+were not a mistake.
+
+41:53.206 --> 41:55.295
+Ultimately,
+the Bank of Bangladesh
+
+41:55.295 --> 41:57.253
+might have lost
+much, much more.
+
+41:57.253 --> 42:01.344
+So far, they managed
+to get $81 million.
+
+42:01.344 --> 42:05.435
+But, boy, did they come close
+to hitting the jackpot.
+
+42:05.435 --> 42:07.655
+Just under $1 billion
+
+42:07.655 --> 42:11.572
+was very, very nearly
+stolen from this bank.
+
+42:22.061 --> 42:25.194
+The next day,
+the bank employees came in,
+
+42:25.194 --> 42:26.587
+and the printer wasn't working,
+
+42:26.587 --> 42:28.937
+because they installed
+their malicious code
+
+42:28.937 --> 42:30.722
+to prevent that from happening.
+
+42:30.722 --> 42:32.637
+Ultimately,
+those bank employees
+
+42:32.637 --> 42:34.900
+didn't get it fixed
+until February 6,
+
+42:34.900 --> 42:36.554
+which would have been a Sunday.
+
+42:38.251 --> 42:41.297
+When the printer started,
+all these messages came out,
+
+42:41.297 --> 42:42.908
+messages from the Fed asking,
+
+42:42.908 --> 42:46.041
+"What are these 30 transactions?
+Did you mean to make these?"
+
+42:46.041 --> 42:48.304
+That triggered
+the Bank of Bangladesh
+
+42:48.304 --> 42:51.003
+to realise something
+had gone wrong.
+
+42:51.003 --> 42:53.658
+It was very clear
+that they were in deep,
+
+42:53.658 --> 42:57.357
+such that the bank manager...
+This is the Bank of Bangladesh,
+
+42:57.357 --> 43:00.534
+the federal bank, the national
+bank of the country,
+
+43:00.534 --> 43:04.103
+did not notify the leaders,
+
+43:04.103 --> 43:07.236
+the government of Bangladesh.
+He kept it under wraps.
+
+43:07.236 --> 43:10.544
+He notified someone he knew
+who knew about security.
+
+43:10.544 --> 43:12.372
+"Get on a plane,
+get to Bangladesh.
+
+43:12.372 --> 43:14.940
+I need you to look at
+these computer systems."
+
+43:20.467 --> 43:22.948
+Initially, the governor
+and his whole team
+
+43:22.948 --> 43:24.166
+were quite perplexed.
+
+43:24.166 --> 43:27.343
+They didn't quite know
+what had happened.
+
+43:27.343 --> 43:30.216
+So they thought that
+some money had been routed
+
+43:30.216 --> 43:33.045
+to a wrong account;
+it would come back.
+
+43:36.309 --> 43:39.921
+I get this strange phone call
+from the governor's office
+
+43:39.921 --> 43:42.707
+asking me if I would
+drop everything
+
+43:42.707 --> 43:45.274
+and come to Dhaka, Bangladesh.
+
+43:49.061 --> 43:51.237
+So I assembled a team...
+
+43:52.107 --> 43:53.892
+and we flew down.
+
+43:57.896 --> 44:02.596
+When we arrived there, we met
+with the Bangladesh Bank team.
+
+44:02.596 --> 44:06.121
+And that's when I discovered
+all the horrifying details
+
+44:06.121 --> 44:08.471
+of what had actually happened.
+
+44:12.388 --> 44:15.217
+They decide,
+"Let's look at the CCTV.
+
+44:15.217 --> 44:17.393
+What's that going to tell us?"
+
+44:17.393 --> 44:20.309
+There were eight
+hours' worth of tapes
+
+44:20.309 --> 44:23.138
+that had to be gone through.
+
+44:23.138 --> 44:26.054
+Your gut instinct is,
+you have a malicious insider.
+
+44:26.054 --> 44:27.708
+A physical person had to go in,
+
+44:27.708 --> 44:30.842
+log into that machine
+and try to make these transfers,
+
+44:30.842 --> 44:34.715
+because this attack
+hadn't happened before.
+
+44:34.715 --> 44:37.631
+They had a SWIFT room,
+which was locked.
+
+44:37.631 --> 44:39.938
+And typically when
+the SWIFT operators
+
+44:39.938 --> 44:43.724
+needed to do something on SWIFT,
+they had to go into the room,
+
+44:43.724 --> 44:47.467
+sit in that chair and terminal,
+
+44:47.467 --> 44:52.037
+and there was only
+one shadow we could find.
+
+44:52.037 --> 44:54.779
+We eventually decided
+it was the person
+
+44:54.779 --> 44:58.391
+sweeping the place after hours.
+
+45:00.741 --> 45:04.310
+They were saying, "How could
+somebody process the transaction
+
+45:04.310 --> 45:05.964
+when there was nobody there?"
+
+45:05.964 --> 45:10.577
+I mean, even after the payment
+instructions had been sent,
+
+45:10.577 --> 45:15.408
+they had no idea for a very long
+time what was happening.
+
+45:15.408 --> 45:19.412
+They didn't think it was a hack.
+They had no traces of a hack.
+
+45:19.412 --> 45:22.632
+But they watched eight hours of
+that footage over that weekend
+
+45:22.632 --> 45:25.635
+and realised there was
+no one at that computer.
+
+45:25.635 --> 45:26.941
+Nothing.
+
+45:26.941 --> 45:29.248
+They had no idea that
+the Bank of Bangladesh
+
+45:29.248 --> 45:31.859
+had been breached by hackers.
+
+45:31.859 --> 45:35.384
+Only after we see these things
+happen over and over again,
+
+45:35.384 --> 45:39.171
+we realise that cyber
+has such capabilities.
+
+45:44.045 --> 45:47.440
+Bangladesh was a bit of
+a bombshell for all of us.
+
+45:49.311 --> 45:52.097
+Hackers and most cybercrime,
+
+45:52.097 --> 45:54.055
+it's like smash-and-grab crime.
+
+45:54.055 --> 45:56.492
+Quickly grab something
+and monetise it
+
+45:56.492 --> 45:58.103
+as swiftly as you can.
+
+45:58.103 --> 46:01.236
+You know, storm a bank
+with shotguns, blow a safe,
+
+46:01.236 --> 46:03.978
+fill some bags with cash.
+
+46:03.978 --> 46:06.024
+Cybercrime...
+
+46:06.024 --> 46:09.418
+It doesn't lend itself well
+to long conspiracy
+
+46:09.418 --> 46:11.856
+and lots of investigation
+and investment
+
+46:11.856 --> 46:13.596
+into understanding your target.
+
+46:13.596 --> 46:15.903
+I mean, you couldn't
+do Bangladesh
+
+46:15.903 --> 46:19.037
+unless you really understood
+the internal workings
+
+46:19.037 --> 46:21.909
+of the central bank
+and all the actors involved.
+
+46:21.909 --> 46:24.607
+That's not something
+that freelance hackers
+
+46:24.607 --> 46:26.827
+really are good at.
+
+46:26.827 --> 46:29.917
+That requires a level of
+investment into resources
+
+46:29.917 --> 46:34.095
+and frankly intelligence
+that has to be sustained.
+
+46:34.095 --> 46:38.012
+To organise something
+of that complexity
+
+46:38.012 --> 46:40.841
+and for it not to be noticed
+
+46:40.841 --> 46:43.539
+by the intelligence agencies
+of the state
+
+46:43.539 --> 46:46.020
+where that is being planned
+
+46:46.020 --> 46:50.285
+would be very,
+very difficult indeed.
+
+46:50.285 --> 46:53.419
+These hackers went in
+and looked at the zeros and ones
+
+46:53.419 --> 46:55.725
+in the software
+and reverse engineered it,
+
+46:55.725 --> 46:58.380
+turned it back into
+understandable code.
+
+46:58.380 --> 47:00.905
+That's not something
+that happens overnight.
+
+47:00.905 --> 47:02.384
+It was pretty clear
+
+47:02.384 --> 47:04.865
+that this isn't just
+normal criminals.
+
+47:04.865 --> 47:07.128
+This has to be something bigger.
+
+47:10.044 --> 47:13.961
+Once attackers have gained
+access to their target network,
+
+47:13.961 --> 47:16.007
+they want to stay undetected.
+
+47:18.487 --> 47:20.968
+And we've seen many
+interesting examples
+
+47:20.968 --> 47:23.014
+of how exactly this is done.
+
+47:26.278 --> 47:27.801
+What exactly happened
+
+47:27.801 --> 47:30.195
+at the Natanz nuclear facility
+last week?
+
+47:30.195 --> 47:32.806
+It's a question people in Iran
+around the world
+
+47:32.806 --> 47:35.461
+have been asking
+since a fire was reported
+
+47:35.461 --> 47:38.856
+at Iran's main uranium
+enrichment facility on Thursday.
+
+47:38.856 --> 47:41.902
+We're used to Trojans
+and viruses on the internet,
+
+47:41.902 --> 47:43.338
+but this is the first worm
+
+47:43.338 --> 47:46.907
+designed to damage
+the physical world.
+
+47:46.907 --> 47:51.042
+In 2010, attackers created
+a piece of malicious software
+
+47:51.042 --> 47:55.350
+that was designed to infiltrate
+Iran's nuclear programme,
+
+47:55.350 --> 47:57.004
+to get into their centrifuges,
+
+47:57.004 --> 47:59.050
+in particular,
+get onto computers
+
+47:59.050 --> 48:00.921
+that controlled
+their centrifuges.
+
+48:00.921 --> 48:04.142
+Iran says it will
+retaliate against any country
+
+48:04.142 --> 48:06.884
+that conducts cyber-attacks
+on its nuclear sites.
+
+48:06.884 --> 48:09.538
+The intention
+was to spin the centrifuges
+
+48:09.538 --> 48:12.150
+of Iran's nuclear capabilities
+out of control,
+
+48:12.150 --> 48:14.152
+make the centrifuges explode
+
+48:14.152 --> 48:15.414
+and push them ten years back
+
+48:15.414 --> 48:17.372
+in the uranium enrichment programme.
+
+48:17.372 --> 48:18.721
+As a piece of malware,
+
+48:18.721 --> 48:21.768
+it was 40 times larger
+than any piece of malware
+
+48:21.768 --> 48:24.336
+that had ever been
+encountered before.
+
+48:24.336 --> 48:28.514
+It would have taken
+the most advanced,
+
+48:28.514 --> 48:30.995
+brilliant computer engineers
+
+48:30.995 --> 48:34.085
+years and years of human
+working hours
+
+48:34.085 --> 48:35.956
+to produce this.
+
+48:35.956 --> 48:38.089
+Why was it so big?
+
+48:38.089 --> 48:42.310
+Because it needed
+to cover itself up.
+
+48:44.834 --> 48:47.794
+The attackers
+were actually recording
+
+48:47.794 --> 48:52.320
+the network traffic,
+the normal network traffic,
+
+48:52.320 --> 48:55.062
+and then playing it back
+to the sensors
+
+48:55.062 --> 48:58.848
+when they started modifying the
+operations of the centrifuges
+
+48:58.848 --> 49:00.720
+they were trying to break.
+
+49:04.463 --> 49:06.900
+This is the equivalent of,
+in the real world,
+
+49:06.900 --> 49:09.903
+recording the CCTV footage
+from a security camera
+
+49:09.903 --> 49:12.166
+and then playing it back
+to the camera
+
+49:12.166 --> 49:14.125
+when you're doing
+something bad.
+
+49:14.125 --> 49:16.301
+That's what Stuxnet was doing.
+
+49:16.301 --> 49:18.042
+And in the Bangladesh heist,
+
+49:18.042 --> 49:20.218
+they were doing
+something similar.
+
+49:20.218 --> 49:22.872
+Once they made
+their transactions,
+
+49:22.872 --> 49:26.311
+they wanted to make sure no one
+realised they had happened.
+
+49:26.311 --> 49:29.053
+They were actually falsifying
+the information
+
+49:29.053 --> 49:30.576
+about transactions.
+
+49:30.576 --> 49:33.405
+The recording of the
+transactions were being done
+
+49:33.405 --> 49:34.972
+both in electronic format,
+
+49:34.972 --> 49:38.540
+but also falsifying the data
+being sent to the printers,
+
+49:38.540 --> 49:41.021
+which actually looked like
+everything was fine.
+
+49:41.021 --> 49:44.242
+So you find out how
+you're being tracked,
+
+49:44.242 --> 49:46.984
+and then you try
+to cover your tracks.
+
+49:46.984 --> 49:48.246
+Stuxnet did that.
+
+49:48.246 --> 49:50.770
+The Bangladeshi heist
+did it as well.
+
+49:53.207 --> 49:56.950
+Once that money
+arrived in the Philippines,
+
+49:56.950 --> 50:00.519
+they needed to change
+that money into cold, hard cash.
+
+50:00.519 --> 50:02.912
+Right now, it's still in
+digital ones and zeros,
+
+50:02.912 --> 50:05.437
+just a transaction that said
+the money has moved
+
+50:05.437 --> 50:06.829
+from the Bank of Bangladesh
+
+50:06.829 --> 50:10.094
+to these accounts at RCBC.
+Four accounts.
+
+50:10.094 --> 50:13.532
+The thieves had to
+get it out of the Philippines,
+
+50:13.532 --> 50:15.621
+make it disappear.
+
+50:15.621 --> 50:18.450
+So how were they going
+to do that?
+
+50:18.450 --> 50:20.843
+There is one industry
+in the Philippines
+
+50:20.843 --> 50:23.237
+where there is absolutely
+no oversight,
+
+50:23.237 --> 50:27.241
+where it's a cash-only business.
+There are no records, no names.
+
+50:27.241 --> 50:29.113
+That is the casino industry.
+
+50:41.125 --> 50:43.257
+When we talk about
+laundering funds,
+
+50:43.257 --> 50:45.955
+we're talking about
+taking dirty, illicit funds,
+
+50:45.955 --> 50:49.481
+running them through
+a legal business
+
+50:49.481 --> 50:52.049
+so that if I came
+to you and said,
+
+50:52.049 --> 50:55.400
+"Hey, where'd you get
+that $81 million?",
+
+50:55.400 --> 51:00.318
+you could have a paper trail
+to show that you won it back.
+
+51:00.318 --> 51:03.103
+The hard part
+is not stealing the money.
+
+51:03.103 --> 51:06.628
+The hard part is moving the
+money into a form you can use
+
+51:06.628 --> 51:08.152
+without getting caught.
+
+51:10.241 --> 51:15.202
+And one method we've seen
+for quite a while is gambling.
+
+51:15.202 --> 51:17.074
+It was very clear that,
+
+51:17.074 --> 51:20.251
+if, at all, there was a place
+for you to do that,
+
+51:20.251 --> 51:22.166
+it would have been
+the Philippines,
+
+51:22.166 --> 51:25.038
+because the casinos
+are not regulated at all.
+
+51:27.171 --> 51:30.304
+It's like a lot of
+high-flying gamblers
+
+51:30.304 --> 51:33.307
+who'd kind of fly to Manila,
+
+51:33.307 --> 51:37.050
+crowd these numerous casinos
+in Manila,
+
+51:37.050 --> 51:38.399
+lots of money coming in.
+
+51:38.399 --> 51:41.315
+People don't question
+that kind of money.
+
+51:41.315 --> 51:42.795
+I mean, you know...
+
+51:42.795 --> 51:44.753
+"Well, as long as
+it's coming to us,
+
+51:44.753 --> 51:47.887
+we don't bother too much
+about where it is coming from."
+
+51:49.323 --> 51:52.283
+The thieves knew
+if they could get that money
+
+51:52.283 --> 51:55.547
+into the casinos,
+it would essentially be lost.
+
+51:56.809 --> 51:58.115
+What happened was,
+
+51:58.115 --> 52:00.421
+the manager from
+the Philippines bank,
+
+52:00.421 --> 52:03.381
+she was the one who'd opened
+those four accounts
+
+52:03.381 --> 52:05.557
+using fraudulent IDs.
+
+52:05.557 --> 52:09.952
+She got the money withdrawn from
+the bank in the Philippines.
+
+52:11.563 --> 52:12.955
+From there, it started to go
+
+52:12.955 --> 52:14.566
+through something
+called Philrem.
+
+52:14.566 --> 52:18.004
+It's a bit like a Western Union
+in the Philippines,
+
+52:18.004 --> 52:20.180
+transferred into pesos.
+
+52:20.180 --> 52:22.487
+I don't know
+if you've ever used
+
+52:22.487 --> 52:24.010
+Philippine pesos before,
+
+52:24.010 --> 52:28.057
+but that's one hell
+of a lot of pesos, $22 million.
+
+52:28.057 --> 52:33.454
+In fact,
+it's over one million banknotes.
+
+52:33.454 --> 52:35.630
+They actually had
+to request that cash
+
+52:35.630 --> 52:38.981
+to come from a sister
+branch location,
+
+52:38.981 --> 52:40.853
+that arrived in boxes.
+
+52:40.853 --> 52:44.422
+The bank manager was seen by
+one of the other bank employees
+
+52:44.422 --> 52:47.599
+collecting those boxes
+and literally going outside
+
+52:47.599 --> 52:49.862
+and loading them up
+into a Lexus.
+
+52:50.993 --> 52:53.344
+And that money
+was driven away.
+
+52:59.785 --> 53:03.702
+So, we're talking stacks
+of bills carried in vans
+
+53:03.702 --> 53:07.227
+to the Solaire Casino
+right by the airport.
+
+53:07.227 --> 53:10.448
+It allows the Chinese gamblers
+to come off the plane.
+
+53:10.448 --> 53:13.320
+Five minutes, they're on
+the floor playing baccarat.
+
+53:16.410 --> 53:19.979
+The money goes to this place.
+It's wheeled in wheelbarrows
+
+53:19.979 --> 53:24.113
+across the casino floor
+up to this guarded escalator.
+
+53:35.255 --> 53:38.215
+There's so much
+physical cash involved,
+
+53:38.215 --> 53:41.305
+they've enlisted their
+own crew of gamblers
+
+53:41.305 --> 53:44.830
+to launder the stolen funds.
+
+53:44.830 --> 53:47.093
+And they just played baccarat,
+
+53:47.093 --> 53:49.617
+all day long.
+
+53:49.617 --> 53:51.140
+They had individuals,
+
+53:51.140 --> 53:54.231
+mostly appeared to be Chinese
+nationals that they had,
+
+53:54.231 --> 53:57.538
+I assume, hired to take
+those funds and launder them.
+
+53:57.538 --> 54:01.499
+You change that cash
+into casino chips,
+
+54:01.499 --> 54:03.152
+play a few games,
+
+54:03.152 --> 54:04.937
+cash in the chips.
+
+54:04.937 --> 54:10.595
+And when you get that cash back,
+that is then laundered.
+
+54:10.595 --> 54:13.119
+And this wouldn't
+have been unusual.
+
+54:13.119 --> 54:15.513
+This was the Chinese lunar week.
+
+54:15.513 --> 54:18.298
+That would've been very common
+for individuals,
+
+54:18.298 --> 54:20.561
+high rollers, to come
+into the Philippines
+
+54:20.561 --> 54:22.868
+and play at the casinos
+during that time.
+
+54:22.868 --> 54:26.611
+Spending $22 million in
+a casino over a weekend,
+
+54:26.611 --> 54:28.569
+let's face it, could be fun.
+
+54:32.878 --> 54:36.708
+Doing this story
+and trying to figure out
+
+54:36.708 --> 54:40.407
+where in history
+to sort of place this thing.
+
+54:40.407 --> 54:43.323
+Was this the biggest
+heist of all time?
+
+54:43.323 --> 54:47.327
+No, but it certainly looked
+to be the biggest cyber heist
+
+54:47.327 --> 54:50.243
+of a bank in history.
+
+54:50.243 --> 54:54.378
+And over the next few days,
+I just remember
+
+54:54.378 --> 54:58.425
+calling up my sources
+at Symantec
+
+54:58.425 --> 55:00.993
+and a couple other
+cybersecurity firms
+
+55:00.993 --> 55:04.257
+and getting in touch with
+a guy named Eric Chien.
+
+55:06.085 --> 55:09.131
+We have all kinds of
+sensors sitting on networks
+
+55:09.131 --> 55:10.785
+and computers
+all over the world.
+
+55:10.785 --> 55:14.136
+Any time some sort of
+cyber criminal, some attacker,
+
+55:14.136 --> 55:18.053
+is trying to breach a computer,
+they're leaving traces behind.
+
+55:19.577 --> 55:23.537
+Every attack
+has a signature.
+
+55:23.537 --> 55:25.104
+If you look at it long enough,
+
+55:25.104 --> 55:27.454
+if you study it,
+if you work it long enough,
+
+55:27.454 --> 55:29.717
+you can understand
+the way they do things.
+
+55:29.717 --> 55:31.284
+The way they state something,
+
+55:31.284 --> 55:34.461
+the way they code
+a particular way,
+
+55:34.461 --> 55:39.901
+the methodology of the attack,
+the step-by-step approaches.
+
+55:39.901 --> 55:42.904
+It might be considered
+like Sherlock Holmesian
+
+55:42.904 --> 55:44.384
+to come up with this idea.
+
+55:44.384 --> 55:46.778
+"Because he walks
+with a gait this way,
+
+55:46.778 --> 55:48.954
+and he does this..."
+But it is true.
+
+55:48.954 --> 55:53.262
+We see those signatures.
+We see those patterns.
+
+55:54.220 --> 55:56.004
+What we discovered was,
+
+55:56.004 --> 55:59.443
+by looking at the artefacts
+that these attackers had used,
+
+55:59.443 --> 56:01.880
+the malicious binaries
+they had used,
+
+56:01.880 --> 56:03.185
+the code inside of it,
+
+56:03.185 --> 56:05.753
+as well as the email accounts
+that they used
+
+56:05.753 --> 56:07.929
+to send the initial
+spear-phishing messages,
+
+56:07.929 --> 56:12.499
+we were able to map this back
+to an attacker back in 2014.
+
+56:15.415 --> 56:18.505
+Sony Pictures is mainly housed
+in Culver City.
+
+56:18.505 --> 56:20.507
+And in 2014,
+
+56:20.507 --> 56:24.598
+Sony Pictures went down,
+which was unheard of.
+
+56:24.598 --> 56:26.078
+On that day in November,
+
+56:26.078 --> 56:28.559
+people would have come in,
+tried to swipe their badge
+
+56:28.559 --> 56:30.778
+and not even be able
+to get into the office.
+
+56:30.778 --> 56:32.780
+They get
+into the building finally
+
+56:32.780 --> 56:35.957
+and then they discover that
+nothing else is working either.
+
+56:35.957 --> 56:40.005
+Printers aren't working,
+computers aren't working.
+
+56:40.005 --> 56:43.225
+People who had laptops
+connected to the network
+
+56:43.225 --> 56:44.966
+would have immediately seen
+
+56:44.966 --> 56:47.926
+skulls and crossbones
+show up on their screens,
+
+56:47.926 --> 56:51.016
+scrolling with scary
+<i>Halloween</i>-type music
+
+56:51.016 --> 56:52.496
+playing in the background.
+
+56:52.496 --> 56:55.716
+And it said,
+"Hacked by the GOP."
+
+56:55.716 --> 56:58.980
+Guardians of the Peace.
+
+56:58.980 --> 57:02.027
+A mysterious crew of hackers,
+
+57:02.027 --> 57:05.987
+also known as the Lazarus Group.
+
+57:05.987 --> 57:08.120
+We'd call them
+the Lazarus Group.
+
+57:08.120 --> 57:09.251
+They've been responsible
+
+57:09.251 --> 57:11.123
+for many, many attacks
+over the years.
+
+57:11.123 --> 57:13.342
+You know, political statements
+
+57:13.342 --> 57:15.954
+and bringing down some
+websites in South Korea
+
+57:15.954 --> 57:20.306
+and also the White House in the
+United States and the Pentagon.
+
+57:20.306 --> 57:23.875
+Now, at this point,
+the penny has dropped.
+
+57:23.875 --> 57:26.007
+Sony has been hacked.
+
+57:26.007 --> 57:28.662
+The hack attack
+has had a devastating effect
+
+57:28.662 --> 57:31.491
+on the entertainment company,
+with an avalanche of leaks
+
+57:31.491 --> 57:34.189
+revealing personal information
+of employees
+
+57:34.189 --> 57:37.497
+and salacious email exchanges
+of A-list celebrities.
+
+57:37.497 --> 57:40.500
+They ultimately compromised
+Sony Pictures Network,
+
+57:40.500 --> 57:43.851
+got inside
+and wiped 10,000 computers.
+
+57:43.851 --> 57:45.592
+On top of that,
+they actually stole
+
+57:45.592 --> 57:48.682
+all kinds of documents
+and emails from Sony Pictures.
+
+57:48.682 --> 57:50.815
+The hack
+on Sony Pictures
+
+57:50.815 --> 57:53.382
+is rocking Hollywood's
+very foundation;
+
+57:53.382 --> 57:56.037
+the industry,
+warts and all, exposed.
+
+57:56.037 --> 57:59.258
+Initially, we had no link
+between the SWIFT attack
+
+57:59.258 --> 58:01.956
+and the Sony Pictures attack.
+
+58:01.956 --> 58:04.481
+But when we were looking
+at the malware,
+
+58:04.481 --> 58:06.395
+we found an interesting detail.
+
+58:06.395 --> 58:09.573
+There was a component
+called an indexing manager,
+
+58:09.573 --> 58:13.011
+which was saving the logs
+during the SWIFT attack
+
+58:13.011 --> 58:15.492
+into an encrypted file.
+
+58:15.492 --> 58:18.538
+The file was encrypted
+with a really long key,
+
+58:18.538 --> 58:22.063
+and when we just
+googled for the key,
+
+58:22.063 --> 58:25.284
+we found that the same key, exactly,
+
+58:25.284 --> 58:30.594
+was used 18 months earlier
+in the Sony Pictures attack.
+
+58:31.769 --> 58:34.119
+This was
+the moment we realised
+
+58:34.119 --> 58:36.077
+the Bangladeshi SWIFT attack
+
+58:36.077 --> 58:39.733
+was probably perpetrated
+by the Lazarus Group.
+
+58:40.691 --> 58:42.301
+So, who is Lazarus?
+
+58:42.301 --> 58:43.781
+Well, from what we know,
+
+58:43.781 --> 58:46.740
+they're a trans-global
+criminal organisation
+
+58:46.740 --> 58:51.571
+that's been trained
+at a nation-state level.
+
+58:51.571 --> 58:55.444
+The nation states really started
+coming in on a criminal side...
+
+58:57.055 --> 58:59.231
+when sanctions started.
+
+58:59.231 --> 59:02.277
+When we start limiting
+the capability of a nation
+
+59:02.277 --> 59:05.411
+to get cash, and we up
+the methodology
+
+59:05.411 --> 59:07.979
+to monitor
+the way they're getting cash,
+
+59:07.979 --> 59:11.025
+they turn to different approaches.
+
+59:11.025 --> 59:13.898
+So if you're a country
+that's under sanction
+
+59:13.898 --> 59:17.162
+and your ability to get funds
+has been compromised,
+
+59:17.162 --> 59:20.121
+you may be motivated to
+go to the Lazarus Group
+
+59:20.121 --> 59:23.429
+to fix your problem.
+
+59:23.429 --> 59:25.649
+It's like a job for them.
+It <i>is</i> a job for them.
+
+59:25.649 --> 59:27.694
+They get recruited.
+It's a nine-to-five job.
+
+59:27.694 --> 59:30.958
+They come in, and each
+of them has their specialties.
+
+59:30.958 --> 59:32.351
+They have managers,
+
+59:32.351 --> 59:35.223
+they have targets that
+they're told to go after.
+
+59:35.223 --> 59:37.356
+When you talk about
+nation states,
+
+59:37.356 --> 59:39.619
+obviously,
+for your average nation state,
+
+59:39.619 --> 59:42.927
+most cyber offensive campaigns
+are under the military.
+
+59:42.927 --> 59:45.712
+It's very similar to how
+a military organisation
+
+59:45.712 --> 59:49.020
+would be organised for their
+cyber offensive campaigns.
+
+59:49.020 --> 59:51.457
+There is a hotel,
+for example, in China
+
+59:51.457 --> 59:53.590
+where they've taken over
+multiple floors
+
+59:53.590 --> 59:55.635
+where they essentially
+have dormitories.
+
+59:55.635 --> 59:59.073
+They go to sleep in that hotel,
+they eat in that hotel,
+
+59:59.073 --> 01:00:01.423
+and they don't come
+out of that hotel.
+
+01:00:01.423 --> 01:00:04.078
+They just move from
+one room to another,
+
+01:00:04.078 --> 01:00:05.863
+hack all day and night.
+
+01:00:08.039 --> 01:00:10.650
+And the Lazarus Group
+is thought to be made up
+
+01:00:10.650 --> 01:00:13.392
+of these state-trained hackers.
+
+01:00:18.745 --> 01:00:21.226
+What's amazing about cyber,
+
+01:00:21.226 --> 01:00:23.794
+when you talk about
+nation states,
+
+01:00:23.794 --> 01:00:27.319
+is the cost to entry
+is extremely low.
+
+01:00:27.319 --> 01:00:29.713
+We have nation states
+who have been
+
+01:00:29.713 --> 01:00:33.194
+trying to create
+nuclear missiles,
+
+01:00:33.194 --> 01:00:35.066
+tried to create
+a nuclear programme.
+
+01:00:35.066 --> 01:00:36.981
+Places like Iran, for example.
+
+01:00:36.981 --> 01:00:41.507
+The dollars it costs to do so,
+it's extraordinary.
+
+01:00:41.507 --> 01:00:44.684
+But if you want to build
+a cyber offensive campaign,
+
+01:00:44.684 --> 01:00:46.991
+you get two, three,
+four, five guys
+
+01:00:46.991 --> 01:00:50.472
+and potentially threaten
+to disable the power grid
+
+01:00:50.472 --> 01:00:52.039
+in some country.
+
+01:00:52.039 --> 01:00:54.476
+When you talk about
+trying to rob a bank
+
+01:00:54.476 --> 01:00:57.175
+or produce illicit drugs
+and sell them,
+
+01:00:57.175 --> 01:00:59.830
+the amount of people
+required on the ground,
+
+01:00:59.830 --> 01:01:01.266
+the amount of connections,
+
+01:01:01.266 --> 01:01:03.442
+and for the dollars
+that you would receive,
+
+01:01:03.442 --> 01:01:04.922
+is nothing compared to,
+
+01:01:04.922 --> 01:01:07.446
+"Let's get three guys,
+break into a bank
+
+01:01:07.446 --> 01:01:10.667
+and potentially
+transfer $1 billion."
+
+01:01:16.063 --> 01:01:20.502
+Back in the VIP room
+of the Solaire Casino in Manila,
+
+01:01:20.502 --> 01:01:24.942
+the money-laundering operation
+is in full flight.
+
+01:01:26.683 --> 01:01:29.729
+They just spend hours
+upon hours gambling away,
+
+01:01:29.729 --> 01:01:31.296
+collecting chips.
+
+01:01:31.296 --> 01:01:33.733
+They transfer those chips
+back into cold, hard currency.
+
+01:01:33.733 --> 01:01:36.693
+You put a hundred
+gamblers into the VIP lounge
+
+01:01:36.693 --> 01:01:40.784
+playing cash, so maybe the house
+has a one or two percent margin.
+
+01:01:40.784 --> 01:01:43.743
+But all the rest is untraceable
+money that they walk out with.
+
+01:01:43.743 --> 01:01:46.006
+What's interesting
+about these individuals,
+
+01:01:46.006 --> 01:01:47.704
+they weren't interested
+in winning.
+
+01:01:47.704 --> 01:01:50.184
+They were just interested
+in playing.
+
+01:01:50.184 --> 01:01:51.620
+If you lose the money,
+
+01:01:51.620 --> 01:01:53.405
+the money doesn't go
+to the casino,
+
+01:01:53.405 --> 01:01:54.928
+it goes to the other players.
+
+01:01:54.928 --> 01:01:58.410
+So you can play the table
+where the other players are,
+
+01:01:58.410 --> 01:01:59.846
+your partners.
+
+01:01:59.846 --> 01:02:02.196
+Then you can lose
+the dirty money on purpose,
+
+01:02:02.196 --> 01:02:04.024
+moving the money
+to your partners.
+
+01:02:04.024 --> 01:02:05.678
+Now it's cashed out.
+
+01:02:05.678 --> 01:02:09.073
+Now it looks like it came from a
+great win in a poker tournament
+
+01:02:09.073 --> 01:02:11.640
+instead of being stolen
+from somewhere.
+
+01:02:11.640 --> 01:02:14.513
+So, casinos are a good way
+of laundering money.
+
+01:02:14.513 --> 01:02:17.342
+Real-world criminals have
+done that for decades.
+
+01:02:17.342 --> 01:02:20.606
+Online criminals
+are doing it today.
+
+01:02:20.606 --> 01:02:23.740
+They played for a whole week,
+that whole lunar week,
+
+01:02:23.740 --> 01:02:25.698
+every day, like workers,
+
+01:02:25.698 --> 01:02:28.309
+nine to five, essentially,
+in that casino.
+
+01:02:33.358 --> 01:02:36.361
+Finally, the Chinese
+New Year celebrations
+
+01:02:36.361 --> 01:02:37.884
+have come to an end.
+
+01:02:37.884 --> 01:02:42.280
+The staff at the RCBC bank
+in Manila are back at work.
+
+01:02:44.369 --> 01:02:47.328
+Now, the Bangladesh Bank
+is still desperately trying
+
+01:02:47.328 --> 01:02:49.417
+to put a stop
+on any further withdrawals
+
+01:02:49.417 --> 01:02:52.159
+from those accounts
+in the Bank of the Philippines.
+
+01:02:52.159 --> 01:02:54.509
+They've lost
+$22 million already,
+
+01:02:54.509 --> 01:02:58.818
+but there's still $59 million
+left that they can save.
+
+01:02:58.818 --> 01:03:01.865
+They're firing message
+after message to Manila,
+
+01:03:01.865 --> 01:03:04.737
+"Hold all transactions."
+
+01:03:04.737 --> 01:03:07.087
+In the Philippines,
+they got those messages.
+
+01:03:07.087 --> 01:03:08.567
+They got those messages
+
+01:03:08.567 --> 01:03:10.830
+as part of many other
+transaction messages they got
+
+01:03:10.830 --> 01:03:12.701
+that were sitting in
+a printer queue
+
+01:03:12.701 --> 01:03:14.051
+at the bottom of the stack,
+
+01:03:14.051 --> 01:03:16.357
+and ultimately, they never
+saw those messages.
+
+01:03:16.357 --> 01:03:20.797
+At this point, the fence
+gets in touch with the manager
+
+01:03:20.797 --> 01:03:22.799
+of the bank in Jupiter Street.
+
+01:03:22.799 --> 01:03:26.672
+"Can you please authorise
+the transfer of $59 million?"
+
+01:03:26.672 --> 01:03:29.849
+She authorises that $59 million.
+
+01:03:29.849 --> 01:03:34.114
+It goes straight
+to the Solaire Casino.
+
+01:03:34.114 --> 01:03:36.029
+More money laundering.
+
+01:03:37.901 --> 01:03:39.424
+Five hours later,
+
+01:03:39.424 --> 01:03:44.037
+after increasingly urgent calls
+from the Bangladesh Bank,
+
+01:03:44.037 --> 01:03:50.000
+the manager finally puts a block
+on all of the accounts.
+
+01:03:50.000 --> 01:03:52.829
+But, really, it's too late.
+
+01:03:52.829 --> 01:03:54.831
+The money's gone.
+
+01:03:59.139 --> 01:04:02.273
+It's incredible when you think
+what the Lazarus Group
+
+01:04:02.273 --> 01:04:05.885
+was able to pull off with
+just some ones and zeros.
+
+01:04:05.885 --> 01:04:07.756
+They guide their bespoke malware
+
+01:04:07.756 --> 01:04:10.020
+into the computer network
+of a bank,
+
+01:04:10.020 --> 01:04:11.717
+and then a year later,
+
+01:04:11.717 --> 01:04:15.025
+they're literally washing
+$100 million
+
+01:04:15.025 --> 01:04:17.331
+through a casino
+in the Philippines.
+
+01:04:17.331 --> 01:04:19.856
+It's astonishing.
+
+01:04:19.856 --> 01:04:22.336
+But what's really, really scary
+
+01:04:22.336 --> 01:04:25.687
+is what happened
+just a year later.
+
+01:04:27.428 --> 01:04:29.561
+Now back to
+the major cyber-attack,
+
+01:04:29.561 --> 01:04:34.087
+the ransomware crippling 200,000
+computers in 150 countries.
+
+01:04:34.087 --> 01:04:37.699
+The thousands of targets all
+received this ominous message
+
+01:04:37.699 --> 01:04:39.745
+in English on their screens:
+
+01:04:49.276 --> 01:04:54.151
+Everyone was basically locked up
+with this malware
+
+01:04:54.151 --> 01:04:58.329
+that we discovered had been
+launched by the same attackers
+
+01:04:58.329 --> 01:05:01.158
+as the Central Bank
+of Bangladesh.
+
+01:05:01.158 --> 01:05:03.377
+So they design this malware,
+
+01:05:03.377 --> 01:05:05.989
+and then they lose
+control of it entirely.
+
+01:05:05.989 --> 01:05:08.121
+And that caused chaos.
+
+01:05:08.121 --> 01:05:11.385
+Ambulances were
+diverted to other hospitals.
+
+01:05:11.385 --> 01:05:14.823
+Patients were turned away,
+their operations cancelled.
+
+01:05:14.823 --> 01:05:17.696
+You know,
+the first sign that something
+
+01:05:17.696 --> 01:05:21.961
+was seriously wrong was when
+hospitals in the United Kingdom
+
+01:05:21.961 --> 01:05:24.529
+started telling patients,
+"Don't come."
+
+01:05:24.529 --> 01:05:28.533
+That their systems had been
+locked up with ransomware.
+
+01:05:28.533 --> 01:05:33.625
+It's unclear if it was
+accidentally released too early,
+
+01:05:33.625 --> 01:05:35.018
+it appears so,
+
+01:05:35.018 --> 01:05:37.890
+or if it was
+designed not to work
+
+01:05:37.890 --> 01:05:41.241
+and just begin wiping computers,
+because it didn't matter.
+
+01:05:41.241 --> 01:05:44.157
+Even if you paid them, you would
+not get the decryption key.
+
+01:05:44.157 --> 01:05:45.985
+They didn't have
+the decryption key.
+
+01:05:45.985 --> 01:05:48.118
+They couldn't decrypt your files anymore.
+
+01:05:48.118 --> 01:05:50.816
+Japan, Turkey
+and the Philippines
+
+01:05:50.816 --> 01:05:54.733
+were also affected.
+In the US, FedEx was hit.
+
+01:05:54.733 --> 01:05:59.694
+That virulent virus
+spiralled out of control.
+
+01:05:59.694 --> 01:06:04.047
+In Germany, it attacked the
+network of the Deutsche Bahn,
+
+01:06:04.047 --> 01:06:05.439
+German Railway.
+
+01:06:05.439 --> 01:06:09.400
+In Spain,
+WannaCry hit Telefonica,
+
+01:06:09.400 --> 01:06:12.359
+the biggest telecommunications company.
+
+01:06:12.359 --> 01:06:16.537
+It hit the banking systems,
+and ATMs didn't work.
+
+01:06:16.537 --> 01:06:21.847
+This thing was hitting companies
+in something like 150 countries.
+
+01:06:21.847 --> 01:06:23.588
+Other targets in the US
+
+01:06:23.588 --> 01:06:26.025
+include Merck Pharmaceutical
+in New Jersey.
+
+01:06:26.025 --> 01:06:28.810
+Even the company that makes
+Oreo cookies may have been hit.
+
+01:06:28.810 --> 01:06:32.945
+So, you had the health
+service, you had transport,
+
+01:06:32.945 --> 01:06:36.470
+you had communications,
+you had the finance system,
+
+01:06:36.470 --> 01:06:37.906
+and you had governance
+
+01:06:37.906 --> 01:06:42.824
+all with one tiny piece
+of crappy malware, WannaCry.
+
+01:06:42.824 --> 01:06:44.130
+In other attacks,
+
+01:06:44.130 --> 01:06:46.002
+they have to send you
+a spear-phishing email,
+
+01:06:46.002 --> 01:06:48.047
+trick you into double-clicking
+on an attachment.
+
+01:06:48.047 --> 01:06:50.180
+In this case, your computer
+just had to be on,
+
+01:06:50.180 --> 01:06:51.485
+connected to the internet,
+
+01:06:51.485 --> 01:06:54.053
+and it would have got infected
+by WannaCry.
+
+01:06:54.053 --> 01:06:57.274
+It succeeded because
+the crappy malware
+
+01:06:57.274 --> 01:07:00.407
+was being infiltrated
+into the systems
+
+01:07:00.407 --> 01:07:03.193
+on the back
+of a much more powerful tool
+
+01:07:03.193 --> 01:07:04.803
+called EternalBlue,
+
+01:07:04.803 --> 01:07:08.459
+which had been developed by
+the National Security Agency
+
+01:07:08.459 --> 01:07:10.417
+in the United States.
+
+01:07:10.417 --> 01:07:12.637
+The thing the NSA
+never wanted to talk about
+
+01:07:12.637 --> 01:07:15.640
+was the fact that it was
+travelling on a digital missile
+
+01:07:15.640 --> 01:07:19.426
+that had been built
+at its own intelligence agency.
+
+01:07:19.426 --> 01:07:22.560
+They repurposed something
+created by the US government,
+
+01:07:22.560 --> 01:07:24.170
+leaked
+by the Russian government,
+
+01:07:24.170 --> 01:07:26.825
+put it into their ransomware
+that allowed it to spread
+
+01:07:26.825 --> 01:07:30.742
+all over the world,
+any computer on at that time.
+
+01:07:30.742 --> 01:07:34.006
+So one crappy piece
+of malware
+
+01:07:34.006 --> 01:07:36.878
+can hit every single aspect
+
+01:07:36.878 --> 01:07:39.142
+of the critical national infrastructure
+
+01:07:39.142 --> 01:07:42.971
+within the space
+of about ten days
+
+01:07:42.971 --> 01:07:44.886
+in different countries.
+
+01:07:57.508 --> 01:08:00.728
+Eventually, there's a court case
+after about a month.
+
+01:08:00.728 --> 01:08:03.601
+There's a court case in Manila.
+
+01:08:03.601 --> 01:08:06.908
+Ultimately, the bank manager
+didn't want anyone to find out.
+
+01:08:06.908 --> 01:08:08.388
+But when he finally got in touch
+
+01:08:08.388 --> 01:08:10.825
+with the Bank
+of the Philippines, they said,
+
+01:08:10.825 --> 01:08:12.827
+"If you need this money returned,
+
+01:08:12.827 --> 01:08:15.700
+you need to get a court order."
+So he files a court order,
+
+01:08:15.700 --> 01:08:18.006
+but court orders are public
+in the Philippines,
+
+01:08:18.006 --> 01:08:19.573
+like in many other countries.
+
+01:08:19.573 --> 01:08:22.576
+A reporter spots it and realised
+that this has happened,
+
+01:08:22.576 --> 01:08:25.101
+publishes it in a newspaper,
+and it all comes out.
+
+01:08:25.101 --> 01:08:28.016
+The $81 million
+money-laundering scandal
+
+01:08:28.016 --> 01:08:31.672
+is now considered one of
+the biggest bank heists in Asia.
+
+01:08:31.672 --> 01:08:33.805
+But how exactly
+did thieves steal
+
+01:08:33.805 --> 01:08:35.981
+such a huge amount of money?
+
+01:08:35.981 --> 01:08:37.461
+Not just known
+in the Philippines
+
+01:08:37.461 --> 01:08:38.679
+and the Bank of Bangladesh,
+
+01:08:38.679 --> 01:08:40.377
+when the Bangladesh
+government finds out
+
+01:08:40.377 --> 01:08:42.901
+the bank manager has been
+doing this behind the scenes,
+
+01:08:42.901 --> 01:08:44.337
+but the whole world finds out.
+
+01:08:44.337 --> 01:08:46.774
+And ultimately,
+the Bangladesh Bank
+
+01:08:46.774 --> 01:08:48.863
+needs to get assistance
+from the FBI.
+
+01:08:48.863 --> 01:08:52.171
+The New York Fed is involved.
+The United States is involved.
+
+01:08:52.171 --> 01:08:54.304
+This becomes
+a whole worldwide issue
+
+01:08:54.304 --> 01:08:57.220
+and begins to ripple across
+the financial industry
+
+01:08:57.220 --> 01:08:58.743
+that this was even possible.
+
+01:08:58.743 --> 01:09:00.527
+Experts believe that hackers
+
+01:09:00.527 --> 01:09:04.183
+were able to break into the
+New York Federal Reserve's
+
+01:09:04.183 --> 01:09:06.403
+special account for Bangladesh,
+
+01:09:06.403 --> 01:09:09.754
+getting away with $81 million.
+
+01:09:09.754 --> 01:09:13.236
+Now, Bangladesh's Central Bank
+governor, Atiur Rahman,
+
+01:09:13.236 --> 01:09:16.935
+has resigned after hackers stole
+tens of millions of dollars
+
+01:09:16.935 --> 01:09:19.198
+from the nation's
+foreign reserves.
+
+01:09:19.198 --> 01:09:23.159
+The bank was criticised for
+its handling of the breach...
+
+01:09:23.159 --> 01:09:26.162
+The governor was
+an excellent central banker.
+
+01:09:26.162 --> 01:09:27.902
+I have a lot of respect for him.
+
+01:09:27.902 --> 01:09:32.298
+He was deemed one of the top
+bankers by the Asia <i>MoneyWeek.</i>
+
+01:09:32.298 --> 01:09:34.126
+And poor fellow, that time,
+
+01:09:34.126 --> 01:09:36.737
+he was faced with
+this sort of scenario
+
+01:09:36.737 --> 01:09:39.827
+which he honestly
+didn't understand.
+
+01:09:39.827 --> 01:09:42.787
+He had really pushed
+the financial system
+
+01:09:42.787 --> 01:09:45.529
+in Bangladesh into
+the 21st century.
+
+01:09:45.529 --> 01:09:48.575
+He had to essentially fall
+on his sword and resign
+
+01:09:48.575 --> 01:09:51.404
+in disgrace,
+and his career was ruined.
+
+01:09:51.404 --> 01:09:54.190
+Many others at the bank
+had to resign as well.
+
+01:09:54.190 --> 01:09:57.758
+An emotional Maia Deguito,
+the manager of the RCBC branch
+
+01:09:57.758 --> 01:10:01.153
+in Jupiter Street in Makati,
+insists she is innocent
+
+01:10:01.153 --> 01:10:02.763
+in the face of accusations
+
+01:10:02.763 --> 01:10:05.636
+she is involved in the
+money-laundering scheme.
+
+01:10:05.636 --> 01:10:08.247
+So far, only the branch manager
+
+01:10:08.247 --> 01:10:11.468
+has been charged by the
+Anti-Money Laundering Council.
+
+01:10:11.468 --> 01:10:14.384
+One of the great
+injustices of this whole scandal
+
+01:10:14.384 --> 01:10:17.343
+is that the only person who
+got convicted of anything
+
+01:10:17.343 --> 01:10:18.953
+was Maia Deguito,
+
+01:10:18.953 --> 01:10:22.696
+and she was just the mid-level
+branch manager of the RCBC,
+
+01:10:22.696 --> 01:10:26.874
+the bank in the Philippines
+that received the actual funds.
+
+01:10:26.874 --> 01:10:28.180
+Typical, isn't it?
+
+01:10:28.180 --> 01:10:30.965
+A crime that was conceived
+and carried out
+
+01:10:30.965 --> 01:10:32.402
+by a whole bunch of men,
+
+01:10:32.402 --> 01:10:35.535
+and the only person who
+gets done for it is a woman
+
+01:10:35.535 --> 01:10:38.538
+who probably wasn't that
+guilty in the first place.
+
+01:10:38.538 --> 01:10:41.802
+But she received a sentence
+of 56 years in jail
+
+01:10:41.802 --> 01:10:44.979
+and a fine of $109 million,
+
+01:10:44.979 --> 01:10:49.506
+which is significantly more
+than the thieves actually stole.
+
+01:10:50.985 --> 01:10:52.291
+To my mind,
+
+01:10:52.291 --> 01:10:54.424
+there's no question
+that she was a scapegoat.
+
+01:10:54.424 --> 01:10:58.297
+I mean, the currency traders
+who turned that $81 million
+
+01:10:58.297 --> 01:11:01.300
+into pesos got off scot-free.
+
+01:11:01.300 --> 01:11:03.737
+There are a couple of
+Chinese operators
+
+01:11:03.737 --> 01:11:06.566
+who brought these gamblers
+in from China.
+
+01:11:06.566 --> 01:11:10.396
+We know that they received tens
+of millions of dollars in cash.
+
+01:11:10.396 --> 01:11:15.314
+They vanished back to Macau.
+No trace of them was ever found.
+
+01:11:15.314 --> 01:11:17.751
+We can't say for sure,
+but certainly it looks like
+
+01:11:17.751 --> 01:11:20.798
+people at the Rizal Bank headquarters
+
+01:11:20.798 --> 01:11:23.888
+buried these requests
+to stop these transactions.
+
+01:11:23.888 --> 01:11:27.239
+But nobody else at the Rizal
+Bank was ever accused.
+
+01:11:27.239 --> 01:11:31.199
+Oddly enough, in this giant
+scheme that involved
+
+01:11:31.199 --> 01:11:34.986
+a half a dozen countries,
+nearly $1 billion,
+
+01:11:34.986 --> 01:11:40.208
+only one bank employee
+in a small branch in Manila
+
+01:11:40.208 --> 01:11:42.646
+was ever convicted of
+doing anything wrong.
+
+01:11:42.646 --> 01:11:46.040
+It's incredible. Total impunity.
+
+01:11:52.395 --> 01:11:54.788
+I think the most
+important lesson
+
+01:11:54.788 --> 01:11:57.878
+of the Bangladesh Bank
+
+01:11:57.878 --> 01:11:59.880
+is a lesson of scale.
+
+01:11:59.880 --> 01:12:01.882
+The internet is
+a fantastic thing.
+
+01:12:01.882 --> 01:12:04.320
+It's made our world
+much, much smaller.
+
+01:12:04.320 --> 01:12:07.061
+You can do all sorts of things.
+It's fantastic.
+
+01:12:07.061 --> 01:12:08.933
+But that interconnectivity,
+
+01:12:08.933 --> 01:12:11.805
+where everything
+is linked to everything else,
+
+01:12:11.805 --> 01:12:15.418
+means that if you get bad actors
+in that system,
+
+01:12:15.418 --> 01:12:17.245
+then the damage
+
+01:12:17.245 --> 01:12:22.076
+is infinitely more immense
+than it was before.
+
+01:12:23.687 --> 01:12:25.993
+When I started this job
+two decades ago,
+
+01:12:25.993 --> 01:12:29.083
+you had to explain to people,
+what is a virus?
+
+01:12:29.083 --> 01:12:31.042
+What is a cyber-attack?
+
+01:12:31.042 --> 01:12:33.392
+Today, we don't talk about
+
+01:12:33.392 --> 01:12:36.439
+making sure this file doesn't
+get deleted any more.
+
+01:12:36.439 --> 01:12:40.573
+We literally talk about making
+sure the supply chain is up,
+
+01:12:40.573 --> 01:12:42.619
+food can reach people's tables.
+
+01:12:42.619 --> 01:12:45.665
+Our job is not just to protect
+people's computers.
+
+01:12:45.665 --> 01:12:49.060
+Our job is to ensure
+society is up and running.
+
+01:12:49.060 --> 01:12:52.063
+Everything
+that we use now,
+
+01:12:52.063 --> 01:12:53.978
+water, electricity,
+
+01:12:53.978 --> 01:12:56.937
+the financial system,
+the comms system,
+
+01:12:56.937 --> 01:12:58.548
+depends on the integrity
+
+01:12:58.548 --> 01:13:03.683
+of unbelievably complex
+networked computer systems.
+
+01:13:03.683 --> 01:13:07.992
+And our dependence
+is becoming such
+
+01:13:07.992 --> 01:13:10.386
+that, should anything go wrong,
+
+01:13:10.386 --> 01:13:13.171
+be it a technical hitch
+or be it a hack,
+
+01:13:13.171 --> 01:13:17.131
+it can actually lead
+to our lives grinding to a halt
+
+01:13:17.131 --> 01:13:19.525
+in a very short space of time.
+
+01:13:20.483 --> 01:13:22.136
+We're sort of in a state
+
+01:13:22.136 --> 01:13:24.617
+where we're increasing
+our vulnerability
+
+01:13:24.617 --> 01:13:27.359
+and our attack surface
+every single day.
+
+01:13:27.359 --> 01:13:29.796
+And instead of pausing
+
+01:13:29.796 --> 01:13:32.799
+and thinking about
+how to lock up our power grid,
+
+01:13:32.799 --> 01:13:37.848
+really, where our energy has
+been focused is on escalation.
+
+01:13:37.848 --> 01:13:41.373
+Countries like the United
+States, China and Russia
+
+01:13:41.373 --> 01:13:44.550
+have already arrogated
+the right to themselves
+
+01:13:44.550 --> 01:13:47.335
+to attack with full force,
+
+01:13:47.335 --> 01:13:50.034
+whether cyber
+or conventional weapons,
+
+01:13:50.034 --> 01:13:51.905
+against anyone who brings down
+
+01:13:51.905 --> 01:13:56.519
+a serious piece of critical
+national infrastructure.
+
+01:13:56.519 --> 01:14:01.480
+We've had Stuxnet blowing
+up the Natanz centrifuge plant.
+
+01:14:01.480 --> 01:14:04.962
+We've had ransomware attacks,
+which hit the Eastern Seaboard.
+
+01:14:04.962 --> 01:14:07.007
+There was no gas
+to the Eastern Seaboard
+
+01:14:07.007 --> 01:14:09.619
+for a whole week
+in the United States.
+
+01:14:09.619 --> 01:14:11.751
+We had Russia
+against the Ukraine,
+
+01:14:11.751 --> 01:14:14.537
+shutting out the power
+in the middle of winter.
+
+01:14:14.537 --> 01:14:17.453
+We're talking about
+people losing their lives.
+
+01:14:17.453 --> 01:14:19.019
+We've also had cyber-attacks
+
+01:14:19.019 --> 01:14:21.413
+that potentially affected
+US elections.
+
+01:14:21.413 --> 01:14:23.763
+We had the healthcare in the UK
+brought down,
+
+01:14:23.763 --> 01:14:25.939
+dialysis machines
+no longer working.
+
+01:14:25.939 --> 01:14:29.421
+This is an extremely
+fragile situation,
+
+01:14:29.421 --> 01:14:33.599
+much more fragile
+than the period of détente,
+
+01:14:33.599 --> 01:14:37.255
+because so many more
+countries have these weapons.
+
+01:14:37.255 --> 01:14:41.389
+Malware is much more difficult
+to control than nuclear weapons.
+
+01:14:41.389 --> 01:14:44.871
+People always warn me
+of the cyber Pearl Harbor
+
+01:14:44.871 --> 01:14:47.091
+or the cyber 9/11,
+
+01:14:47.091 --> 01:14:49.746
+but it's almost worse than that.
+
+01:14:49.746 --> 01:14:53.619
+Every day, there are thousands
+of cyber-attacks,
+
+01:14:53.619 --> 01:14:58.232
+and we're just getting more and
+more and more inured to them.
+
+01:14:59.016 --> 01:15:00.887
+It's like a plague.
+
+01:15:00.887 --> 01:15:05.152
+I think we'll see much
+more hostile cyber activity,
+
+01:15:05.152 --> 01:15:07.851
+much more cyber bank robberies,
+
+01:15:07.851 --> 01:15:09.983
+much more cyber espionage.
+
+01:15:09.983 --> 01:15:13.030
+We'll see much more cyber war.
+
+01:15:13.030 --> 01:15:15.815
+In many ways,
+I think we've seen nothing yet.
+
+01:15:15.815 --> 01:15:19.253
+As attacks increase
+in their sophistication
+
+01:15:19.253 --> 01:15:21.386
+and their range,
+
+01:15:21.386 --> 01:15:25.346
+then the impact
+can be ever greater.
+
+01:15:25.346 --> 01:15:29.873
+There is a cyber-attack on
+critical national infrastructure
+
+01:15:29.873 --> 01:15:31.744
+coming to a place near you
+
+01:15:31.744 --> 01:15:35.269
+within the next
+five to ten years.
+
+01:15:35.269 --> 01:15:38.708
+If it's done well,
+and if it's really malicious,
+
+01:15:38.708 --> 01:15:41.232
+that could be catastrophic.
+
+01:15:43.016 --> 01:15:47.586
+What's amazing about the
+Bank of Bangladesh heist is...
+
+01:15:47.586 --> 01:15:51.285
+they almost walked away
+with $1 billion.
+
+01:15:54.071 --> 01:15:56.203
+The mistakes that they made
+
+01:15:56.203 --> 01:15:59.990
+that led to them only walking
+with $81 million
+
+01:15:59.990 --> 01:16:02.862
+were literally a typo in a name
+
+01:16:02.862 --> 01:16:05.082
+and potentially
+not being patient enough,
+
+01:16:05.082 --> 01:16:06.562
+waiting just one more hour.
+
+01:16:06.562 --> 01:16:09.913
+We could be telling
+a completely different story.
+
+01:16:09.913 --> 01:16:11.828
+Presumably, these guys
+
+01:16:11.828 --> 01:16:15.309
+kept perhaps 95 percent
+of that cash.
+
+01:16:15.309 --> 01:16:16.528
+You could walk out
+
+01:16:16.528 --> 01:16:18.399
+with 95 percent
+of what you came in with,
+
+01:16:18.399 --> 01:16:21.838
+have nobody trace that money,
+no record of it whatsoever,
+
+01:16:21.838 --> 01:16:26.233
+and get on a plane with it,
+and you're home free.
+
+01:16:26.233 --> 01:16:30.760
+Even if you had invested
+a year's work,
+
+01:16:30.760 --> 01:16:35.460
+that you had recruited
+a really decent set of hackers,
+
+01:16:35.460 --> 01:16:39.899
+that you had corrupted
+bank officials,
+
+01:16:39.899 --> 01:16:43.947
+you'll be looking at a profit
+of about $75 million.
+
+01:16:43.947 --> 01:16:47.037
+For a year's work,
+not a bad pay-off.
+
+01:16:49.126 --> 01:16:52.999
+The Bank of Bangladesh heist
+showed them what was possible.
+
+01:16:54.392 --> 01:16:56.742
+They proved that
+they could do it.
+
+01:17:01.617 --> 01:17:03.662
+After that attack,
+it didn't stop.
+
+01:17:03.662 --> 01:17:07.840
+We saw continued attacks
+on various banks across Asia,
+
+01:17:07.840 --> 01:17:10.451
+I think in
+the Philippines again.
+
+01:17:10.451 --> 01:17:14.673
+And also, they started hacking
+the cryptocurrency exchanges,
+
+01:17:14.673 --> 01:17:18.546
+where people store their Bitcoin
+and Monero digital currency,
+
+01:17:18.546 --> 01:17:21.724
+which has proved to be
+incredibly lucrative for them.
+
+01:17:23.726 --> 01:17:25.684
+In 2017,
+Lazarus was thought
+
+01:17:25.684 --> 01:17:27.338
+to have successfully attacked
+
+01:17:27.338 --> 01:17:31.995
+at least five Asian
+cryptocurrency exchanges.
+
+01:17:31.995 --> 01:17:37.827
+That's a total of
+$571 million that was lost.
+
+01:17:37.827 --> 01:17:41.134
+Cryptocurrency exchanges
+just have the bare minimum
+
+01:17:41.134 --> 01:17:43.659
+of security, we're learning now.
+
+01:17:43.659 --> 01:17:46.923
+In 2020, as the global
+pandemic spiralled,
+
+01:17:46.923 --> 01:17:50.143
+AstraZeneca, makers of
+one of the key vaccines,
+
+01:17:50.143 --> 01:17:53.538
+was hit by an attack,
+extorting the company
+
+01:17:53.538 --> 01:17:56.846
+and stealing sensitive
+information for profit.
+
+01:17:58.064 --> 01:18:00.632
+The sums involved
+are astronomical,
+
+01:18:00.632 --> 01:18:03.940
+and Lazarus is still
+very much at large.
+
+01:18:06.246 --> 01:18:11.774
+They have been designated
+by the United States an APT;
+
+01:18:11.774 --> 01:18:13.863
+that's an
+advanced persistent threat.
+
+01:18:13.863 --> 01:18:16.692
+Now, the fundamental criteria
+
+01:18:16.692 --> 01:18:20.478
+is that they represent a threat
+
+01:18:20.478 --> 01:18:24.612
+to US national security
+and national infrastructure.
+
+01:18:24.612 --> 01:18:28.486
+So, just by dint of it
+being called an APT
+
+01:18:28.486 --> 01:18:33.404
+means that the Lazarus Group
+is serious stuff.
+
+01:18:33.404 --> 01:18:35.623
+Marvel fans,
+think HYDRA.
+
+01:18:35.623 --> 01:18:38.801
+James Bond films,
+think of SPECTRE.
+
+01:18:38.801 --> 01:18:40.237
+It's something like that.
+
+01:18:43.762 --> 01:18:47.635
+Now, it's tempting to
+think this comparison is absurd,
+
+01:18:47.635 --> 01:18:51.074
+but this is the scale
+that Lazarus operates on.
+
+01:18:51.074 --> 01:18:54.294
+Arguably, they're the most
+potent cyber criminals
+
+01:18:54.294 --> 01:18:56.427
+in business today.
+
+01:18:56.427 --> 01:19:00.300
+So the nation state's
+involvement in cybercrime
+
+01:19:00.300 --> 01:19:02.955
+means that cybercrime
+has actually morphed
+
+01:19:02.955 --> 01:19:05.653
+into cyber warfare.
+
+01:19:05.653 --> 01:19:08.613
+You can have zero trust
+in these systems.
+
+01:19:08.613 --> 01:19:12.095
+You need to assume that
+everything has been broken,
+
+01:19:12.095 --> 01:19:14.010
+everything is being listened to,
+
+01:19:14.010 --> 01:19:17.274
+that everything can be captured,
+and operate accordingly.
+
+01:19:19.580 --> 01:19:22.453
+If a small group
+can plan something
+
+01:19:22.453 --> 01:19:25.499
+and get away with $81 million,
+
+01:19:25.499 --> 01:19:27.937
+which involved
+the Fed in New York,
+
+01:19:27.937 --> 01:19:29.765
+SWIFT in Brussels,
+
+01:19:29.765 --> 01:19:32.550
+the Bangladeshi Bank in Dhaka,
+
+01:19:32.550 --> 01:19:36.032
+and then all the peripherals
+in Manila,
+
+01:19:36.032 --> 01:19:40.427
+just think about what one of the
+really professional operations
+
+01:19:40.427 --> 01:19:42.560
+in China, Russia,
+
+01:19:42.560 --> 01:19:44.518
+the NSA, GCHQ,
+
+01:19:44.518 --> 01:19:48.871
+just think what havoc
+they could wreak.
+
+01:19:48.871 --> 01:19:52.613
+And every year, the hacks get
+bigger, the damage greater,
+
+01:19:52.613 --> 01:19:54.702
+the implications graver.
+
+01:19:56.139 --> 01:20:00.447
+Armies literally have hackers
+hammering at the gates.
+
+01:20:00.447 --> 01:20:02.710
+And it just takes
+a simple breach,
+
+01:20:02.710 --> 01:20:05.583
+one person, one weak link,
+
+01:20:05.583 --> 01:20:08.238
+and those armies
+will storm the defences
+
+01:20:08.238 --> 01:20:12.851
+and bring down a network
+that our way of life depends on.
+
+01:20:12.851 --> 01:20:15.593
+It happened in Bangladesh
+in 2016.
+
+01:20:15.593 --> 01:20:21.033
+And believe you me, it's going
+to happen again very soon.
+
+01:21:14.957 --> 01:21:17.916
+Iyuno
