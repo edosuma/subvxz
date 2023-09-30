@@ -29,12 +29,12 @@ fldr = str(scr_loc) + "\\sub\\"
 def parse_vtt(did):
     try:
         headers = {
-        'Host': 'dokicloud.one',
+        'Host': 'rabbitstream.net',
         'User-Agent': ua,
-        'Referer': 'https://dokicloud.one/embed-4/' + did + '?z=',
+        'Referer': 'https://rabbitstream.net/embed-4/' + did + '?z=',
         'X-Requested-With': 'XMLHttpRequest'
         }
-        urx = 'https://dokicloud.one/ajax/embed-4/getSources?id='
+        urx = 'https://rabbitstream.net/ajax/embed-4/getSources?id='
         req = requests.get(urx + did, headers=headers)
         if req.status_code != 200 or 'captions' not in req.text:
             return
